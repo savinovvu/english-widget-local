@@ -15,9 +15,6 @@ fun main(args: Array<String>) {
         val pdfText = extractTextFromPdf(pdfPath)
         println("✅ Текст извлечен (${pdfText.length} символов)")
 
-        // Для отладки: выводим текст
-        println("\n=== ТЕКСТ ИЗ PDF ===\n$pdfText\n=== КОНЕЦ ТЕКСТА ===\n")
-
         val phrases = parsePhrases(pdfText)
         println("📝 Найдено ${phrases.size} фраз")
 
@@ -44,97 +41,67 @@ fun extractTextFromPdf(path: String): String {
 
 fun parsePhrases(text: String): List<Map<String, String>> {
     val result = mutableListOf<Map<String, String>>()
-    val lines = text.lines()
 
-    var i = 0
-    while (i < lines.size) {
-        val line = lines[i].trim()
+    // Разбиваем текст на строки и убираем пустые
+    val lines = text.lines().map { it.trim() }.filter { it.isNotEmpty() }
 
-        // Пропускаем пустые строки и заголовки
-        if (line.isEmpty() || line.startsWith("=") || line.startsWith("#")) {
-            i++
+    var currentPhrase = StringBuilder()
+
+    for (line in lines) {
+        // Пропускаем заголовки
+        if (line.equals("мой персональный словарь", ignoreCase = true) ||
+            line.equals("Покоряй языковые джунгли!", ignoreCase = true) ||
+            line.startsWith("©") ||
+            line.startsWith("http")) {
             continue
         }
 
-        // Пропускаем заголовок словаря
-        if (line.contains("персональный словарь", ignoreCase = true) ||
-            line == "Покоряй языковые джунгли!") {
-            i++
-            continue
-        }
-
-        // Если строка содержит транскрипцию в квадратных скобках
-        if (line.contains('[') && line.contains(']')) {
-            // Пропускаем строки с транскрипцией, они нам не нужны
-            i++
-            continue
-        }
-
-        // Если строка похожа на английскую фразу (начинается с буквы и не содержит русских букв)
-        if (line.matches(Regex("^[a-zA-Z].*")) && !line.matches(Regex(".*[а-яА-Я].*"))) {
-            var engPhrase = line
-            var j = i + 1
-
-            // Собираем многострочную английскую фразу
-            while (j < lines.size) {
-                val nextLine = lines[j].trim()
-                if (nextLine.isEmpty()) {
-                    j++
-                    continue
-                }
-                // Если следующая строка содержит транскрипцию или русские буквы - это конец английской фразы
-                if (nextLine.contains('[') || nextLine.matches(Regex(".*[а-яА-Я].*"))) {
-                    break
-                }
-                // Если следующая строка начинается с английской буквы - продолжаем
-                if (nextLine.matches(Regex("^[a-zA-Z].*"))) {
-                    engPhrase += " " + nextLine
-                    j++
-                } else {
-                    break
-                }
-            }
-
-            // Теперь ищем русский перевод (он может быть через несколько строк после транскрипции)
-            var ruPhrase = ""
-            var k = j
-            while (k < lines.size) {
-                val nextLine = lines[k].trim()
-                if (nextLine.isEmpty()) {
-                    k++
-                    continue
-                }
-                // Если нашли следующую английскую фразу - выходим
-                if (nextLine.matches(Regex("^[a-zA-Z].*")) && !nextLine.contains('[')) {
-                    break
-                }
-                // Если строка содержит русские буквы - это перевод
-                if (nextLine.matches(Regex(".*[а-яА-Я].*"))) {
-                    if (ruPhrase.isEmpty()) {
-                        ruPhrase = nextLine
-                    } else {
-                        ruPhrase += " " + nextLine
-                    }
-                }
-                k++
-            }
-
-            // Очищаем фразы
-            engPhrase = engPhrase.trim().replace(Regex("\\s+"), " ")
-            ruPhrase = ruPhrase.trim().replace(Regex("\\s+"), " ")
-
-            // Проверяем, что фразы не пустые и английская фраза не слишком короткая
-            if (engPhrase.isNotEmpty() && ruPhrase.isNotEmpty() && engPhrase.length > 2) {
-                result.add(mapOf("eng" to engPhrase, "ru" to ruPhrase))
-            }
-
-            i = k
+        // Если строка начинается с номера (1., 2., и т.д.) и у нас есть накопленная фраза
+        if (line.matches(Regex("^\\d+\\s.*")) && currentPhrase.isNotEmpty()) {
+            // Обрабатываем накопленную фразу
+            processPhrase(currentPhrase.toString(), result)
+            currentPhrase.clear()
+            currentPhrase.append(line)
         } else {
-            i++
+            // Добавляем строку к текущей фразе
+            if (currentPhrase.isNotEmpty()) currentPhrase.append(" ")
+            currentPhrase.append(line)
         }
     }
 
+    // Обрабатываем последнюю фразу
+    if (currentPhrase.isNotEmpty()) {
+        processPhrase(currentPhrase.toString(), result)
+    }
+
     return result
+}
+
+fun processPhrase(phrase: String, result: MutableList<Map<String, String>>) {
+    // Ищем открывающую квадратную скобку
+    val openBracket = phrase.indexOf('[')
+    val closeBracket = phrase.indexOf(']')
+
+    if (openBracket != -1 && closeBracket != -1) {
+        // Английская часть (все до открывающей скобки)
+        var eng = phrase.substring(0, openBracket).trim()
+        // Убираем номер в начале (1., 2., и т.д.)
+        eng = eng.replace(Regex("^\\d+\\s+"), "").trim()
+        // Убираем лишние пробелы
+        eng = eng.replace(Regex("\\s+"), " ")
+
+        // Русская часть (все после закрывающей скобки)
+        var ru = phrase.substring(closeBracket + 1).trim()
+        // Убираем лишние пробелы
+        ru = ru.replace(Regex("\\s+"), " ")
+
+        // Убираем возможные остатки транскрипции в русской части
+        ru = ru.replace(Regex("\\[[^\\]]*\\]"), "").trim()
+
+        if (eng.isNotEmpty() && ru.isNotEmpty()) {
+            result.add(mapOf("eng" to eng, "ru" to ru))
+        }
+    }
 }
 
 fun saveToYaml(phrases: List<Map<String, String>>, path: String) {
