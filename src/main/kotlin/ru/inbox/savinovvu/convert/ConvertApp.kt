@@ -3,7 +3,8 @@ package ru.inbox.savinovvu.convert
 import org.apache.pdfbox.pdmodel.PDDocument
 import org.apache.pdfbox.text.PDFTextStripper
 import java.io.File
-import java.io.FileWriter
+import java.io.FileOutputStream
+import java.io.OutputStreamWriter
 
 fun main(args: Array<String>) {
     val pdfPath = args.getOrElse(0) { "/home/skorpion/1.Soft/1.projects/2.myprojects/eng/eng/some/short.pdf" }
@@ -105,11 +106,12 @@ fun processPhrase(phrase: String, result: MutableList<Map<String, String>>) {
 }
 
 fun saveToYaml(phrases: List<Map<String, String>>, path: String) {
-    FileWriter(path).use { writer ->
-        writer.write("words:\n")
+    // Используем OutputStreamWriter с UTF-8 вместо FileWriter
+    OutputStreamWriter(FileOutputStream(path), Charsets.UTF_8).use { writer ->
+        writer.write("app.words:\n")
         phrases.forEach { phrase ->
-            writer.write("  - eng: ${phrase["eng"]}\n")
-            writer.write("    ru: ${phrase["ru"]}\n")
+            writer.write("    - eng: ${phrase["eng"]}\n")
+            writer.write("      ru: ${phrase["ru"]}\n")
         }
     }
 }

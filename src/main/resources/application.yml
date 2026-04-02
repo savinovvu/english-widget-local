@@ -1,5 +1,13 @@
-words:
-  - eng: I urge you to reconsider
-    ru: ? ???????????? ???????? ??? ???????????? ???? ???????
-  - eng: you
-    ru: ??
+app.words:
+    - eng: I urge you to reconsider
+      ru: Я настоятельно призываю вас пересмотреть свое решение
+    - eng: freedom is never voluntarily given by the oppressor
+      ru: свобода никогда не дается угнетателем добровольно
+    - eng: he sawed through a power cable by mistake
+      ru: он по ошибке перепилил кабель питания
+    - eng: his health was gradually ravaged by drink and drugs
+      ru: Его здоровье постепенно разрушалось алкоголем и наркотиками
+    - eng: something akin to panic overwhelmed him
+      ru: что-то похожее на панику охватило его
+    - eng: the ship will unload tomorrow
+      ru: Судно разгрузится завтра
