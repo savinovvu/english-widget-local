@@ -2,11 +2,15 @@ package ru.inbox.savinovvu.eng.service
 
 import org.springframework.stereotype.Component
 import ru.inbox.savinovvu.eng.config.ApplicationProperties
-import java.awt.Dimension
 import java.awt.Font
-import java.awt.GridBagLayout
 import java.awt.GridBagConstraints
-import javax.swing.*
+import java.awt.GridBagLayout
+import java.awt.Toolkit
+import javax.swing.JFrame
+import javax.swing.JLabel
+import javax.swing.SwingConstants
+import javax.swing.SwingUtilities
+import javax.swing.Timer
 
 @Component
 class SwingWindow(
@@ -26,7 +30,17 @@ class SwingWindow(
         title = "Swing Spring Boot App"
         defaultCloseOperation = EXIT_ON_CLOSE
         setSize(1600, 400)
-        setLocationRelativeTo(null)
+
+        // Устанавливаем окно в верхнем правом углу
+        setLocationToTopRight()
+
+        // Добавляем слушатель для сохранения позиции при изменении размера окна
+        addComponentListener(object : java.awt.event.ComponentAdapter() {
+            override fun componentResized(e: java.awt.event.ComponentEvent) {
+                setLocationToTopRight()
+            }
+        })
+
         layout = GridBagLayout()
 
         // Настройка жирного шрифта для английского текста
@@ -59,6 +73,18 @@ class SwingWindow(
         SwingUtilities.invokeLater {
             isVisible = true
         }
+    }
+
+    private fun setLocationToTopRight() {
+        // Способ 1: Использование Toolkit (простой)
+        val screenSize = Toolkit.getDefaultToolkit().screenSize
+        val rightMargin = 20  // Отступ от правого края
+        val topMargin = 20    // Отступ от верхнего края
+        setLocation(screenSize.width - width - rightMargin, topMargin)
+
+        // Альтернативный способ 2: Использование GraphicsEnvironment (учитывает панель задач)
+        // val maxBounds = GraphicsEnvironment.getLocalGraphicsEnvironment().maximumWindowBounds
+        // setLocation(maxBounds.width - width - rightMargin, maxBounds.y + topMargin)
     }
 
     private fun updateRandomWord() {
