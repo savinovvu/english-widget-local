@@ -7,7 +7,7 @@ import java.io.FileOutputStream
 import java.io.OutputStreamWriter
 
 fun main(args: Array<String>) {
-    val pdfPath = args.getOrElse(0) { "/home/skorpion/1.Soft/1.projects/2.myprojects/eng/eng/some/short.pdf" }
+    val pdfPath = args.getOrElse(0) { "/home/skorpion/1.Soft/1.projects/2.myprojects/eng/eng/some/long.pdf" }
     val yamlPath = args.getOrElse(1) { "/home/skorpion/1.Soft/1.projects/2.myprojects/eng/eng/some/output.yml" }
 
     println("📖 Чтение PDF файла: $pdfPath")

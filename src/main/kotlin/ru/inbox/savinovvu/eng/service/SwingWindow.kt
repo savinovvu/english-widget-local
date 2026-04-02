@@ -13,36 +13,34 @@ class SwingWindow(
     private val messsage: ApplicationProperties
 ) : JFrame() {
 
-    private val engLabel = JLabel(messsage.words[0].eng, SwingConstants.CENTER)
-    private val ruLabel = JLabel(messsage.words[0].ru, SwingConstants.CENTER)
+    private val engLabel = JLabel("", SwingConstants.CENTER)
+    private val ruLabel = JLabel("", SwingConstants.CENTER)
 
     init {
         initUI()
         startMessageTimer()
+        updateRandomWord() // Показываем первое слово сразу
     }
 
     private fun initUI() {
         title = "Swing Spring Boot App"
         defaultCloseOperation = EXIT_ON_CLOSE
-        setSize(400, 300)
+        setSize(1600, 400)
         setLocationRelativeTo(null)
         layout = GridBagLayout()
 
         // Настройка жирного шрифта для английского текста
-        engLabel.font = Font("Arial", Font.BOLD, 24)
+        engLabel.font = Font("Arial", Font.BOLD, 50)
 
         // Настройка курсивного шрифта для русского текста
-        ruLabel.font = Font("Arial", Font.ITALIC, 20)
+        ruLabel.font = Font("Arial", Font.ITALIC, 49)
 
         val constraints = GridBagConstraints()
         constraints.gridwidth = GridBagConstraints.REMAINDER
         constraints.fill = GridBagConstraints.HORIZONTAL
 
-        // Добавляем отступы между компонентами
-        val emptyBorder = BorderFactory.createEmptyBorder(10, 0, 10, 0)
-
-        // Добавляем engLabel с отступом снизу
-        constraints.insets = java.awt.Insets(50, 0, 20, 0) // верх, лево, низ, право
+        // Добавляем engLabel с отступом сверху
+        constraints.insets = java.awt.Insets(50, 0, 20, 0)
         add(engLabel, constraints)
 
         // Добавляем пустое пространство (2 пустые строки)
@@ -53,7 +51,7 @@ class SwingWindow(
             add(emptyLabel, constraints)
         }
 
-        // Добавляем ruLabel
+        // Добавляем ruLabel с отступом снизу
         constraints.insets = java.awt.Insets(0, 0, 50, 0)
         add(ruLabel, constraints)
 
@@ -63,26 +61,24 @@ class SwingWindow(
         }
     }
 
+    private fun updateRandomWord() {
+        val randomIndex = (0 until messsage.words.size).random()
+        val selectedWord = messsage.words[randomIndex]
+
+        engLabel.text = selectedWord.eng
+        ruLabel.text = selectedWord.ru
+    }
+
     private fun startMessageTimer() {
         // Используем javax.swing.Timer для обновления UI в EDT
-        var showEnglish = true
-        val timer = Timer(5 * 1000) {
+        val timer = Timer(10 * 1000) { // 10 секунд
             SwingUtilities.invokeLater {
-                if (showEnglish) {
-                    engLabel.text = messsage.words[0].eng
-                    engLabel.font = Font("Arial", Font.BOLD, 30)
-                    ruLabel.text = " "
-                } else {
-                    engLabel.text = " "
-                    ruLabel.text = messsage.words[0].ru
-                    ruLabel.font = Font("Arial", Font.ITALIC, 28)
-                }
-                showEnglish = !showEnglish
+                updateRandomWord()
                 repaint()
             }
         }
         timer.start()
 
-        println("Таймер запущен на 10 секунд")
+        println("Таймер запущен. Новые слова будут появляться каждые 10 секунд")
     }
 }
