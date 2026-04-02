@@ -2,8 +2,18 @@ package ru.inbox.savinovvu.eng.service
 
 import org.springframework.stereotype.Component
 import ru.inbox.savinovvu.eng.config.ApplicationProperties
-import java.awt.*
-import javax.swing.*
+import java.awt.Color
+import java.awt.Font
+import java.awt.GridBagConstraints
+import java.awt.GridBagLayout
+import java.awt.Insets
+import java.awt.Toolkit
+import javax.swing.JFrame
+import javax.swing.JLabel
+import javax.swing.SwingConstants
+import javax.swing.SwingUtilities
+import javax.swing.Timer
+import javax.swing.UIManager
 import javax.swing.plaf.ColorUIResource
 import javax.swing.plaf.metal.DefaultMetalTheme
 import javax.swing.plaf.metal.MetalLookAndFeel
@@ -58,11 +68,11 @@ class SwingWindow(
 
         layout = GridBagLayout()
 
-        engLabel.font = Font("Arial", Font.BOLD, 50)
+        engLabel.font = Font("Arial", Font.BOLD, 60)
         engLabel.foreground = Color.WHITE
 
-        ruLabel.font = Font("Arial", Font.ITALIC, 49)
-        ruLabel.foreground = Color.LIGHT_GRAY
+        ruLabel.font = Font("Arial", Font.ITALIC, 50)
+        ruLabel.foreground = Color(250, 250, 250)
 
         val constraints = GridBagConstraints()
         constraints.gridwidth = GridBagConstraints.REMAINDER
