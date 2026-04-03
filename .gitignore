@@ -38,4 +38,5 @@ out/
 
 ### Kotlin ###
 .kotlin
-.exec
+.exec/
+.old/
