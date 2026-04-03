@@ -20,12 +20,8 @@ repositories {
 }
 
 dependencies {
-    // PDFBox для чтения PDF
     implementation 'org.apache.pdfbox:pdfbox:2.0.29'
-
-    // SnakeYAML для записи YAML
     implementation 'org.yaml:snakeyaml:2.2'
-
     implementation 'org.springframework.boot:spring-boot-starter'
     implementation 'org.jetbrains.kotlin:kotlin-reflect'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
@@ -36,6 +32,21 @@ dependencies {
 kotlin {
     compilerOptions {
         freeCompilerArgs.addAll '-Xjsr305=strict'
+    }
+}
+
+// Явно указываем главный класс для Spring Boot
+springBoot {
+    mainClass.set("ru.inbox.savinovvu.eng.EngApplicationKt")
+}
+
+// Настройка bootJar для создания fat JAR
+tasks.named('bootJar') {
+    mainClass.set("ru.inbox.savinovvu.eng.EngApplicationKt")
+    archiveFileName.set("eng-application.jar")  // имя выходного JAR файла
+    // Убеждаемся, что все зависимости включены
+    layered {
+        enabled = false
     }
 }
 
