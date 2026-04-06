@@ -5332,7 +5332,7 @@ app.words:
       example: Every morning I walk around outside the house to get fresh air
 
     - eng: I walk up and say hi
-      ru: Я подхожу и говорю привет
+      ru: Я подхожу и говорю "привет"
       example: I walk up and say hi to my neighbor whenever I see him
 
     - eng: I walked over to her and gently shook her hand
@@ -6797,710 +6797,1412 @@ app.words:
 
     - eng: It was a boarding school for difficult children
       ru: Это была школа-интернат для трудных детей
+      example: The facility was strict because it was a boarding school for difficult children
+
     - eng: It was a toxin I had never come across before
       ru: Это был токсин, с которым я никогда раньше не сталкивался
+      example: The lab analysis showed it was a toxin I had never come across before in my career
+
     - eng: It was broken into fragments
       ru: Он был разбит на осколки
-    - eng: It was great talking with you, but I’ve got to go.
+      example: The vase fell from the shelf and it was broken into fragments on the floor
+
+    - eng: It was great talking with you, but I've got to go.
       ru: Отлично поговорили, но мне пора.
+      example: It was great talking with you but I have got to go now to catch my train
+
     - eng: It was negotiated by a competent attorney
       ru: Это было согласовано компетентным адвокатом
+      example: The contract was fair because it was negotiated by a competent attorney
+
     - eng: It was not that he didn't love her.
       ru: He то, чтобы он не любил ее.
+      example: It was not that he did not love her but he could not show his feelings
+
     - eng: It was odd that he of all people should appear in this light
       ru: Было странно, что именно он из всех людей предстал в таком свете
+      example: It was odd that he of all people should appear in this light as the villain
+
     - eng: It was so filthy
       ru: Это было так грязно
+      example: I refused to stay in that hotel room because it was so filthy
+
     - eng: It won't solve the problem.
       ru: это не решит проблему.
+      example: Complaining without taking action will not solve the problem
+
     - eng: It would be very kind of you.
       ru: Это было бы очень любезно с вашей стороны.
+      example: If you could help me move this furniture it would be very kind of you
+
     - eng: It would spoil everything
       ru: Это все испортило бы
+      example: If he finds out the secret it would spoil everything we have planned
+
     - eng: It's a big legacy to carry on
       ru: Это большое наследие, которое нужно продолжать
+      example: As the eldest son it is a big legacy to carry on from my father
+
     - eng: It's a good idea to take a break from time to time
       ru: Это хорошая идея - время от времени делать перерыв
+      example: When you feel exhausted it is a good idea to take a break from time to time
+
     - eng: It's a nice day, we prefer to eat outside.
       ru: Сегодня хорошая погода, мы бы предпочли поесть на террасе.
+      example: It is a nice day so we prefer to eat outside on the patio
+
     - eng: It's a pity that they exchange only notes.
       ru: Жаль, что они обменивают только банкноты.
+      example: It is a pity that they exchange only notes and not coins
+
     - eng: It's a pleasure to meet you.
       ru: Приятно познакомиться с Вами.
+      example: I have heard so much about you and it is a pleasure to meet you finally
+
     - eng: It's a shock, but you adapt to survive
       ru: Это шок, но вы приспосабливаетесь, чтобы выжить
+      example: Losing everything is a shock but you adapt to survive somehow
+
     - eng: It's absolutely incredible
       ru: Это абсолютно невероятно
+      example: The view from the top of the mountain is absolutely incredible
+
     - eng: It's all your fault
       ru: Это все твоя вина
+      example: The project failed and it is all your fault because you did not listen
+
     - eng: It's an incredible achievement
       ru: Это невероятное достижение
+      example: Winning the championship after so many years is an incredible achievement
+
     - eng: It's cheaper to buy direct from the manufacturer
       ru: Дешевле покупать напрямую у производителя
+      example: If you want to save money it is cheaper to buy direct from the manufacturer
+
     - eng: It's considered the most reliable paper in the state, isn't it
       ru: Это считается самой надежной бумагой в штате, не так ли
+      example: That newspaper is highly trusted and it is considered the most reliable paper in the state is not it
+
     - eng: It's easier to get around that way
       ru: Так легче передвигаться
+      example: Take the back roads because it is easier to get around that way during rush hour
+
     - eng: It's for me
       ru: Это для меня
+      example: The package arrived today and the label says it is for me
+
     - eng: It's going to be all right.
       ru: все будет хорошо
+      example: Do not worry about the exam because it is going to be all right
+
     - eng: It's my job to knock their targets out
       ru: Это моя работа - поражать их цели
+      example: As a sniper it is my job to knock their targets out from a distance
+
     - eng: It's nice (good) to see you.
       ru: Приятно Вас видеть.
+      example: I have not seen you in months and it is nice to see you again
+
     - eng: It's nice to meet you.
       ru: Приятно с Вами познакомиться.
+      example: Welcome to the team it is nice to meet you
+
     - eng: It's nice to see you
       ru: Приятно Вас видеть.
+      example: It is nice to see you at the family gathering this year
+
     - eng: It's not cold.
       ru: Не холодно.
+      example: You do not need a jacket because it is not cold outside today
+
     - eng: It's not rainy.
       ru: Дождя нет.
+      example: We can have a picnic because it is not rainy today
+
     - eng: It's not that I want to stay here.
       ru: Нельзя сказать, что я хочу здесь остаться.
+      example: It is not that I want to stay here but I have no other options
+
     - eng: It's only after we've lost everything that we're free to do anything. Tyler Durden, The Fight Club.
       ru: Лишь утратив всё до конца, мы обретаем свободу. Тайлер Дёрден, Бойцовский клуб.
+      example: Tyler Durden said it is only after we have lost everything that we are free to do anything
+
     - eng: It's rather witty
       ru: Это довольно остроумно
+      example: His comment made everyone laugh because it is rather witty
+
     - eng: It's the only way I can cope with it
       ru: Это единственный способ, которым я могу справиться с этим
+      example: I know it is unusual but it is the only way I can cope with the stress
+
     - eng: It's time to get dressed
       ru: Пришло время одеваться
+      example: The guests will arrive soon so it is time to get dressed
+
     - eng: It's too far to walk. Where can I take a taxi?
       ru: Туда слишком далеко идти. Где можно взять такси?
+      example: It is too far to walk to the museum so where can I take a taxi
+
     - eng: It's too far to walk. Where can I take a taxi?
       ru: Туда слишком далеко идти. Где можно взять такси?
+      example: It is too far to walk from here to the hotel where can I take a taxi
+
     - eng: It's too late to go back now
       ru: Теперь уже слишком поздно возвращаться
+      example: We have come this far and it is too late to go back now
+
     - eng: It's worth spending some time on the research
       ru: Стоит потратить некоторое время на исследование
+      example: Before making a decision it is worth spending some time on the research
+
     - eng: Italy – Italian Republic
       ru: италия, итальянская республика
-    - eng: It’s actually really easy to get around it
+      example: Italy is famous for its cuisine art and historical landmarks
+
+    - eng: It's actually really easy to get around it
       ru: На самом деле это очень легко обойти
-    - eng: It’s been great to meet you again but I’d better be off.
+      example: The obstacle looks difficult but it is actually really easy to get around it
+
+    - eng: It's been great to meet you again but I'd better be off.
       ru: Был рад увидеться, но мне пора.
-    - eng: It’s just right thanks.
+      example: It has been great to meet you again but I had better be off now
+
+    - eng: It's just right thanks.
       ru: Именно так, спасибо.
-    - eng: It’s just right, thanks.
+      example: The temperature of the soup is perfect and it is just right thanks
+
+    - eng: It's just right, thanks.
       ru: Отлично, спасибо большое.
-    - eng: It’s more fun to be a pirate than to join the navy. Steve Jobs.
+      example: The fit of these shoes is comfortable and it is just right thanks
+
+    - eng: It's more fun to be a pirate than to join the navy. Steve Jobs.
       ru: Лучше быть пиратом, чем служить во флоте. Стив Джобс.
-    - eng: It’s new to me
+      example: Steve Jobs said it is more fun to be a pirate than to join the navy
+
+    - eng: It's new to me
       ru: Это новость для меня
-    - eng: It’s not his fault if he gets sick
+      example: I had never heard that story before so it is new to me
+
+    - eng: It's not his fault if he gets sick
       ru: Это не его вина, если он заболеет
-    - eng: It’s perfect thank you.
+      example: He takes care of himself but it is not his fault if he gets sick
+
+    - eng: It's perfect thank you.
       ru: В самый раз, спасибо.
-    - eng: It’s perfect thank you.
+      example: The dress fits beautifully and it is perfect thank you
+
+    - eng: It's perfect thank you.
       ru: Идеально, спасибо.
-    - eng: It’s too large.
+      example: The steak is cooked exactly as I asked and it is perfect thank you
+
+    - eng: It's too large.
       ru: Это слишком большое.
+      example: I need a smaller size because this shirt is too large for me
+
     - eng: Ivorian
       ru: житель Кот-д'Ивуар
-    - eng: I’d like a cut.
+      example: The Ivorian showed us the beautiful beaches of Abidjan
+
+    - eng: I'd like a cut.
       ru: Я бы хотел постричься.
-    - eng: I’d like a cut.
+      example: My hair is getting long so I would like a cut please
+
+    - eng: I'd like a cut.
       ru: Я бы хотел стрижку.
-    - eng: I’d like a wash and blow-dry.
+      example: I would like a cut and a shave today at the barbershop
+
+    - eng: I'd like a wash and blow-dry.
       ru: Я бы хотела помыть волосы и высушить их феном.
-    - eng: I’d like a wash and blow-dry.
+      example: I have an event tonight so I would like a wash and blow dry
+
+    - eng: I'd like a wash and blow-dry.
       ru: Я бы хотел помыть голову и высушить феном.
-    - eng: I’d like another color.
+      example: I would like a wash and blow dry before the haircut
+
+    - eng: I'd like another color.
       ru: Я хочу другой цвет.
-    - eng: I’d like another color.
+      example: This shade does not suit me so I would like another color
+
+    - eng: I'd like another color.
       ru: Я хочу другой цвет.
-    - eng: I’d like it cut and coloured. What do you suggest?
+      example: I would like another color for my walls maybe blue instead of green
+
+    - eng: I'd like it cut and coloured. What do you suggest?
       ru: Я бы хотел подстричься и покраситься. Что порекомендуете?
-    - eng: I’d like it cut and coloured. What do you suggest?
+      example: My hair needs a change so I would like it cut and coloured. What do you suggest
+
+    - eng: I'd like it cut and coloured. What do you suggest?
       ru: Я бы хотела постричься и покраситься. Что порекомендуете?
-    - eng: I’d like to
+      example: I would like it cut and coloured for the wedding. What do you suggest
+
+    - eng: I'd like to
       ru: Я бы хотел
-    - eng: I’d like to order...
+      example: I would like to travel to Japan someday
+
+    - eng: I'd like to order...
       ru: Я бы хотел заказать...
-    - eng: I’d like to pay by credit card.
+      example: I would like to order a pizza with mushrooms and olives please
+
+    - eng: I'd like to pay by credit card.
       ru: Я хочу оплатить кредиткой.
-    - eng: I’d like to pay by credit card.
+      example: I would like to pay by credit card if that is acceptable
+
+    - eng: I'd like to pay by credit card.
       ru: Я хочу оплатить кредиткой.
-    - eng: I’d like to pay in cash.
+      example: I would like to pay by credit card rather than cash
+
+    - eng: I'd like to pay in cash.
       ru: Я хочу оплатить наличными.
-    - eng: I’d like to pay in cash.
+      example: I would like to pay in cash because I have the exact amount
+
+    - eng: I'd like to pay in cash.
       ru: Я хочу оплатить наличными.
-    - eng: I’d like to return the purchase and get a refund.
+      example: I would like to pay in cash for this small purchase
+
+    - eng: I'd like to return the purchase and get a refund.
       ru: Я хочу вернуть покупку и получить обратно деньги.
-    - eng: I’d like to return the purchase and get a refund.
+      example: The item is defective so I would like to return the purchase and get a refund
+
+    - eng: I'd like to return the purchase and get a refund.
       ru: Я хочу вернуть покупку и получить обратно деньги.
-    - eng: I’d love my job if I had a better boss.
+      example: I would like to return the purchase and get a refund because it does not fit
+
+    - eng: I'd love my job if I had a better boss.
       ru: Мне бы больше нравилась моя работа, будь у меня начальник получше.
-    - eng: I’ll have it, please.
+      example: I would love my job if I had a better boss who appreciated my work
+
+    - eng: I'll have it, please.
       ru: Я это возьму.
-    - eng: I’ll have it, please.
+      example: This watch looks perfect and I will have it please
+
+    - eng: I'll have it, please.
       ru: Я это возьму.
-    - eng: I’m afraid we were out of pineapple juice.
+      example: I will have it please and I will pay at the register
+
+    - eng: I'm afraid we were out of pineapple juice.
       ru: Боюсь, у нас нет ананасового сока.
-    - eng: I’m an extra large.
+      example: I am afraid we were out of pineapple juice so I got orange instead
+
+    - eng: I'm an extra large.
       ru: У меня XL размер.
-    - eng: I’m an extra large.
+      example: I need a big shirt because I am an extra large
+
+    - eng: I'm an extra large.
       ru: У меня XL размер.
-    - eng: I’m in the game.
+      example: I am an extra large in most clothing brands
+
+    - eng: I'm in the game.
       ru: Я в игре
-    - eng: I’m in!
+      example: Count me in because I am in the game until the end
+
+    - eng: I'm in!
       ru: Я в деле!
-    - eng: I’m looking for a sweater.
+      example: If you need help with the project I am in
+
+    - eng: I'm looking for a sweater.
       ru: Я ищу свитер.
-    - eng: I’m looking for a sweater.
+      example: Excuse me I am looking for a sweater in a medium size
+
+    - eng: I'm looking for a sweater.
       ru: Я ищу свитер.
-    - eng: I’m looking for a white beach dress.
+      example: I am looking for a sweater that is warm but not too heavy
+
+    - eng: I'm looking for a white beach dress.
       ru: Я ищу белое пляжное платье.
-    - eng: I’m looking for a white beach dress.
+      example: For my vacation I am looking for a white beach dress
+
+    - eng: I'm looking for a white beach dress.
       ru: Я ищу белое пляжное платье.
-    - eng: I’m not so sure about that.
+      example: I am looking for a white beach dress with lace details
+
+    - eng: I'm not so sure about that.
       ru: Я не уверен в этом.
-    - eng: I’m paid an average salary.
+      example: You think it is a good idea but I am not so sure about that
+
+    - eng: I'm paid an average salary.
       ru: У меня средняя зарплата.
-    - eng: I’m so sorry to hear that.
+      example: I cannot afford luxury items because I am paid an average salary
+
+    - eng: I'm so sorry to hear that.
       ru: Мне жаль слышать это.
-    - eng: I’m sorry, I didn’t catch you.
+      example: Your grandmother passed away and I am so sorry to hear that
+
+    - eng: I'm sorry, I didn't catch you.
       ru: Прости, я тебя не расслышал.
-    - eng: I’m sorry, we don’t make exchanges without receipts.
+      example: The music was too loud and I am sorry I did not catch you
+
+    - eng: I'm sorry, we don't make exchanges without receipts.
       ru: Извините, но мы не производим обмен без чека.
-    - eng: I’m sorry, we don’t make exchanges without receipts.
+      example: I am sorry but we do not make exchanges without receipts for any items
+
+    - eng: I'm sorry, we don't make exchanges without receipts.
       ru: Извините, но мы не производим обмен без чека.
-    - eng: I’m sorry, we make exchanges only if you bring the product back within fourteen days.
+      example: I am sorry we do not make exchanges without receipts so please find your receipt
+
+    - eng: I'm sorry, we make exchanges only if you bring the product back within fourteen days.
       ru: Извините, мы производим обмен только в течение 14 дней после покупки.
-    - eng: I’m sorry, we make exchanges only if you bring the product back within fourteen days.
+      example: I am sorry but we make exchanges only if you bring the product back within fourteen days
+
+    - eng: I'm sorry, we make exchanges only if you bring the product back within fourteen days.
       ru: Извините, мы производим обмен только в течение 14 дней после покупки.
-    - eng: I’ve got an interview for a new job on Monday.
+      example: I am sorry we make exchanges only if you bring the product back within fourteen days of purchase
+
+    - eng: I've got an interview for a new job on Monday.
       ru: Я иду на собеседование на новую работу в понедельник.
+      example: I am nervous because I have got an interview for a new job on Monday
+
     - eng: Jack-o-lantern
       ru: Светильник Джека
+      example: For Halloween we carved a scary face into a pumpkin to make a Jack o lantern
+
     - eng: Jamaican
       ru: житель острова Ямайка
+      example: The Jamaican taught us how to make jerk chicken
+
     - eng: James Bay
       ru: залив Джеймс
+      example: James Bay is located in southern Canada near Quebec
+
     - eng: January
       ru: январь
+      example: January is usually the coldest month of the year
+
     - eng: Japanese cherry
       ru: сакура
+      example: The Japanese cherry blossoms bloom beautifully in spring
+
     - eng: Java Sea
       ru: Яванское море
+      example: The Java Sea lies between the islands of Java and Borneo
+
     - eng: Jealousy is a vice
       ru: Ревность - это порок
+      example: She could not control her feelings because jealousy is a vice
+
     - eng: Jeweller's
       ru: ювелирный магазин
+      example: He bought a diamond ring at the jeweller's shop on Main Street
+
     - eng: Jill is so smart all the boys are afraid of her
       ru: Джилл такая умная, все мальчики её боятся.
+      example: In our class Jill is so smart that all the boys are afraid of her
+
     - eng: Jill studies regularly so that she can beat the boys
       ru: Джилл занимается постоянно, поэтому она может победить мальчиков.
+      example: Jill studies regularly so that she can beat the boys in every competition
+
     - eng: July
       ru: июль
+      example: July is the hottest month in many parts of the world
+
     - eng: June
       ru: июнь
+      example: June is a popular month for weddings and graduations
+
     - eng: Juneteenth
       ru: День свободы(свобода от рабства)
+      example: Juneteenth celebrates the emancipation of enslaved people in the United States
+
     - eng: Junior suite room
-      ru: номер "полулюкс"
+      ru: номер полулюкс
+      example: The hotel upgraded us to a junior suite room with a balcony
+
     - eng: Just a few centimetres off please.
       ru: Уберите только несколько сантиметров, пожалуйста.
+      example: My hair is too long so just a few centimetres off please
+
     - eng: Just a few centimetres off please.
       ru: Уберите только несколько сантиметров, пожалуйста.
+      example: Just a few centimetres off please because I like the current length
+
     - eng: Just a trim please.
       ru: Просто подровняйте, пожалуйста.
+      example: I do not want to lose much length so just a trim please
+
     - eng: Just a trim please.
       ru: Подровняйте, пожалуйста.
+      example: The ends are dry so just a trim please to clean them up
+
     - eng: Just check in with probation
       ru: Просто проверьте с испытательным сроком
+      example: Before hiring him permanently just check in with probation to see his progress
+
     - eng: Just hold on a little longer
       ru: Просто подожди еще немного
+      example: The rescue team is coming so just hold on a little longer
+
     - eng: Kaaba
       ru: Кааба
+      example: The Kaaba in Mecca is the holiest site in Islam
+
     - eng: Kampala
       ru: Кампала
+      example: Kampala is the capital and largest city of Uganda
+
     - eng: Kara sea
       ru: Карское море
+      example: The Kara Sea is part of the Arctic Ocean north of Siberia
+
     - eng: Kara strait
       ru: Карские Ворота
+      example: The Kara Strait connects the Kara Sea to the Barents Sea
+
     - eng: Karakul
       ru: каракуль
+      example: Karakul sheep are known for their soft and curly wool
+
     - eng: Kate, can I introduce Ann, the PR manager?
       ru: Кейт, могу я представить Вам Энн, нашего PR-менеджера?
+      example: Kate can I introduce Ann the PR manager from our London office
+
     - eng: Kate, have you met Ann, our PR Manager?
       ru: Кейт, Вы уже встречались с Энн, нашим PR-менеджером?
+      example: Kate have you met Ann our PR Manager she just joined the team
+
     - eng: Kate, haven't you got any English mustard?
       ru: Кейт, нет ли у вас английской горчицы?
+      example: Kate have not you got any English mustard for this sandwich
+
     - eng: Kathmandu
       ru: Катманду
+      example: Kathmandu is the capital of Nepal located in a Himalayan valley
+
     - eng: Keep your friends close, but your enemies closer. Michael Corleone, Godfather.
       ru: Держи друзей близко, а врагов еще ближе. Майкл Корлеоне, Крёстный отец.
+      example: Michael Corleone advised to keep your friends close but your enemies closer
+
     - eng: Kenya – Republic of Kenya
       ru: кения, республика кения
+      example: Kenya is famous for its wildlife safaris and the Great Rift Valley
+
     - eng: Kenyan
       ru: житель Кении
+      example: The Kenyan runner broke the marathon world record
+
     - eng: Kepler's laws
       ru: закон кеплера
+      example: Kepler's laws describe the motion of planets around the sun
+
     - eng: Kindergartener
       ru: воспитатель в детском саду
+      example: The kindergartener read a story to the children before naptime
+
     - eng: Kindhearted
       ru: добрый
+      example: She is a kindhearted person who always helps those in need
+
     - eng: Kingston
       ru: кингстон
+      example: Kingston is the capital of Jamaica located on the southeastern coast
+
     - eng: Kingstown
       ru: Кингстаун
+      example: Kingstown is the capital of Saint Vincent and the Grenadines
+
     - eng: Kinshasa
       ru: Киншаса
+      example: Kinshasa is the capital of the Democratic Republic of the Congo
+
     - eng: Knight Bus
       ru: Автобус Ночной Рыцарь
+      example: In Harry Potter the Knight Bus transports stranded witches and wizards
+
     - eng: Koran
       ru: коран
+      example: The Koran is the holy book of Islam revealed to Prophet Muhammad
+
     - eng: Koro sea
       ru: Море Коро
+      example: The Koro Sea is located in the South Pacific near Fiji
+
     - eng: Kosovo
       ru: Республика Косово
+      example: Kosovo declared independence from Serbia in 2008
+
     - eng: Krishna
       ru: кришна
+      example: Krishna is a major deity in Hinduism known for his wisdom and mischief
+
     - eng: Kuala Lumpur
       ru: Куала-Лумпур
+      example: Kuala Lumpur is the capital of Malaysia and home to the Petronas Twin Towers
+
     - eng: Kuban
       ru: Кубань
+      example: The Kuban River flows through southern Russia into the Sea of Azov
+
     - eng: Kuiper belt
       ru: Пояс Койпера
+      example: The Kuiper belt contains many icy bodies beyond Neptune's orbit
+
     - eng: Kura
       ru: кура
+      example: The Kura River flows through Turkey Georgia and Azerbaijan
+
     - eng: Kuwait
       ru: Кувейт
+      example: Kuwait is a small wealthy country on the Persian Gulf
+
     - eng: Kuwaiti
       ru: житель Кувейта
+      example: The Kuwaiti invited us to his family's home for dinner
+
     - eng: Kyiv
       ru: Киев
+      example: Kyiv is the capital of Ukraine located on the Dnieper River
+
     - eng: Kyrgyzstan – Kyrgyz Republic
       ru: киргизия, киргизская республика (кыргызская республика)
+      example: Kyrgyzstan is a mountainous country in Central Asia
+
     - eng: LAN
       ru: локальная вычислительная сеть
+      example: A LAN connects computers within a small area like an office
+
     - eng: LEL
-      ru: веломарафон Лондон-Эдинбург- Лондон
+      ru: веломарафон Лондон-Эдинбург-Лондон
+      example: The LEL is a challenging cycling event covering over fourteen hundred kilometers
+
     - eng: LF Line Feed
       ru: перевод строки
+      example: In computing LF stands for Line Feed which moves the cursor down
+
     - eng: LGPL
       ru: стандартная общественная лицензия ограниченного применения
+      example: The LGPL allows developers to use open source libraries in proprietary software
+
     - eng: LIFO
       ru: последним пришёл - первым обслужен
+      example: The LIFO method means the last item added is the first one removed
+
     - eng: LSB
       ru: младший (наименее значащий) бит байта или машинного слова
+      example: The LSB is the bit that represents the smallest value in a binary number
+
     - eng: LSM
       ru: интерфейс модулей безопасности
+      example: LSM provides a framework for implementing security policies in Linux
+
     - eng: Labor Day
       ru: День труда
+      example: Labor Day honors the contributions of workers and is celebrated in many countries
+
     - eng: Labrador sea
       ru: Море Лабрадор
+      example: The Labrador Sea lies between Greenland and Canada
+
     - eng: Lacerta
       ru: ящерица
+      example: Lacerta is a small northern constellation representing a lizard
+
     - eng: Ladies' clothing shop
       ru: магазин женской одежды
+      example: She bought a new dress at the ladies clothing shop on the corner
+
     - eng: Lantern Festival
       ru: Праздник фонарей
+      example: The Lantern Festival marks the end of Chinese New Year celebrations
+
     - eng: Laos – Lao People's Democratic Republic
-      ru: Лаос, Лаосская Народно- Демократическая Республика
+      ru: Лаос, Лаосская Народно-Демократическая Республика
+      example: Laos is a landlocked country in Southeast Asia known for its mountains
+
     - eng: Laotian
       ru: житель Лаоса
+      example: The Laotian cooked a traditional sticky rice dish for us
+
     - eng: Lapta
       ru: лапта
+      example: Lapta is a traditional Russian ball game similar to baseball
+
     - eng: Laptev sea
       ru: море Лаптевых
+      example: The Laptev Sea is part of the Arctic Ocean north of Siberia
+
     - eng: Last In First Out
       ru: последним пришёл - первым обслужен
+      example: The stack data structure follows the Last In First Out principle
+
     - eng: Latvia – Republic of Latvia
       ru: латвия, латвийская республика
+      example: Latvia is one of the three Baltic states in Northern Europe
+
     - eng: Latvian
       ru: латыш, латышка
+      example: The Latvian sang a traditional folk song at the festival
+
     - eng: Leaky Cauldron
       ru: Дырявый котел
+      example: In Harry Potter the Leaky Cauldron is a pub in London that leads to Diagon Alley
+
     - eng: Least Significant Bit
       ru: младший (наименее значащий) бит байта или машинного слова
+      example: Changing the Least Significant Bit slightly alters a number's value
+
     - eng: Leo
       ru: Лев
+      example: Leo is a zodiac constellation representing a lion
+
     - eng: Leo Minor
       ru: Малый Лев
+      example: Leo Minor is a small faint constellation near Leo
+
     - eng: Lepus
       ru: Заяц
+      example: Lepus is a southern constellation located just below Orion
+
     - eng: Lesser GPL
       ru: стандартная общественная лицензия ограниченного применения
+      example: The Lesser GPL is more permissive than the standard GPL
+
     - eng: Let happen whatever would happen.
       ru: Пусть будет, что будет.
+      example: I am tired of worrying so let happen whatever would happen
+
     - eng: Let it be over soon
       ru: Пусть это поскорее закончится
+      example: This long meeting is exhausting so let it be over soon
+
     - eng: Let me break in
       ru: Позвольте мне вмешаться
+      example: I have an important point to make so let me break in for a moment
+
     - eng: Let me introduce myself.
       ru: Позвольте представиться.
+      example: We have not met before so let me introduce myself
+
     - eng: Let your body go slack
       ru: Позвольте своему телу расслабиться
+      example: To meditate properly you should let your body go slack and breathe deeply
+
     - eng: Let's clear it up
       ru: Давайте проясним это
+      example: There is a misunderstanding so let us clear it up right now
+
     - eng: Let's exchange e-mails (phone numbers, Facebook profiles).
       ru: Давайте обменяемся e-mail (телефонными номерами, аккаунтами на Фейсбуке).
+      example: We should stay in touch so let us exchange e mails and phone numbers
+
     - eng: Let's exchange e-mails / phone numbers.
       ru: Давайте обменяемся e-mail/ телефонными номерами.
+      example: Let us exchange e mails and phone numbers before you leave
+
     - eng: Let's fix a meeting.
       ru: Давайте договоримся о встрече.
+      example: We need to discuss this in person so let us fix a meeting for next week
+
     - eng: Let's fix a meeting.
       ru: Давайте договоримся о встрече.
+      example: Let us fix a meeting at a time that works for everyone
+
     - eng: Let's fix the exact time and place.
       ru: Давайте договоримся о точном времени и месте.
+      example: To avoid confusion let us fix the exact time and place for our appointment
+
     - eng: Let's fix the exact time and place.
       ru: Давайте договоримся о точном времени и месте.
+      example: Let us fix the exact time and place for the wedding rehearsal
+
     - eng: Let's get down to business.
       ru: давайте приступим к делу.
+      example: Enough with the small talk let us get down to business
+
     - eng: Let's get this thing turn around
       ru: Давайте развернем эту штуку
+      example: The project is failing so let us get this thing turned around quickly
+
     - eng: Let's get to the point. Let's hold to reason.
       ru: Давайте ближе к делу.
+      example: We are running out of time so let us get to the point
+
     - eng: Let's go get some grab
       ru: Давай пойдем чего-нибудь перекусим
+      example: I am hungry so let us go get some grab from the food truck
+
     - eng: Let's go to the bar. OK. Coming along, Tom?
       ru: Пошли в бар. — Хорошо. Том, а ты идешь (с нами)?
+      example: Let us go to the bar and Tom are you coming along with us
+
     - eng: Let's go to the seafood restaurant.
       ru: Пойдемте в рыбный ресторан.
+      example: I am craving fish so let us go to the seafood restaurant tonight
+
     - eng: Let's have a rest before going further
       ru: Давайте отдохнем, прежде чем идти дальше
+      example: We have walked ten miles so let us have a rest before going further
+
     - eng: Let's hope for the best
       ru: Будем надеяться на лучшее
+      example: The situation looks bad but let us hope for the best
+
     - eng: Let's move on
       ru: давайте двигаться дальше
+      example: We have discussed this topic enough so let us move on
+
     - eng: Let's play hockey!
       ru: Давайте поиграем в хоккей!
+      example: The ice rink is ready so let us play hockey
+
     - eng: Let's try mozzarella fried sticks here.
       ru: Давай попробуем здесь сырные палочки из моцареллы.
-    - eng: Let’s go to the cinema!
+      example: I heard they are delicious so let us try mozzarella fried sticks here
+
+    - eng: Let's go to the cinema!
       ru: Давайте пойдем в кино!
-    - eng: Let’s go to the cinema!
+      example: There is a new movie playing so let us go to the cinema
+
+    - eng: Let's go to the cinema!
       ru: Давайте пойдем в кино!
+      example: Let us go to the cinema this evening after dinner
+
     - eng: Liberian
       ru: житель Либерии
+      example: The Liberian told us about the history of Monrovia
+
     - eng: Libra
       ru: весы
+      example: Libra is the seventh sign of the zodiac represented by scales
+
     - eng: Libreville
       ru: Либревиль
+      example: Libreville is the capital of Gabon in Central Africa
+
     - eng: Libyan
       ru: ливиец; ливийка
+      example: The Libyan showed us the ancient ruins of Leptis Magna
+
     - eng: Libyan sea
       ru: Ливийское море
+      example: The Libyan Sea is part of the Mediterranean north of Libya
+
     - eng: Liechtensteiner
       ru: житель Лихтенштейна
+      example: The Liechtensteiner explained that his country is one of the smallest in Europe
+
     - eng: Life is a ticket to the greatest show on earth. Martin H. Fischer.
       ru: Жизнь — это билет на величайшее шоу на земле. Мартин Х Фишер
+      example: Martin Fischer said life is a ticket to the greatest show on earth
+
     - eng: Life is an opportunity, benefit from it. Mother Teresa.
       ru: Жизнь — это возможность, используй её. Мать Тереза.
+      example: Mother Teresa taught that life is an opportunity so benefit from it
+
     - eng: Life is like a box of chocolates, you never know what you`re gonna get. Forrest Gump.
       ru: Жизнь, как коробка шоколадных конфет, никогда не знаешь, что вытащишь. Форрест Гамп.
+      example: Forrest Gump said life is like a box of chocolates and you never know what you are gonna get
+
     - eng: Life's too short to live the same day twice. Monster—in—Law.
       ru: Жизнь слишком коротка, для того, чтобы переживать один день дважды. Когда свекровь, монстр.
+      example: The movie Monster in Law said life is too short to live the same day twice
+
     - eng: Light music is a nice addition to delicious meal.
       ru: Ненавязчивая музыка - приятное дополнение к вкусной еде.
+      example: Light music is a nice addition to a delicious meal in a restaurant
+
     - eng: Light-Emitting Diode
       ru: светодиод
+      example: A Light Emitting Diode is an energy efficient light source
+
     - eng: Lightweight Directory Applications Protocol
       ru: протокол, обеспечивающий доступ к несовместимым между собой каталогам
+      example: LDAP stands for Lightweight Directory Applications Protocol used for accessing directories
+
     - eng: Ligurian Sea
       ru: Лигурийское море
+      example: The Ligurian Sea is part of the Mediterranean near Italy and France
+
     - eng: Lilongwe
       ru: Лилонгве
+      example: Lilongwe is the capital city of Malawi
+
     - eng: Lima
       ru: лима
+      example: Lima is the capital of Peru located on the Pacific coast
+
     - eng: Lincoln Sea
       ru: Море Линкольна
+      example: The Lincoln Sea is part of the Arctic Ocean north of Canada and Greenland
+
     - eng: Lincoln's Birthday
       ru: день рождения линкольна
+      example: Lincoln's Birthday is celebrated on February twelfth in some US states
+
     - eng: Linux Security Modules
       ru: интерфейс модулей безопасности
+      example: Linux Security Modules allow customization of kernel security policies
+
     - eng: Liquid-Crystal Display
       ru: жидкокристаллический индикатор
+      example: A Liquid Crystal Display is used in many digital watches and screens
+
     - eng: Lithuanian
       ru: литовец, литовка
+      example: The Lithuanian taught us a few words of his native language
+
     - eng: Little Owl
       ru: Сыч
+      example: The little owl is a small bird of prey found across Europe and Asia
+
     - eng: Live for nothing or die for something. Rambo.
       ru: Живи ни для чего, или умри за что-то. Рэмбо.
+      example: Rambo said you can either live for nothing or die for something
+
     - eng: Ljubljana
       ru: Любляна
+      example: Ljubljana is the capital of Slovenia known for its beautiful bridges
+
     - eng: Local Area Network
       ru: локальная вычислительная сеть
+      example: A Local Area Network connects computers within a limited area like a home or office
+
     - eng: Lome
       ru: Ломе
+      example: Lome is the capital and largest city of Togo
+
     - eng: London
       ru: Лондон
+      example: London is the capital of England and the United Kingdom
+
     - eng: Look at the moon with its halo
       ru: Посмотрите на луну с ее ореолом
+      example: Tonight you can look at the moon with its halo caused by ice crystals
+
     - eng: Look back at history
       ru: Оглянитесь назад на историю
+      example: To understand the present you should look back at history
+
     - eng: Look forward to that
       ru: с нетерпением жду этого
+      example: The concert is next week and I really look forward to that
+
     - eng: Look over there
       ru: Посмотри туда
+      example: Look over there at the beautiful sunset on the horizon
+
     - eng: Look, I've just realised that you look a lot like a girl of my dreams.
       ru: Слушай, до меня только что дошло, что ты очень похожа на девушку моей мечты.
-    - eng: Look, let’s catch up again – what about next week?
+      example: Look I have just realised that you look a lot like a girl of my dreams
+
+    - eng: Look, let's catch up again – what about next week?
       ru: Давай снова встретимся — как насчёт следующей недели?
+      example: Look let us catch up again what about next week for coffee
+
     - eng: Look, we get along
       ru: Слушай, мы хорошо ладим
+      example: Look we get along very well so let us work together
+
     - eng: Love is passion, obsession, someone you can't live without. William Parrish, Meet Joe Black.
       ru: Любовь — одержимость человеком, в котором твоя жизнь., Уильям Пэрриш, Знакомьтесь, Джо Блэк.
-    - eng: Love means never having to say you’re sorry. Love Story (movie).
+      example: William Parrish in Meet Joe Black said love is passion obsession someone you cannot live without
+
+    - eng: Love means never having to say you're sorry. Love Story (movie).
       ru: Любовь — это когда не нужно просить прощения. История любви (фильм).
+      example: The movie Love Story famously said love means never having to say you are sorry
+
     - eng: Low ponytail at the nape of the neck
       ru: Низкий хвостик на затылке.
+      example: She wore her hair in a low ponytail at the nape of the neck
+
     - eng: Lusaka
       ru: Лусака
+      example: Lusaka is the capital of Zambia in southern Africa
+
     - eng: Luxembourg
       ru: Люксембург
+      example: Luxembourg is a small but wealthy country in Western Europe
+
     - eng: Luxembourger
       ru: люксембуржец, житель Люксембурга
+      example: The Luxembourger spoke three languages fluently
+
     - eng: Lyra
       ru: Лира
+      example: Lyra is a small constellation containing the bright star Vega
+
     - eng: Macedonia – Republic of Macedonia
       ru: македония, республика македония
+      example: Macedonia is a country in the Balkan Peninsula with a rich history
+
     - eng: Macedonian
       ru: македонец, македонка
+      example: The Macedonian showed us the ancient city of Ohrid
+
     - eng: Madagascan
       ru: житель Мадагаскара
+      example: The Madagascan told us about the unique lemurs on the island
+
     - eng: Madrid
       ru: Мадрид
+      example: Madrid is the capital of Spain famous for its art museums
+
     - eng: Mahayana
       ru: Махаяна
+      example: Mahayana is one of the main branches of Buddhism
+
     - eng: Make a banana lime smoothie for me, please.
       ru: Сделайте, пожалуйста, смузи из банана с лаймом.
+      example: Make a banana lime smoothie for me please with low fat yogurt
+
     - eng: Make a thin and crispy crust for the Hawaiian pizza.
       ru: Сделайте у гавайской пиццы тоненькую хрустящую корочку.
+      example: Please make a thin and crispy crust for the Hawaiian pizza
+
     - eng: Make everything as simple as possible, but not simpler. Albert Einstein.
       ru: Всё гениальное просто, но не проще. Альберт Эйнштейн.
+      example: Albert Einstein advised to make everything as simple as possible but not simpler
+
     - eng: Make yourself clear
       ru: Выражайтесь яснее.
+      example: I do not understand your point so please make yourself clear
+
     - eng: Malawi – Republic of Malawi
       ru: малави, республика малави
+      example: Malawi is known as the warm heart of Africa for its friendly people
+
     - eng: Malawian
       ru: житель Малави
+      example: The Malawian showed us the beautiful Lake Malawi
+
     - eng: Malay
       ru: малаец, малайка
+      example: The Malay taught us how to cook nasi lemak
+
     - eng: Maldivian
       ru: житель Мальдив
+      example: The Maldivian explained that most islands are just one meter above sea level
+
     - eng: Mali – Republic of Mali
       ru: мали, республика мали
+      example: Mali is a landlocked country in West Africa with a rich musical heritage
+
     - eng: Malian
       ru: житель Мали
+      example: The Malian played a traditional kora instrument for us
+
     - eng: Mall/shopping centre
       ru: торговый центр
+      example: We spent the afternoon walking around the new mall shopping centre
+
     - eng: Management fee
       ru: управленческий гонорар
+      example: The management fee is deducted monthly from the investment fund
+
     - eng: Managua
       ru: Манагуа
+      example: Managua is the capital of Nicaragua located on Lake Managua
+
     - eng: Manama
       ru: Манама
+      example: Manama is the capital of Bahrain known for its financial district
+
     - eng: Many employees resist working more than eight hours a day
       ru: Многие сотрудники сопротивляются работе более восьми часов в день
+      example: Many employees resist working more than eight hours a day due to burnout concerns
+
     - eng: March
       ru: март
+      example: March is the third month of the year when spring begins
+
     - eng: Mardi Gras
       ru: марди-гра
+      example: Mardi Gras is a carnival celebration held before Lent in many countries
+
     - eng: Mark is looking at the picture
       ru: Марк смотрит на картину
+      example: Mark is looking at the picture on the wall trying to understand its meaning
+
     - eng: Marmara sea
       ru: Мраморное море
+      example: The Marmara Sea connects the Black Sea to the Aegean Sea
+
     - eng: Marriages are made in heaven. Proverb.
       ru: Браки заключаются на небесах. Пословица.
+      example: The old proverb says that marriages are made in heaven
+
     - eng: Mary
       ru: дева Мария
+      example: Mary is the mother of Jesus Christ in Christian tradition
+
     - eng: Maseru
       ru: Масеру
+      example: Maseru is the capital of Lesotho in southern Africa
+
     - eng: Mass Media
       ru: масс медиа, средства массовой коммуникации
+      example: Mass media includes television radio newspapers and the internet
+
     - eng: Maternity clothing
       ru: магазин одежды для беременных (отдел)
+      example: She bought comfortable pants at the maternity clothing section
+
     - eng: Maundy Thursday
       ru: великий четверг, страстной четверг
+      example: Maundy Thursday commemorates the Last Supper of Jesus Christ
+
     - eng: Mauritania – Islamic Republic of Mauritania
       ru: мавритания, исламская республика мавритания
+      example: Mauritania is a country in Northwest Africa with a desert landscape
+
     - eng: Mauritanian
       ru: житель Мавритании
+      example: The Mauritanian showed us the traditional tea ceremony
+
     - eng: Mauritius – Republic of Mauritius
       ru: маврикий, республика маврикий
+      example: Mauritius is an island nation in the Indian Ocean known for its beaches
+
     - eng: Mawson sea
       ru: Море Моусона
+      example: The Mawson Sea is part of the Southern Ocean off Antarctica
+
     - eng: May
       ru: май
+      example: May is the fifth month of the year known for blooming flowers
+
     - eng: May Day
       ru: первое мая
+      example: May Day is celebrated as International Workers Day in many countries
+
     - eng: May I ask you out?
       ru: Можно пригласить Вас на свидание?
+      example: I enjoy your company so may I ask you out for dinner sometime
+
     - eng: May I ask you out?
       ru: Можно пригласить Вас на свидание?
+      example: May I ask you out to see a movie this weekend
+
     - eng: May I get a glass of lemonade with cherries?
       ru: Можно мне стакан вишнёвого лимонада?
+      example: May I get a glass of lemonade with cherries on this hot day
+
     - eng: May I have the bill?
       ru: Счет, пожалуйста.
+      example: The meal was delicious and may I have the bill please
+
     - eng: May I have your phone number or skype?
       ru: Можно взять у тебя номер телефона или скайп?
+      example: May I have your phone number or skype so we can stay in touch
+
     - eng: May I have your phone number?
       ru: Могу я взять ваш номер телефона?
+      example: May I have your phone number in case I get lost
+
     - eng: May I receive my bank statement for last month?
       ru: Можно мне получить выписку со счета за последний месяц?
+      example: May I receive my bank statement for last month by email
+
     - eng: May I recline my seat?
       ru: Можно мне откинуть спинку?
+      example: The person behind me is tall so may I recline my seat just a little
+
     - eng: May I recline my seat?
       ru: Можно мне откинуть спинку?
+      example: May I recline my seat or is that not allowed on this flight
+
     - eng: May I see a menu?
       ru: Можно мне меню?
+      example: May I see a menu please I am ready to order
+
     - eng: May I smoke here?
       ru: Здесь можно курить?
+      example: May I smoke here or is this a non smoking area
+
     - eng: May I smoke here?
       ru: Здесь можно курить?
+      example: May I smoke here on the balcony
+
     - eng: May I take photos here?
       ru: Здесь можно фотографировать?
+      example: May I take photos here in the museum
+
     - eng: May I take photos here?
       ru: Здесь можно фотографировать?
+      example: May I take photos here for my personal collection
+
     - eng: May I use your phone?
       ru: Можно мне от вас позвонить?
+      example: My battery died so may I use your phone to make a quick call
+
     - eng: May I use your phone?
       ru: Можно мне от вас позвонить?
+      example: May I use your phone to call a taxi please
+
     - eng: May the force be with you. Star Wars.
       ru: Да прибудет с вами сила. Звездные войны.
+      example: Star Wars popularized the phrase may the force be with you
+
     - eng: Maya
       ru: майя
+      example: The Maya civilization was known for its advanced writing and mathematics
+
     - eng: Maybe we should take a short break.
       ru: может, стоит сделать небольшой перерыв.
+      example: Everyone looks tired so maybe we should take a short break
+
     - eng: Maybe we should walk around
       ru: Наверное, нам стоит пройтись
+      example: The restaurant is not busy so maybe we should walk around to find a better place
+
     - eng: Maybe we'll meet?
       ru: Может быть встретимся?
+      example: I am free on Sunday so maybe we will meet for lunch
+
     - eng: Maybe you can make something out
       ru: Может быть, ты сможешь что-нибудь придумать
+      example: This puzzle is difficult but maybe you can make something out of these clues
+
     - eng: Mbabane
       ru: Мбабане
+      example: Mbabane is the capital of Eswatini formerly known as Swaziland
+
     - eng: Medical science
       ru: медицина
+      example: Medical science has made incredible progress in treating diseases
+
     - eng: Mediterranean sea
       ru: Средиземное море
+      example: The Mediterranean Sea is connected to the Atlantic Ocean by the Strait of Gibraltar
+
     - eng: Medium size is too big for me.
       ru: Средний размер - очень большой для меня.
+      example: I need a small because medium size is too big for me
+
     - eng: Medium size is too big for me.
       ru: Средний размер - очень большой для меня.
+      example: Medium size is too big for me so please give me a small
+
     - eng: Melekeok
       ru: Мелекеок
+      example: Melekeok is a village in Palau where the government buildings are located
+
     - eng: Memorial Day
       ru: день памяти
+      example: Memorial Day honors military personnel who died in service
+
     - eng: Men's clothing
       ru: магазин мужской одежды
+      example: He bought a new suit at the men's clothing store
+
     - eng: Mendel's Laws
       ru: закон менделя
+      example: Mendel's Laws describe how traits are inherited from parents to offspring
+
     - eng: Mensa
       ru: Столовая Гора
+      example: Mensa is a constellation in the southern sky named after Table Mountain
+
     - eng: Mercalli scale
       ru: шкала интенсивности Меркалли
+      example: The Mercalli scale measures the intensity of an earthquake based on observed effects
+
     - eng: Metaphor is a common literary device
       ru: Метафора - распространенный литературный прием
+      example: A metaphor is a common literary device that compares two unlike things directly
+
     - eng: Mexico City
       ru: Мехико
+      example: Mexico City is the capital of Mexico and one of the largest cities in the world
+
     - eng: Mexico – United Mexican States
       ru: Мексика, Мексиканские Соединенные Штаты
+      example: Mexico is known for its rich culture ancient ruins and delicious food
+
     - eng: Mezen
       ru: Мезень
+      example: The Mezen River flows through northwestern Russia into the White Sea
+
     - eng: Microscopium
       ru: Микроскоп
+      example: Microscopium is a small southern constellation representing a microscope
+
     - eng: Milky Way
       ru: млечный путь
+      example: The Milky Way is the galaxy that contains our solar system
+
     - eng: Mind one's own business
       ru: Занимайся своим делом
+      example: You should mind your own business instead of gossiping about others
+
     - eng: Ministry of Magic
       ru: министерство магии
+      example: In Harry Potter the Ministry of Magic governs the wizarding world in Britain
+
     - eng: Minsk
       ru: Минск
+      example: Minsk is the capital of Belarus located on the Svislach River
+
     - eng: Mohammed
       ru: Мухаммед
+      example: Mohammed is the founder of Islam and is considered the last prophet
+
     - eng: Molucca sea
       ru: Молуккское море
+      example: The Molucca Sea is located in Indonesia between Sulawesi and the Maluku Islands
+
     - eng: Monacan
       ru: житель Монако
+      example: The Monacan enjoys living in one of the wealthiest countries in the world
+
     - eng: Monday
       ru: понедельник
+      example: Monday is the first day of the work week for many people
+
     - eng: Mongolian
       ru: монгол, монголка
+      example: The Mongolian taught us how to ride a horse across the steppe
+
     - eng: Monoceros
       ru: Единорог
+      example: Monoceros is a faint equatorial constellation representing a unicorn
+
     - eng: Montenegrin
       ru: черногорец
+      example: The Montenegrin showed us the beautiful bay of Kotor
+
     - eng: Montevideo
       ru: Монтевидео
+      example: Montevideo is the capital of Uruguay on the Rio de la Plata
+
     - eng: Morava
       ru: Морава
+      example: The Morava River flows through the Czech Republic Slovakia and Austria
+
     - eng: Mormons
       ru: мормоны
+      example: Mormons are members of the Church of Jesus Christ of Latter day Saints
+
     - eng: Moroccan
       ru: житель Маро
+      example: The Moroccan prepared a delicious tagine with lamb and prunes
+
     - eng: Moroni
       ru: морони
+      example: Moroni is the capital of the Comoros on the island of Grande Comore
+
     - eng: Moscow
       ru: Москва
+      example: Moscow is the capital of Russia and its largest city
+
     - eng: Moscow River
       ru: Москва
+      example: The Moscow River flows through the center of Moscow
+
     - eng: Moselle
       ru: Мозель
+      example: The Moselle River flows through France Luxembourg and Germany
+
     - eng: Mother's Day
       ru: День матери
+      example: Mother's Day is celebrated to honor mothers and motherhood
+
     - eng: Motion Picture
       ru: кинокартина; кинокартина, кинофильм
+      example: The motion picture industry produces films for entertainment
+
     - eng: Move out of the cage
       ru: Убирайся из клетки
+      example: The zookeeper told the animal to move out of the cage for cleaning
+
     - eng: Moving away
       ru: отойдя
+      example: Moving away from the crowd helped me hear the speaker better
+
     - eng: Mozambican
       ru: житель Мозамбик
+      example: The Mozambican told us about the country's long coastline
+
     - eng: Mozambique channel
       ru: Мозамбикский пролив
+      example: The Mozambique Channel separates Madagascar from mainland Africa
+
     - eng: Mudblood
       ru: грязнокровка
+      example: In Harry Potter mudblood is an insult for wizards with non magical parents
+
     - eng: Muhammad
       ru: Мухаммед
+      example: Muhammad is the central figure of Islam and a prophet to Muslims
+
     - eng: Musca
       ru: Муха
+      example: Musca is a small southern constellation representing a fly
+
     - eng: Muslim
       ru: мусульманин
+      example: The Muslim prayed five times a day facing Mecca
+
     - eng: Muslim holiday
       ru: Мусульманский праздник
+      example: Eid al Fitr is an important Muslim holiday marking the end of Ramadan
+
     - eng: Muslims
       ru: мусульмане
+      example: Muslims around the world fast during the month of Ramadan
+
     - eng: My adress is...
       ru: Мой адрес...
+      example: My address is 123 Main Street apartment 4B
+
     - eng: My annual salary is not very high.
       ru: Моя годовая зарплата не слишком высокая.
+      example: I live modestly because my annual salary is not very high
+
     - eng: My annual salary is not very high.
       ru: Моя годовая зарплата не слишком высокая.
+      example: My annual salary is not very high but I enjoy my work
+
     - eng: My baggage is broken, and some things are missing.
       ru: Мой багаж поврежден, и некоторых вещей не хватает.
+      example: My baggage is broken and some things are missing from inside
+
     - eng: My baggage is broken, and some things are missing.
       ru: Мой багаж поврежден, и некоторых вещей не хватает.
+      example: I need to file a complaint because my baggage is broken and some things are missing
+
     - eng: My bank balance is very low.
       ru: У меня очень маленький остаток на счете.
+      example: I cannot afford a vacation because my bank balance is very low
+
     - eng: My boss offered me a promotion.
       ru: Начальник предложил мне повышение.
+      example: My boss offered me a promotion with a significant salary increase
+
     - eng: My boss offered me a promotion.
       ru: Начальник предложил мне повышение.
+      example: I am excited because my boss offered me a promotion to team leader
+
     - eng: My cat gets hungry
       ru: Моя кошка проголодалась
+      example: My cat gets hungry every morning at exactly six o clock
+
     - eng: My co-workers are very nice people.
       ru: Мои коллеги очень милые люди.
+      example: I enjoy going to work because my co workers are very nice people
+
     - eng: My co-workers are very nice people.
       ru: Мои коллеги очень милые люди.
+      example: My co workers are very nice people who always help me when I need it
+
     - eng: My coffee is not hot.
       ru: Мой кофе не горячий.
+      example: Can you heat this up because my coffee is not hot anymore
+
     - eng: My fish is too salty.
       ru: Моя рыба пересолена.
+      example: I cannot eat this because my fish is too salty
+
     - eng: My friends will drink freshly squeezed orange juice.
       ru: Мои друзья будут пить свежевыжатый апельсиновый сок.
+      example: At breakfast my friends will drink freshly squeezed orange juice
+
     - eng: My head felt as if it were going to fall off
       ru: Моя голова, кажется, сейчас отвалится
+      example: After the long roller coaster ride my head felt as if it were going to fall off
+
     - eng: My hobby is taking photographs.
       ru: Мое хобби — фотография.
-    - eng: My hobby is taking photographs.
-      ru: Мое хобби — фотография.
+      example: My hobby is taking photographs of wildlife in their natural habitat
+
     - eng: My hobby takes me quite a lot of time.
       ru: Мое увлечение требует много времени.
     - eng: My hobby takes me quite a lot of time.
