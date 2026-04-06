@@ -1843,9 +1843,9 @@ app.words:
       ru: У вас в меню есть закуски?
       example: Before ordering, she asked the waiter, "Are appetizers listed in the menu?"
 
-    - eng: Are the antibiotics available without a prescription?
-      ru: Можно ли купить антибиотики без рецепта?
-      example: The traveler asked the pharmacist, "Are the antibiotics available without a prescription?"
+    - eng: Prescription
+      ru: Рецепт
+      example: Are the antibiotics available without a prescription?
 
     - eng: Are there any exchange facilities in this city?
       ru: В этом городе есть какие-нибудь обменные пункты?
@@ -2637,808 +2637,688 @@ app.words:
 
     - eng: Can I take early retirement?
       ru: Могу ли я досрочно уйти на пенсию?
-    - eng: Can I take early retirement?
-      ru: Можно мне досрочно уйти на пенсию?
+      example: At age 55, he asked his employer, "Can I take early retirement without penalty?"
+
     - eng: Can I try it on?
       ru: Могу я это померить?
-    - eng: Can I try it on?
-      ru: Могу я это померить?
+      example: She picked up the dress and asked the sales assistant, "Can I try it on?"
+
     - eng: Can this bank supply us with foreign currency?
       ru: В этом банке мы сможем получить иностранную валюту?
+      example: The traveler asked, "Can this bank supply us with foreign currency for our trip?"
+
     - eng: Can we talk a little bit?
       ru: Мы можем поболтать немного?
+      example: After the meeting, she said, "Can we talk a little bit in private?"
+
     - eng: Can you be more specific?
       ru: Что вы имеете в виду? / Что вы хотите этим сказать?
+      example: The detective pressed the witness, "Can you be more specific about what you saw?"
+
     - eng: Can you bring us some ketchup?
       ru: Можете принести нам кетчуп?
+      example: The child asked the waiter, "Can you bring us some ketchup for our fries?"
+
     - eng: Can you fill me in on what happened?
       ru: Можешь рассказать мне, что произошло?
+      example: I missed the meeting, so can you fill me in on what happened?
+
     - eng: Can you give me a lift to the 9th floor?
       ru: До 9-го подбросите?
+      example: He pressed the elevator button and asked, "Can you give me a lift to the 9th floor?"
+
     - eng: Can you manage it?
       ru: Ты справишься с этим?
+      example: The boss looked at the heavy box and asked, "Can you manage it alone?"
+
     - eng: Can you play the guitar?
       ru: Вы умеете играть на гитаре?
-    - eng: Can you play the guitar?
-      ru: Вы умеете играть на гитаре?
+      example: At the campfire, someone asked, "Can you play the guitar for us?"
+
     - eng: Can you recommend an interesting tour?
       ru: Вы можете порекомендовать интересную экскурсию?
-    - eng: Can you recommend an interesting tour?
-      ru: Вы можете порекомендовать интересную экскурсию?
+      example: The tourist asked the hotel concierge, "Can you recommend an interesting tour of the city?"
+
     - eng: Can you take a sick leave at work?
       ru: У Вас на работе можно уйти на больничный?
+      example: The new employee asked, "Can you take a sick leave at work during probation?"
+
     - eng: Can you tell me about...?
       ru: Не могли бы Вы рассказать мне о...?
-    - eng: Can you wrap it, please? It’s a gift.
+      example: '"Can you tell me about your experience working abroad?" the interviewer asked'
+
+    - eng: Can you wrap it, please? It's a gift.
       ru: Вы не могли бы это завернуть? Это подарок.
-    - eng: Can you wrap it, please? It’s a gift.
-      ru: Вы не могли бы это завернуть? Это подарок.
+      example: She handed the box to the clerk and said, "Can you wrap it, please? It's a gift."
+
     - eng: Can't even think of anything to mumble to myself
       ru: Даже не могу придумать, что бы такое пробормотать себе под нос
+      example: Frustrated and tired, he admitted, "I can't even think of anything to mumble to myself."
+
     - eng: Canaan
       ru: Ханаан
+      example: In the Bible, Canaan is described as the Promised Land for the Israelites
+
     - eng: Canada
       ru: Канада
+      example: Canada is the second largest country in the world by land area
+
     - eng: Canadian
       ru: канадец, канадка
+      example: The Canadian apologized politely, as the stereotype suggests
+
     - eng: Canberra
       ru: Канберра
+      example: Canberra is the capital of Australia, located between Sydney and Melbourne
+
     - eng: Canes Venatici
       ru: гончие псы
+      example: Canes Venatici is a small northern constellation representing hunting dogs
+
     - eng: Canis Major
       ru: созвездие Большой Пес
+      example: Canis Major contains Sirius, the brightest star in the night sky
+
     - eng: Canis Minor
       ru: Малый Пёс (созвездие)
+      example: Canis Minor is a small constellation best known for its bright star Procyon
+
     - eng: Cape Verde – Republic of Cape Verde
       ru: Кабо-Верде
+      example: Cape Verde is an island nation off the coast of West Africa
+
     - eng: Capital gain
       ru: прирост капитала
+      example: He sold his stocks and reported a significant capital gain on his taxes
+
     - eng: Capricornus
       ru: Козерог
+      example: Capricornus is one of the twelve zodiac constellations
+
     - eng: Caribbean Sea
       ru: Карибское море
+      example: The Caribbean Sea is famous for its warm waters and coral reefs
+
     - eng: Carina
       ru: киль
+      example: Carina is a southern constellation containing the star Canopus
+
     - eng: Carthago
       ru: Карфаген
+      example: Carthago was an ancient city-state destroyed by Rome in the Punic Wars
+
     - eng: Castries
       ru: Кастри
+      example: Castries is the capital of Saint Lucia in the Caribbean
+
     - eng: Catholic
       ru: католический
+      example: The Catholic church has its headquarters in Vatican City
+
     - eng: Celebes Sea
       ru: Целебесское море
+      example: The Celebes Sea is bordered by the Philippines, Malaysia, and Indonesia
+
     - eng: Celtic Sea
       ru: Кельтское море
+      example: The Celtic Sea lies south of Ireland and west of Wales
+
     - eng: Centaurus
       ru: центавр (кентавр)
+      example: Centaurus is a southern constellation that contains the closest star system to Earth
+
     - eng: Central African Republic
       ru: цар, центральноафриканская республика
+      example: The Central African Republic is one of the poorest countries in the world
+
     - eng: Cepheus
       ru: Цефей
+      example: Cepheus is a northern constellation named after a king in Greek mythology
+
     - eng: Ceram Sea
       ru: море Серам
+      example: The Ceram Sea is located in eastern Indonesia near the Maluku Islands
+
     - eng: Certificate of Deposit (CD)
       ru: депозитный сертификат
+      example: She invested $10,000 in a Certificate of Deposit with a fixed interest rate
+
     - eng: Cetus
       ru: Кит
+      example: Cetus is a large equatorial constellation representing a sea monster
+
     - eng: Chad – Republic of Chad
       ru: Чад, Республика Чад
+      example: Chad is a landlocked country in north-central Africa
+
     - eng: Chadian
       ru: житель Чада
+      example: The Chadian guide knew the desert routes better than anyone
+
     - eng: Chamaeleon
       ru: Хамелеон
+      example: Chamaeleon is a small southern constellation near the South Celestial Pole
+
     - eng: Chang Jiang
       ru: Янцзы
+      example: The Chang Jiang is the longest river in Asia and the third longest in the world
+
     - eng: Chanukah
       ru: ханука
+      example: Chanukah is the Jewish Festival of Lights, celebrated for eight nights
+
     - eng: Chemical Law
       ru: Химический Закон
+      example: The Law of Conservation of Mass is a fundamental chemical law
+
     - eng: Chemist/drugstore/pharmacy
       ru: аптека (не только продают, но и готовят лекарства)
+      example: He went to the chemist to pick up his prescription for antibiotics
+
     - eng: Chesapeake Bay
       ru: Чесапикский залив
+      example: Chesapeake Bay is the largest estuary in the United States
+
     - eng: Chile – Republic of Chile
-      ru: чили, республика чили
+      ru: Чили, республика чили
+      example: Chile stretches along the western edge of South America for over 4,000 km
+
     - eng: Chilean
       ru: чилиец, чилийка
+      example: The Chilean invited us to taste his country's famous red wine
+
     - eng: China silk
       ru: крепдешин
+      example: The scarf was made of fine China silk that felt smooth against the skin
+
     - eng: China – People's Republic of China
       ru: Китай, Китайская Народная Республика
+      example: China has the world's largest population with over 1.4 billion people
+
     - eng: Chinese New Year
       ru: Китайский Новый год
+      example: Chinese New Year is celebrated with fireworks, red envelopes, and family reunions
+
     - eng: Chisinau
       ru: Кишинев
+      example: Chisinau is the capital of Moldova, known for its wine cellars
+
     - eng: Chop your own wood and it will warm you twice. Henry Ford.
       ru: Если ты будешь колоть дрова сам, то согреешься ими дважды. Генри Форд
+      example: Henry Ford famously said, "Chop your own wood and it will warm you twice."
+
     - eng: Chrism
       ru: миро
+      example: Chrism is consecrated oil used in baptism and confirmation ceremonies
+
     - eng: Christian
       ru: христианин
+      example: The Christian prayed every Sunday at the local church
+
     - eng: Christian Holy Places
       ru: святые места для христиан
+      example: Jerusalem, Bethlehem, and Nazareth are important Christian Holy Places
+
     - eng: Christmas
       ru: рождество
+      example: Christmas is celebrated on December 25th as the birth of Jesus Christ
+
     - eng: Christmas Day
       ru: первый день рождества
+      example: Christmas Day is a public holiday when families exchange gifts
+
     - eng: Christmas cake
-      ru: рождественский кекс
+      ru: Рождественский кекс
+      example: She baked a traditional Christmas cake with dried fruits and marzipan
+
     - eng: Christmas card
       ru: Рождественская открытка
+      example: He sent a Christmas card to all his relatives every December
+
     - eng: Christmas carol
-      ru: колядка
+      ru: Колядка
+      example: The choir sang Christmas carols door to door on Christmas Eve
+
     - eng: Christmas eve
-      ru: канун Рождества
+      ru: Канун Рождества
+      example: On Christmas Eve, children hang stockings for Santa Claus
+
     - eng: Christmas holidays
       ru: рождественский каникулы
+      example: The Christmas holidays are the perfect time to visit family
+
     - eng: Christmas present
       ru: рождественский подарок
+      example: She unwrapped her Christmas present and found a new bicycle
+
     - eng: Christmas tree
       ru: Елка
+      example: The family decorated the Christmas tree with lights and ornaments
+
     - eng: Chukchi Sea
       ru: Чукотское море
+      example: The Chukchi Sea lies between Russia and Alaska in the Arctic Ocean
+
     - eng: Cimbri
       ru: кимвры
+      example: The Cimbri were a Germanic tribe that threatened the Roman Republic
+
     - eng: Cinco de Mayo
       ru: 5 мая (мексиканский праздник)
+      example: Cinco de Mayo commemorates Mexico's victory over France at the Battle of Puebla
+
     - eng: Circinus
       ru: Циркуль
+      example: Circinus is a small southern constellation near Centaurus
+
     - eng: Close the stowage bin until the click
       ru: Закройте ящик над головой до щелчка
+      example: The flight attendant instructed, "Close the stowage bin until the click is heard."
+
     - eng: Close your eyes and get down
       ru: Закрой глаза и ложись
+      example: The mother told her frightened child, "Close your eyes and get down under the covers."
+
     - eng: Coffee? If it is no bother.
       ru: Кофе? Если не трудно.
+      example: He asked his host politely, "Coffee? If it is no bother."
+
     - eng: Colombian
       ru: колумбиец; колумбийка
+      example: The Colombian taught us how to make fresh arepas for breakfast
+
     - eng: Colombo
       ru: Коломбо
+      example: Colombo is the commercial capital of Sri Lanka
+
     - eng: Colorado
       ru: Колорадо
+      example: The Colorado River carved the Grand Canyon over millions of years
+
     - eng: Columba
       ru: Голубь
+      example: Columba is a small southern constellation named after Noah's dove
+
     - eng: Columbus Day
       ru: День Колумба
+      example: Columbus Day commemorates Christopher Columbus's arrival in the Americas in 1492
+
     - eng: Coma Berenices
       ru: волосы вероники
+      example: Coma Berenices is a faint constellation named after Queen Berenice's hair
+
     - eng: Come down from there
       ru: Спускайся оттуда
+      example: The father shouted to his son on the roof, "Come down from there right now!"
+
     - eng: Come early
       ru: Приходить пораньше
+      example: If you want good seats, you should come early to the concert
+
     - eng: Come on
-      ru: давай!, пошли!, брось!, проходить, приходить, приближаться
+      ru: Давай!, пошли!, брось!, проходить, приходить, приближаться
+      example: Come on, we're going to be late! she urged her slow-moving friend
+
     - eng: Come on, keep up
-      ru: давай, не отставай
+      ru: Давай, не отставай
+      example: 'The hiking guide called back, "Come on, keep up with the group!"'
+
     - eng: Come on, let me get you to sit up
       ru: Давай, позволь мне помочь тебе сесть
+      example: 'The nurse said gently, "Come on, let me get you to sit up for a moment."'
+
     - eng: Come on. Let's get this over with.
       ru: Давай закончим с этим делом
+      example: The patient sighed and said, Come on. Let's get this over with.
+
     - eng: Come over to the dark side
       ru: Переходи на темную сторону; Переходи на темную сторону
+      example: 'The villain grinned and whispered, "Come over to the dark side, Luke."'
+
     - eng: Come set down
       ru: Иди садись
+      example: 'The grandmother patted the chair and said, "Come set down next to me."'
+
     - eng: Come to us!
       ru: Приезжайте к нам в гости!
+      example: 'The invitation read, "Come to us for dinner this Saturday evening."'
+
     - eng: Common market
       ru: общий рынок
+      example: The European Common Market evolved into the European Union
+
     - eng: Comoros – Union of the Comoros
-      ru: коморы, союз коморских островов
+      ru: Коморы, союз коморских островов
+      example: The Comoros is an island nation in the Indian Ocean between Madagascar and Mozambique
+
     - eng: Conakry
       ru: Конакри
+      example: Conakry is the capital and largest city of Guinea
+
     - eng: Confectioner's/candy shop
-      ru: кондитерская
+      ru: Кондитерская
+      example: The children pressed their faces against the window of the confectioner's shop
+
     - eng: Confucianism
       ru: Конфуцианство
+      example: Confucianism emphasizes respect for elders and social harmony
+
     - eng: Congo
-      ru: конго
-    - eng: Congo - Democratic Republic of the (Congo- Kinshasa)
+      ru: Конго
+      example: The Congo River is the second longest river in Africa
+
+    - eng: Congo - Democratic Republic of the (Congo-Kinshasa)
       ru: ДР Конго, Демократическая Республика Конго
+      example: The Democratic Republic of the Congo is rich in mineral resources
+
     - eng: Copenhagen
       ru: Копенгаген
+      example: Copenhagen is the capital of Denmark, famous for its bicycle culture
+
     - eng: Coral Sea
       ru: Коралловое море
+      example: The Coral Sea is located off the northeast coast of Australia
+
     - eng: Corona Australis
       ru: южная корона
+      example: Corona Australis is a small southern constellation shaped like a crown
+
     - eng: Corona Borealis
       ru: Северная Корона (созвездие)
+      example: Corona Borealis is a small northern constellation of seven stars
+
     - eng: Corvus
       ru: Ворон
+      example: Corvus is a small southern constellation next to Virgo
+
     - eng: Costa Rica
       ru: Коста-Рика, Республика Коста-Рика
+      example: Costa Rica is known for its biodiversity and ecotourism
+
     - eng: Costa Rican
       ru: житель Коста-Рики
+      example: The Costa Rican explained the concept of "pura vida" to the tourists
+
     - eng: Could I also have a side order of mashed potatoes?
       ru: Можно мне принести в качестве гарнира картофельное пюре?
+      example: He ordered steak and asked, "Could I also have a side order of mashed potatoes?"
+
     - eng: Could I have a late check out?
       ru: Могу ли я освободить номер позже?
+      example: The guest called the front desk and asked, "Could I have a late check out tomorrow?"
+
     - eng: Could we have more bread, please?
       ru: Не могли бы вы принести еще хлеба?
+      example: The diner asked the waiter, "Could we have more bread, please?"
+
     - eng: Could you call around the local hospitals and clinics
       ru: Не могли бы вы обзвонить местные больницы и поликлиники
+      example: '"Could you call around the local hospitals and clinics to find my son?" the mother begged'
+
     - eng: Could you change a ten pound note, please?
       ru: Вы не могли бы разменять десятифунтовую банкноту, пожалуйста?
+      example: He approached the cashier and asked, "Could you change a ten pound note, please?"
+
     - eng: Could you check up once more, please.
       ru: Не могли бы вы проверить еще раз, пожалуйста?
+      example: The anxious customer said, "Could you check up once more, please. I think there's a mistake."
+
     - eng: Could you give it a bit of volume?
       ru: Вы могли бы придать моим волосам немного объема?
-    - eng: Could you give it a bit of volume?
-      ru: Вы могли бы придать моим волосам немного объема?
+      example: At the salon, she asked the stylist, "Could you give it a bit of volume?"
+
     - eng: Could you leave feedback for this transaction, please?
       ru: Не могли бы вы оставить отзыв по данной сделке?
+      example: The seller messaged, "Could you leave feedback for this transaction, please?"
+
     - eng: Could you make it a bit shorter at the back and sides?
       ru: Вы не могли бы постричь чуть-чуть сзади и с боков?
-    - eng: Could you make it a bit shorter at the back and sides?
-      ru: Не могли бы вы подстричь немного короче сзади и по бокам?
+      example: The man told the barber, "Could you make it a bit shorter at the back and sides?"
+
     - eng: Could you please bring us a sponge cake and two dessert forks?
       ru: Не могли бы вы принести нам бисквит и 2 десертные вилки?
+      example: She called the waiter and said, "Could you please bring us a sponge cake and two dessert forks?"
+
     - eng: Could you repeat, please?
       ru: Не могли бы вы повторить, пожалуйста?
+      example: Could you repeat, please? I didn't catch your name
+
     - eng: Could you speak a little bit slower, please?
       ru: Вы не могли бы говорить немного помедленнее, пожалуйста?
-    - eng: Could you speak a little bit slower, please?
-      ru: Вы не могли бы говорить немного помедленее, пожалуйста?
+      example: The language learner asked, "Could you speak a little bit slower, please?"
+
     - eng: Could you tell me where the pharmacy is?
       ru: Не могли бы вы мне сказать, где находится аптека?
-    - eng: Could you tell me where the pharmacy is?
-      ru: Не могли бы вы мне сказать, где находится аптека?
+      example: The lost tourist asked a passerby, "Could you tell me where the pharmacy is?"
+
     - eng: Could you wrap it, please?
       ru: Заверните, пожалуйста.
-    - eng: Could you wrap it, please?
-      ru: Заверните, пожалуйста.
+      example: He pointed to the china vase and said, "Could you wrap it, please? It's fragile."
+
     - eng: Counter number nine, please.
       ru: Стойка девять, пожалуйста.
+      example: The airline agent directed, "Counter number nine, please, for international flights."
+
     - eng: Creative Connectors
       ru: творческие посредники
+      example: Creative connectors help bridge the gap between artists and producers
+
     - eng: Crimean War
       ru: Крымская война
+      example: The Crimean War was fought between Russia and an alliance of France, Britain, and the Ottoman Empire
+
     - eng: Croat or Croatian
       ru: хорват, хорватка
+      example: The Croatian showed us around the ancient walls of Dubrovnik
+
     - eng: Crowberry
       ru: водяника
+      example: Crowberry is a small dark berry that grows in arctic and alpine regions
+
     - eng: Cygnus
       ru: Лебедь
+      example: Cygnus is a prominent northern constellation also known as the Northern Cross
+
     - eng: Cypriot
       ru: киприот; киприотка
+      example: The Cypriot offered us freshly squeezed orange juice from his orchard
+
     - eng: Czech
       ru: чех, чешка
+      example: The Czech taught us how to properly pour a Pilsner beer
+
     - eng: Czech Republic
       ru: Чехия, Чешская Республика
+      example: The Czech Republic is famous for its castles and beer culture
+
     - eng: DCI
       ru: Декомпрессионная болезнь у фридайверов
+      example: DCI is a serious risk for deep freedivers who ascend too quickly
+
     - eng: DJ
       ru: диджей
+      example: The DJ played a mix of house and electronic music all night long
+
     - eng: DVD player
       ru: DVD-плейер
+      example: The old DVD player still worked perfectly for watching movies
+
     - eng: Dace
       ru: елец
+      example: The dace is a small freshwater fish common in European rivers
+
     - eng: Daily deals
       ru: Ежедневные скидки/акции
+      example: The website offers daily deals on electronics and clothing
+
     - eng: Dalai Lama
       ru: далай-лама
+      example: The Dalai Lama is the spiritual leader of Tibetan Buddhism
+
     - eng: Dane
       ru: датчанин; датчанка
+      example: The Dane told us about the concept of "hygge" in Danish culture
+
     - eng: Dane or Danish
       ru: датчанин; датчанка
+      example: The Danish baker made the most delicious rye bread
+
     - eng: Danube
       ru: Дунай
+      example: The Danube River flows through ten European countries
+
     - eng: Daoism
       ru: даосизм
+      example: Daoism teaches the concept of wu wei, or effortless action
+
     - eng: Dar al-Islam
       ru: дар аль-ислам
+      example: Dar al-Islam refers to Muslim lands where Islamic law prevails
+
     - eng: Dark Mark
       ru: чёрная метка
+      example: In Harry Potter, the Dark Mark was Lord Voldemort's symbol
+
     - eng: Dark green
       ru: тёмно-зелёный
+      example: She painted her front door a rich dark green color
+
     - eng: Daugava
       ru: Даугава
+      example: The Daugava River flows through Russia, Belarus, and Latvia to the Baltic Sea
+
     - eng: Davis Sea
       ru: море Дейвиса
+      example: The Davis Sea is part of the Southern Ocean off Antarctica's coast
+
     - eng: Davis Strait
       ru: пролив Дейвиса
+      example: The Davis Strait separates Greenland from Canada's Baffin Island
+
     - eng: Daw
       ru: галка
+      example: The daw perched on the church tower and called loudly
+
     - eng: Day of the Dead
       ru: День мертвецов
+      example: Day of the Dead is a Mexican holiday honoring deceased ancestors with altars
+
     - eng: Dead ball
       ru: ситуация при которой время остановлено, фол вне игры
+      example: The referee called a dead ball after the player stepped out of bounds
+
     - eng: Dead on time
       ru: вовремя, с точностью до секунды
+      example: The train arrived dead on time, exactly at 8:15
+
     - eng: Dearly
       ru: дорого; нежно
+      example: She loved him dearly, but they could not be together
+
     - eng: Death Eater
       ru: пожиратель смерти
+      example: The Death Eaters were Lord Voldemort's loyal followers in Harry Potter
+
     - eng: December
       ru: декабрь
+      example: December is the coldest month in most of the Northern Hemisphere
+
     - eng: Delphinus
       ru: Дельфин
+      example: Delphinus is a small northern constellation shaped like a dolphin
+
     - eng: Deluminator
       ru: делюминатор
+      example: Dumbledore's deluminator could absorb and release light sources
+
     - eng: Democratic People's Republic of Korea
       ru: Корейская Народно-Демократическая Республика (Северная Корея)
+      example: The Democratic People's Republic of Korea is commonly known as North Korea
+
     - eng: Denmark Strait
       ru: Датский пролив
+      example: The Denmark Strait lies between Greenland and Iceland
+
     - eng: Department Store
       ru: универмаг
+      example: The department store sold everything from clothing to furniture
+
     - eng: Desman
       ru: Выхухоль
+      example: The desman is a small semi-aquatic mammal related to moles
+
     - eng: Despite vehement opposition we've done it
       ru: Несмотря на яростное сопротивление, мы сделали это
+      example: Despite vehement opposition we've done it, the CEO announced proudly
+
     - eng: Dhaka
       ru: Дакка
+      example: Dhaka is the capital of Bangladesh, one of the most densely populated cities
+
     - eng: Dhul Hijja
       ru: зульхиджа
+      example: Dhul Hijja is the twelfth month of the Islamic calendar, when Hajj takes place
+
     - eng: Diagon Alley
-      ru: косой переулок.
+      ru: косой переулок
+      example: In Harry Potter, Diagon Alley is a hidden street where wizards buy their supplies
+
     - eng: Diamonds are a girl`s best friends. Marylin Monroe.
       ru: Лучшие друзья девушек — это бриллианты. Мэрилин Монро.
+      example: Marilyn Monroe famously sang, "Diamonds are a girl's best friends."
+
     - eng: Diamonds never leave you... men do. Shirley Bassey.
       ru: Бриллианты никогда вас не покинут, а мужчины — да. Ширли Бэйси
+      example: Shirley Bassey joked, "Diamonds never leave you... men do."
+
     - eng: Dicentra
       ru: дицентра
+      example: Dicentra flowers, also known as bleeding hearts, bloom in spring
+
     - eng: Did I get you right
       ru: я правильно тебя понял
+      example: '"Did I get you right, or did you mean something else?" he asked carefully'
+
     - eng: Did he ever look out of the window
       ru: Он когда-нибудь выглядывал в окно
+      example: The detective asked, "Did he ever look out of the window before the shooting?"
+
     - eng: Did you catch the news today?
       ru: Ты в курсе сегодняшних новостей?
+      example: '"Did you catch the news today about the storm?" she asked her husband'
+
     - eng: Did you figure out the reason
       ru: Вы выяснили причину
+      example: The manager asked the technician, "Did you figure out the reason for the failure?"
+
     - eng: Did you figure out your situation
       ru: Ты разобрался в твоей ситуации?
+      example: His friend asked, "Did you figure out your situation with the bank?"
+
     - eng: Did you go to last year's conference?
       ru: Вы были на конференции в прошлом году?
+      example: Did you go to last year's conference in Berlin?
+
     - eng: Did you hear about that strike in Barcelona?
       ru: Ты слышал об этой забастовке в Барселоне?
+      example: '"Did you hear about that strike in Barcelona?" the traveler asked at the hostel'
+
     - eng: Did you take your medicine?
       ru: Ты принял лекарство?
+      example: The nurse asked the patient, "Did you take your medicine this morning?"
+
     - eng: Didn't think you could carve
       ru: Не думал, что ты умеешь вырезать
+      example: Looking at the wooden sculpture, he said, "I didn't think you could carve like that."
+
     - eng: Die like all my boys you took out
       ru: Умри, как все мои парни, которых ты забрал
+      example: The vengeful boss shouted, "Die like all my boys you took out!"
+
     - eng: Dig down
       ru: докопаться до
-    - eng: Dig myself a little burrow
-      ru: Выкопать себе маленькую норку
-    - eng: Dili
-      ru: Дили
-    - eng: Diseases were spread through poor sanitary conditions
-      ru: Болезни распространялись из-за плохих санитарных условий
-    - eng: Divorce may break up partnership
-      ru: Развод может привести к разрыву партнерских отношений
-    - eng: Djibouti – Republic of Djibouti
-      ru: джибути, республика джибути
-    - eng: Dnieper
-      ru: Днепр
-    - eng: Dniester
-      ru: Днестр
-    - eng: Do nothing
-      ru: ничего не делать
-    - eng: Do they sell duty-free goods on board?
-      ru: Можно в самолете купить что-нибудь без пошлины?
-    - eng: Do they sell duty-free goods on board?
-      ru: Можно в самолете купить что-нибудь без пошлины?
-    - eng: Do they serve a vanilla creme brulee here?
-      ru: У них подают ванильный крем- брюле?
-    - eng: Do we need to call an ambulance?
-      ru: Нам нужно позвонить в скорую?
-    - eng: Do we need to call an ambulance?
-      ru: Нам нужно позвонить в скорую?
-    - eng: Do you believe in love at first sight?
-      ru: Вы верите в любовь с первого взгляда?
-    - eng: Do you believe that you will fit in there
-      ru: Вы верите, что вы туда впишетесь
-    - eng: Do you get along with all your coworkers?
-      ru: Вы ладите со всеми своими коллегами?
-    - eng: Do you get it (Do you understand)?
-      ru: Ты понимаешь?
-    - eng: Do you have a catalogue?
-      ru: У вас есть каталог?
-    - eng: Do you have a large?
-      ru: У вас есть размер L?
-    - eng: Do you have a large?
-      ru: У вас есть размер L?
-    - eng: Do you have a larger size?
-      ru: У вас есть на размер больше?
-    - eng: Do you have a larger size?
-      ru: У вас есть на размер больше?
-    - eng: Do you have a reservation?
-      ru: У вас заказан столик?
-    - eng: Do you have a smaller size?
-      ru: У вас есть на размер меньше?
-    - eng: Do you have a smaller size?
-      ru: У вас есть на размер меньше?
-    - eng: Do you have a well-paid job?
-      ru: У вас есть хорошо оплачиваемая работа?
-    - eng: Do you have a well-paid job?
-      ru: У вас есть хорошо оплачиваемая работа?
-    - eng: Do you have a work bestie?
-      ru: У Вас есть лучший друг на работе?
-    - eng: Do you have an Instagram profile?
-      ru: У вас есть профиль в инстаграме?
-    - eng: Do you have any bracelets?
-      ru: У вас есть браслеты?
-    - eng: Do you have any bracelets?
-      ru: У вас есть браслеты?
-    - eng: Do you have any brothers or sisters? / Do you have any siblings?
-      ru: У Вас есть братья или сестры?
-    - eng: Do you have any form of ID on you, sir?
-      ru: У вас есть с собой какое-нибудь удостоверение личности, сэр?
-    - eng: Do you have any questions about the job?
-      ru: У Вас есть какие-нибудь вопросы по поводу работы?
-    - eng: Do you have anything cheaper?
-      ru: Нет ли у вас чего-нибудь подешевле?
-    - eng: Do you have anything cheaper?
-      ru: Нет ли у вас чего-нибудь подешевле?
-    - eng: Do you have contactless delivery?
-      ru: У вас действует бесконтактная доставка заказа?
-    - eng: Do you have door-to-door delivery?
-      ru: Есть ли доставка до двери?
-    - eng: Do you have health insurance?
-      ru: У вас есть медицинская страховка?
-    - eng: Do you have these jeans in size L?
-      ru: У вас есть эти джинсы большого размера/размера L?
-    - eng: Do you have these jeans in size L?
-      ru: У вас есть эти джинсы большого размера/размера L?
-    - eng: Do you have vegetarian options?
-      ru: У вас есть вегетарианские блюда?
-    - eng: Do you know a quicker way to get to main street
-      ru: Вы знаете более быстрый способ добраться до Мейн-стрит?
-    - eng: Do you know where Bob lives
-      ru: Ты знаешь, где живет Боб?
-    - eng: Do you know who is the latest Olympic Games champion?
-      ru: Ты знаешь, кто выиграл последние Олимпийские Игры?
-    - eng: Do you know who is the latest Olympic Games champion?
-      ru: Ты знаешь, кто выиграл последние Олимпийские Игры?
-    - eng: Do you know, what Bryan is doing
-      ru: Ты знаешь, что делает Брайн?
-    - eng: Do you like to meet new people?
-      ru: Тебе нравится встречаться с новыми людьми?
-    - eng: Do you like to meet new people?
-      ru: Вам нравится встречаться с новыми людьми?
-    - eng: Do you need staff for your next project?
-      ru: Вам нужны сотрудники на ваш следующий проект?
-    - eng: Do you need staff for your next project?
-      ru: Вам нужны сотрудники на ваш следующий проект?
-    - eng: Do you offer a free shipping?
-      ru: У вас есть бесплатная доставка?
-    - eng: Do you prefer cats or dogs
-      ru: Ты предпочитаешь кошек или собак?
-    - eng: Do you prefer still or sparkling water?
-      ru: Вы предпочитаете воду без газа или с газом?
-    - eng: Do you ship internationally?
-      ru: У вас международная доставка?
-    - eng: Do you ship to Russia?
-      ru: Отправляете ли вы товары в Россию?
-    - eng: Do you smoke
-      ru: Вы курите?
-    - eng: Do you smoke?
-      ru: Вы курите?
-    - eng: Do you suffer from insomnia?
-      ru: Вы страдаете бессоницей?
-    - eng: Do you think I don't know what's been going on behind my back?
-      ru: Думаешь, я не знаю, что творится у меня за спиной?
-    - eng: Do you think I don't know what's been going on behind my back?
-      ru: Думаешь, я не знаю, что творится у меня за спиной?
-    - eng: Do you think it is serious?
-      ru: Вы думаете, это серьезно?
-    - eng: Do you want me to help you? You bet!
-      ru: Ты хочешь, чтобы я помог тебе? Еще спрашиваешь!
-    - eng: Do you want pancakes with your order?
-      ru: К вашему заказу добавить блины?
-    - eng: Do you want to bring anybody along?
-      ru: Хотите ли Вы взять с собой кого- нибудь?
-    - eng: Do you want to bring anybody along?
-      ru: Хотите ли Вы взять с собой кого- нибудь?
-    - eng: Do you work freelance?
-      ru: Вы занимаетесь фрилансом?
-    - eng: Do you work freelance?
-      ru: Вы занимаетесь фрилансом?
-    - eng: Do you work or study
-      ru: Ты работаешь или учишься?; Ты работаешь или учишься?; Ты работаешь или учишься?
-    - eng: Do your friends live in Moskow or in Paris
-      ru: Твои друзья живут в Москве или Париже?
-    - eng: Dobermann pinscher
-      ru: доберман
-    - eng: Does Bill live in Moskov or in Paris
-      ru: Билл живёт в Москве или Париже?
-    - eng: Does Pamela paint landscapes or portraits
-      ru: Памела рисует пейзажи или портреты?
-    - eng: Does anyone have any suggestions?
-      ru: У кого-нибудь есть какие-либо предложения?
-    - eng: Does he love you
-      ru: Он тебя любит?
-    - eng: Does he want a divorce
-      ru: Хочет ли он развода
-    - eng: Does she prefer cat or dogs
-      ru: Она предпочитает кошек или собак?
-    - eng: Does the flight land somewhere before the final destination?
-      ru: В этом рейсе есть промежуточные посадки?
-    - eng: Does the flight land somewhere before the final destination?
-      ru: В этом рейсе есть промежуточные посадки?
-    - eng: Does the salary come with any perks or bonuses
-      ru: Прилагаются ли к зарплате какие- либо льготы (бесплатный спорт, дмс и тд.) или бонусы
-    - eng: Does this item have any defects?
-      ru: Нет ли дефектов у этого товара?
-    - eng: Doha
-      ru: доха
-    - eng: Doing sports is good for health.
-      ru: Занятия спортом полезны для здоровья.
-    - eng: Doing sports is good for health.
-      ru: Занятия спортом полезны для здоровья.
-    - eng: Dominican Republic
-      ru: Доминиканская Республика
-    - eng: Don't ask me the details
-      ru: Не спрашивай меня о деталях
-    - eng: Don't be late, please!
-      ru: Не опаздывайте, пожалуйста.
-    - eng: Don't be late, please!
-      ru: Не опаздывайте, пожалуйста.
-    - eng: Don't be stupid!
-      ru: не валяй дурака
-    - eng: Don't blow out that candle
-      ru: Не задувай эту свечу
-    - eng: Don't cry because it's over, smile because it happened. Dr. Seuss.
-      ru: Не плачь потому что это закончилось, улыбнись потому что это было. Доктор Сеусс
-    - eng: Don't even look down
-      ru: Даже не смотри вниз
-    - eng: Don't forget to get some euros.
-      ru: Не забудь взять евро.
-    - eng: Don't get cynical
-      ru: Не становись циничным
-    - eng: Don't go to that bank. They charge very large commission.
-      ru: Не ходи в тот банк. У них сильно большая комиссия.
-    - eng: Don't now maybe
-      ru: Не сейчас, может быть
-    - eng: Don't stick your neck out
-      ru: Не высовывай свою шею наружу
-    - eng: Don't worry, I can make it on my own.
-      ru: He волнуйтесь, я сам справлюсь.
-    - eng: Don't you eat grilled lobsters and crabs?
-      ru: Разве ты не ешь лобстеров и крабов на гриле?
-    - eng: Don’t take it to heart.
-      ru: Не принимай это близко к сердцу.
-    - eng: Doppler effect
-      ru: эффект Доплера
-    - eng: Doppler shift
-      ru: допплеровское смещение
-    - eng: Dorado
-      ru: золотая рыба
-    - eng: Down below they blow up a little bridge
-      ru: Внизу они взрывают маленький мостик
-    - eng: Down syndrome
-      ru: синдром Дауна
-    - eng: Down volume
-      ru: уменьшение громкости
-    - eng: Draper's/an interior/design shop
-      ru: магазин декора
-    - eng: Dushanbe
-      ru: Душанбе
-    - eng: Dutch
-      ru: нидерландский; голландский
-    - eng: Dutch man/woman
-      ru: голландец/голландка
-    - eng: Dutchwoman
-      ru: голландка
-    - eng: E
-      ru: ми
-    - eng: E-mail your CV to us, please.
-      ru: Пожалуйста, отправьте нам ваше резюме по почте.
-    - eng: E-mail your CV to us, please.
-      ru: Пожалуйста, отправьте нам ваше резюме по почте.
-    - eng: E2E (End to End)
-      ru: веломаршрут соединяющий крайнюю северную и крайнюю южную точки Великобритании
-    - eng: Each one has its own purpose
-      ru: У каждого своя собственная цель.
-    - eng: Eagles soar
-      ru: Орлы парят
-    - eng: Earth Day
-      ru: "день земли"
-    - eng: East China Sea
-      ru: Восточно-Китайское море
-    - eng: East Siberian Sea
-      ru: Восточно-Сибирское море
-    - eng: East Timor
-      ru: восточный тимор
-    - eng: East Timor – Democratic Republic of Timor- Leste
-      ru: Народно-Демократическая Республика Тимор-Лесте
-    - eng: Easter
-      ru: пасха
-    - eng: Easter Day
-      ru: пасхальное воскресенье, первый день пасхи
-    - eng: Easter-loaf
-      ru: кулич
-    - eng: Ecuadoran
-      ru: житель Эквадора
-    - eng: Ecuadorian
-      ru: житель Эквадора
-    - eng: Editrix
-      ru: редакторша
-    - eng: Egyptian
-      ru: египтянин, египтянка
-    - eng: Eid al-Adha
-      ru: Курбан-байрам
-    - eng: Eid al-Fitr
-      ru: ураза-байрам
-    - eng: Eid prayer
-      ru: молитвы ид
-    - eng: Elbe
-      ru: Эльба
-    - eng: Electrical store
-      ru: магазин электроприборов
-    - eng: Electronic Funds Transfer
-      ru: система электронных платежей
-    - eng: Elver
-      ru: молодой угорь
-    - eng: Emancipation Day
-      ru: День освобождения
-    - eng: England and America are two countries separated by the same language. George Bernard Shaw.
-      ru: Англия и Америка — 2 страны разделённые одним языком. Джордж Бернард Шоу.
-    - eng: English Channel
-      ru: Ла-Манш
-    - eng: English mustard
-      ru: английская горчица
-    - eng: Englishman
-      ru: англичанин
-    - eng: Englishwoman
-      ru: англичанка
-    - eng: Enough on this subject.
-      ru: Довольно об этом.
-    - eng: Enter your PIN.
-      ru: Введите пин-код.
-    - eng: Equuleus
-      ru: Малый Конь
-    - eng: Eridanus
-      ru: Эридан
-    - eng: Eris
-      ru: Эрида
-    - eng: Esala Perahera
-      ru: эсала перахера
-    - eng: Especially those of us with math proficiency
-      ru: Особенно те из нас, кто хорошо владеет математикой
-    - eng: Ethiopian
-      ru: эфиоп
-    - eng: European Economic Community
-      ru: Европейское экономическое сообщество, ЕЭС
-    - eng: Even if you were focused on something else, the surrounding memory should be intact
-      ru: Даже если вы были сосредоточены на чем-то другом, память об окружении должна остаться
-    - eng: Every action has its consequence
-      ru: Каждое действие имеет свои последствия
-    - eng: Every day
-      ru: каждый день
-    - eng: Every evening I died and every evening I was born again. The Fight Club.
-      ru: Каждый вечер я умирал и каждый вечер я рождался заново. Бойцовский клуб.
-    - eng: Every solution breeds new problems. Murphy's law.
-      ru: Каждое решение порождает новые проблемы. Закон Мёрфи
-    - eng: Everybody
-      ru: каждый
-    - eng: Everybody pull out your phones right now
-      ru: Все достаньте свои телефоны прямо сейчас
-    - eng: Everyone will look at him and we'll carry out the plan
-      ru: Все будут смотреть на него, и мы выполним план
-    - eng: Everything takes longer than you think. Murphy's law.
-      ru: Любое дело занимает больше времени, чем вы предполагаете. Закон Мёрфи
-    - eng: Everything you can imagine is real. Pablo Picasso.
-      ru: Всё, что ты можешь вообразить — реально. Пабло Пикассо.
-    - eng: Exaltation of the Cross
-      ru: Воздвижение Креста Господня
-    - eng: Excise Department
-      ru: акцизный департамент
-    - eng: Excuse me, can you help me, please?
-      ru: Извините, не могли бы вы мне помочь, пожалуйста?
-    - eng: Excuse me, can you help me, please?
-      ru: Извините, не могли бы вы мне помочь, пожалуйста?
-    - eng: Extrasolar planet (exoplanet)
-      ru: внесолнечные планеты (экзопланеты)
-    - eng: FALSE
-      ru: ложный
-    - eng: FDIC
-      ru: Федеральная корпорация страхования депозитов
-    - eng: Fairly
-      ru: весьма, довольно
-    - eng: Far from
-      ru: далеко от
-    - eng: Fashion fades, only style remains the same. Coco Chanel.
-      ru: Мода проходит, стиль остается. Коко Шанель.
-    - eng: Father (deacon)
-      ru: Отец (диакон)
-    - eng: Father Christmas
-      ru: дед-мороз
-    - eng: Father's Day
-      ru: День отца
-    - eng: Fear is the enemy of logic. Frank Sinatra.
-      ru: Страх — враг логики. Фрэнк Синатра.
-    - eng: February
-      ru: февраль
-    - eng: Federal Deposit Insurance Corporation
-      ru: Федеральная корпорация страхования депозитов
-    - eng: Federated States of Micronesia
-      ru: микронезия, федеративные штаты микронезии
-    - eng: Feijoa
-      ru: фейхоа
-    - eng: Feral
-      ru: дикий
-    - eng: Figure Skating
-      ru: фигурное катание
-    - eng: Fiji – Republic of Fiji
-      ru: Фиджи, Республика Островов Фиджи
-    - eng: Fijian
-      ru: фиджиец
-    - eng: Filipino
-      ru: филиппинец
-    - eng: Fill in the application form, please.
-      ru: Заполните заявление, пожалуйста.
-    - eng: Finn
-      ru: финн, финка
-    - eng: First floor
-      ru: второй этаж (брит.)
-    - eng: Flag Day
-      ru: День флага
-    - eng: Flame Tree
-      ru: огненное дерево
-    - eng: Flattery is deceptive
-      ru: Лесть обманчива
-    - eng: Float like a butterfly, sting like a bee. Mohammed Ali.
-      ru: Порхай как бабочка, жаль как пчела. Мухаммед Али.
-    - eng: Flores Sea
-      ru: море Флорес
-    - eng: For how long has it been your hobby?
-      ru: Как давно Вы увлекаетесь этим?
-    - eng: For how long has it been your hobby?
-      ru: Как давно Вы увлекаетесь этим?
-    - eng: For my entree, I'll have carpaccio of beef with parmesan.
-      ru: В качестве закуски я съем карпаччо из говядины с пармезаном.
-    - eng: For my entree, I'll have one carpaccio of beef with parmesan.
-      ru: В качестве закуски я съем одно карпаччо из говядины с пармезаном.
-    - eng: Forbidden Forest
-      ru: Запретный Лес
-    - eng: Foreign Secretary
-      ru: министр иностранных дел
-    - eng: Fornax
-      ru: Печь
-    - eng: Frankly, my dear, I don`t give a damn. Rhett Butler.
-      ru: Если честно, моя дорогая, мне наплевать. Ретт Батлер.
-    - eng: Free speech carries with it some freedom to listen. Bob Marley.
-      ru: Свобода говорить несет в себе свободу слушать. Боб Марли.
-    - eng: Free time
-      ru: Свободное время
-    - eng: Freeride
-      ru: фрирайд
-    - eng: Freetown
-      ru: Фритаун
-    - eng: French fries
-      ru: картофель-фри; картофель фри
-    - eng: French horn
-      ru: валторна
-    - eng: Frenchman
-      ru: француз
-    - eng: Frenchwoman
-      ru: француженка
-    - eng: Friday
-      ru: пятница
-    - eng: Friendship cannot stand always on one side. Proverb.
-      ru: Дружба должна быть взаимной. Пословица.
-    - eng: Frightened of
-      ru: напуганный чем-то/кем-то
-    - eng: Funafuti
-      ru: Фунафути
-    - eng: G
-      ru: соль
-    - eng: Gaborone
-      ru: Габороне
-    - eng: Galena
-      ru: галенит
-    - eng: Gambian
-      ru: житель Гамбии
-    - eng: Gantt chart
-      ru: график Гантта
-    - eng: Gemini
-      ru: Близнецы
-    - eng: Georgia
-      ru: Грузия
-    - eng: Germany – Federal Republic of Germany
-      ru: германия, федеративная республика германия
-    - eng: Gesso
-      ru: Левкас
+      example: The archaeologist said, "We need to dig down at least three meters to find the ruins."
+
     - eng: Get in here now
       ru: иди сюда сейчас же
     - eng: Get out of my way.
