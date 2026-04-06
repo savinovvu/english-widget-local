@@ -1466,458 +1466,891 @@ app.words:
     - eng: A huge mosquito bit me yesterday. I think, I need to see a doctor.
       ru: Меня укусил огромный комар вчера. Думаю, мне надо к врачу.
       example: ""
+
     - eng: A lifetime of happiness! No man alive could bear it. George Bernard Shaw.
       ru: Жизнь из сплошного счастья! Ни один живущий на земле не сможет выдержать этого! Бернард Шоу.
       example: ""
+
     - eng: A more comprehensive, preventive approach must be formulated
       ru: Необходимо разработать более всеобъемлющий превентивный подход
       example: ""
+
     - eng: A table for one (two, three) please.
       ru: Мне столик на одного (Нам столик на двоих, троих), пожалуйста.
+      example: The hostess smiled and said, "A table for one, please," as he entered the restaurant
+
     - eng: A whistle blew at the station nearby
       ru: На соседней станции раздался свисток
+      example: A whistle blew at the station nearby, announcing the arrival of the night train
+
     - eng: A.G.M.
       ru: Ежегодное общее собрание
+      example: The shareholders voted on the new board members during the A.G.M. last Friday
+
     - eng: A.T.M.
       ru: банкомат
+      example: I need to find an A.T.M. before the bank closes to withdraw some cash
+
     - eng: AADT (Average Annual Daily Traffic Count)
       ru: средняя интенсивность движения, показатель, применяемый для определения пригодности данной дороги (улицы) для велосипедного движения
+      example: Engineers use the AADT to determine whether a road is safe for bicycle lanes
+
     - eng: Abkhazia
       ru: Абхазия
+      example: Abkhazia is a region in the Caucasus known for its subtropical climate and mountains
+
     - eng: Aborigine
       ru: абориген
+      example: The Australian Aborigine has a rich cultural heritage dating back tens of thousands of years
+
     - eng: About
       ru: о, насчёт; о, про; о
+      example: She wrote a book about her travels through South America
+
     - eng: Abu Dhabi
       ru: Абу-Даби
+      example: Abu Dhabi is the capital of the United Arab Emirates and has many modern skyscrapers
+
     - eng: Accounting Rate of Return
       ru: Учетная норма прибыли
+      example: The Accounting Rate of Return helps companies evaluate the profitability of an investment
+
     - eng: Achaemenid
       ru: ахемениды
+      example: The Achaemenid Empire was the first Persian Empire, founded by Cyrus the Great
+
     - eng: Addis Ababa
       ru: Аддис-Абеба — столица Эфиопии
+      example: Addis Ababa is one of the highest capital cities in Africa, located over 2,300 meters above sea level
+
     - eng: Address book
       ru: адресная книга
+      example: I lost my address book and now I can't find anyone's phone number
+
     - eng: Adriatic Sea
       ru: адриатическое море
+      example: The Adriatic Sea is known for its clear blue waters and beautiful Croatian coastline
+
     - eng: Adventists
       ru: Адвентисты
+      example: Adventists observe Saturday as the Sabbath day of rest
+
     - eng: Aedicule
       ru: небольшое здание
+      example: The garden featured a small aedicule that housed a marble statue
+
     - eng: Aegean Sea
       ru: Эгейское море
+      example: The Aegean Sea is dotted with thousands of Greek islands
+
     - eng: Afghan
       ru: афганец; афганка
+      example: The Afghan worked as a translator for the international forces
+
     - eng: Afghanistan – Islamic Republic of Afghanistan
       ru: афганистан, исламская республика афганистан
+      example: Afghanistan is a landlocked country located at the crossroads of Central and South Asia
+
     - eng: After all, tomorrow is another day! Gone with the Wind.
       ru: В конце концов, завтра — это другой день! Унесённые ветром.
+      example: Despite today's failures, Scarlett O'Hara famously said, "After all, tomorrow is another day!"
+
     - eng: After these thoughts He began to calm down
       ru: За этими мыслями он стал успокаиваться
+      example: After these thoughts he began to calm down, realizing the situation wasn't hopeless
+
     - eng: Age of Revolution
       ru: эпоха революций
+      example: The Age of Revolution saw the American, French, and Haitian revolutions unfold
+
     - eng: Ahura-mazda
       ru: ахурамазда
+      example: Ahura-Mazda is the supreme deity in Zoroastrianism, representing truth and light
+
     - eng: Air ball
       ru: неудачный бросок при котором мяч не задел кольцо или щит
+      example: The crowd groaned when the player shot an air ball from the three-point line
+
     - eng: Airborne
       ru: воздушно-десантный
+      example: The airborne division parachuted behind enemy lines at night
+
     - eng: Albania – Republic of Albania
       ru: албания, республика албания
+      example: Albania is located in Southeastern Europe on the Balkan Peninsula
+
     - eng: Albanian
       ru: албанец, албанка
+      example: The Albanian spoke fluent Italian as well as his native language
+
     - eng: Alboran Sea
       ru: Море Альборан
+      example: The Alboran Sea lies between Spain and Morocco, near the Strait of Gibraltar
+
     - eng: Alcohol may be man's worst enemy, but the bible says love your enemy. Frank Sinatra.
       ru: Может, алкоголь и злейший враг человека, но Библия говорит «Люби своих врагов. Фрэнк Синатра.
+      example: Frank Sinatra joked that alcohol may be man's worst enemy, but the bible says love your enemy
+
     - eng: Algeria – People's Democratic Republic of Algeria
       ru: Алжир, Алжирская Народная Демократическая Республика
+      example: Algeria is the largest country in Africa by land area
+
     - eng: Algerian
       ru: алжирец; алжирка
+      example: The Algerian showed us around the ancient Roman ruins at Timgad
+
     - eng: Algiers
       ru: Алжир
+      example: Algiers is the capital and largest city of Algeria, located on the Mediterranean coast
+
     - eng: Alienist etymology trail leads from Latin
       ru: этимология слова психиатр (алиенист) идет с латинского
+      example: The alienist etymology trail leads from Latin "alienus," meaning "other" or "foreign"
+
     - eng: All I want for Christmas is you. Judy, Love actually.
       ru: Все что я хочу на Рождество — это ты. Джуди, Реальная любовь.
+      example: In the movie Love Actually, Judy holds up signs saying "All I want for Christmas is you"
+
     - eng: All life is a game of luck. Titanic.
       ru: Вся наша жизнь — игра, к тому же азартная. Титаник.
+      example: A character in Titanic reflects that all life is a game of luck, and you never know what comes next
+
     - eng: All of a sudden
       ru: неожиданно
+      example: All of a sudden, the lights went out and everyone screamed
+
     - eng: All the problem of women, starts with men. Santosh Kalwar.
       ru: Все женские проблемы начинаются с мужчин. Сантош Калвар
+      example: Santosh Kalwar once wrote that all the problems of women start with men
+
     - eng: All the way
       ru: полностью от начала до конца, всё это время
+      example: She supported me all the way through college and never doubted my success
+
     - eng: All we are saying is give peace a chance! John Lennon.
       ru: Все мы говорим — дайте миру шанс! Джон Леннон
+      example: John Lennon's famous anthem declared, "All we are saying is give peace a chance!"
+
     - eng: All you need is love. The Beatles.
       ru: Все, что вам нужно — это любовь. Битлз.
+      example: The Beatles taught the world that all you need is love to be happy
+
     - eng: Allah
       ru: Аллах
+      example: Muslims believe that Allah is the one and only God
+
     - eng: Alpha Centauri
       ru: альфа центавра
+      example: Alpha Centauri is the closest star system to our Solar System
+
     - eng: Am I allowed to cook in the kitchen?
       ru: Мне разрешается готовить на кухне?
+      example: The guest asked the host, "Am I allowed to cook in the kitchen?"
+
     - eng: Am I allowed to play loud music?
       ru: Мне разрешается играть громкую музыку?
+      example: The teenager asked his parents, "Am I allowed to play loud music in my room?"
+
     - eng: Am I allowed to smoke?
       ru: Мне разрешается курить?
+      example: He looked around for a no-smoking sign and asked, "Am I allowed to smoke here?"
+
     - eng: American
       ru: американский
+      example: She bought an American car because she trusted the brand's reliability
+
     - eng: Americano
       ru: американо
+      example: He ordered an Americano with an extra shot of espresso
+
     - eng: Amman
       ru: Амман
+      example: Amman is the capital of Jordan and is known for its ancient Citadel
+
     - eng: Amount due
       ru: Сумма к получению
+      example: The invoice clearly stated the amount due by the end of the month
+
     - eng: Amundsen Gulf
       ru: залив Амундсена
+      example: Amundsen Gulf is located in the Northwest Territories of Canada
+
     - eng: Amundsen Sea
       ru: море Амундсена
+      example: The Amundsen Sea is part of the Southern Ocean off the coast of Antarctica
+
     - eng: Amur
       ru: амур
+      example: The Amur River forms the border between Russia and China for many miles
+
     - eng: An extroverted person enjoys meeting new people
       ru: Экстравертному человеку нравится знакомиться с новыми людьми
+      example: An extroverted person enjoys meeting new people, while an introvert prefers solitude
+
     - eng: Ancestral lands
       ru: исконные земли
+      example: The indigenous tribe fought to protect their ancestral lands from developers
+
     - eng: And don't forget to bring my doughnuts.
       ru: И не забудьте принести мои пончики.
+      example: As he left for work, he called out, "And don't forget to bring my doughnuts!"
+
     - eng: And further, they were subtle
       ru: И более того, они были тонкими
+      example: And further, they were subtle in their approach, never revealing their true intentions
+
     - eng: And here is your change for the drink
       ru: И вот ваша сдача за выпивку
+      example: The bartender handed him the coins and said, "And here is your change for the drink"
+
     - eng: And how exactly do I find it?
       ru: Как же мне ее найти?
+      example: She looked at the vague map and asked, "And how exactly do I find it?"
+
     - eng: And only then come forward
       ru: И только потом выходите вперед
+      example: Wait for the signal, and only then come forward to receive your award
+
     - eng: And so on and so forth
       ru: И т.д. и т.п
+      example: The box contained pens, pencils, markers, and so on and so forth
+
     - eng: And that has a lot of consequence
       ru: И это имеет большие последствия
+      example: He made a rash decision, and that has a lot of consequence for the entire team
+
     - eng: Andorra la Vella
       ru: Андорра-ла-Велья
+      example: Andorra la Vella is the highest capital city in Europe, located in the Pyrenees
+
     - eng: Andorra – Principality of Andorra
       ru: андорра, княжество андорра
+      example: Andorra is a small principality located between France and Spain
+
     - eng: Andorran
       ru: житель Андорры
+      example: The Andorran explained that tourism is the main industry in his country
+
     - eng: Anglo-Saxon
       ru: англосакс
+      example: The Anglo-Saxon period in Britain lasted from the 5th to the 11th century
+
     - eng: Angola – Republic of Angola
       ru: ангола, республика ангола
+      example: Angola is rich in oil and diamonds, making it an important African economy
+
     - eng: Angolan
       ru: анголец
+      example: The Angolan proudly showed us photographs of his family in Luanda
+
     - eng: Animagus
       ru: анимаг
+      example: In Harry Potter, an Animagus is a witch or wizard who can transform into an animal
+
     - eng: Animals had died of thirst
       ru: Животные умирали от жажды
+      example: During the severe drought, many animals had died of thirst in the savanna
+
     - eng: Ankara
       ru: Анкара
+      example: Ankara is the capital of Turkey and the country's second-largest city
+
     - eng: Antananarivo
       ru: Антананариву
+      example: Antananarivo is the capital of Madagascar, located in the central highlands
+
     - eng: Anthurium
       ru: антуриум
+      example: The anthurium on her desk had bright red flowers that lasted for months
+
     - eng: Antichrist
       ru: антихрист
+      example: Some Christian traditions believe the Antichrist will appear before the end of the world
+
     - eng: Antigua and Barbuda
       ru: Антигуа и Барбуда
+      example: Antigua and Barbuda is a Caribbean nation known for its 365 beaches
+
     - eng: Antlia
       ru: Насос
+      example: Antlia is a faint southern constellation named after the air pump
+
     - eng: Anyone can screw up your life
       ru: Любой может испортить тебе жизнь
+      example: Be careful who you trust, because anyone can screw up your life if given the chance
+
     - eng: Apia
       ru: Апиа
+      example: Apia is the capital of Samoa, located on the island of Upolu
+
     - eng: Apparently so
       ru: Наверное, это так
+      example: When asked if the rumors were true, she shrugged and said, "Apparently so"
+
     - eng: Apparently, it was not enough
       ru: Видимо, этого было недостаточно
+      example: He studied for hours, but apparently it was not enough to pass the exam
+
     - eng: Apply a cold compress to the injury.
       ru: Приложите к месту ушиба холодный компресс.
+      example: The first aid manual said to apply a cold compress to the injury to reduce swelling
+
     - eng: Apricot canapes would be great.
       ru: Канапе из абрикосов были бы кстати.
+      example: For the summer party, apricot canapes would be great with champagne
+
     - eng: April
       ru: апрель
+      example: April is known for its unpredictable showers and blooming flowers
+
     - eng: April Fools' Day
       ru: День дураков, 1 апреля
+      example: On April Fools' Day, people play harmless pranks on their friends and family
+
     - eng: Apus
       ru: Райская Птица
+      example: Apus is a small constellation in the southern sky, named for the bird of paradise
+
     - eng: Aquarius
       ru: водолей
+      example: People born under Aquarius are often described as independent and humanitarian
+
     - eng: Aquila
       ru: Орёл
+      example: Aquila contains Altair, one of the brightest stars in the summer night sky
+
     - eng: Arabian Sea
       ru: Аравийское море
+      example: The Arabian Sea is an important trade route connecting the Middle East to India
+
     - eng: Arafura Sea
       ru: Арафурское море
+      example: The Arafura Sea lies between Australia and the island of New Guinea
+
     - eng: Arbor Day
       ru: день древонасаждения
+      example: On Arbor Day, schoolchildren plant trees to celebrate the importance of forests
+
     - eng: Arctic Ocean
       ru: Северный Ледовитый океан
+      example: The Arctic Ocean is the smallest and shallowest of the world's five oceans
+
     - eng: Are Neet-a-Porter products available outside the USA?
       ru: Товары Neet-a-Porter продаются за пределами США?
+      example: The customer asked, "Are Neet-a-Porter products available outside the USA?"
+
     - eng: Are appetizers listed in the menu?
       ru: У вас в меню есть закуски?
+      example: Before ordering, she asked the waiter, "Are appetizers listed in the menu?"
+
     - eng: Are the antibiotics available without a prescription?
       ru: Можно ли купить антибиотики без рецепта?
+      example: The traveler asked the pharmacist, "Are the antibiotics available without a prescription?"
+
     - eng: Are there any exchange facilities in this city?
       ru: В этом городе есть какие-нибудь обменные пункты?
+      example: The tourist asked, "Are there any exchange facilities in this city?"
+
     - eng: Are there any famous actors starring in the film?
       ru: Играют ли какие-нибудь знаменитые актеры в этом фильме?
-    - eng: Are there any famous actors starring in the film?
-      ru: Играют ли какие-нибудь знаменитые актеры в этом фильме?
+      example: She checked the movie poster and asked, "Are there any famous actors starring in the film?"
+
     - eng: Are there any new songs in the album? No, there aren't.
       ru: В альбоме есть новые песни? Нет.
+      example: When asked, "Are there any new songs in the album?" the band replied, "No, there aren't."
+
     - eng: Are you able to work from home?
       ru: Вы можете работать из дома?
+      example: The manager asked each employee, "Are you able to work from home if needed?"
+
     - eng: Are you crazy
       ru: ты сумасшедший
+      example: When he suggested jumping off the roof, she shouted, "Are you crazy?"
+
     - eng: Are you dating (seeing) anyone?
       ru: Вы с кем-нибудь встречаетесь?
+      example: His mother asked gently, "Are you dating anyone these days?"
+
     - eng: Are you from our entrance?
       ru: Вы из нашего подъезда?
+      example: The neighbor peered through the window and asked, "Are you from our entrance?"
+
     - eng: Are you getting the picture?
       ru: Ты понимаешь к чему идет дело (о чем идет разговор)?
-    - eng: Are you getting the picture?
-      ru: Ты понимаешь (к чему идет дело / о чем идет разговор)?
+      example: After explaining the plan twice, he asked, "Are you getting the picture now?"
+
     - eng: Are you infected with HIV?
       ru: У вас есть ВИЧ?
+      example: The doctor asked directly, "Are you infected with HIV?" to provide proper care
+
     - eng: Are you kidding
       ru: Ты шутишь
+      example: When he said he'd never seen Star Wars, she replied, "Are you kidding?"
+
     - eng: Are you nuts
       ru: Ты что, ненормальный?
+      example: He tried to pet the wild bear, and his friend yelled, "Are you nuts?"
+
     - eng: Are you nuts?
       ru: Ты что, спятил?
+      example: "Are you nuts?" she screamed as he ran across the highway
+
     - eng: Are you out of your mind?
       ru: Вы в своем уме?
+      example: When he quit his job without a backup plan, everyone asked, "Are you out of your mind?"
+
     - eng: Are you ready to order your meal?
       ru: Вы готовы заказать еду?
+      example: The waitress approached the table and asked, "Are you ready to order your meal?"
+
     - eng: Are you still working for the same company
-      ru: Ты работаешь всё в той же компании?; Ты работаешь всё в той же компании?
+      ru: Ты работаешь всё в той же компании?
+      example: An old friend called and asked, "Are you still working for the same company?"
+
     - eng: Are you still working for the same company?
       ru: Ты работаешь всё в той же компании?
+      example: At the reunion, she asked him, "Are you still working for the same company?"
+
     - eng: Are you vaccinated against polio?
       ru: Вы привиты от полиомиелита?
+      example: The nurse asked each child's parent, "Are you vaccinated against polio?"
+
     - eng: Argentina – Argentine Republic
       ru: аргентина, аргентинская республика
+      example: Argentina is famous for its tango dancing and delicious beef
+
     - eng: Argentine or Argentinean
       ru: аргентинец; аргентинка
+      example: The Argentine showed us how to properly drink mate tea
+
     - eng: Argentinian
       ru: аргентинец; аргентинка
+      example: My Argentinian friend taught me to dance the tango
+
     - eng: Armed Forces
       ru: вооружённые силы
+      example: The Armed Forces held a parade to celebrate Independence Day
+
     - eng: Armenia – Republic of Armenia
       ru: армения, республика армения
+      example: Armenia was the first country to adopt Christianity as its state religion
+
     - eng: Armenian
       ru: армянин, армянка
+      example: The Armenian shared stories about his grandmother's escape from the genocide
+
     - eng: Arrangements broaden the client base
       ru: Договоренности расширяют клиентскую базу
+      example: The marketing team believes that new arrangements broaden the client base significantly
+
     - eng: Arrogance has to be earned. House M.D..
       ru: Высокомерие должно быть заслужено. Доктор Хаус.
+      example: Dr. House famously said, "Arrogance has to be earned," before diagnosing a rare disease
+
     - eng: As I said before, I supervised a team of engineers
       ru: Как я уже говорил ранее, я руководил командой инженеров
+      example: In the interview, he repeated, "As I said before, I supervised a team of engineers"
+
     - eng: As I said before, your joy must come first
       ru: Как я уже говорил, ваша радость должна быть на первом месте
-    - eng: As for me, I’m done for the day
+      example: The therapist reminded her, "As I said before, your joy must come first"
+
+    - eng: As for me, I'm done for the day
       ru: Что касается меня, то на сегодня с меня хватит
+      example: After finishing the report, he announced, "As for me, I'm done for the day"
+
     - eng: As soon as an organism dies, it stops taking in new carbon
       ru: Как только организм умирает, он перестает поглощать новый углерод
+      example: Radiocarbon dating works because as soon as an organism dies, it stops taking in new carbon
+
     - eng: As usual, there is a great woman behind every idiot. John Lennon.
       ru: Как обычно, за каждым идиотом стоит великая женщина. Джон Леннон.
+      example: John Lennon joked that as usual, there is a great woman behind every idiot
+
     - eng: Ascention
       ru: Вознесение
+      example: The Feast of the Ascension celebrates Jesus rising to heaven forty days after Easter
+
     - eng: Ashgabat
       ru: Ашхабад
+      example: Ashgabat is the capital of Turkmenistan, known for its white marble buildings
+
     - eng: Ask her if she is happy
       ru: Спросите ее, счастлива ли она
+      example: Before making any decisions, you should ask her if she is happy
+
     - eng: Ask her, what she wants
       ru: Спроси ее, чего она хочет
+      example: Instead of guessing, just ask her what she wants for her birthday
+
     - eng: Ask them, where they live
       ru: Спросите их, где они живут
+      example: The census worker needed to ask them where they live
+
     - eng: Asmara
       ru: Асмарэ
+      example: Asmara is the capital of Eritrea and is famous for its Art Deco architecture
+
     - eng: Astronautics
       ru: космонавтика
+      example: Astronautics is the science of space travel and spacecraft design
+
     - eng: Asuncion
       ru: Асунсьон
+      example: Asunción is the capital of Paraguay, located on the Paraguay River
+
     - eng: At that rate it makes sense
       ru: В таком случае это имеет смысл
+      example: If we save fifty dollars a week, at that rate it makes sense to buy the car in six months
+
     - eng: At the eleventh hour
       ru: В последнюю минуту
+      example: The team completed the project at the eleventh hour before the deadline
+
     - eng: At times, I'd like to assault someone
       ru: Временами мне хочется напасть на кого-нибудь
+      example: Frustrated with the slow driver, he admitted, "At times, I'd like to assault someone"
+
     - eng: At what age can you start receiving your pension?
       ru: В каком возрасте можно начать получать пенсию?
-    - eng: At what age can you start receiving your pension?
-      ru: В каком возрасте можно начать получать пенсию?
+      example: The young worker asked the advisor, "At what age can you start receiving your pension?"
+
     - eng: At what time does the shop open?
       ru: Во сколько открывается магазин?
+      example: She looked at the closed door and wondered, "At what time does the shop open?"
+
     - eng: Atlantic Ocean
       ru: Атлантический океан
+      example: The Atlantic Ocean separates the Americas from Europe and Africa
+
     - eng: Atop
       ru: поверх; наверху
+      example: A small flag stood atop the highest peak of the mountain
+
     - eng: Attention, Interest, Desire, Action
       ru: Внимание, Интерес, Желание, Действие - цель рекламы
+      example: The AIDA model in marketing stands for Attention, Interest, Desire, Action
+
     - eng: August
       ru: август
+      example: August is often the hottest month of the year in the Northern Hemisphere
+
     - eng: Auriga
       ru: Возничий
+      example: Auriga is a constellation that contains the bright star Capella
+
     - eng: Australian or Ozzie or Aussie
       ru: австралиец; австралийка
+      example: The Australian taught us how to play cricket on the beach
+
     - eng: Australopithecus
       ru: австралопитек
+      example: Australopithecus is an extinct genus of early hominins from Africa
+
     - eng: Austria
       ru: Австрия
+      example: Austria is famous for its classical music heritage and the Alps
+
     - eng: Austrian
       ru: австриец, австрийка
+      example: The Austrian baker made the most delicious Sacher torte
+
     - eng: Authorised Capital
       ru: номинальный капитал, уставный капитал, санкционированный капитал
+      example: The company's authorised capital is one million dollars, but only half has been issued
+
     - eng: Azerbaijan
       ru: Азербайджан
+      example: Azerbaijan is known as the Land of Fire because of its natural gas fires
+
     - eng: Azerbaijani
       ru: азербайджанец, азербайджанка
+      example: The Azerbaijani offered us tea and traditional sweets
+
     - eng: Babism
       ru: Бабизм
+      example: Babism is a religious movement that originated in mid-19th century Persia
+
     - eng: Baffin bay
       ru: море Баффина
+      example: Baffin Bay is located between Greenland and Canada's Baffin Island
+
     - eng: Bahaism
       ru: Бахаизм
+      example: Bahaism emphasizes the spiritual unity of all humanity
+
     - eng: Bahamas – Commonwealth of The Bahamas
       ru: багамы, содружество багамских островов
+      example: The Bahamas consists of over 700 islands in the Atlantic Ocean
+
     - eng: Bahamian
       ru: житель Багамских островов
+      example: The Bahamian welcomed us with a warm smile and fresh coconut water
+
     - eng: Bahrain – Kingdom of Bahrain
       ru: бахрейн, королевство бахрейн
+      example: Bahrain is an island nation in the Persian Gulf known for its oil and finance
+
     - eng: Bahraini
       ru: житель Бахрейна
+      example: The Bahraini showed us around the ancient Dilmun burial mounds
+
     - eng: Baku
       ru: баку
+      example: Baku is the capital of Azerbaijan, located on the Caspian Sea
+
     - eng: Balance of forces
       ru: равновесие сил
+      example: The balance of forces in the region kept both nations from declaring war
+
     - eng: Balearic Sea
       ru: Балеарское море
+      example: The Balearic Sea is part of the Mediterranean near the Balearic Islands
+
     - eng: Ball gown
       ru: бальное платье
+      example: She wore a beautiful ball gown to the charity gala
+
     - eng: Baltic Sea
       ru: Балтийское море
+      example: The Baltic Sea is surrounded by nine countries, including Sweden and Poland
+
     - eng: Bamako
       ru: Бамако
+      example: Bamako is the capital of Mali, located on the Niger River
+
     - eng: Banda Sea
       ru: море Банда
+      example: The Banda Sea is located in eastern Indonesia, famous for its coral reefs
+
     - eng: Bandar Seri Begawan
       ru: Бандар-Сери-Бегаван — столица государства Бруней
+      example: Bandar Seri Begawan is the capital of Brunei, known for its golden mosque
+
     - eng: Bang on time
       ru: Как раз вовремя
+      example: The train arrived bang on time, not a minute late
+
     - eng: Bangladeshi
       ru: бангладешец; бангладешка
+      example: The Bangladeshi shared stories about the monsoon season in Dhaka
+
     - eng: Baptist
       ru: баптисты
+      example: Baptists believe in baptism by full immersion for believers
+
     - eng: Baptistery
       ru: баптистерий
+      example: The baptistery in Florence is famous for its bronze doors
+
     - eng: Barbadian
       ru: житель о-ва Барбадос
+      example: The Barbadian invited us to visit during the Crop Over festival
+
     - eng: Barely edible, but lots of it
       ru: Едва съедобный, но его много
+      example: The stew was barely edible, but lots of it filled our hungry stomachs
+
     - eng: Barents Sea
       ru: Баренцево море
+      example: The Barents Sea is rich in fish and is partially frozen in winter
+
     - eng: Bass Strait
       ru: пролив Басса
+      example: Bass Strait separates mainland Australia from the island of Tasmania
+
     - eng: Basseterre
       ru: Бастер
+      example: Basseterre is the capital of Saint Kitts and Nevis
+
     - eng: Bastille Day
       ru: день взятия бастилии
+      example: Bastille Day is France's national holiday, celebrated on July 14th
+
     - eng: Battle of Puebla
       ru: Битва при Пуэбла
+      example: The Battle of Puebla is commemorated as Cinco de Mayo in Mexico
+
     - eng: Bay of Bengal
       ru: Бенгальский залив
+      example: The Bay of Bengal is the largest bay in the world
+
     - eng: Bay of Biscay
       ru: Бискайский залив
+      example: The Bay of Biscay is known for its rough seas and strong storms
+
     - eng: Bay of Campeche
       ru: залив Кампече
+      example: The Bay of Campeche is a major oil-producing region in Mexico
+
     - eng: Bay of Fundy
       ru: залив Фанди
+      example: The Bay of Fundy has the highest tides in the world
+
     - eng: Be cheerful and smiling under all circumstances. Saying.
       ru: Радуйтесь и улыбайтесь перед лицом любых обстоятельств. Поговорка.
+      example: The old saying goes, "Be cheerful and smiling under all circumstances"
+
     - eng: Be sure
       ru: быть уверенным
+      example: Before you leave, be sure to lock all the doors and windows
+
     - eng: Beachfront
       ru: пляжный
+      example: They booked a beachfront hotel with a view of the ocean
+
     - eng: Beaufort Sea
       ru: море Бофорта
+      example: The Beaufort Sea is part of the Arctic Ocean north of Alaska and Canada
+
     - eng: Before you go off on us, answer me this question
       ru: Прежде чем ты уйдешь от нас, ответь мне на этот вопрос
+      example: "Before you go off on us, answer me this question," the teacher demanded
+
     - eng: Behind every great man is a woman rolling her eyes. Bruce Almighty.
       ru: За каждым великим мужчиной стоит женщина, которая время от времени закатывает глаза. Брюс Всемогущий.
+      example: The movie Bruce Almighty jokes that behind every great man is a woman rolling her eyes
+
     - eng: Being entirely honest with oneself is a good exercise. Sigmund Freud.
       ru: Быть до конца честным с самим собой — непростая задача Зигмунд Фрейд
+      example: Sigmund Freud believed that being entirely honest with oneself is a good exercise
+
     - eng: Belarusian
       ru: белорус, белоруска
+      example: The Belarusian taught us a traditional folk song
+
     - eng: Belgian
       ru: бельгиец; бельгийка
+      example: The Belgian is famous for making the best waffles and chocolate
+
     - eng: Belgrade
       ru: Белград
+      example: Belgrade is the capital of Serbia, located at the confluence of two rivers
+
     - eng: Belizean
       ru: житель Белиза
+      example: The Belizean guided us through the Mayan ruins
+
     - eng: Bellingshausen Sea
       ru: море Беллинсгаузена
+      example: The Bellingshausen Sea is named after a Russian explorer of Antarctica
+
     - eng: Belmopan
       ru: Бельмопан
+      example: Belmopan is the capital of Belize, one of the smallest capitals in the world
+
     - eng: Belorussian
       ru: житель Белоруссии
+      example: The Belorussian shared stories about life in Minsk during winter
+
     - eng: Below the shoulder.
       ru: Ниже плеч.
-    - eng: Below the shoulder.
-      ru: Ниже плеча.
+      example: The tattoo on his arm started just below the shoulder
+
     - eng: Belvedere
       ru: бельведер
+      example: The palace's belvedere offered a stunning view of the gardens
+
     - eng: Beninese
       ru: житель Бенина
+      example: The Beninese explained the history of the Dahomey Kingdom
+
     - eng: Bering Sea
       ru: Берингово море
+      example: The Bering Sea separates Russia and Alaska
+
     - eng: Bermuda shorts
       ru: Бермуды
+      example: He wore Bermuda shorts and a linen shirt to the beach party
+
     - eng: Bern
       ru: Берн
+      example: Bern is the capital of Switzerland, known for its medieval old town
+
     - eng: Best revenge is a massive success. Frank Sinatra.
       ru: Большой успех — лучшая месть. Фрэнк Синатра
+      example: Frank Sinatra famously said, "The best revenge is a massive success"
+
     - eng: Bethlehem
       ru: Вифлеем
+      example: Bethlehem is the biblical birthplace of Jesus Christ
+
     - eng: Between friends all is common. Proverb.
       ru: У друзей все общее. Пословица.
+      example: The ancient proverb says, "Between friends all is common"
+
     - eng: Bhutanese
       ru: житель Бутана
+      example: The Bhutanese measured national happiness instead of just economic growth
+
     - eng: Bill of Rights
       ru: Биль о правах
+      example: The Bill of Rights guarantees freedom of speech and religion in the US
+
     - eng: Bill worked hard so that he was promoted
       ru: Билл работал так упорно, что его повысили по службе.
+      example: Bill worked hard so that he was promoted to regional manager
+
     - eng: Bine
       ru: побег
+      example: The hop bine climbed up the trellis toward the sunlight
+
     - eng: Biomimicry
       ru: биомимикрия
+      example: Biomimicry studies nature's designs to solve human engineering problems
+
     - eng: Bishkek
       ru: Бишкек
+      example: Bishkek is the capital of Kyrgyzstan, near the Ala-Too mountains
+
     - eng: Bismarck Sea
       ru: море Бисмарка
+      example: The Bismarck Sea is located north of Papua New Guinea
+
     - eng: Black Sea
       ru: Чёрное море
+      example: The Black Sea is connected to the Mediterranean through the Bosporus Strait
+
     - eng: Blackcock
       ru: тетерев
+      example: The blackcock performed a mating dance at dawn in the forest clearing
+
     - eng: Blood count
       ru: Анализ крови
+      example: The doctor ordered a blood count to check for signs of infection
+
     - eng: Blow up the fire, worthless girl
       ru: Раздувай огонь, никчемная девчонка
+      example: The old woman shouted, "Blow up the fire, worthless girl!" at the servant
+
     - eng: Blue eyes
       ru: голубые глаза
+      example: Her blue eyes sparkled in the sunlight
+
     - eng: Bohai Sea
       ru: Боха́йский зали́в
+      example: The Bohai Sea is an inland gulf on the coast of northeastern China
+
     - eng: Bohol Sea
       ru: море Бохоль
+      example: The Bohol Sea lies between the islands of the central Philippines
+
     - eng: Bolivian
       ru: боливиец; боливийка
+      example: The Bolivian wore a colorful traditional poncho at the festival
+
     - eng: Bolshevik
       ru: большевик
+      example: The Bolshevik party led the Russian Revolution in 1917
+
     - eng: Books and friends should be few but good. Proverb.
       ru: Книг и друзей должно быть немного, но они должны быть хорошими. Пословица.
+      example: The old proverb advises that books and friends should be few but good
+
     - eng: Bootes
       ru: Волопас
+      example: Bootes is a constellation that contains the bright star Arcturus
+
     - eng: Both gods and mortal men found her captivating
       ru: И боги, и смертные люди находили ее очаровательной
     - eng: Botswanan
