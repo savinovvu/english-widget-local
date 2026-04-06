@@ -2613,15 +2613,15 @@ app.words:
 
     - eng: Can I order another colour of eye shadow?
       ru: Можно мне заказать другой цвет теней для глаз?
-      example: She looked at the palette and asked, "Can I order another colour of eye shadow?"
+      example: 'She looked at the palette and asked, "Can I order another colour of eye shadow?"'
 
     - eng: Can I order this online?
       ru: Я могу заказать это через интернет?
-      example: The customer asked the salesperson, "Can I order this online instead?"
+      example: 'The customer asked the salesperson, "Can I order this online instead?"'
 
     - eng: Can I pay by card?
       ru: Я могу заплатить картой?
-      example: He reached for his wallet and asked, "Can I pay by card?"
+      example: 'He reached for his wallet and asked, "Can I pay by card?"'
 
     - eng: delivery guy
       ru: Курьер
