@@ -1,1477 +1,742 @@
 app.words:
     - eng: Accra
       ru: Аккра
-      example: Accra is the capital and largest city of Ghana
-
     - eng: Bangladesh – People's Republic of Bangladesh
       ru: Бангладеш, Народная Республика Бангладеш
-      example: Dhaka, the capital of Bangladesh, is one of the most densely populated cities in the world
-
     - eng: Bangui
       ru: Банги
-      example: Bangui lies on the northern banks of the Ubangi River in the Central African Republic
-
     - eng: Banjul
       ru: Банжул
-      example: Banjul is known for its vibrant music scene and the Arch 22 monument
-
     - eng: Belarus – Republic of Belarus
       ru: Белоруссия, Республика Беларусь
-      example: Minsk, the capital of Belarus, was almost completely rebuilt after World War II
-
     - eng: Belgium – Kingdom of Belgium
       ru: Бельгия, Королевство Бельгия
-      example: Brussels, the capital of Belgium, is also the de facto capital of the European Union
-
     - eng: Benin – Republic of Benin
       ru: Бенин, Республика Бенин
-      example: Porto-Novo is the official capital of Benin, but Cotonou is its largest city and economic hub
-
     - eng: Bhutan – Kingdom of Bhutan
       ru: Бутан, Королевство Бутан
-      example: Thimphu is one of the few capitals in the world that uses no traffic lights
-
     - eng: Bissau
       ru: Бисау
-      example: Bissau is known for its Portuguese colonial architecture and the Fortaleza de São José da Amura
-
     - eng: Bolivia – Plurinational State of Bolivia
       ru: Боливия, Многонациональное Государство Боливия
-      example: Sucre is the constitutional capital of Bolivia, while La Paz is the seat of government
-
     - eng: Bosnia and Herzegovina
       ru: босния и герцеговина
-      example: Sarajevo hosted the 1984 Winter Olympics and is famous for its multicultural history
-
     - eng: Botswana – Republic of Botswana
       ru: Ботсвана, Республика Ботсвана
-      example: Gaborone is home to the University of Botswana and the country's diamond industry headquarters
-
     - eng: Burma – Republic of the Union of Myanmar
       ru: Бирма
-      example: Naypyidaw, the capital of Myanmar, is known for its unusually wide roads and planned layout
-
     - eng: Burundi – Republic of Burundi
       ru: Бурунди, Республика Бурунди
-      example: Gitega became the political capital of Burundi in 2019, while Bujumbura remained the economic capital
-
     - eng: Cambodia – Kingdom of Cambodia
       ru: Камбоджа, Королевство Камбоджа
-      example: Phnom Penh is located at the confluence of the Mekong and Tonlé Sap rivers
-
     - eng: Colombia – Republic of Colombia
       ru: Колумбия, Республика Колумбия
-      example: Bogotá is one of the highest capitals in the world at over 2,600 meters above sea level
-
     - eng: Croatia – Republic of Croatia
       ru: Хорватия, Республика Хорватия
-      example: Zagreb has a well-preserved medieval Upper Town and a lively café culture
-
     - eng: Cuba – Republic of Cuba
       ru: Куба, Республика Куба
-      example: Havana is famous for its vintage cars, Spanish colonial architecture, and the Malecón
-
     - eng: Cyprus – Republic of Cyprus
       ru: Кипр, Республика Кипр
-      example: Nicosia is the only divided capital in the world, with a UN buffer zone separating Greek and Turkish Cypriot sectors
-
     - eng: Côte d'Ivoire – Republic of Côte d'Ivoire (Ivory Coast)
       ru: Кот-д'Ивуар
-      example: Yamoussoukro is the political capital, while Abidjan remains the economic capital of Côte d'Ivoire
-
     - eng: Dakar
       ru: Дакар
-      example: Dakar is the westernmost city on the African mainland and the endpoint of the Paris-Dakar Rally
-
     - eng: Denmark – Kingdom of Denmark
       ru: Дания, Королевство Дания
-      example: Copenhagen is known for its bicycle-friendly streets and the historic Nyhavn harbor
-
     - eng: Djibouti
       ru: Джибути
-      example: Djibouti City serves as a major transshipment hub for one of the busiest shipping routes in the world
-
     - eng: Dodoma
       ru: Додома
-      example: Dodoma officially became the capital of Tanzania in 1996, replacing Dar es Salaam
-
     - eng: Dominica – Commonwealth of Dominica
       ru: Доминика, Содружество Доминики
-      example: Roseau, the capital of Dominica, is known for its colorful houses and the Botanical Gardens
-
     - eng: Ecuador – Republic of Ecuador
       ru: Эквадор, Республика Эквадор
-      example: Quito has the best-preserved and least-altered historic center in Latin America
-
     - eng: Egypt – Arab Republic of Egypt
       ru: Египет, Арабская Республика Египет
-      example: Cairo is known as the "City of a Thousand Minarets" and is home to the famous Egyptian Museum
-
     - eng: El Salvador – Republic of El Salvador
       ru: Республика Эль-Сальвадор
-      example: San Salvador sits in the Valley of the Hammocks and is vulnerable to earthquakes
-
     - eng: Equatorial Guinea – Republic of Equatorial Guinea
       ru: Экваториальная Гвинея, Республика Экваториальная Гвинея
-      example: Malabo is located on the island of Bioko, about 160 km from the mainland
-
     - eng: Eritrea – State of Eritrea
       ru: Эритрея, Государство Эритрея
-      example: Asmara is famous for its well-preserved Italian modernist architecture
-
     - eng: Estonia – Republic of Estonia
       ru: Эстония, Эстонская Республика
-      example: Tallinn has one of the best-preserved medieval old towns in Europe
-
     - eng: Ethiopia – Federal Democratic Republic of Ethiopia
       ru: Эфиопия, Федеративная Демократическая Республика Эфиопия
-      example: Addis Ababa is one of the highest capitals in the world at over 2,300 meters
-
     - eng: Finland – Republic of Finland
       ru: Финляндия, Финляндская Республика
-      example: Helsinki is known for its neoclassical architecture and the Suomenlinna sea fortress
-
     - eng: France – French Republic
       ru: Франция, Французская Республика
-      example: Paris is famous for the Eiffel Tower, the Louvre Museum, and Notre-Dame Cathedral
-
     - eng: Gabon – Gabonese Republic
       ru: Габон, Габонская Республика
-      example: Libreville was named by freed slaves who settled there in the 19th century
-
     - eng: Greece – Hellenic Republic
       ru: Греция, Греческая Республика
-      example: Athens is home to the Parthenon and is considered the birthplace of democracy
-
     - eng: Guatemala – Republic of Guatemala
       ru: Гватемала, Республика Гватемала
-      example: Guatemala City is the largest city in Central America
-
     - eng: Guinea – Republic of Guinea
       ru: Гвинея, Гвинейская Республика
-      example: Conakry is built on the Tombo Island and the Kaloum Peninsula
-
     - eng: Guinea-Bissau – Republic of Guinea-Bissau
-      ru: Гвинея-Бисау, Республика Гвинея-Бисау
-      example: Bissau is known for its Portuguese colonial architecture and the Fortaleza d'Amura
-
+      ru: Гвинея-Бисау, Республика Гвинея- Бисау
     - eng: Guyana – Co-operative Republic of Guyana
       ru: Гайана, Кооперативная Республика Гайана
-      example: Georgetown is famous for its wooden St. George's Cathedral and the Stabroek Market
-
     - eng: Haiti – Republic of Haiti
       ru: Гаити, Республика Гаити
-      example: Port-au-Prince was devastated by a massive earthquake in 2010
-
     - eng: Harare
       ru: Хараре
-      example: Harare is known for its jacaranda trees and the National Gallery of Zimbabwe
-
     - eng: Holy Alliance
       ru: Священный союз
-      example: The Holy Alliance was a coalition formed by Russia, Austria, and Prussia in 1815
-
     - eng: Honduras – Republic of Honduras
       ru: Гондурас, Республика Гондурас
-      example: Tegucigalpa is the largest city in Honduras and sits in a highland valley
-
     - eng: Hungary – Republic of Hungary
       ru: Венгрия, Венгерская Республика
-      example: Budapest is famous for its thermal baths and the Chain Bridge
-
     - eng: Iraq – Republic of Iraq
       ru: Ирак, Республика Ирак
-      example: Baghdad was once the center of the Islamic Golden Age and home to the House of Wisdom
-
     - eng: Israel – State of Israel
       ru: Израиль, Государство Израиль
-      example: Jerusalem is one of the oldest cities in the world and holy to three major religions
-
     - eng: Kazakhstan – Republic of Kazakhstan
       ru: Казахстан, Республика Казахстан
-      example: Astana was renamed Nur-Sultan in 2019, then changed back to Astana in 2022
-
     - eng: Kigali
       ru: Кигали
-      example: Kigali is known for being one of the cleanest and safest cities in Africa
-
     - eng: Kiribati – Republic of Kiribati
       ru: Кирибати
-      example: Tarawa is known for the fierce World War II Battle of Tarawa in 1943
-
     - eng: Kuwait – State of Kuwait
       ru: Кувейт, Государство Кувейт
-      example: Kuwait City is a major financial and cultural hub in the Persian Gulf region
-
     - eng: Lebanon – Lebanese Republic
       ru: Ливан, Ливанская Республика
-      example: Beirut was once called the "Paris of the Middle East" for its cosmopolitan culture
-
     - eng: Lesotho – Kingdom of Lesotho
       ru: Лесото, Королевство Лесото
-      example: Maseru is located on the Caledon River and is the only capital city above 1,000 meters in Southern Africa
-
     - eng: Liberia – Republic of Liberia
       ru: Либерия, Республика Либерия
-      example: Monrovia is named after U.S. President James Monroe, a supporter of the colonization of Liberia
-
     - eng: Lithuania – Republic of Lithuania
       ru: Литва, Литовская Республика
-      example: Vilnius is famous for its Baroque architecture and the Gediminas Tower
-
     - eng: Lorentz force
       ru: сила Лоренца
-      example: The Lorentz force describes the force exerted on a charged particle moving through an electromagnetic field
-
     - eng: Luanda
       ru: Луанда
-      example: Luanda is one of the most expensive cities in the world for expatriates
-
     - eng: Luxembourg – Grand Duchy of Luxembourg
       ru: Люксембург, Великое Герцогство Люксембург
-      example: Luxembourg City is one of the wealthiest capitals in Europe and a major EU banking center
-
     - eng: Madagascar – Republic of Madagascar
       ru: Мадагаскар, Республика Мадагаскар
-      example: Antananarivo is known for its royal palace complex called Rova of Antananarivo
-
     - eng: Makemake
       ru: Макемаке
-      example: Makemake is a dwarf planet in the Kuiper Belt named after the creator god of Easter Island mythology
-
     - eng: Malabo
       ru: Малабо
-      example: Malabo is located on the rim of a sunken volcano on Bioko Island
-
     - eng: Maldives – Republic of Maldives
       ru: Мальдивы, Мальдивская Республика
-      example: Malé is one of the most densely populated cities in the world
-
     - eng: Malta – Republic of Malta
       ru: Мальта, Республика Мальта
-      example: Valletta is a UNESCO World Heritage site and one of the smallest capital cities in Europe
-
     - eng: Maputo
       ru: Мапуту
-      example: Maputo is known for its distinctive Art Deco and Portuguese colonial architecture
-
     - eng: Marshall Islands – Republic of the Marshall Islands
       ru: Республика Маршалловы Острова
-      example: Majuro is a large atoll consisting of over 60 islands and islets
-
     - eng: Moldova – Republic of Moldova
       ru: Молдавия, Республика Молдова
-      example: Chișinău is famous for its huge underground wine cellars at Cricova
-
     - eng: Monaco – Principality of Monaco
       ru: Монако, Княжество Монако
-      example: Monaco is known for the Monte Carlo Casino and the Formula One Grand Prix
-
     - eng: Monrovia
       ru: Монровия
-      example: Monrovia is the only capital city in the world named after a U.S. president (James Monroe)
-
     - eng: Morocco – Kingdom of Morocco
       ru: Марокко, Королевство Марокко
-      example: Rabat is one of the four imperial cities of Morocco and is home to the Mausoleum of Mohammed V
-
     - eng: Namibia – Republic of Namibia
       ru: Намибия, Республика Намибия
-      example: Windhoek is known for its German colonial architecture and the Christ Church
-
     - eng: Nauru – Republic of Nauru
       ru: Науру, Республика Науру
-      example: Yaren is the de facto capital of Nauru, as the country has no official capital city
-
     - eng: Nepal – Federal Democratic Republic of Nepal
       ru: Непал, Федеративная Демократическая Республика Непал
-      example: Kathmandu is home to seven UNESCO World Heritage sites within one valley
-
     - eng: Netherlands – Kingdom of the Netherlands
       ru: Нидерланды, Королевство Нидерландов
-      example: Amsterdam is famous for its canal ring and the Rijksmuseum
-
     - eng: Nicaragua – Republic of Nicaragua
       ru: Республика Никарагуа
-      example: Managua sits on the southern shore of Lake Managua, one of the largest lakes in Central America
-
     - eng: Niger – Republic of Niger
       ru: Нигер, Республика Нигер
-      example: Niamey is located on the Niger River and is known for its Grand Marché
-
     - eng: Norway – Kingdom of Norway
       ru: Норвегия, Королевство Норвегия
-      example: Oslo is known for the Viking Ship Museum and the Holmenkollen ski jump
-
     - eng: Palikir
       ru: Паликир
-      example: Palikir is one of the least populated capital cities in the world
-
     - eng: Panama City
       ru: Панама
-      example: Panama City is the only capital city with a rainforest within its city limits
-
     - eng: Panama – Republic of Panama
       ru: Панама, Республика Панама
-      example: Panama City is home to the famous Panama Canal connecting the Atlantic and Pacific Oceans
-
     - eng: Podgorica
       ru: Подгорица
-      example: Podgorica was renamed Titograd during the Yugoslav era from 1946 to 1992
-
     - eng: Port Louis
       ru: Порт-Луи
-      example: Port Louis is known for its bustling Central Market and the Caudan Waterfront
-
     - eng: Portugal – Portuguese Republic
       ru: Португалия, Португальская Республика
-      example: Lisbon is one of the oldest cities in Western Europe, predating Rome by centuries
-
     - eng: Praia
       ru: Прая
-      example: Praia is located on the southern coast of Santiago Island in Cape Verde
-
     - eng: Qatar – State of Qatar
       ru: Катар, Государство Катар
-      example: Doha is known for the futuristic skyline and the Museum of Islamic Art
-
     - eng: Russia – Russian Federation
       ru: Россия, Российская Федерация
-      example: Moscow is home to the Kremlin and Red Square, both UNESCO World Heritage sites
-
     - eng: Saint George's
       ru: Сент-Джорджес
-      example: Saint George's is known for its picturesque horseshoe-shaped harbor and spice market
-
     - eng: San Jose
       ru: Сан-Хосе
-      example: San Jose is the only capital city in the United States named after a saint (Saint Joseph)
-
     - eng: South Africa – Republic of South Africa
       ru: ЮАР, Южно-Африканская Республика
-      example: South Africa has three capitals: Pretoria (executive), Bloemfontein (judicial), and Cape Town (legislative)
-
     - eng: South Sudan – Republic of South Sudan
       ru: Южный Судан, Республика Южный Судан
-      example: Juba became the world's newest national capital when South Sudan gained independence in 2011
-
     - eng: Suriname – Republic of Suriname
       ru: Суринам, Республика Суринам
-      example: Paramaribo is known for its Dutch colonial architecture and the Saint Peter and Paul Cathedral
-
     - eng: Tajikistan – Republic of Tajikistan
       ru: Таджикистан, Республика Таджикистан
-      example: Dushanbe means "Monday" in Tajik, named after the city's famous Monday market
-
     - eng: Tanzania – United Republic of Tanzania
       ru: Танзания, Объединенная Республика Танзания
-      example: Dodoma officially became the capital of Tanzania in 1996, replacing Dar es Salaam
-
     - eng: The Gambia – Republic of The Gambia
       ru: Гамбия, Республика Гамбия
-      example: Banjul is the smallest capital city in mainland Africa
-
     - eng: Togo – Togolese Republic
       ru: Того, Тоголезская Республика
-      example: Lomé is known for its Grand Marché and the fetish market selling traditional remedies
-
     - eng: Trinidad and Tobago – Republic of Trinidad and Tobago
       ru: Тринидад и Тобаго, Республика Тринидад и Тобаго
-      example: Port of Spain is famous for its annual Carnival, one of the largest in the Caribbean
-
     - eng: Uruguay – Eastern Republic of Uruguay
       ru: Уругвай, Восточная Республика Уругвай
-      example: Montevideo is the southernmost capital city in the Americas
-
     - eng: Uzbekistan – Republic of Uzbekistan
       ru: Узбекистан, Республика Узбекистан
-      example: Tashkent is the largest city in Central Asia and was rebuilt after a major earthquake in 1966
-
     - eng: Vanuatu – Republic of Vanuatu
       ru: Вануату, Республика Вануату
-      example: Port Vila is known for its underwater post office and the Mele Cascades waterfall
-
     - eng: Venezuela – Bolivarian Republic of Venezuela
       ru: Венесуэла, Боливарианская Республика Венесуэла
-      example: Caracas is known for being the birthplace of Simón Bolívar, the liberator of South America
-
     - eng: Vietnam – Socialist Republic of Vietnam
       ru: Вьетнам, Социалистическая Республика Вьетнам
-      example: Hanoi has been the political capital of Vietnam for over 1,000 years
-
     - eng: Washington D.C.
       ru: Вашингтон
-      example: Washington D.C. is named after George Washington and stands for District of Columbia
-
     - eng: aero lens
       ru: воздушная линза
-      example: An aero lens is used in aerial photography to minimize distortion
-
     - eng: aero-optics
       ru: атмосферная оптика
-      example: Aero-optics studies the effect of atmospheric turbulence on laser beams
-
     - eng: air-photography
       ru: аэрофотосъёмка
-      example: Air-photography is widely used for mapping and environmental monitoring
-
     - eng: alodium
       ru: аллод
-      example: Alodium refers to land owned absolutely without any feudal obligation to a lord
-
     - eng: angle of view
       ru: угол поля зрения объектива
-      example: A wide-angle lens has an angle of view greater than 60 degrees
-
     - eng: announce an amnesty
       ru: объявить амнистию
-      example: The government decided to announce an amnesty for political prisoners
-
     - eng: anthropometrical
       ru: антропометрический
-      example: Anthropometrical data is essential for designing ergonomic furniture
-
     - eng: anti-hitler coalition
       ru: антигитлеровская коалиция
-      example: The anti-Hitler coalition included the USSR, USA, and the United Kingdom
-
     - eng: arc magnetism
       ru: магнитные свойства дуги
-      example: Arc magnetism affects the stability of electric arc welding processes
-
     - eng: as good as gold
       ru: добрый
-      example: The old lady next door is as good as gold and always helps everyone
-
     - eng: assessment of damage
       ru: оценка повреждения
-      example: The insurance company sent an adjuster for the assessment of damage
-
     - eng: atomic force microscopes
       ru: микроскопы атомных сил
-      example: Atomic force microscopes can image surfaces at the nanometer scale
-
     - eng: atomic magnetism
       ru: атомный магнетизм
-      example: Atomic magnetism arises from the spin and orbital motion of electrons
-
     - eng: back light
       ru: контровый свет
-      example: Back light creates a silhouette effect in portrait photography
-
     - eng: backing track
       ru: минусовка
-      example: The singer recorded her vocals over a prerecorded backing track
-
     - eng: be all in
       ru: очень устать
-      example: After running the marathon, he was all in and could barely stand
-
     - eng: be in charge of
       ru: быть ответственным за
-      example: She will be in charge of organizing the conference next month
-
     - eng: be into smth.
       ru: увлекаться чем-то
-      example: He is really into classical music and goes to concerts every week
-
     - eng: be on the safe side
       ru: на всякий случай
-      example: I'll take an umbrella to be on the safe side, though it looks sunny
-
     - eng: bend over backwards
       ru: очень стараться
-      example: The staff bent over backwards to make our stay enjoyable
-
     - eng: bilateral agreement
       ru: двустороннее соглашение
-      example: The two countries signed a bilateral agreement on trade and tariffs
-
     - eng: bite one's tongue
       ru: прикусить язык
-      example: I had to bite my tongue to stop myself from saying something rude
-
     - eng: break the news
       ru: сообщить важную новость
-      example: The doctor had to break the news to the patient's family
-
     - eng: burial service
       ru: отпевание
-      example: The burial service took place at the local Orthodox church
-
     - eng: by all means
       ru: обязательно, конечно
-      example: By all means, feel free to use my car if you need it
-
     - eng: by heart
       ru: наизусть
-      example: She learned the entire poem by heart in just one hour
-
     - eng: castles in the air
       ru: воздушные замки
-      example: Stop building castles in the air and start working on real goals
-
     - eng: casually dressed
       ru: неформально одетый
-      example: The office has a relaxed policy, so everyone is casually dressed on Fridays
-
     - eng: catch one's breath
       ru: перевести дух
-      example: After climbing the stairs, he stopped to catch his breath
-
     - eng: catch one's eye
       ru: привлечь внимание
-      example: A bright red dress in the window caught her eye immediately
-
     - eng: catch someone off guard
       ru: застать врасплох
-      example: The sudden question caught me completely off guard
-
     - eng: centripetal acceleration
       ru: центробежное ускорение
-      example: Centripetal acceleration keeps a satellite in orbit around the Earth
-
     - eng: chasuble
       ru: риза
-      example: The priest wore a golden chasuble during the Easter service
-
     - eng: chic appearance
       ru: эффективная внешность
-      example: Her chic appearance at the gala turned everyone's heads
-
     - eng: coercive force
       ru: коэрцитивная сила
-      example: Coercive force is the measure of a material's resistance to demagnetization
-
     - eng: colour force
       ru: взаимодействие между кварками
-      example: Colour force binds quarks together inside protons and neutrons
-
     - eng: come to one's senses
       ru: взяться за ум, придти в себя
-      example: After wasting all his money, he finally came to his senses
-
     - eng: come to terms
       ru: достигнуть соглашения
-      example: The two companies came to terms after weeks of negotiation
-
     - eng: constraining force
       ru: реакция связи
-      example: The constraining force prevents the pendulum from flying outward
-
     - eng: contact x-ray microscope
       ru: контактный рентгеновский микроскоп
-      example: A contact X-ray microscope provides high-resolution images of biological samples
-
     - eng: contracting party
       ru: договаривающаяся сторона
-      example: Each contracting party must sign the agreement in duplicate
-
     - eng: coplanar forces
       ru: компланарные силы
-      example: Coplanar forces all lie within the same geometric plane
-
     - eng: count on
       ru: рассчитывать на что-либо/кого-либо
-      example: You can always count on your best friend in difficult times
-
     - eng: courtroom support
       ru: судебное сопровождение
-      example: The victim was provided with courtroom support throughout the trial
-
     - eng: cry wolf
       ru: поднимать ложную тревогу
-      example: If you cry wolf too often, no one will believe you when there's real danger
-
     - eng: decompose a force
       ru: разложить силу
-      example: To solve the problem, you must decompose the force into two perpendicular components
-
     - eng: descriptive astronomy
       ru: описательная астрономия
-      example: Descriptive astronomy classifies and describes celestial objects
-
     - eng: diffraction microscope
       ru: дифракционный микроскоп
-      example: A diffraction microscope uses wave interference to image tiny structures
-
     - eng: do one's best
       ru: сделать все, что смог
-      example: Even though he lost, he did his best and finished the race
-
     - eng: do over
       ru: сделать заново
-      example: The painting was terrible, so she decided to do it over
-
     - eng: down to earth
       ru: приземленный
-      example: Despite his wealth, the actor remains very down to earth
-
     - eng: dyed hair
       ru: окрашенные волосы
-      example: Her bright pink dyed hair made her stand out in the crowd
-
     - eng: earth magnetism
       ru: геомагнетизм
-      example: Earth magnetism protects our planet from harmful solar radiation
-
     - eng: eat one's words
       ru: брать назад слова
-      example: After being proven wrong, he had to eat his words publicly
-
     - eng: effects of light
       ru: игра света
-      example: The photographer captured beautiful effects of light through the forest canopy
-
     - eng: electronic microscope
       ru: электронный микроскоп
-      example: An electronic microscope can magnify objects up to two million times
-
     - eng: even so
       ru: тем не менее
-      example: The weather was terrible; even so, they decided to go hiking
-
     - eng: executed contracts
       ru: исполненные договоры
-      example: All executed contracts are stored in the company archive
-
     - eng: executory contracts
       ru: договоры с исполнением в будущем
-      example: Executory contracts require future performance from both parties
-
     - eng: fall out of love
       ru: разлюбить
-      example: Over time, she fell out of love with him and asked for a divorce
-
     - eng: false alarm
       ru: ложная тревога
-      example: The fire alarm turned out to be a false alarm caused by burnt toast
-
     - eng: father-superior (of a monastery)
       ru: игумен
-      example: The father-superior of the monastery welcomed the pilgrims warmly
-
     - eng: field curvature
       ru: кривизна поля изображения
-      example: Field curvature causes the edges of a photograph to appear out of focus
-
     - eng: field emission microscope
       ru: полевой эмиссионный микроскоп
-      example: A field emission microscope can image individual atoms on a metal tip
-
     - eng: field ion microscope
       ru: полевой ионный микроскоп
-      example: The field ion microscope was the first instrument to resolve individual atoms
-
     - eng: field of force
       ru: силовое поле
-      example: A magnetic field is a classic example of a field of force
-
     - eng: film leader
       ru: ведущий ракорд; начало фотопленки
-      example: The film leader was damaged, so the projectionist cut it off
-
     - eng: filming and photography
       ru: кинофотосъёмка
-      example: Filming and photography are prohibited inside the museum
-
     - eng: find fault with
       ru: критиковать
-      example: My boss always finds fault with my work, no matter how hard I try
-
     - eng: fixed term contract
       ru: контракт с установленным сроком
-      example: She was hired under a fixed term contract for twelve months
-
     - eng: foot the bill
       ru: заплатить по счету
-      example: The company will foot the bill for all travel expenses
-
     - eng: for good
       ru: навсегда
-      example: He quit smoking for good after his doctor warned him
-
     - eng: force of sliding friction
       ru: сила трения скольжения
-      example: The force of sliding friction slows down a hockey puck on ice
-
     - eng: from a to z
       ru: от начала до конца
-      example: She knows the entire process from A to Z
-
     - eng: from the varangians to the greeks
       ru: из варяг в греки
-      example: The trade route from the Varangians to the Greeks connected Scandinavia to Byzantium
-
     - eng: fughetta
       ru: фугетта
-      example: The composer wrote a short fughetta for the organ
-
     - eng: fur hat
       ru: меховая шапка
-      example: In winter, many Russians wear a traditional fur hat called ushanka
-
     - eng: gamma astronomy
       ru: гамма-астрономия
-      example: Gamma astronomy detects the most energetic radiation in the universe
-
     - eng: geometrical astronomy
       ru: сферическая астрономия
-      example: Geometrical astronomy measures the positions and motions of celestial bodies
-
     - eng: get a grip on oneself
       ru: контролировать свои чувства
-      example: She needed to get a grip on herself before giving the speech
-
     - eng: get even with
       ru: расквитаться с кем-то
-      example: He vowed to get even with his rival after the humiliating defeat
-
     - eng: get in touch with
       ru: связаться с кем-то
-      example: Please get in touch with me as soon as you arrive
-
     - eng: go with the flow
       ru: плыть по течению
-      example: Instead of planning everything, sometimes it's better to go with the flow
-
     - eng: god-child
       ru: крестник
-      example: She bought a birthday present for her god-child
-
     - eng: gravitational acceleration
       ru: ускорение земного притяжения
-      example: Gravitational acceleration on Earth is approximately 9.8 meters per second squared
-
     - eng: gravitational astronomy
       ru: математическая астрономия
-      example: Gravitational astronomy uses Newton's laws to predict planetary motion
-
     - eng: gravitational interaction
       ru: гравитационное взаимодействие
-      example: Gravitational interaction is the weakest of the four fundamental forces
-
     - eng: ground-based radio astronomy
       ru: наземная радиоастрономия
-      example: Ground-based radio astronomy requires large dish antennas to collect weak signals
-
     - eng: have a word with someone
       ru: поговорить о чем-то
-      example: Could I have a word with you about the budget report?
-
     - eng: have words with someone
       ru: крупно поговорить
-      example: The coach had words with the player after his rude behavior
-
     - eng: high-resolution electron microscope
       ru: электронный микроскоп высокого разрешения
-      example: A high-resolution electron microscope can reveal atomic lattice structures
-
     - eng: holy (adj.)
       ru: святой
-      example: The holy man spent his life in prayer and meditation
-
     - eng: imposition of obligations on a party
       ru: возложение на лицо обязательств; возложение обязательств на сторону
-      example: The court approved the imposition of obligations on the defaulting party
-
     - eng: in a bad way
       ru: в тяжелом положении
-      example: After losing his job, he was in a bad way financially
-
     - eng: in cold blood
       ru: хладнокровно
-      example: The villain committed the murder in cold blood without any remorse
-
     - eng: in hot water
       ru: в беде
-      example: She found herself in hot water after missing the deadline
-
     - eng: in other words
       ru: другими словами
-      example: He failed the test; in other words, he didn't study enough
-
     - eng: in safe hands
       ru: в надежных руках
-      example: Don't worry, your children are in safe hands with us
-
     - eng: in the air
       ru: на лету
-      example: The trapeze artist caught the bar in the air
-
     - eng: in the same boat
       ru: в одинаковых условиях
-      example: We all lost our jobs, so we're in the same boat
-
     - eng: in the sweat of one's brow
       ru: в поте лица
-      example: He earned his living in the sweat of his brow as a farmer
-
     - eng: incidental music
       ru: музыка к спектаклю или фильму
-      example: The incidental music for the play was composed by a famous musician
-
     - eng: induced magnetism
       ru: наведённый магнетизм
-      example: Induced magnetism appears only when a material is near a magnetic field
-
     - eng: industrial property
       ru: промышленная собственность
-      example: Patents and trademarks are forms of industrial property
-
     - eng: infra-red photography
       ru: инфракрасная фотография
-      example: Infra-red photography can capture heat signatures invisible to the naked eye
-
     - eng: instrumental music
       ru: инструментальная музыка
-      example: He prefers instrumental music because lyrics distract him
-
     - eng: intensity of magnetism
       ru: намагниченность
-      example: The intensity of magnetism decreases rapidly with distance from the magnet
-
     - eng: intensity of terrestrial magnetism
       ru: напряжённость магнитного поля земли
-      example: The intensity of terrestrial magnetism varies depending on geographic location
-
     - eng: interference microscope
       ru: микроинтерферометр
-      example: An interference microscope measures optical path differences in transparent samples
-
     - eng: interplanetary astronomy
       ru: межпланетная астрономия
-      example: Interplanetary astronomy studies the space environment between planets
-
     - eng: it's time
       ru: пора
-      example: It's time to go home; the sun is already setting
-
     - eng: jehad
       ru: газават
-      example: The concept of jehad has different meanings in Islamic theology
-
     - eng: juvenile appearance
       ru: моложавый вид
-      example: Despite being forty, her juvenile appearance makes her look much younger
-
     - eng: kaganate
       ru: каганат
-      example: The Khazar Kaganate was a powerful state in medieval Eurasia
-
     - eng: keep company
       ru: составить компанию
-      example: I'll keep you company while you wait for the bus
-
     - eng: keep one's word
       ru: держать слово
-      example: He always keeps his word, so you can trust him
-
     - eng: kill time
       ru: убить время
-      example: I read a magazine to kill time before the flight
-
     - eng: knitted scarf
       ru: вязаный шарф
-      example: She wore a warm knitted scarf around her neck
-
     - eng: lack of evidence
       ru: недостаточность доказательств
-      example: The suspect was released due to lack of evidence
-
     - eng: law of magnetism
       ru: закон о взаимодействии полюсов
-      example: The law of magnetism states that opposite poles attract and like poles repel
-
     - eng: law of property
       ru: право собственности
-      example: Law of property governs the ownership and transfer of real estate
-
     - eng: lease contract
       ru: договор аренды
-      example: Both parties signed a lease contract for the apartment for one year
-
     - eng: lens angle
       ru: угол изображения объектива
-      example: A fisheye lens has an extremely wide lens angle of up to 180 degrees
-
     - eng: let someone know
       ru: известить
-      example: Please let me know when you arrive at the station
-
     - eng: liberationism
       ru: движение за отделение церкви от государства
-      example: Liberationism gained popularity in some European countries during the 19th century
-
     - eng: little by little
       ru: понемногу
-      example: Little by little, he saved enough money to buy a car
-
     - eng: local orthodox churches
       ru: автокефальная церковь
-      example: Local Orthodox churches are self-governing but share the same doctrine
-
     - eng: logogram
       ru: логограмма
-      example: Chinese characters are examples of logograms representing words or ideas
-
     - eng: lose one's temper
       ru: разозлиться
-      example: He lost his temper when someone scratched his new car
-
     - eng: lose track of
       ru: потерять из виду
-      example: I lost track of time while reading an interesting book
-
     - eng: lost for words
       ru: неспособный подобрать слова
-      example: The beautiful sunset left me completely lost for words
-
     - eng: lucky break
       ru: счастливый случай
-      example: Getting that job was a lucky break for him
-
     - eng: magneto-optics
       ru: магнитооптика
-      example: Magneto-optics studies the interaction between light and magnetic fields
-
     - eng: make a living
       ru: зарабатывать на жизнь
-      example: She makes a living as a freelance graphic designer
-
     - eng: make dependent on
       ru: сделать зависимым от
-      example: Don't make your children dependent on you for everything
-
     - eng: make ends meet
       ru: сводить концы с концами
-      example: With rising prices, it's hard to make ends meet on a small salary
-
     - eng: make friends
       ru: подружиться
-      example: It's easy to make friends when you join a sports club
-
     - eng: make fun of
       ru: высмеивать
-      example: The other kids made fun of his new haircut
-
     - eng: make up for smth
       ru: компенсировать
-      example: A good dessert can make up for a mediocre main course
-
     - eng: make yourself at home
       ru: будьте как дома
-      example: Come in, sit down, and make yourself at home
-
     - eng: man of his word
       ru: хозяин своего слова, держит слово
-      example: He promised to help and he did — he's a man of his word
-
     - eng: map of earth magnetism
       ru: карта земного магнетизма
-      example: Scientists update the map of earth magnetism every five years
-
     - eng: mapping photography
       ru: картографическая съёмка
-      example: Mapping photography from aircraft is used to create topographic maps
-
     - eng: mean well
       ru: хотеть сделать, как лучше
-      example: She may be harsh, but she means well
-
     - eng: metal optics
       ru: металлооптика
-      example: Metal optics studies how light reflects off metallic surfaces
-
     - eng: microscope projector
       ru: микропроектор
-      example: A microscope projector displays magnified images on a large screen
-
     - eng: mineral colour
       ru: минеральная краска
-      example: Mineral colour is made from crushed natural stones and oxides
-
     - eng: miracle man
       ru: чудотворец
-      example: The local monks considered the elder a miracle man
-
     - eng: mitre
       ru: митра
-      example: The bishop wore a golden mitre during the ceremony
-
     - eng: monochromatic photography
       ru: монохромная фотография
-      example: Monochromatic photography uses only black, white, and shades of gray
-
     - eng: nautical astronomy
       ru: навигационная астрономия
-      example: Nautical astronomy helps sailors determine their position at sea using stars
-
     - eng: oblique photography
       ru: перспективная фотосъёмка
-      example: Oblique photography shows buildings and terrain from an angled perspective
-
     - eng: on a silver platter
       ru: На блюдечке с голубой каемочкой
-      example: He expects everything to be handed to him on a silver platter
-
     - eng: on one's own
       ru: самостоятельно, один, сам по себе
-      example: She built the entire house on her own without any help
-
     - eng: on one's toes
       ru: бдительный
-      example: The guard must always stay on his toes during the night shift
-
     - eng: on second thought
       ru: по зрелом размышлении
-      example: On second thought, I'll have coffee instead of tea
-
     - eng: on the off chance
       ru: маловероятно, но на всякий случай
-      example: On the off chance that he calls, please tell him I'll be late
-
     - eng: once and for all
       ru: однажды и навсегда
-      example: Let's settle this argument once and for all
-
     - eng: optical heterodyne microscope
       ru: оптический гетеродинный микроскоп
-      example: An optical heterodyne microscope measures extremely small vibrations in samples
-
     - eng: oscillation microscope
       ru: осцилляционный микроскоп
-      example: The oscillation microscope uses vibrating mirrors to scan the specimen
-
     - eng: out of one's mind
       ru: сумасшедший
-      example: You must be out of your mind to go swimming in this storm
-
     - eng: party to a contract
       ru: сторона по контракту
-      example: Each party to a contract must fulfill its obligations
-
     - eng: patent office
       ru: бюро патентов
-      example: He filed his invention at the patent office last week
-
     - eng: penalties or sentences
       ru: наказания или приговоры
-      example: The judge imposed severe penalties or sentences on the criminals
-
     - eng: permanent magnetism
       ru: стойкий остаточный магнетизм
-      example: Permanent magnetism remains in a material even after the external field is removed
-
     - eng: photoacoustical microscope
       ru: лазерно-акустический микроскоп
-      example: A photoacoustical microscope uses laser pulses to generate sound waves in tissue
-
     - eng: photoelectron microscope
       ru: фотоэлектронный микроскоп
-      example: The photoelectron microscope images surfaces using electrons emitted by light
-
     - eng: photoion microscope
       ru: фотоионный микроскоп
-      example: A photoion microscope can detect individual atoms on a metal surface
-
     - eng: photometric measurement
       ru: фотометрирование
-      example: Photometric measurement quantifies the brightness of astronomical objects
-
     - eng: physical astronomy
       ru: физическая астрономия
-      example: Physical astronomy explains the composition and evolution of stars
-
     - eng: piezo-optics
       ru: пьезооптика
-      example: Piezo-optics studies how pressure changes the optical properties of materials
-
     - eng: planar optics
       ru: геометрическая оптика
-      example: Planar optics deals with light rays traveling in straight lines
-
     - eng: play with fire
       ru: играть с огнем
-      example: You're playing with fire if you cheat on your taxes
-
     - eng: polarization microscope
       ru: поляризационный микроскоп
-      example: A polarization microscope is used to study crystal structures
-
     - eng: poorly dressed
       ru: бедно одетый
-      example: The poorly dressed man sat alone on the park bench
-
     - eng: predetermination
       ru: предопределение
-      example: Some religions believe in predetermination of human fate
-
     - eng: pricker
       ru: кавалерист
-      example: The pricker rode ahead to scout the enemy position
-
     - eng: prime lens
       ru: объектив с постоянным фокусным расстоянием
-      example: A prime lens usually offers sharper images than a zoom lens
-
     - eng: property relations
       ru: имущественные отношения
-      example: Property relations between spouses are governed by family law
-
     - eng: quantity of magnetism
       ru: количество магнетизма
-      example: The quantity of magnetism is measured in webers
-
     - eng: quasi-optics
       ru: квазиоптика
-      example: Quasi-optics deals with the behavior of millimeter and submillimeter waves
-
     - eng: radio optics
       ru: радиооптика
-      example: Radio optics applies optical principles to radio wave propagation
-
     - eng: range of exposure
       ru: диапазон экспонирования
-      example: The range of exposure determines how much light hits the film
-
     - eng: reconnaissance photography
       ru: фоторазведка
-      example: Reconnaissance photography from spy planes was common during the Cold War
-
     - eng: religious procession
       ru: крестный ход
-      example: The religious procession moved slowly through the city streets
-
     - eng: remanent magnetism
       ru: остаточная магнитная индукция
-      example: Remanent magnetism is what makes permanent magnets work
-
     - eng: revenue stamp
       ru: фискальная марка
-      example: A revenue stamp must be affixed to the document to make it legal
-
     - eng: reversal of magnetism
       ru: перемагничивание
-      example: Reversal of magnetism occurs when an alternating current flows through a coil
-
     - eng: right of claim
       ru: право требования
-      example: The creditor has a right of claim against the debtor
-
     - eng: rocket astronomy
       ru: ракетная астрономия
-      example: Rocket astronomy allowed scientists to observe ultraviolet rays from space
-
     - eng: satellite photography
       ru: спутниковая фотография
-      example: Satellite photography helps monitor deforestation in the Amazon
-
     - eng: save face
       ru: спасать репутацию
-      example: He lied to save face after making a terrible mistake
-
     - eng: schismatic
       ru: раскольник
-      example: The church excommunicated the schismatic for rejecting its authority
-
     - eng: serious face
       ru: серьезный вид
-      example: The judge had a serious face throughout the trial
-
     - eng: shift lens
       ru: шифт-объектив
-      example: A shift lens corrects perspective distortion in architectural photography
-
     - eng: show promise
       ru: подавать надежды
-      example: The young pianist shows promise of becoming a world-class musician
-
     - eng: shroud of Christ
       ru: плащаница
-      example: The Shroud of Christ is believed by some to be the burial cloth of Jesus
-
     - eng: simple contract
-      ru: простой договор
-      example: A simple contract can be verbal or written, but not under seal
-
+      ru: простой дoгoвор
     - eng: so much the better
       ru: тем лучше
-      example: If you finish early, so much the better for everyone
-
     - eng: space astronomy
       ru: внеатмосферная астрономия
-      example: Space astronomy uses telescopes placed above Earth's atmosphere
-
     - eng: space photography
       ru: фотографирование с искусственного спутника
-      example: Space photography from the Hubble telescope reveals distant galaxies
-
     - eng: spark photography
       ru: искровая фотография
-      example: Spark photography captures high-speed events like a bullet in flight
-
     - eng: specific magnetism
       ru: удельная намагниченность
-      example: Specific magnetism is the magnetic moment per unit mass of a material
-
     - eng: spinodal
       ru: спинодальный
-      example: Spinodal decomposition occurs in alloys during rapid cooling
-
     - eng: spoil a film by inadvertent exposure
       ru: засветить фотоплёнку
-      example: Be careful not to spoil a film by inadvertent exposure when loading the camera
-
     - eng: staged photography
       ru: постановочная фотография
-      example: Staged photography often looks too perfect and artificial
-
     - eng: stand to reason
       ru: логично, что
-      example: It stands to reason that more practice leads to better results
-
     - eng: static magnetism
       ru: статические магнитные свойства
-      example: Static magnetism does not change over time in a permanent magnet
-
     - eng: stereo photography
       ru: стереосъёмка
-      example: Stereo photography creates a three-dimensional effect using two offset images
-
     - eng: straight from the shoulder
       ru: честно, откровенно
-      example: He told me straight from the shoulder that my work was poor
-
     - eng: substance of a contract
       ru: содержание договора
-      example: The substance of a contract includes the rights and duties of each party
-
     - eng: sun-tanned
       ru: загорелый
-      example: She returned from the beach with sun-tanned skin
-
     - eng: synodal
       ru: синодальный
-      example: The synodal decision was announced after the church council meeting
-
     - eng: tacit agreement (contract)
       ru: договор, заключенный путем конклюдентных действий
-      example: By shaking hands, they made a tacit agreement
-
     - eng: take a bribe
       ru: взять взятку
-      example: The official was arrested for trying to take a bribe
-
     - eng: take advantage of
       ru: воспользоваться
-      example: Let's take advantage of the sunny weather and go for a walk
-
     - eng: take into account
       ru: принять во внимание
-      example: We must take into account the cost before making a decision
-
     - eng: take one's time
       ru: делать не торопясь
-      example: You can take your time finishing the exam; there's no rush
-
     - eng: take one’s word for it
       ru: поверить на слово
-      example: I haven't seen the document, but I'll take your word for it
-
     - eng: take pains
       ru: прилагать усилия
-      example: She took pains to make sure every detail was perfect
-
     - eng: take part in smth.
       ru: принять участие
-      example: Over fifty countries will take part in the competition
-
     - eng: take time off
       ru: взять отгул
-      example: I need to take time off for a family wedding next week
-
     - eng: take up photography
       ru: заняться фотографией
-      example: He decided to take up photography as a hobby after retirement
-
     - eng: talk it over
       ru: обсудить с кем-то
-      example: Let's talk it over dinner and find a solution
-
     - eng: the Triple Alliance
       ru: Тройственный союз
-      example: The Triple Alliance of 1882 included Germany, Austria-Hungary, and Italy
-
     - eng: the Virgin
       ru: Богородица
-      example: The church was dedicated to the Virgin Mary
-
     - eng: the coast is clear
       ru: все спокойно
-      example: The thief waited until the coast was clear before leaving
-
     - eng: the upper class
       ru: высшее сословие
-      example: The upper class often sends their children to private boarding schools
-
     - eng: theory of magnetism
       ru: теория магнетизма
-      example: The theory of magnetism explains how magnetic domains align in materials
-
     - eng: tilt and shift lens
       ru: объектив со сдвигом и наклоном
-      example: A tilt and shift lens allows control over perspective and depth of field
-
     - eng: to arrange symmetrically
       ru: располагать симметрично
-      example: The interior designer likes to arrange furniture symmetrically
-
     - eng: to break with the tradition
       ru: сломать традиции
-      example: The young king decided to break with tradition and marry for love
-
     - eng: to load a magazine
       ru: заряжать/зарядить кассету
-      example: Don't forget to load a magazine with film before the photo shoot
-
     - eng: to make a long story short
       ru: короче говоря
-      example: To make a long story short, we missed the flight and lost our luggage
-
     - eng: to make a monk
       ru: постричься (в монашество)
-      example: After a spiritual crisis, he decided to make a monk of himself
-
     - eng: to merge into a single entity
       ru: смешаться в единое целое
-      example: The two companies agreed to merge into a single entity
-
     - eng: to mix developing solution
       ru: составлять/составить проявителя раствор
-      example: The technician showed us how to mix developing solution for black-and-white film
-
     - eng: trick photography
       ru: комбинированные съёмки
-      example: Trick photography can make people appear to float in the air
-
     - eng: try one's hand at something
       ru: попробовать себя в
-      example: He decided to try his hand at painting after years of drawing
-
     - eng: turn on / off
       ru: включить/выключить
-      example: Please turn off the lights when you leave the room
-
     - eng: ultra-close-up photography
       ru: макросъёмка
-      example: Ultra-close-up photography reveals the details of insect eyes and flower stamens
-
     - eng: ultrahigh-speed photography
       ru: сверхскоростная фотография
-      example: Ultrahigh-speed photography can capture a bullet piercing an apple
-
     - eng: unilateral contract
       ru: односторонняя сделка
-      example: A reward offer is a unilateral contract accepted by performance
-
     - eng: verbal agreement
-      ru: устное соглашение
-      example: A verbal agreement can be legally binding in some situations
-
+      ru: уснa угодa, уснa домовлeність
     - eng: walk on air
       ru: летать от счастья
-      example: After hearing the good news, she was walking on air
-
     - eng: watch one's step
       ru: быть осмотрительным
-      example: The floor is slippery, so watch your step
-
     - eng: watercolour landscape
       ru: акварельный пейзаж
-      example: She painted a beautiful watercolour landscape of the mountains
-
     - eng: watercolour portrait
       ru: акварельный портрет
-      example: The artist specializes in watercolour portrait painting
-
     - eng: which way the wind blows
       ru: какова реальная ситуация
-      example: He always waits to see which way the wind blows before making a decision
-
     - eng: without authority
       ru: без полномочий, не имея права
-      example: The employee signed the contract without authority from the manager
-
     - eng: word for word
       ru: дословно, дословный
-      example: She repeated the conversation word for word
-
     - eng: zen-Buddhism
       ru: дзэн-буддизм
-      example: Zen-Buddhism emphasizes meditation and intuition rather than scripture study
-
     - eng: (Muslim) prayer
       ru: намаз
-      example: Muslim prayer is performed five times a day facing Mecca
-
     - eng: (receiving) communion
       ru: причащение
-      example: Receiving communion is an important sacrament in the Orthodox and Catholic churches
-
     - eng: 2-dimensions
       ru: двухмерный
-      example: A square is a shape that exists only in 2-dimensions
-
     - eng: 3-dimensions
       ru: трехмерный
-      example: A cube has length, width, and height, making it an object in 3-dimensions
-
     - eng: 3d printing
       ru: 3D-печать
-      example: 3D printing allows manufacturers to create complex shapes layer by layer
-
     - eng: 4-seat row
       ru: 4-х местный ряд
-      example: The minivan has a 4-seat row in the back for extra passengers
-
     - eng: 6-seat row
       ru: 6-и местный ряд
-      example: The tour bus features a 6-seat row that can accommodate a large family
-
     - eng: A bird with a spotted back
       ru: Птица с пятнистой спиной
-      example: ""
-
-    - eng: abhors
-      ru: ненавидит
-      example: A colleague abhors working outdoors
-
     - eng: A bottle of mineral water for me, please.
       ru: Бутылку минеральной воды для меня, пожалуйста.
-      example: ""
-
+    - eng: A colleague abhors working outdoors
+      ru: Коллега терпеть не может работать на открытом воздухе
     - eng: A cup of black coffee with a shot of rum in it, please.
       ru: Чёрный кофе с каплей рома, пожалуйста.
-      example: ""
-
     - eng: A friend in need is a friend indeed. Latin proverb.
       ru: Друзья познаются в беде. Латинская пословица.
-      example: ""
-
     - eng: A girl must marry for love, and keep on marrying until she finds it. Zsa Zsa Gabor.
       ru: Девушка должна выходить замуж по любви, и продолжать выходить замуж, пока ее не найдет. Дза Дза Габор.
-      example: ""
-
     - eng: A huge mosquito bit me yesterday. I think, I need to see a doctor.
       ru: Меня укусил огромный комар вчера. Думаю, мне надо к врачу.
-      example: ""
     - eng: A lifetime of happiness! No man alive could bear it. George Bernard Shaw.
       ru: Жизнь из сплошного счастья! Ни один живущий на земле не сможет выдержать этого! Бернард Шоу.
-      example: ""
     - eng: A more comprehensive, preventive approach must be formulated
       ru: Необходимо разработать более всеобъемлющий превентивный подход
-      example: ""
     - eng: A table for one (two, three) please.
       ru: Мне столик на одного (Нам столик на двоих, троих), пожалуйста.
     - eng: A whistle blew at the station nearby
