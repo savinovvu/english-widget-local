@@ -25,6 +25,7 @@ class SwingWindow(
 
     private val engLabel = JLabel("", SwingConstants.CENTER)
     private val ruLabel = JLabel("", SwingConstants.CENTER)
+    private val exampleLabel = JLabel("", SwingConstants.CENTER)
 
     init {
         setupDarkMode()
@@ -74,23 +75,31 @@ class SwingWindow(
         ruLabel.font = Font("Arial", Font.ITALIC, 50)
         ruLabel.foreground = Color(250, 250, 250)
 
+        exampleLabel.font = Font("Arial", Font.PLAIN, 35)
+        exampleLabel.foreground = Color(180, 180, 180)
+
         val constraints = GridBagConstraints()
         constraints.gridwidth = GridBagConstraints.REMAINDER
         constraints.fill = GridBagConstraints.HORIZONTAL
+        constraints.weightx = 1.0  // Растягиваем по горизонтали
 
-        constraints.insets = Insets(50, 0, 20, 0)
+        // Верхняя часть - английское слово (прижато к верху)
+        constraints.weighty = 0.3  // Занимает 30% высоты
+        constraints.anchor = GridBagConstraints.PAGE_START  // Прижимаем к верху
+        constraints.insets = Insets(50, 0, 0, 0)  // Отступ сверху
         add(engLabel, constraints)
 
-        for (i in 1..2) {
-            val emptyLabel = JLabel(" ")
-            emptyLabel.font = Font("Arial", Font.PLAIN, 20)
-            emptyLabel.foreground = Color.WHITE
-            constraints.insets = Insets(0, 0, 0, 0)
-            add(emptyLabel, constraints)
-        }
-
-        constraints.insets = Insets(0, 0, 50, 0)
+        // Центральная часть - перевод (по центру)
+        constraints.weighty = 0.4  // Занимает 40% высоты
+        constraints.anchor = GridBagConstraints.CENTER  // Центрируем по вертикали
+        constraints.insets = Insets(0, 0, 0, 0)
         add(ruLabel, constraints)
+
+        // Нижняя часть - пример (прижато к низу)
+        constraints.weighty = 0.3  // Занимает 30% высоты
+        constraints.anchor = GridBagConstraints.PAGE_END  // Прижимаем к низу
+        constraints.insets = Insets(0, 0, 50, 0)  // Отступ снизу
+        add(exampleLabel, constraints)
 
         SwingUtilities.invokeLater {
             isVisible = true
@@ -107,6 +116,7 @@ class SwingWindow(
         val selectedWord = applicationProperties.words[randomIndex]
         engLabel.text = selectedWord.eng
         ruLabel.text = selectedWord.ru
+        exampleLabel.text = selectedWord.example ?: ""  // Если example нет, показываем пустую строку
     }
 
     private fun startMessageTimer() {
