@@ -10205,846 +10205,1688 @@ app.words:
 
     - eng: That shouldn't be too much of a problem.
       ru: Это не должно быть слишком большой проблемой.
+      example: We can fix this quickly so that should not be too much of a problem
+
     - eng: That sounds fantastic!
       ru: Звучит просто замечательно!
+      example: You got the job that sounds fantastic
+
     - eng: That sounds interesting!
       ru: Звучит интересно!
+      example: Tell me more about your project because that sounds interesting
+
     - eng: That was a great presentation, wasn't it?
       ru: Это была отличная презентация, не так ли?
+      example: That was a great presentation was not it everyone enjoyed it
+
     - eng: That way
       ru: туда
+      example: If you go that way you will reach the station in five minutes
+
     - eng: That will be 2 dollars
       ru: Это будет стоить 2 доллара
+      example: The cashier said that will be two dollars for the coffee
+
     - eng: That's a good idea.
       ru: Это хорошая идея.
+      example: Let us save money for a rainy day that is a good idea
+
     - eng: That's a good idea.
       ru: Это хорошая идея
+      example: We should leave early that is a good idea
+
     - eng: That's a good time for me.
       ru: Это удобное время для меня.
+      example: Three o clock works well so that is a good time for me
+
     - eng: That's a lie, isn't it
       ru: Это ложь, не так ли
+      example: You said you were at home but that is a lie is not it
+
     - eng: That's exemplary
       ru: Это образцово
+      example: The way you handled the situation was professional and that is exemplary
+
     - eng: That's insane
       ru: это безумие
+      example: He wants to climb that mountain without gear that is insane
+
     - eng: That's nowhere near my specialty
       ru: Это и близко не относится к моей специальности
+      example: I cannot help you with brain surgery because that is nowhere near my specialty
+
     - eng: That's the way to do it
       ru: Вот так это делается
+      example: You solved the puzzle perfectly and that is the way to do it
+
     - eng: That's the whole point.
       ru: В том-то все и дело.
+      example: We want to help people and that is the whole point of our organization
+
     - eng: That's what we intend to find out
       ru: Это то, что мы намерены выяснить
-    - eng: That’s it, my final decision
+      example: Is the theory correct that is what we intend to find out
+
+    - eng: That's it, my final decision
       ru: Это всё, моё окончательное решение
-    - eng: That’s too expensive.
+      example: I have thought about it and that is it my final decision
+
+    - eng: That's too expensive.
       ru: Это слишком дорого.
+      example: I cannot afford this car because that is too expensive for my budget
+
     - eng: The Act is amended to entitle to remain in employment
       ru: В Закон вносятся поправки, дающие право оставаться на работе
+      example: The Act is amended to entitle older workers to remain in employment longer
+
     - eng: The Chinese industrialized textile production
       ru: Китайцы индустриализировали текстильное производство
+      example: The Chinese industrialized textile production faster than any other nation
+
     - eng: The Daily Prophet
       ru: Ежедневный Пророк
+      example: In Harry Potter the Daily Prophet is the main wizarding newspaper
+
     - eng: The English public is disinterested in its theater
       ru: Английская публика не проявляет интереса к своему театру
+      example: The English public is disinterested in its theater according to recent surveys
+
     - eng: The Fat Lady
       ru: Полная Дама
+      example: In Harry Potter the Fat Lady guards the entrance to the Gryffindor common room
+
     - eng: The Golden Age
       ru: золотой век
+      example: The Golden Age of Hollywood produced many classic films
+
     - eng: The House of Commons
       ru: палата общин
+      example: The House of Commons is the lower chamber of the British Parliament
+
     - eng: The House of Lords
       ru: палата лордов
+      example: The House of Lords is the upper chamber of the British Parliament
+
     - eng: The House of Representatives
       ru: палата представителей
+      example: The House of Representatives is one of two chambers of the US Congress
+
     - eng: The Internet is the thing of the future, there's no doubt about it.
       ru: За Интернетом будущее, в этом нет никаких сомнений.
+      example: The Internet is the thing of the future and there is no doubt about it
+
     - eng: The Last Judgement
       ru: Страшный Суд
+      example: The Last Judgement is a famous fresco by Michelangelo in the Sistine Chapel
+
     - eng: The Marauder's Map
       ru: карта мародёров
+      example: In Harry Potter the Marauder's Map shows every person in Hogwarts
+
     - eng: The Rider is touching the horses lightly with the whip
       ru: Всадник слегка прикасается к лошадям хлыстом
+      example: The rider is touching the horses lightly with the whip to guide them
+
     - eng: The Tube
       ru: Лондонское метро
+      example: The Tube is the fastest way to travel around London
+
     - eng: The Tube
       ru: Лондонское метро
+      example: I take the Tube to work every morning to avoid traffic
+
     - eng: The agreement will restrict competition
       ru: Соглашение ограничит конкуренцию
+      example: The agreement will restrict competition between the two companies
+
     - eng: The appartment had been cleaned before they invited me
       ru: Квартира была убрана до того, как они пригласили меня
+      example: The apartment had been cleaned before they invited me for dinner
+
     - eng: The arrow that appears on the screen is called a cursor
       ru: Стрелка, которая появляется на экране, называется курсором
+      example: The arrow that appears on the screen is called a cursor in computing
+
     - eng: The bank closes at 8 p.m.
       ru: Банк закрывается в восемь вечера.
+      example: We need to hurry because the bank closes at eight p m
+
     - eng: The best way to predict the future is to create it. Peter Drucker.
       ru: Лучший способ предсказать будущее — создать его. Питер Друкер.
+      example: Peter Drucker said the best way to predict the future is to create it
+
     - eng: The biggest size is extra large (XL).
       ru: Самый большой размер - очень большой/XL.
+      example: The biggest size is extra large which is XL on the tag
+
     - eng: The biggest size is extra large/XL.
       ru: Самый большой размер - очень большой/XL.
+      example: The biggest size we have is extra large or XL
+
     - eng: The bill (the check), please.
       ru: Счет, пожалуйста.
+      example: The meal was delicious so the bill please
+
     - eng: The boy was honest, intelligent and loyal
       ru: Мальчик был честным, умным и преданным
+      example: The boy was honest intelligent and loyal to his friends
+
     - eng: The buyer shook his head sadly
       ru: Покупатель печально покачал головой
+      example: The price was too high so the buyer shook his head sadly
+
     - eng: The chef would be happy to meet your gastronomic tastes.
       ru: Шеф-повар с удовольствием исполнит ваши гастрономические капризы.
+      example: The chef would be happy to meet your gastronomic tastes if you ask
+
     - eng: The clash of the two worlds ended peacefully
       ru: Столкновение двух миров закончилось мирно
+      example: The clash of the two worlds ended peacefully without any violence
+
     - eng: The convicts were sentenced to deportation
       ru: Осужденные были приговорены к депортации
+      example: The convicts were sentenced to deportation after serving their time
+
     - eng: The crab salad to start, and the fillet of sea bass to follow.
       ru: Сначала принесите крабовый салат, а потом филе из морского окуня.
+      example: I will have the crab salad to start and the fillet of sea bass to follow
+
     - eng: The entire firm was standing by
       ru: Вся фирма была наготове
+      example: The entire firm was standing by waiting for the CEO's announcement
+
     - eng: The first layer is an absorbing layer
       ru: Первый слой - это поглощающий слой
+      example: The first layer is an absorbing layer that captures moisture
+
     - eng: The fitting rooms are over there.
       ru: Примерочная вот там.
+      example: You can try on clothes because the fitting rooms are over there
+
     - eng: The fitting rooms are over there.
       ru: Примерочная вот там.
+      example: The fitting rooms are over there next to the jackets
+
     - eng: The grocery store was busy, wasn't it
       ru: Продуктовый магазин был переполнен, не так ли
+      example: The grocery store was busy was not it on Sunday afternoon
+
     - eng: The job involves traveling abroad once a month
       ru: Работа предполагает выезд за границу раз в месяц
+      example: The job involves traveling abroad once a month to meet clients
+
     - eng: The job sometimes necessitates lifting heavy objects
       ru: Работа иногда требует подъема тяжелых предметов
+      example: The job sometimes necessitates lifting heavy objects up to fifty pounds
+
     - eng: The kitchen is fully fitted.
       ru: Кухня полностью оборудована.
+      example: The apartment is nice because the kitchen is fully fitted with appliances
+
     - eng: The language in the statement is highly ambiguous
       ru: Формулировки в заявлении крайне двусмысленны
+      example: The language in the statement is highly ambiguous and hard to interpret
+
     - eng: The mistakes are all waiting to be made. Savielly Grigorievitch Tartakower.
       ru: Ошибки всегда ждут, чтобы их сделали. С.Г. Тартаковер
+      example: Savielly Tartakower said the mistakes are all waiting to be made
+
     - eng: The oatmeal's a little underdone today
       ru: Овсянка сегодня немного недоварена
+      example: The oatmeal is a little underdone today so it is still crunchy
+
     - eng: The officers burst out laughing
       ru: Офицеры разразились смехом
+      example: The joke was so funny that the officers burst out laughing
+
     - eng: The old man cradled the baby in his arms
       ru: Старик баюкал младенца на руках
+      example: The old man cradled the baby in his arms and sang a lullaby
+
     - eng: The old man looked over his shoulder
       ru: Старик оглянулся через плечо
+      example: The old man looked over his shoulder to see who was following him
+
     - eng: The painting was authenticated as genuine
       ru: Картина была подтверждена как подлинная
+      example: Experts examined the painting and it was authenticated as genuine
+
     - eng: The people
       ru: народ
+      example: The people have the power to elect their leaders
+
     - eng: The play begins with the main monologue
       ru: Пьеса начинается с главного монолога
+      example: The play begins with the main monologue spoken by the lead actor
+
     - eng: The plow lay sidelong on the ground
       ru: Плуг лежал боком на земле
+      example: The plow lay sidelong on the ground after the tractor broke down
+
     - eng: The porter had come forward
       ru: Швейцар вышел вперед
+      example: The porter had come forward to help us with our luggage
+
     - eng: The possession of the gift was the rule
       ru: обладание талантом было правилом; обладание талантом было правилом
+      example: In that family the possession of the gift was the rule not the exception
+
     - eng: The price of pork went up
       ru: Цены на свинину выросли
+      example: The price of pork went up because of the feed shortage
+
     - eng: The prisoner was convicted of robbery by the court
       ru: Заключенный был признан судом виновным в ограблении
+      example: The prisoner was convicted of robbery by the court and sentenced to five years
+
     - eng: The product is out of stock.
       ru: Товара нет в наличии.
+      example: I wanted to buy that shirt but the product is out of stock
+
     - eng: The product is protected by patent
       ru: Продукт защищен патентом
+      example: The product is protected by patent so no one can copy it
+
     - eng: The project will entail considerable expense
       ru: Проект повлечет за собой значительные расходы
+      example: The project will entail considerable expense so we need more funding
+
     - eng: The proof of the pudding is in the eating. Proverb.
       ru: Чтобы узнать, каков пудинг, нужно его отведать. Пословица.
+      example: The proverb says the proof of the pudding is in the eating
+
     - eng: The protracted and acute financial crisis cannot leave us indifferent
       ru: Затяжной и острый финансовый кризис не может оставить нас равнодушными
+      example: The protracted and acute financial crisis cannot leave us indifferent to its effects
+
     - eng: The purpose of life is a life of purpose. Robert Byrne.
       ru: Цель жизни — это жизнь целью. Роберт Бёрн
+      example: Robert Byrne said the purpose of life is a life of purpose
+
     - eng: The question now is
       ru: Вопрос теперь в том ...
+      example: The question now is whether we can finish on time
+
     - eng: The question now is...
       ru: Вопрос теперь в том ...
+      example: The question now is what should we do next
+
     - eng: The researcher sets up experiments to test the hypothesis
       ru: Исследователь проводит эксперименты для проверки гипотезы
+      example: The researcher sets up experiments to test the hypothesis carefully
+
     - eng: The rift doesn't spread out this far
       ru: Разлом не распространяется так далеко
+      example: The rift does not spread out this far so we are safe here
+
     - eng: The senate
       ru: сенат
+      example: The senate voted to approve the new law
+
     - eng: The situation got out of hand
       ru: Ситуация вышла из-под контроля
+      example: The protest started peacefully but the situation got out of hand quickly
+
     - eng: The software is prefected by evolving existing features because of new requirements
       ru: Программное обеспечение усовершенствовано за счет развития существующих функций в соответствии с новыми требованиями
+      example: The software is perfected by evolving existing features because of new requirements from users
+
     - eng: The stiff hat hung on a nail
       ru: Жесткая шляпа висела на гвозде
+      example: The stiff hat hung on a nail by the front door
+
     - eng: The taxi rank is next to the hospital
       ru: Стоянка такси находится рядом с больницей
+      example: You can find a cab easily because the taxi rank is next to the hospital
+
     - eng: The things you own end up owning you. Tyler Durden, The Fight Club.
       ru: Вещи, которыми ты владеешь в конце концов начинают владеть тобой. Тайлер Дёрден, Бойцовский клуб.
+      example: Tyler Durden said the things you own end up owning you
+
     - eng: The total price for your dinner is 50.00$.
       ru: Общая стоимость вашего обеда составляет 50 долларов.
+      example: The total price for your dinner is fifty dollars including tip
+
     - eng: The train set off
       ru: Поезд тронулся
+      example: The train set off from the station exactly on time
+
     - eng: The twins continued to grin
       ru: Близнецы продолжали ухмыляться
+      example: The twins continued to grin at each other as if they shared a secret
+
     - eng: The walk back to the city was joyless
       ru: Обратная прогулка в город была безрадостной
+      example: The walk back to the city was joyless after losing the game
+
     - eng: The words are followed by the actions
       ru: За словами следуют действия
+      example: In a good leader the words are followed by the actions
+
     - eng: The world hates change, yet it is the only thing that has brought progress. Charles Kettering.
       ru: Мир не любит перемен, хотя это единственное, что движет прогрессом. Чарльз Кеттеринг.
+      example: Charles Kettering said the world hates change yet it is the only thing that has brought progress
+
     - eng: Their Treasury exhausted by so frequent evacuations
       ru: Их казна истощилась из-за столь частых эвакуаций
+      example: Their treasury exhausted by so frequent evacuations could no longer support the army
+
     - eng: There are four cats on the screen
       ru: На экране четыре кошки
+      example: There are four cats on the screen in that funny video
+
     - eng: There are no ugly women, only lazy ones. Helena Rubinstein.
       ru: Нет некрасивых женщин, есть ленивые. Хелена Рубинштейн
+      example: Helena Rubinstein said there are no ugly women only lazy ones
+
     - eng: There are two parts in a book
       ru: В книге есть две части
+      example: There are two parts in a book the introduction and the main text
+
     - eng: There are widows who take on a tenancy
       ru: Есть вдовы, которые снимают жилье
+      example: There are widows who take on a tenancy to avoid living alone
+
     - eng: There is an item missing from my order. What should I do?
       ru: Одного из товаров нет в моём заказе. Что мне делать?
+      example: There is an item missing from my order what should I do
+
     - eng: There is nobody behind the tree
       ru: За деревом никого нет
+      example: I checked carefully and there is nobody behind the tree
+
     - eng: There is too much pepper in the soup.
       ru: В этом супе слишком много перца.
+      example: I cannot eat this because there is too much pepper in the soup
+
     - eng: There must be a ford
       ru: Там должен быть брод
+      example: To cross the river there must be a ford somewhere nearby
+
     - eng: There must be some mistake.
       ru: там должна быть какая-то ошибка.
+      example: My bill is too high so there must be some mistake
+
     - eng: There was a low snarling from the harassed rival
       ru: Послышалось низкое рычание измученного соперника
+      example: There was a low snarling from the harassed rival who refused to give up
+
     - eng: There was a whole dish of hot pies smelling of jam, rice, and fish.
       ru: Подали полное блюдо горячих пирожков, от которых пахло вареньем, вареным рисом и рыбой.
+      example: There was a whole dish of hot pies smelling of jam rice and fish
+
     - eng: There were a few mistakes in Bill's speech
       ru: В речи Билла было несколько ошибок
+      example: There were a few mistakes in Bill's speech but overall it was good
+
     - eng: There's no need to get frustrated
       ru: Нет необходимости расстраиваться
+      example: We will solve the problem so there is no need to get frustrated
+
     - eng: There's no time to fill out the forms
       ru: Нет времени заполнять бланки
+      example: The deadline is now so there is no time to fill out the forms
+
     - eng: There's nothing sneaky about it
       ru: В этом нет ничего подлого
-    - eng: There’s no place like home. The Wizard Of Oz.
+      example: I told you everything so there is nothing sneaky about it
+
+    - eng: There's no place like home. The Wizard Of Oz.
       ru: Нет ничего лучше дома. Волшебник страны Оз.
+      example: Dorothy said there is no place like home in The Wizard of Oz
+
     - eng: Thermos
       ru: термос
+      example: I packed coffee in a thermos to keep it hot for the trip
+
     - eng: These carrot chips are so crispy.
       ru: Эти чипсы из моркови такие хрустящие.
+      example: These carrot chips are so crispy that I cannot stop eating them
+
     - eng: These jeans are too small for me, can you bring me one size up please?
       ru: Эти джинсы мне малы, вы не могли бы принести на один размер больше?
+      example: These jeans are too small for me so can you bring me one size up please
+
     - eng: These jeans are too small for me, can you bring me one size up please?
       ru: Эти джинсы мне малы, вы не могли бы принести на один размер больше?
+      example: These jeans are too small for me can you bring me one size up please
+
     - eng: These shoes are tight
       ru: Эти туфли жмут.
+      example: I need a larger size because these shoes are tight on my feet
+
     - eng: These shoes are tight.
       ru: Эти туфли жмут.
+      example: These shoes are tight and they are hurting my toes
+
     - eng: These things are the realization of a dream
       ru: Эти вещи - воплощение мечты
+      example: For him these things are the realization of a dream he had since childhood
+
     - eng: Thestral
       ru: фестрал
+      example: In Harry Potter Thestrals are magical creatures that can only be seen by those who have witnessed death
+
     - eng: They also throw up hairballs, as cats are wont to do
       ru: Они также выбрасывают комки шерсти, как это обычно делают кошки
+      example: They also throw up hairballs as cats are wont to do from time to time
+
     - eng: They appear in different places, different times
       ru: Они появляются в разных местах, в разное время
+      example: They appear in different places at different times without any pattern
+
     - eng: They are going to reduce the workforce.
       ru: Они собираются сократить штат сотрудников.
+      example: The company is struggling so they are going to reduce the workforce
+
     - eng: They are going to reduce the workforce.
       ru: Они собираются сократить штат сотрудников.
+      example: They are going to reduce the workforce by twenty percent next month
+
     - eng: They carry out rituals, apparently
       ru: Очевидно, они проводят ритуалы
+      example: They carry out rituals apparently to honor their ancestors
+
     - eng: They deserve a chance to admit their own mistakes
       ru: Они заслуживают шанса признать свои собственные ошибки
+      example: Everyone makes errors so they deserve a chance to admit their own mistakes
+
     - eng: They do grow up so fast
       ru: Они действительно так быстро взрослеют
+      example: Watching my children play I realize they do grow up so fast
+
     - eng: They had never come out
       ru: Они так и не вышли
+      example: We waited for hours but they had never come out of the building
+
     - eng: They often regard that as vulgar
       ru: Они часто считают это вульгарным
+      example: In polite society they often regard that as vulgar behavior
+
     - eng: They often talk over their movie projects
       ru: Они часто обсуждают свои кинопроекты
+      example: They often talk over their movie projects late into the night
+
     - eng: They really get along great
       ru: Они действительно отлично ладят
+      example: The new teammates are friends and they really get along great
+
     - eng: They walk away from the noise
       ru: Они уходят подальше от шума
+      example: To find peace they walk away from the noise of the city
+
     - eng: They were coming on steadily
       ru: Они неуклонно приближались
+      example: The enemy soldiers were coming on steadily despite the resistance
+
     - eng: They were mannerly
       ru: Они были воспитанны
+      example: The children greeted the guests politely and they were mannerly
+
     - eng: They were punished for their impudent behavior
       ru: Они были наказаны за свое дерзкое поведение
+      example: They were punished for their impudent behavior towards the teacher
+
     - eng: They weren't programmed to turn off
       ru: Они не были запрограммированы на отключение
+      example: The machines kept running because they were not programmed to turn off
+
     - eng: They will freeze my bank account, I'm sure.
       ru: Они заморозят мой счет, я уверен.
+      example: I have unpaid debts so they will freeze my bank account I am sure
+
     - eng: They'll run out and bite you
       ru: Они выбегут и укусят тебя
+      example: Be careful near that yard because the dogs will run out and bite you
+
     - eng: Thimphu
       ru: Тхимпху
+      example: Thimphu is the capital of Bhutan in the Himalayas
+
     - eng: This banana cocktail looks lovely.
       ru: Этот банановый коктейль смотрится восхитительно.
+      example: This banana cocktail looks lovely with its creamy texture
+
     - eng: This bank has a more favourable exchange rate.
       ru: В этом банке более подходящий обменный курс.
+      example: Let us go here because this bank has a more favourable exchange rate
+
     - eng: This breed remained mostly untouched in Turkmenistan
       ru: Эта порода осталась в основном нетронутой в Туркменистане
+      example: This breed remained mostly untouched in Turkmenistan for centuries
+
     - eng: This cheese omelette is very good.
       ru: Этот омлет с сыром очень вкусный.
+      example: This cheese omelette is very good and I recommend it
+
     - eng: This data was specifically excluded, wasn't it
       ru: Эти данные были специально исключены, не так ли
+      example: This data was specifically excluded from the report was not it
+
     - eng: This dress fits me perfectly, doesn't it
       ru: Это платье идеально мне подходит, не так ли?
+      example: This dress fits me perfectly does not it like it was made for me
+
     - eng: This drug is a revolutionary breakthrough
       ru: Этот препарат является революционным прорывом
+      example: This drug is a revolutionary breakthrough in treating cancer
+
     - eng: This is a peerless tool for medical diagnosis
       ru: Это несравненный инструмент для медицинской диагностики
+      example: This is a peerless tool for medical diagnosis that saves lives
+
     - eng: This is a useful little spell
       ru: Это маленькое полезное заклинание
+      example: This is a useful little spell for cleaning things quickly
+
     - eng: This is difficult to get your head around at first
       ru: Поначалу вам трудно разобраться в этом
+      example: This is difficult to get your head around at first but it becomes easier
+
     - eng: This is my first visit to your country.
       ru: Я первый раз в вашей стране.
+      example: This is my first visit to your country and I love it here
+
     - eng: This is my first visit to your country.
       ru: Я первый раз в вашей стране.
+      example: This is my first visit to your country so please show me around
+
     - eng: This is not my size.
       ru: Это не мой размер.
+      example: This shirt is too big so this is not my size
+
     - eng: This is not my size.
       ru: Это не мой размер.
+      example: I need a medium because this is not my size
+
     - eng: This is one of those moments you dream about
       ru: Это один из тех моментов, о которых вы мечтаете
+      example: Winning the award this is one of those moments you dream about
+
     - eng: This is size large.
       ru: Это L.
+      example: This shirt is big because this is size large
+
     - eng: This is size large.
       ru: Это L.
+      example: This is size large which is too big for me
+
     - eng: This is the way you spread it
       ru: Вот как вы это распространяете
+      example: Watch carefully because this is the way you spread the icing evenly
+
     - eng: This item is shipped from England.
       ru: Этот товар доставляют из Англии.
+      example: This item is shipped from England so it may take two weeks
+
     - eng: This male wants a mate
       ru: Этот самец хочет себе пару
+      example: The bird is singing loudly because this male wants a mate
+
     - eng: This one will take time
       ru: На это потребуется время
+      example: The project is complex so this one will take time to complete
+
     - eng: This ought to make me stand out
       ru: Это позволит мне выделится
+      example: I will wear a bright red tie because this ought to make me stand out
+
     - eng: This size fits me well.
       ru: Этот размер мне подходит.
+      example: I do not need to exchange it because this size fits me well
+
     - eng: This size fits me well.
       ru: Этот размер мне подходит.
+      example: This size fits me well so I will take it
+
     - eng: This size is big for me.
       ru: Это мне велико.
+      example: I need a smaller one because this size is big for me
+
     - eng: This size is big for me.
       ru: Это мне велико.
+      example: This size is big for me so please bring a smaller size
+
     - eng: This size is small for me.
       ru: Это слишком маленькое.
+      example: I cannot wear this because this size is small for me
+
     - eng: This size is small for me.
       ru: Это слишком маленькое.
+      example: This size is small for me so I need a larger one
+
     - eng: This statement was sincere
       ru: Это заявление было искренним
+      example: You could see in his eyes that this statement was sincere
+
     - eng: This subdivision normally includes an allocation of concrete tasks
       ru: Такое подразделение обычно предусматривает постановку конкретных задач
+      example: This subdivision normally includes an allocation of concrete tasks to each team member
+
     - eng: This t-shirt is too small for me, can you bring me a bigger one please?
       ru: Эта футболка мне мала, вы не могли бы принести мне побольше?
+      example: This t shirt is too small for me so can you bring me a bigger one please
+
     - eng: This undifferentiated approach reduced the relevance
       ru: Такой недифференцированный подход снизил актуальность
+      example: This undifferentiated approach reduced the relevance of the study findings
+
     - eng: This way, please
       ru: сюда, пожалуйста
+      example: Follow me this way please to your table
+
     - eng: Those new glasses really suit you!
       ru: Новые очки тебе очень идут!
+      example: Those new glasses really suit you and make you look smart
+
     - eng: Though
       ru: хотя, несмотря на; несмотря на; хотя
+      example: Though it was raining we still went for a walk
+
     - eng: Thousands of people remain in arbitrary detention
       ru: Тысячи людей остаются в произвольных задержаниях
+      example: Thousands of people remain in arbitrary detention without trial
+
     - eng: Three of a kind
       ru: Тройка
+      example: In poker three of a kind beats two pairs
+
     - eng: Throughout
       ru: по всему; через; повсюду
+      example: Throughout history people have migrated to find better opportunities
+
     - eng: Thursday
       ru: четверг
+      example: Thursday is the fourth day of the work week
+
     - eng: Tiber
       ru: Тибр
+      example: The Tiber River flows through Rome in Italy
+
     - eng: Tiger Lily
       ru: тигровая лилия
+      example: The tiger lily has bright orange petals with dark spots
+
     - eng: Time for us to rise up together and take over
       ru: Пришло время нам подняться вместе и взять верх
+      example: Time for us to rise up together and take over the industry
+
     - eng: Time goes by
       ru: Время идет, проходит, течет
+      example: Time goes by so quickly when you are having fun
+
     - eng: Time passes
       ru: Время проходит
+      example: Time passes whether we do something useful or not
+
     - eng: Time to get on board at once
       ru: Время немедленно подниматься на борт
+      example: The ship is leaving so time to get on board at once
+
     - eng: Time to try out my water brake cooling system
       ru: Пришло время опробовать мою систему охлаждения водяных тормозов
+      example: Time to try out my water brake cooling system on the race track
+
     - eng: Time will go by
       ru: Время пройдет
+      example: Do not worry because time will go by and things will get better
+
     - eng: Time will go by and I won't mind about this either
       ru: Пройдёт время и я стану к этому равнодушен
+      example: Time will go by and I will not mind about this either eventually
+
     - eng: TimeWise
       ru: тем временем, что касается времени
+      example: TimeWise products are designed to reduce signs of aging
+
     - eng: Timor Sea
       ru: Тиморское море
+      example: The Timor Sea lies between Australia and the island of Timor
+
     - eng: Tirane
       ru: Тирана
+      example: Tirane is the capital of Albania
+
     - eng: Tisza
       ru: тиса
+      example: The Tisza River flows through Hungary and Serbia
+
     - eng: To achieve this look, visit our store.
       ru: Чтобы выглядеть также, посетите наш магазин.
-    - eng: To be or not to be, that`s the question. Hamlet.
+      example: To achieve this look visit our store for the perfect products
+
+    - eng: To be or not to be, that's the question. Hamlet.
       ru: Быть или не быть; вот в чем вопрос. Гамлет.
+      example: Hamlet famously asked to be or not to be that is the question
+
     - eng: To consume
       ru: потреблять
+      example: It is important to consume enough water every day
+
     - eng: To draw, you must close your eyes and sing. Pablo Picasso.
       ru: Чтобы рисовать, ты должен закрыть глаза и петь. Пабло Пикассо.
+      example: Pablo Picasso said to draw you must close your eyes and sing
+
     - eng: To sin
       ru: грешить
+      example: To sin is human but to forgive is divine
+
     - eng: To turn
       ru: поворачивать
+      example: You need to turn the key to start the engine
+
     - eng: Today is the first day of the rest of your life. American Beauty.
       ru: Сегодня — первый день твоей оставшейся жизни. Красота по- американски.
+      example: The movie American Beauty said today is the first day of the rest of your life
+
     - eng: Togolese
       ru: житель Того
+      example: The Togolese showed us the vibrant markets of Lome
+
     - eng: Tokyo
       ru: Токио
+      example: Tokyo is the capital of Japan and the most populous city in the world
+
     - eng: Tolstoyism
       ru: Толстовство
+      example: Tolstoyism is a social and philosophical movement based on the ideas of Leo Tolstoy
+
     - eng: Tom works for Soprano family
       ru: Том работает на семью Сопрано
+      example: Tom works for Soprano family as a driver and bodyguard
+
     - eng: Tongan
       ru: тонганец
+      example: The Tongan performed a traditional dance at the festival
+
     - eng: Tongan, Tonga – Pule'anga Tonga
       ru: Тонга, Королевство Тонга
+      example: Tonga is a Polynesian kingdom in the South Pacific
+
     - eng: Too much oppression will prompt a revolt
       ru: слишком сильное угнетение вызовет восстание
+      example: History shows that too much oppression will prompt a revolt sooner or later
+
     - eng: Track and field
       ru: лёгкая атлетика
+      example: Track and field includes running jumping and throwing events
+
     - eng: Traditionally, they knock off at one
       ru: Традиционно они заканчивают в один
+      example: Traditionally they knock off at one o clock for lunch
+
     - eng: Traffic lights have been disabled
       ru: Светофоры были отключены
+      example: Traffic lights have been disabled due to the power outage
+
     - eng: Triangulum
       ru: Треугольник
+      example: Triangulum is a small northern constellation shaped like a triangle
+
     - eng: Triangulum Australe
       ru: южный треугольник
+      example: Triangulum Australe is a southern constellation near Centaurus
+
     - eng: Trim away any excess glue with a knife
       ru: Срежьте излишки клея ножом
+      example: Trim away any excess glue with a knife after it dries
+
     - eng: Trinidadian or Tobagonian
       ru: житель Тринидад и Тобаго
+      example: The Trinidadian or Tobagonian invited us to visit during Carnival
+
     - eng: Trung Thu
       ru: праздник середины осени
+      example: Trung Thu is the Vietnamese Mid Autumn Festival for children
+
     - eng: Truth begins in lies. House M.D..
       ru: Правда начинается со лжи. Доктор Хаус.
+      example: Dr House said truth begins in lies and deception
+
     - eng: Try to get letters of recommendation from bosses.
       ru: Постарайся получить рекомендательные письма от начальства.
+      example: Try to get letters of recommendation from bosses before you leave the company
+
     - eng: Try to get letters of recommendation from bosses.
       ru: Постарайся получить рекомендательные письма от начальства.
+      example: Try to get letters of recommendation from bosses to improve your job applications
+
     - eng: Tucana
       ru: Тукан
+      example: Tucana is a southern constellation named after the toucan bird
+
     - eng: Tuesday
       ru: вторник
+      example: Tuesday is the third day of the week
+
     - eng: Tunis
       ru: Тунис
+      example: Tunis is the capital of Tunisia in North Africa
+
     - eng: Tunisia – Republic of Tunisia
       ru: тунис, тунисская республика
+      example: Tunisia is known for its Mediterranean beaches and ancient ruins
+
     - eng: Tunisian
       ru: житель Туниса
+      example: The Tunisian made delicious harissa sauce
+
     - eng: Turk
       ru: турок; турчанка
+      example: The Turk showed us how to make authentic Turkish coffee
+
     - eng: Turkey – Republic of Turkey
       ru: Турция, Турецкая Республика
+      example: Turkey is a country that spans both Europe and Asia
+
     - eng: Turkmen
       ru: туркмен
+      example: The Turkmen is known for his beautiful handmade carpets
+
     - eng: Turkmenian
       ru: житель Туркменистана
+      example: The Turkmenian invited us to see the Darvaza gas crater
+
     - eng: Turn around
       ru: оборачиваться
+      example: Turn around slowly and look at the view behind you
+
     - eng: Turn out your pockets
       ru: выверните свои карманы
+      example: The security guard asked me to turn out my pockets
+
     - eng: Turn over the paper
       ru: Переверните бумагу
+      example: Turn over the paper to read the instructions on the back
+
     - eng: Turn over, like a good little girl
       ru: Перевернись, как хорошая маленькая девочка
+      example: Turn over like a good little girl so I can tie your shoelaces
+
     - eng: Tuvalu
       ru: Тувалу
+      example: Tuvalu is a small island nation in the Pacific Ocean
+
     - eng: Tuvaluan
       ru: житель Тувалу
+      example: The Tuvaluan explained how rising sea levels affect his country
+
     - eng: Two images stand out after one year
       ru: Два изображения выделяются спустя один год
+      example: Two images stand out after one year as the most memorable photos
+
     - eng: Two o'clock is the best time for me.
       ru: Два часа для меня в самый раз .
+      example: Let us meet at two because two o clock is the best time for me
+
     - eng: Two o'clock is the best time for me.
       ru: Два часа для меня в самый раз.
+      example: Two o clock is the best time for me to have lunch
+
     - eng: Twofold
       ru: вдвое
+      example: The profit increased twofold compared to last year
+
     - eng: Tyrrhenian sea
       ru: Тирренское море
+      example: The Tyrrhenian Sea is part of the Mediterranean near Italy
+
     - eng: U-turn
       ru: поворот на 180 градусов
+      example: The driver made a sudden U-turn on the highway
+
     - eng: U.S.P.
       ru: творческие посредники
+      example: The company's USP sets it apart from its competitors
+
     - eng: UV rays
       ru: ультрафиолетовые лучи
+      example: UV rays from the sun can damage your skin without protection
+
     - eng: Uganda – Republic of Uganda
       ru: уганда, республика уганда
+      example: Uganda is a landlocked country in East Africa
+
     - eng: Ugandan
       ru: житель Уганды
+      example: The Ugandan showed us the beautiful Lake Victoria
+
     - eng: Ukraine
       ru: Украина
+      example: Ukraine is the largest country entirely in Europe
+
     - eng: Ukrainian
       ru: украинец, украинка
+      example: The Ukrainian taught us how to make borscht
+
     - eng: Ulaanbaatar
       ru: Улан-Батор
+      example: Ulaanbaatar is the capital of Mongolia
+
     - eng: Unbreakable Vow
       ru: нерушимый обет
+      example: In Harry Potter an Unbreakable Vow causes death if broken
+
     - eng: Unclear
       ru: неясный
+      example: The instructions were unclear so we made a mistake
+
     - eng: Unique Selling Proposition
       ru: УТП (Уникальное Торговое Предложение)
+      example: A strong Unique Selling Proposition helps a brand stand out
+
     - eng: United Arab Emirates
       ru: ОАЭ, Объединённые Арабские Эмираты
+      example: The United Arab Emirates is a federation of seven emirates
+
     - eng: United Kingdom – United Kingdom of Great Britain and Northern Ireland
       ru: Великобритания, Соединенное Королевство Великобритании и Северной Ирландии
+      example: The United Kingdom consists of England Scotland Wales and Northern Ireland
+
     - eng: United States – United States of America
       ru: сша, соединённые штаты америки
+      example: The United States is a country of fifty states
+
     - eng: Untrue
       ru: Несоответствующий
+      example: The rumor turned out to be completely untrue
+
     - eng: Up two blocks, right in front of the bank
       ru: Через два квартала, прямо перед банком
+      example: The restaurant is up two blocks right in front of the bank
+
     - eng: Upon
       ru: на; после
+      example: Upon hearing the news she burst into tears
+
     - eng: Ural
       ru: Урал
+      example: The Ural Mountains separate Europe from Asia
+
     - eng: Uranus
       ru: уран
+      example: Uranus is the seventh planet from the sun
+
     - eng: Ursa Major
       ru: Большая Медведица
+      example: Ursa Major contains the Big Dipper asterism
+
     - eng: Ursa Minor
       ru: Малая Медведица
+      example: Ursa Minor contains the North Star Polaris
+
     - eng: Uruguayan
       ru: уругваец; уругвайка
+      example: The Uruguayan taught us how to make authentic chivito sandwiches
+
     - eng: Use soft words and hard arguments. English proverb.
       ru: Используй мягкие слова и твёрдые аргументы. Английская пословица.
+      example: The English proverb says use soft words and hard arguments
+
     - eng: Uzbek
       ru: узбек; узбечка
+      example: The Uzbek showed us the beautiful Registan Square
+
     - eng: VAT rate
       ru: налог на добавленную стоимость
+      example: The VAT rate in this country is twenty percent
+
     - eng: Vaduz
       ru: Вадуц
+      example: Vaduz is the capital of Liechtenstein
+
     - eng: Valletta
       ru: (Ла-)Валлетта
+      example: Valletta is the capital of Malta on the Mediterranean Sea
+
     - eng: Vanishing Point
       ru: точка схода
+      example: In perspective drawing the vanishing point is where parallel lines converge
+
     - eng: Vatican City
       ru: Ватикан
+      example: Vatican City is the smallest independent state in the world
+
     - eng: Veda
       ru: Веды
+      example: The Vedas are ancient sacred texts of Hinduism
+
     - eng: Vedanta
       ru: Веданта
+      example: Vedanta is a school of Hindu philosophy based on the Upanishads
+
     - eng: Vela
       ru: Паруса
+      example: Vela is a southern constellation representing a ship's sail
+
     - eng: Venetian blind
       ru: жалюзи
+      example: She pulled the cord to close the Venetian blind
+
     - eng: Venezuelan
       ru: венесуэлец, венесуэлка
+      example: The Venezuelan made delicious arepas for breakfast
+
     - eng: Venus
       ru: венера
+      example: Venus is the second planet from the sun and the hottest
+
     - eng: Venus flytrap
       ru: Венерина мухоловка
+      example: The Venus flytrap catches insects with its leaves
+
     - eng: Very well
       ru: Очень хорошо
+      example: You did very well on your exam congratulations
+
     - eng: Veterans Day
       ru: День ветеранов
+      example: Veterans Day honors those who served in the US military
+
     - eng: Victoria
       ru: виктория
+      example: Victoria is the capital of British Columbia in Canada
+
     - eng: Victory day
       ru: День Победы
+      example: Victory Day is celebrated on May ninth in Russia
+
     - eng: Vientiane
       ru: Вьентьян
+      example: Vientiane is the capital of Laos on the Mekong River
+
     - eng: Viking
       ru: викинг
+      example: The Vikings were seafarers from Scandinavia
+
     - eng: Virality
       ru: виральность
+      example: The virality of the video spread it across the internet
+
     - eng: Virality
       ru: виральность
+      example: Marketers aim for virality to increase brand awareness
+
     - eng: Virgo
       ru: дева
+      example: Virgo is the sixth sign of the zodiac
+
     - eng: Visigoth
       ru: Вестготы
+      example: The Visigoths sacked Rome in the year 410
+
     - eng: Vistula
       ru: висла
+      example: The Vistula River flows through Poland to the Baltic Sea
+
     - eng: Vltava
       ru: Влтава
+      example: The Vltava River flows through Prague in the Czech Republic
+
     - eng: Volans
       ru: Летучая Рыба
+      example: Volans is a southern constellation named after the flying fish
+
     - eng: Volga
       ru: Волга
+      example: The Volga is the longest river in Europe
+
     - eng: Vulgate
       ru: Вульгата
+      example: The Vulgate is a Latin translation of the Bible
+
     - eng: Vulpecula
       ru: Лисичка
+      example: Vulpecula is a faint northern constellation named after a fox
+
     - eng: Wadden Sea
       ru: ваттовое море
+      example: The Wadden Sea is known for its tidal flats and biodiversity
+
     - eng: Wages are paid on Fridays.
       ru: Зарплату платят каждую пятницу.
+      example: Wages are paid on Fridays so we get our money before the weekend
+
     - eng: Wages are paid on Fridays.
       ru: Зарплату платят каждую пятницу.
+      example: At this company wages are paid on Fridays every week
+
     - eng: Wahabee
       ru: ваххабиты
+      example: The Wahabee movement originated in Saudi Arabia in the eighteenth century
+
     - eng: Walleye
       ru: судак
+      example: Walleye is a popular freshwater fish for anglers
+
     - eng: War of the Roses
       ru: война Алой и Белой розы
+      example: The War of the Roses was a civil war in England between two noble houses
+
     - eng: We all take turns cleaning
       ru: Мы все по очереди убираем
+      example: In our apartment we all take turns cleaning the common areas
+
     - eng: We are going to delay meeting until next week
       ru: Мы собираемся отложить встречу до следующей недели
+      example: The manager is sick so we are going to delay meeting until next week
+
     - eng: We are leaving in a couple of days.
       ru: Мы уезжаем через пару дней.
+      example: Our vacation starts soon because we are leaving in a couple of days
+
     - eng: We are leaving in a couple of days.
       ru: Мы уезжаем через пару дней.
+      example: We are leaving in a couple of days so we need to pack our bags
+
     - eng: We are out of the beef stew today, but we have a wide choice of starters.
       ru: У нас сегодня нет в наличии рагу из говядины, но есть большой выбор первых блюд.
+      example: We are out of the beef stew today but we have a wide choice of starters
+
     - eng: We can get through the fire
       ru: Мы можем пройти через огонь
+      example: If we stay together we can get through the fire and survive
+
     - eng: We can't just sit back and do nothing
       ru: Мы не можем просто сидеть сложа руки и ничего не делать
+      example: The situation is urgent and we cannot just sit back and do nothing
+
     - eng: We come over here together long time ago
-      ru: Мы пришли сюда вместе давным- давно
+      ru: Мы пришли сюда вместе давным-давно
+      example: We came over here together a long time ago and never left
+
     - eng: We could have a cup of coffee at my place.
       ru: Давайте попьем кофе у меня.
+      example: Why go out we could have a cup of coffee at my place
+
     - eng: We could have a cup of coffee at my place.
       ru: Давайте попьем кофе у меня.
+      example: We could have a cup of coffee at my place after dinner
+
     - eng: We could meet at 5 o'clock.
       ru: Мы можем встретиться в 5 часов.
+      example: I finish work at four so we could meet at five o clock
+
     - eng: We could meet at 5 o'clock.
       ru: Мы можем встретиться в 5 часов.
+      example: We could meet at five o clock at the usual cafe
+
     - eng: We didn't get on, we weren't companions
       ru: Мы не ладили, мы не были компаньонами
+      example: We tried to work together but we did not get on we were not companions
+
     - eng: We don't have much, but we get along on it
       ru: у нас есть немного, но мы этим обходимся
+      example: We do not have much but we get along on it without complaining
+
     - eng: We don't normally take in strangers
       ru: Обычно мы не принимаем незнакомцев
+      example: We do not normally take in strangers but we will make an exception
+
     - eng: We don't walk out on each other
       ru: Мы не бросаем друг друга
-    - eng: We don’t have extra large.
+      example: Through good times and bad we do not walk out on each other
+
+    - eng: We don't have extra large.
       ru: У нас нет XL.
-    - eng: We don’t have extra large.
+      example: I checked the rack and we do not have extra large in stock
+
+    - eng: We don't have extra large.
       ru: У нас нет XL.
+      example: Sorry but we do not have extra large sizes right now
+
     - eng: We forgot to look for a hayfork
       ru: Мы забыли поискать вилы для сена
+      example: We forgot to look for a hayfork in the barn before starting
+
     - eng: We get off at the next boarding station
       ru: Мы выходим на следующей посадочной станции; Мы выходим на следующей посадочной станции
+      example: We get off at the next boarding station to transfer trains
+
     - eng: We have a huge selection of local beer.
       ru: У нас большой выбор местного пива.
+      example: Welcome to our pub we have a huge selection of local beer
+
     - eng: We have a joint account.
       ru: У нас совместный счет.
+      example: My wife and I share money because we have a joint account
+
     - eng: We have a wide choice of soft drinks.
       ru: У нас большой выбор безалкогольных напитков.
+      example: We have a wide choice of soft drinks including cola and lemonade
+
     - eng: We have limited selection of pasta dishes, but they are quite good.
       ru: У нас ограниченный выбор блюд из макарон, но эти блюда очень вкусные.
+      example: We have limited selection of pasta dishes but they are quite good
+
     - eng: We have soft-boiled eggs and ham for breakfast.
       ru: Мы едим на завтрак яйца всмятку и ветчину.
+      example: We have soft boiled eggs and ham for breakfast every Sunday
+
     - eng: We have to get home kind of soon
       ru: Нам скоро нужно возвращаться домой
+      example: It is getting dark so we have to get home kind of soon
+
     - eng: We have your size in another colour, do you want to have a look?
       ru: У нас есть ваш размер в другом цвете, хотите посмотреть?
+      example: We have your size in another colour so do you want to have a look
+
     - eng: We have your size in another colour, do you want to have a look?
       ru: У нас есть ваш размер в другом цвете, хотите посмотреть?
+      example: We have your size in another colour do you want to have a look at it
+
     - eng: We just had a near-life experience, fellas. Tyler Durden, The Fight Club.
       ru: Мы были на волосок от жизни. Тайлер Дёрден, Бойцовский клуб.
+      example: Tyler Durden said we just had a near life experience fellas
+
     - eng: We keep using this things next week
       ru: Мы продолжим использовать это на следующей неделе
+      example: We keep using these things next week for the new project
+
     - eng: We like travelling during the low season.
       ru: Нам нравится путешествовать в несезонное время.
+      example: We like travelling during the low season because it is cheaper
+
     - eng: We like travelling during the low season.
       ru: Нам нравится путешествовать в несезонное время.
+      example: We like travelling during the low season to avoid crowds
+
     - eng: We look forward to seeing you on tour
       ru: Мы с нетерпением ждем встречи с вами в туре
+      example: We look forward to seeing you on tour next summer
+
     - eng: We might walk back together
       ru: Мы могли бы вернуться вместе
+      example: Since we live near each other we might walk back together
+
     - eng: We need an experienced mountain guide.
       ru: Нам нужен опытный проводник, чтобы пойти в горы.
+      example: The trail is dangerous so we need an experienced mountain guide
+
     - eng: We need an experienced mountain guide.
       ru: Нам нужен опытный проводник, чтобы пойти в горы.
+      example: We need an experienced mountain guide for our Everest expedition
+
     - eng: We ordered well-done steaks, and these are rare.
       ru: Мы заказали хорошо прожаренный бифштекс, а нам принесли его с кровью.
+      example: We ordered well done steaks but these are rare and undercooked
+
     - eng: We postponed traveling to nature for a week
       ru: Мы отложили поездку на природу на неделю
+      example: The weather forecast is bad so we postponed traveling to nature for a week
+
     - eng: We set down three small pieces of luggage
       ru: Мы опустили три небольших предмета багажа
+      example: We set down three small pieces of luggage on the floor
+
     - eng: We should excite the freeway after the sign
       ru: Мы должны выехать на автостраду после знака
+      example: We should exit the freeway after the sign for downtown
+
     - eng: We should sneak in there
       ru: Мы должны пробраться туда тайком
+      example: The door is unlocked so we should sneak in there quietly
+
     - eng: We should try to boost your immunity to this disease.
       ru: Мы должны попытаться повысить ваш иммунитет к этой болезни.
+      example: We should try to boost your immunity to this disease with vitamins
+
     - eng: We should try to get on that bus.
       ru: Нам нужно постараться сесть на тот автобус.
+      example: The next bus comes in an hour so we should try to get on that bus
+
     - eng: We should try to get on that bus.
       ru: Нам нужно постараться сесть на тот автобус.
+      example: We should try to get on that bus before it leaves
+
     - eng: We used to use pickaxe and shovel to get this away
       ru: Раньше мы использовали кирку и лопату, чтобы убрать это
+      example: We used to use pickaxe and shovel to get this away before machines
+
     - eng: We'd like to go to an excursion to museum.
       ru: Мы бы хотели пойти на экскурсию в музей.
+      example: We would like to go to an excursion to museum tomorrow afternoon
+
     - eng: We'd like to go to an excursion to museum.
       ru: Мы бы хотели пойти на экскурсию в музей.
+      example: We would like to go to an excursion to museum with a guide
+
     - eng: We'll always have Paris. Casablanca (movie).
       ru: У нас всегда будет Париж. Касабланка (фильм).
+      example: In Casablanca Rick says we will always have Paris
+
     - eng: We'll have to break off here, I'm afraid.
       ru: Боюсь, на этом мы должны прерваться.
+      example: It is getting late so we will have to break off here I am afraid
+
     - eng: We'll take an order of mushroom puffs.
       ru: Мы закажем слоёные булочки с грибами.
+      example: For an appetizer we will take an order of mushroom puffs
+
     - eng: We'll take two hamburgers.
       ru: Мы возьмём два гамбургера.
+      example: We are hungry so we will take two hamburgers with fries
+
     - eng: We're having a power fall off
       ru: У нас происходит отключение электроэнергии
+      example: The lights just went out because we are having a power fall off
+
     - eng: We're stuck. What do we do?
       ru: Мы застряли! Что делать?
+      example: The car is in the mud and we are stuck what do we do
+
     - eng: We's to accelerate the process
       ru: Мы должны ускорить этот процесс
+      example: We need to finish early so we have to accelerate the process
+
     - eng: We've got one chance
       ru: У нас есть один шанс
+      example: We have got one chance to get this right so do not mess up
+
     - eng: We've signed treaty
       ru: Мы подписали договор
+      example: The leaders met and we have signed treaty for peace
+
     - eng: Weddell Sea
       ru: море Уэдделла
+      example: The Weddell Sea is part of the Southern Ocean near Antarctica
+
     - eng: Wednesday
       ru: В среду
+      example: The meeting is scheduled for Wednesday at ten in the morning
+
     - eng: Wehrmacht
       ru: вермахт
+      example: The Wehrmacht was the unified armed forces of Nazi Germany
+
     - eng: Well, I better get changed
       ru: Что ж, мне лучше переодеться
+      example: The party starts soon so well I better get changed
+
     - eng: Well, how to put it in the right words.
       ru: Нуу, как бы это сказать...
+      example: Well how to put it in the right words without offending you
+
     - eng: Well, we got a job
       ru: Что ж, у нас есть работа
+      example: Well we got a job to do so let us start working
+
     - eng: Wellington boots
       ru: резиновые сапоги
+      example: She wore Wellington boots to walk through the muddy field
+
     - eng: Welshman
       ru: валлиец, уэльсец
+      example: The Welshman sang a beautiful song in his native language
+
     - eng: Welshwoman
       ru: уроженка Уэльса, валлийка
+      example: The Welshwoman showed us around the castle in Cardiff
+
     - eng: Were you diagnosed with diabetes.
       ru: У вас диагностировали диабет?
+      example: Were you diagnosed with diabetes during your last checkup
+
     - eng: What a charming girl you are!
       ru: Какая ты очаровательная девушка!
+      example: What a charming girl you are said the old woman to the child
+
     - eng: What a tough old boy he is
       ru: Какой же он крепкий старина
+      example: He survived the accident without injury what a tough old boy he is
+
     - eng: What are the bank's business hours?
       ru: Какой режим работы у банка?
+      example: What are the bank's business hours on Saturday
+
     - eng: What are the terms of opening a savings account?
       ru: Каковы условия открытия сберегательного счета?
+      example: What are the terms of opening a savings account at this bank
+
     - eng: What are you doing around here?
       ru: какими судьбами?
+      example: I have not seen you in years so what are you doing around here
+
     - eng: What are you driving at
       ru: к чему ты клонишь
+      example: I do not understand your hints so what are you driving at
+
     - eng: What are you interested in?
       ru: Чем Вы интересуетесь?
+      example: What are you interested in besides work and sports
+
     - eng: What are you interested in?
       ru: Чем Вы интересуетесь?
+      example: Tell me what are you interested in so we can find common ground
+
     - eng: What are you reading
       ru: Что ты читаешь?
+      example: I saw you with a book so what are you reading these days
+
     - eng: What are you talking about
       ru: О чем ты говоришь?; О чем ты говоришь?
+      example: I have no idea what you mean so what are you talking about
+
     - eng: What are you up to?
       ru: как дела? что нового?
+      example: It has been a while so what are you up to lately
+
     - eng: What are you?
       ru: О чем Вы?
+      example: What are you thinking about you look distracted
+
     - eng: What are your duties?
       ru: Каковы ваши обязанности?
+      example: In your new role what are your duties every day
+
     - eng: What are your duties?
       ru: Каковы ваши обязанности?
+      example: What are your duties as the team leader
+
     - eng: What are your responsibilities?
       ru: Что входит в Ваши обязанности?
+      example: What are your responsibilities in this project
+
     - eng: What color are your new shoes
       ru: Какого цвета твои новые ботинки?
+      example: What color are your new shoes are they black or brown
+
     - eng: What color is your cat
       ru: Какого цвета твоя кошка?
+      example: What color is your cat is it orange or gray
+
     - eng: What color was this jacket
       ru: Какого цвета была эта куртка?
+      example: I forgot so what color was this jacket originally
+
     - eng: What costs a million dollar
       ru: Что стоит миллион долларов?
+      example: That luxury car is beautiful but what costs a million dollars
+
     - eng: What did you use to like doing in your spare time as a child
       ru: Чем вам нравилось заниматься в свободное время в детстве
+      example: What did you use to like doing in your spare time as a child
+
     - eng: What do I look like
       ru: Как я выгляжу??
+      example: Be honest with me what do I look like in this outfit
+
     - eng: What do you do for a living?
       ru: Чем вы зарабатываете на жизнь?
+      example: What do you do for a living are you a teacher
+
     - eng: What do you dream about
       ru: О чем ты мечтаешь?
+      example: When you close your eyes what do you dream about
+
     - eng: What do you know about the company?
       ru: Что Вы знаете о компании?
+      example: Before the interview what do you know about the company
+
     - eng: What do you make of it
       ru: что вы об этом думаете
+      example: This is a strange situation so what do you make of it
+
     - eng: What do you see
       ru: Что ты видишь?; Что ты видишь?
+      example: Look through the telescope and tell me what do you see
+
     - eng: What do you think about this new financial reform?
       ru: Что ты думаешь о новой финансовой реформе?
+      example: What do you think about this new financial reform will it help
+
     - eng: What do you usually do in Las Vegas
       ru: Чем ты обычно занимаешься в Лас Вегасе?
+      example: What do you usually do in Las Vegas besides gambling
+
     - eng: What do you want
       ru: Чего ты хочешь?
+      example: You look upset so what do you want from me
+
     - eng: What does he prefer
       ru: Что он предпочитает?
+      example: For breakfast what does he prefer eggs or pancakes
+
     - eng: What does it mean
       ru: Что это значит; Что это означает?
+      example: This symbol is unfamiliar so what does it mean
+
     - eng: What does she want
       ru: Чего она хочет?
+      example: She has been hinting but what does she want exactly
+
     - eng: What does your role involve?
       ru: В чём состоит ваша работа ?
+      example: What does your role involve on a typical day
+
     - eng: What floor are you going to?
       ru: Вам какой этаж?
+      example: The elevator is here so what floor are you going to
+
     - eng: What gave you that idea?
       ru: Что навело тебя на эту мысль?
+      example: I never said that so what gave you that idea
+
     - eng: What gave you that idea?
       ru: Что навело тебя на эту мысль?
+      example: What gave you that idea about me moving away
+
     - eng: What have I got to do?
       ru: А что мне еще остается делать?
+      example: You have refused all my suggestions so what have I got to do
+
     - eng: What have I got to do?
       ru: А что мне еще остается делать?
+      example: I am out of options so what have I got to do
+
     - eng: What hobbies do you have?
       ru: Какие у Вас хобби?
+      example: What hobbies do you have besides watching television
+
     - eng: What hobbies do you have?
       ru: Какие у Вас хобби?
+      example: What hobbies do you have that help you relax
+
     - eng: What if I refuse?
       ru: А что, если я откажусь?
+      example: You want me to lie but what if I refuse
+
     - eng: What if I refuse?
       ru: А что, если я откажусь?
+      example: What if I refuse to sign this contract
+
     - eng: What if we meet?
       ru: Может быть, встретимся?
+      example: What if we meet for coffee on Sunday afternoon
+
     - eng: What is Bryan doing
       ru: Что делает Брайан?
+      example: I have not seen him so what is Bryan doing these days
+
     - eng: What is going on (here)?
       ru: Что (здесь) происходит?
+      example: Everyone is shouting so what is going on here
+
     - eng: What is going on (here)?
       ru: Что (здесь) происходит?
+      example: I heard a loud noise so what is going on
+
     - eng: What is he doing
       ru: Что он делает?
+      example: Look at that man over there what is he doing
+
     - eng: What is he looking at
       ru: На что он смотрит?
+      example: He seems fascinated so what is he looking at
+
     - eng: What is it taking so long?
       ru: Почему так долго? / Что так задерживает?
+      example: We have been waiting for an hour so what is it taking so long
+
     - eng: What is it to you?
       ru: А тебе какое дело?
+      example: My personal life is my business so what is it to you
+
     - eng: What is it to you?
       ru: А тебе какое дело?
+      example: Why do you care what is it to you anyway
+
     - eng: What is the flight number?
       ru: Какой номер рейса?
+      example: I need to check the status so what is the flight number
+
     - eng: What is the flight number?
       ru: Какой номер рейса?
+      example: What is the flight number for our trip to Chicago
+
     - eng: What is the gate number?
       ru: Какой номер выхода?
+      example: The board shows the flight so what is the gate number
+
     - eng: What is the gate number?
       ru: На какой выход?
+      example: We need to hurry so what is the gate number
+
     - eng: What is the guide's name?
       ru: Как зовут гида?
+      example: I forgot his name so what is the guide's name
+
     - eng: What is the guide's name?
       ru: Как зовут гида?
+      example: What is the guide's name for the museum tour
+
     - eng: What is the highest interest?
       ru: Какова самая высокая процентная ставка?
+      example: For savings accounts what is the highest interest rate offered
+
     - eng: What is this all about?
       ru: В чем дело?
+      example: You called me here so what is this all about
+
     - eng: What is this all about?
       ru: В чем дело
+      example: I am confused so what is this all about
+
     - eng: What is this film about
       ru: О чем этот фильм?
+      example: I have not seen it so what is this film about
+
     - eng: What is worth doing at all is worth doing well. Proverb.
       ru: Если уж стоит что-то делать, то делать надо хорошо. Пословица.
+      example: The proverb says what is worth doing at all is worth doing well
+
     - eng: What is your car like
       ru: Какая у тебя машина?
+      example: I have never seen it so what is your car like
+
     - eng: What is your credit limit now?
       ru: Какой у тебя кредитный лимит?
+      example: After the raise what is your credit limit now
+
     - eng: What is your favourite book?
       ru: Какая у Вас любимая книга?
+      example: What is your favourite book of all time
+
     - eng: What is your point?
       ru: В чем заключается твоя идея?
     - eng: What is your point?
