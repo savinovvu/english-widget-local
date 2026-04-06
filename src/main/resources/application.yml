@@ -3321,818 +3321,1476 @@ app.words:
 
     - eng: Get in here now
       ru: иди сюда сейчас же
+      example: The angry mother shouted, "Get in here now, young man!"
+
     - eng: Get out of my way.
       ru: Уйди с дороги.
+      example: The impatient driver yelled, "Get out of my way, you're blocking the street!"
+
     - eng: Get out of the van
       ru: Вылезай из фургона
+      example: The police officer ordered, "Get out of the van with your hands up!"
+
     - eng: Get rid of the bastard
       ru: Избавься от этого ублюдка
+      example: The crime boss whispered, "Get rid of the bastard before he talks to the police."
+
     - eng: Get up and walk out
       ru: Встань и выйди
+      example: If you don't like the meeting, just get up and walk out silently
+
     - eng: Ghana – Republic of Ghana
       ru: гана, республика гана
+      example: Ghana was the first African country to gain independence from colonial rule in 1957
+
     - eng: Ghanaian
       ru: житель Ганы
+      example: The Ghanaian taught us how to make traditional jollof rice
+
     - eng: Give me a call on Wednesday
       ru: Позвони мне в среду
+      example: '"Give me a call on Wednesday to finalize the details," the manager said'
+
     - eng: Go ahead, make my day! Sudden Impact (movie).
       ru: Давай, развесели меня! Внезапный удар (фильм).
+      example: Clint Eastwood's character famously said, "Go ahead, make my day!"
+
     - eng: Go around
       ru: распространяться; вращаться; обойти вокруг
+      example: We had to go around the lake because the bridge was closed
+
     - eng: Go away from here
       ru: уходи отсюда
+      example: The guard told the loitering teenagers, "Go away from here before I call the police."
+
     - eng: Go by
       ru: проходить, проезжать мимо; проходить (о времени)
+      example: As the years go by, memories of childhood become more precious
+
     - eng: Go crazy
       ru: Сходить с ума
+      example: Fans will go crazy when their favorite band takes the stage
+
     - eng: Goffer
       ru: гофре
+      example: The pastry chef used a goffer to create decorative patterns on the dessert
+
     - eng: Golden Horde
       ru: Золотая Орда
+      example: The Golden Horde ruled over much of Eastern Europe and Central Asia for two centuries
+
     - eng: Goldgi apparatus
       ru: аппарат Гольджи
+      example: The Golgi apparatus modifies and packages proteins inside cells
+
     - eng: Golgi Body
       ru: комплекс Гольджи
+      example: The Golgi body is an essential organelle found in most eukaryotic cells
+
     - eng: Good Friday
       ru: великая пятница, страстная
+      example: Good Friday commemorates the crucifixion of Jesus Christ
+
     - eng: Good girls go to heaven, bad girls go everywhere. Helen Gurley Brown.
       ru: Хорошие девочки отправляются в рай, а плохие — куда захотят. Хелен Гарли Браун
+      example: Helen Gurley Brown famously wrote, "Good girls go to heaven, bad girls go everywhere."
+
     - eng: Good luck with the new job!
       ru: Удачи на новой работе!
+      example: As he left his old office, his colleagues shouted, "Good luck with the new job!"
+
     - eng: Grandparent's Day
       ru: день дедушки и бабушки
+      example: Grandparent's Day is celebrated in September to honor elderly family members
+
     - eng: Grass Snake
       ru: уж
+      example: The grass snake slithered through the garden, searching for frogs
+
     - eng: Gravitation can not be held responsible for people falling in love. Albert Einstein.
       ru: За притяжение влюблённых гравитация не отвечает. Альберт Эйнштейн.
+      example: Albert Einstein joked that gravitation cannot be held responsible for people falling in love
+
     - eng: Gray hair is sign of age, not of wisdom. Proverb.
       ru: Седые волосы — признак возраста, а не мудрости. Пословица.
+      example: The old proverb reminds us that gray hair is a sign of age, not of wisdom
+
     - eng: Great Australian Bight
       ru: Большой Австралийский залив
+      example: The Great Australian Bight is known for its dramatic cliffs and whale watching
+
     - eng: Great deal of time
       ru: Много времени
+      example: She spent a great deal of time preparing for the important presentation
+
     - eng: Green Belt
       ru: зелёная зона
+      example: The Green Belt around London prevents urban sprawl into the countryside
+
     - eng: Green beans
       ru: зелёная фасоль, горошек
+      example: She steamed fresh green beans as a healthy side dish for dinner
+
     - eng: Greenland Sea
       ru: Гренландское море
+      example: The Greenland Sea is part of the Arctic Ocean east of Greenland
+
     - eng: Grenada
       ru: Гренада
+      example: Grenada is an island nation in the Caribbean known as the Spice Isle
+
     - eng: Grenadian
       ru: житель Гренады
+      example: The Grenadian offered us fresh nutmeg from his family's farm
+
     - eng: Gringotts
       ru: Гринготтс
+      example: In Harry Potter, Gringotts is the wizarding bank run by goblins
+
     - eng: Groundhog Day
       ru: день сурка
+      example: On Groundhog Day, Punxsutawney Phil predicts the arrival of spring
+
     - eng: Grus
       ru: Журавль
+      example: Grus is a southern constellation named after the crane
+
     - eng: Gryffindor
       ru: Гриффиндор
+      example: Gryffindor is one of the four houses at Hogwarts, known for bravery
+
     - eng: Guatemala City
       ru: Гватемала
+      example: Guatemala City is the largest city in Central America
+
     - eng: Guatemalan
       ru: гватемалец, гватемалка
+      example: The Guatemalan wove a beautiful traditional huipil blouse
+
     - eng: Guinean
       ru: житель Гвинеи
+      example: The Guinean showed us the vibrant markets of Conakry
+
     - eng: Gulf of Aden
       ru: Аденский залив
+      example: The Gulf of Aden connects the Red Sea to the Arabian Sea
+
     - eng: Gulf of Alaska
       ru: залив Аляска
+      example: The Gulf of Alaska is known for its rich fishing grounds
+
     - eng: Gulf of Bothnia
       ru: Ботнический залив
+      example: The Gulf of Bothnia lies between Sweden and Finland
+
     - eng: Gulf of California
       ru: Калифорнийский залив
+      example: The Gulf of California is also known as the Sea of Cortez
+
     - eng: Gulf of Carpentaria
       ru: залив Карпентария
+      example: The Gulf of Carpentaria is a large shallow sea in northern Australia
+
     - eng: Gulf of Finland
       ru: Финский залив
+      example: The Gulf of Finland is the easternmost arm of the Baltic Sea
+
     - eng: Gulf of Guinea
       ru: Гвинейский залив
+      example: The Gulf of Guinea is a major oil-producing region in West Africa
+
     - eng: Gulf of Mexico
       ru: Мексиканский залив
+      example: The Gulf of Mexico is known for its warm waters and hurricanes
+
     - eng: Gulf of Oman
       ru: Оманский злив
+      example: The Gulf of Oman connects the Arabian Sea to the Strait of Hormuz
+
     - eng: Gulf of Sidra
       ru: залив Сидра
+      example: The Gulf of Sidra is on the northern coast of Libya
+
     - eng: Gulf of Thailand
       ru: Сиамский залив
+      example: The Gulf of Thailand is famous for its beautiful beaches and islands
+
     - eng: Gulf of Venezuela
       ru: Венесуэльский залив
+      example: The Gulf of Venezuela separates the Venezuelan mainland from the Guajira Peninsula
+
     - eng: Guy Fawkes Day
       ru: День Гая Фокса
+      example: Guy Fawkes Day is celebrated in Britain on November 5th with bonfires and fireworks
+
     - eng: Guyanese
       ru: житель гайаны
+      example: The Guyanese cooked a traditional pepperpot stew for the guests
+
     - eng: Habakkuk
       ru: аввакум
+      example: The Book of Habakkuk is one of the minor prophets in the Old Testament
+
     - eng: Hades
       ru: Аид
+      example: In Greek mythology, Hades is both the god of the underworld and the underworld itself
+
     - eng: Hadis
       ru: Хадис
+      example: The Hadis are collections of sayings and actions of the Prophet Muhammad
+
     - eng: Halmahera Sea
       ru: Море Хальмахера
+      example: The Halmahera Sea is located in eastern Indonesia near the Maluku Islands
+
     - eng: Hamadryad
       ru: Гамадрил
+      example: The hamadryad is the largest species of baboon, found in Eritrea and Ethiopia
+
     - eng: Hang gliding
       ru: дельтапланеризм
+      example: Hang gliding allows you to soar like a bird over beautiful landscapes
+
     - eng: Hang on
       ru: держаться, вцепиться, ждать у телефона, держись!, подожди!, ждать
+      example: '"Hang on tight," the driver said as the jeep bounced over the rocky road'
+
     - eng: Happy endings are stories that just haven't ended yet. Mr And Mrs Smith.
       ru: Истории с хорошим концом, это незаконченные истории. Мистер и Миссис Смит.
+      example: The movie Mr. And Mrs. Smith noted that happy endings are stories that just haven't ended yet
+
     - eng: Happy to give you your revenge
       ru: Счастлив отомстить тебе
+      example: The villain smiled and said, "I'm happy to give you your revenge, if you can take it."
+
     - eng: Haumea
       ru: Хаумеа
+      example: Haumea is a dwarf planet in the Kuiper Belt, named after a Hawaiian goddess
+
     - eng: Have we got any medicine for a sore throat?
       ru: У нас есть какое-нибудь лекарство от ангины?
+      example: She coughed and asked her husband, "Have we got any medicine for a sore throat?"
+
     - eng: Have you actually looked out outside
       ru: Вы действительно выглядывали на улицу
+      example: Have you actually looked outside? It's snowing heavily
+
     - eng: Have you been in the role for long?
       ru: Ты давно занимаешь эту должность?
+      example: The new colleague asked, "Have you been in the role for long?"
+
     - eng: Have you been to this conference before?
       ru: Вы уже были на этой конференции раньше?
+      example: '"Have you been to this conference before?" the attendee asked his neighbor'
+
     - eng: Have you checked for concussion
       ru: Вас проверили на сотрясение мозга
+      example: The coach asked the fallen player, "Have you checked for concussion yet?"
+
     - eng: Have you ever been to Siberia
       ru: Вы когда-нибудь бывали в Сибири
+      example: The traveler asked, "Have you ever been to Siberia in winter?"
+
     - eng: Have you ever had a blood transfusion?
       ru: Вам когда-нибудь делали переливание крови?
+      example: The nurse asked the patient, "Have you ever had a blood transfusion before?"
+
     - eng: Have you got any pets?
       ru: У вас есть домашние животные?
-    - eng: Have you got any pets?
-      ru: Владеете ли вы какими нибудь домашними животными?
+      example: The landlord asked the tenant, "Have you got any pets living with you?"
+
     - eng: Have you had an X-ray already?
       ru: Вы уже сделали рентген?
+      example: The doctor asked, "Have you had an X-ray already at another clinic?"
+
     - eng: Have you received my return package?
       ru: Вы получили мой возвращённый товар?
+      example: The customer called support and asked, "Have you received my return package yet?"
+
     - eng: Haven't we met before?
       ru: Разве мы раньше не встречались?
-    - eng: Haven't we met before?
-      ru: Разве мы раньше не встречались?
+      example: He looked at her familiar face and asked, "Haven't we met before somewhere?"
+
     - eng: Haven't you received unemployment benefits yet?
       ru: Вы еще не получили пособие по безработице?
-    - eng: Haven't you received unemployment benefits yet?
-      ru: Вы еще не получили пособие по безработице?
+      example: His friend asked, "Haven't you received unemployment benefits yet? It's been three months."
+
     - eng: He backed slowly away, his eyes frightened and his throat dry
       ru: Он медленно попятился, его глаза были испуганными, а в горле пересохло
+      example: He backed slowly away, his eyes frightened and his throat dry, unable to speak
+
     - eng: He can help out with all that stuff
       ru: Он может помочь со всеми этими вещами
+      example: Don't worry about the technical details; he can help out with all that stuff
+
     - eng: He checked in yesterday
       ru: Он зарегистрировался вчера
+      example: The hotel clerk said, "He checked in yesterday and is staying for a week."
+
     - eng: He could not even breathe to cry
       ru: Он не мог даже дышать, чтобы заплакать
+      example: The pain was so intense that he could not even breathe to cry out
+
     - eng: He didn't make up his informantion
       ru: Он не выдумал свою информацию
+      example: The journalist confirmed that he didn't make up his information; it came from reliable sources
+
     - eng: He dismissed this possibility just as fast
       ru: Он так же быстро отверг эту возможность
+      example: When she suggested a solution, he dismissed this possibility just as fast
+
     - eng: He does not work at the pharmacy any more
       ru: Он больше не работает в аптеке
+      example: I went to see John, but he does not work at the pharmacy any more
+
     - eng: He got up and walked up and down
       ru: Он встал и прошелся взад и вперед
+      example: Nervous about the interview, he got up and walked up and down the room
+
     - eng: He has a strong influence on me
       ru: Он оказывает на меня сильное влияние
+      example: My grandfather has a strong influence on me and my life choices
+
     - eng: He has failed to keep up with the latest developments
       ru: Он не смог идти в ногу с последними событиями
+      example: After retiring, he has failed to keep up with the latest developments in technology
+
     - eng: He is a good communicator
       ru: Он хороший коммуникатор
+      example: Everyone likes working with him because he is a good communicator
+
     - eng: He is a rebel
       ru: он бунтарь
+      example: He is a rebel who never follows the rules or conforms to expectations
+
     - eng: He is frightened because he has got into debt
       ru: Он напуган, потому что влез в долги
+      example: He is frightened because he has got into debt and doesn't know how to pay it back
+
     - eng: He is very cool.
       ru: Он очень классный.
+      example: All the kids at school think he is very cool and want to be his friend
+
     - eng: He offers our group some curd
       ru: Он предлагает нашей группе немного творога
+      example: The farmer kindly offers our group some curd from his fresh milk
+
     - eng: He picks me up at the station
       ru: Он встречает меня на вокзале
+      example: Every time I visit, he picks me up at the station without fail
+
     - eng: He put down his book and stretched his legs
       ru: Он отложил книгу и вытянул ноги
+      example: After reading for hours, he put down his book and stretched his legs
+
     - eng: He put on his shirt and left the barn
       ru: Он надел рубашку и вышел из сарая
+      example: He put on his shirt and left the barn, walking toward the house
+
     - eng: He risks making everyone angry with his stupid statements
       ru: Он рискует разозлить всех своими глупыми заявлениями
+      example: Every time he opens his mouth, he risks making everyone angry with his stupid statements
+
     - eng: He texts me asking to borrow a shirt
       ru: Он пишет мне смс с просьбой одолжить рубашку
+      example: Late last night, he texts me asking to borrow a shirt for his date
+
     - eng: He wansta dismount here, doesn't he
       ru: Он хочет спешиться здесь, не так ли
+      example: He wants to dismount here, doesn't he? This looks like a good spot
+
     - eng: He was in an exuberant mood, wasn't he
       ru: Он был в приподнятом настроении, не так ли
+      example: He was in an exuberant mood, wasn't he? He couldn't stop smiling and laughing
+
     - eng: He was obviously just trying to show off
       ru: Очевидно, он просто пытался повыпендриваться
+      example: When he did that trick, he was obviously just trying to show off to his friends
+
     - eng: He went along the tracks towards the city
       ru: Он пошел по рельсам в сторону города
+      example: Ignoring the danger, he went along the tracks towards the city lights
+
     - eng: He will be wandering along the embankment at this time tomorrow
       ru: Завтра в это время он будет прогуливаться по набережной
+      example: He will be wandering along the embankment at this time tomorrow, enjoying the sunset
+
     - eng: He will remain in office until the official handover in april
       ru: Он останется на своем посту до официальной передачи полномочий в апреле
+      example: The outgoing president will remain in office until the official handover in April
+
     - eng: He's been looking after me for a couple of years now
       ru: Он присматривает за мной уже пару лет
+      example: Since my illness started, he's been looking after me for a couple of years now
+
     - eng: He-Who-Must-Not-Be-Named
       ru: Тот-Кого-Нельзя-Называть
+      example: In Harry Potter, Voldemort is often called He-Who-Must-Not-Be-Named
+
     - eng: Head cold
       ru: насморк
+      example: She stayed home from work because she had a bad head cold
+
     - eng: Hegira
       ru: Хиджра
+      example: The Hegira marks Muhammad's migration from Mecca to Medina in 622 CE
+
     - eng: Hellas
       ru: Эллада
+      example: Hellas is the ancient Greek name for Greece
+
     - eng: Help me reach the button, please
       ru: Помогите дотянуться до кнопки.
+      example: The short man asked politely, "Help me reach the button, please, I can't get it."
+
     - eng: Helsinki
       ru: Хельсинки
+      example: Helsinki is the capital of Finland, located on the Baltic Sea
+
     - eng: Hercules
       ru: геркулес
+      example: Hercules was known for completing twelve impossible labors
+
     - eng: Here is my boarding pass.
       ru: Вот мой посадочный талон.
+      example: The passenger handed the agent her passport and said, "Here is my boarding pass."
+
     - eng: Here is my claim tag.
       ru: Вот моя багажная квитанция.
-    - eng: Here is my claim tag.
-      ru: Вот моя багажная квитанция.
+      example: At baggage claim, he said, "Here is my claim tag for my two suitcases."
+
     - eng: Here you are, Oh but wait, this glass is dirty
       ru: пожалуйста, но подожди, этот стакан грязный
+      example: '"Here you are," she said. "Oh but wait, this glass is dirty. Let me get another one."'
+
     - eng: Here's what we'll do.
       ru: Мы сделаем вот что.
+      example: The team leader announced, "Here's what we'll do. Everyone take a different section."
+
     - eng: Hey I really like your new hairstyle.
       ru: Эй, мне нравится твоя новая причёска!
-    - eng: Hi! What’s up?
+      example: '"Hey, I really like your new hairstyle," her friend said admiringly'
+
+    - eng: Hi! What's up?
       ru: Привет! Что нового?
+      example: Hi! What's up? he asked cheerfully as he sat down at the table
+
     - eng: Hi, Mike! I like your profile. Do you think we can talk a little bit?
       ru: Привет, Майк! Мне понравилась твоя анкета. Как ты думаешь, мы можем поболтать немного?
-    - eng: Hi, Mike! I like your profile. Do you think we could talk a little bit?
-      ru: Привет, Майк! Мне понравилась твоя анкета. Как ты думаешь, мы можем поболтать немного?
+      example: The dating app message read, "Hi, Mike! I like your profile. Do you think we can talk a little bit?"
+
     - eng: Hina Matsuri
       ru: хинамацури
+      example: Hina Matsuri is the Japanese Doll Festival celebrated on March 3rd
+
     - eng: His behavior was petty
       ru: Его поведение было мелочным
+      example: Complaining about such a small mistake, his behavior was petty and unnecessary
+
     - eng: His disease made him aware of the frailty of life
       ru: Его болезнь заставила его осознать хрупкость жизни
+      example: His disease made him aware of the frailty of life and taught him to appreciate each day
+
     - eng: His favorite hobby — making sun brewed ice tea. The Adventures of Pete and Pete (movie).
       ru: Его любимое хобби — заваривать ледяной чай при помощи солнечного света. Приключения Пита и Пита (сериал).
+      example: The character's favorite hobby was making sun-brewed iced tea in a glass jar
+
     - eng: His fever is increasing
       ru: у него повышается температура
+      example: The mother felt his forehead and said, "His fever is increasing. We need to see a doctor."
+
     - eng: His language crackles with colloquial art, doesn't it
       ru: Его язык искрится разговорным искусством, не так ли
+      example: His language crackles with colloquial art, doesn't it? He makes everyday speech sound beautiful.
+
     - eng: Hittites
       ru: хетты
+      example: The Hittites were an ancient Anatolian people who built a powerful empire
+
     - eng: Hold out
       ru: протягивать, вытягивать
+      example: She decided to hold out for a better job offer rather than accept the first one
+
     - eng: Hold out your hand
       ru: Протяни свою руку
+      example: The magician said, "Hold out your hand and I will place a coin in it."
+
     - eng: Hold the bags, please.
       ru: Подержите сумки, пожалуйста.
+      example: '"Hold the bags, please, while I find my keys," she asked her friend'
+
     - eng: Hold the elevator, please!
       ru: Придержите лифт, пожалуйста!
+      example: Running toward the open doors, he shouted, "Hold the elevator, please!"
+
     - eng: Homo erectus
       ru: человек прямоходящий
+      example: Homo erectus was the first human ancestor to walk fully upright
+
     - eng: Homo habilis
       ru: человек умелый
+      example: Homo habilis is known for using simple stone tools
+
     - eng: Homo sapiens
       ru: Гомо сапиенс (лат. человек разумный)
+      example: Homo sapiens are the only surviving species of the genus Homo
+
     - eng: Honiara
       ru: Хониара
+      example: Honiara is the capital of the Solomon Islands in the South Pacific
+
     - eng: Horcrux
       ru: крестраж
+      example: In Harry Potter, a Horcrux is an object containing a piece of a dark wizard's soul
+
     - eng: Horologium
       ru: Часы
+      example: Horologium is a faint southern constellation named after the pendulum clock
+
     - eng: How about a shortcake for dessert, Jane?
       ru: Джейн, как насчёт слоёного торта с фруктовой начинкой на десерт?
+      example: '"How about a shortcake for dessert, Jane?" her grandmother asked'
+
     - eng: How about some coffee or tea?
       ru: Как насчёт кофе или чая?
+      example: The host asked his guests, "How about some coffee or tea after dinner?"
+
     - eng: How can I cancel my order?
       ru: Как отменить заказ?
+      example: The customer called support and asked, "How can I cancel my order if it hasn't shipped?"
+
     - eng: How can I create an account on bss.com?
       ru: Как мне зарегистрироваться на bss.com?
+      example: '"How can I create an account on bss.com?" the new user asked the help desk'
+
     - eng: How can I fight depression?
       ru: Как мне справиться с депрессией?
+      example: The patient asked the therapist, "How can I fight depression without medication?"
+
     - eng: How can I find you on Facebook?
       ru: Как я могу найти вас на фейсбуке?
+      example: ""
+
     - eng: How can I get there to you
       ru: Как я могу добраться туда к тебе
+      example: He asked over the phone, "How can I get there to you from the station?"
+
     - eng: How can a hobby like that be any fun?
       ru: Что в этом хобби интересного?
-    - eng: How can a hobby like that be any fun?
-      ru: Что в этом хобби интересного?
+      example: She looked at his stamp collection and asked, "How can a hobby like that be any fun?"
+
     - eng: How can you be so sure?
       ru: Почему ты так уверен?
-    - eng: How can you be sure?
-      ru: почему ты так уверен?
+      example: How can you be so sure that he's telling the truth?
+
     - eng: How come he didn't come
       ru: Почему он не пришел
+      example: How come he didn't come to the party?
+
     - eng: How come, (that) ...?
       ru: Как так получается, что...?
-    - eng: How come, (that) ...?
-      ru: Как так получается, что...?
+      example: '"How come you always arrive late?" the manager asked the employee'
+
     - eng: How do I get to the hotel?
       ru: Как мне добраться до отеля?
-    - eng: How do I get to the hotel?
-      ru: Как мне добраться до отеля?
+      example: The lost tourist asked, "How do I get to the Grand Hotel from here?"
+
     - eng: How do I know my shoe size?
       ru: Как мне определить свой размер обуви?
+      example: The young shopper asked, "How do I know my shoe size in European measurements?"
+
     - eng: How do I open an account with your bank?
       ru: Как мне открыть счет в вашем банке?
+      example: The customer asked the teller, "How do I open an account with your bank?"
+
     - eng: How do I return an item?
       ru: Как мне сделать возврат товара?
+      example: How do I return an item that doesn't fit? she asked the store clerk
+
     - eng: How do I return or exchange an item?
       ru: Как я могу вернуть или обменять купленный товар?
+      example: The online shopper asked, "How do I return or exchange an item I bought?"
+
     - eng: How do I switch on/off roaming?
       ru: Как мне включить/выключить роуминг?
-    - eng: How do I switch on/off roaming?
-      ru: Как мне включить/выключить роуминг?
+      example: The traveler asked, "How do I switch off roaming to avoid extra charges?"
+
     - eng: How do I track my order?
       ru: Как мне отследить свой заказ?
+      example: '"How do I track my order once it ships?" the customer asked'
+
     - eng: How do we get around it
-      ru: Как нам обойти это ?
+      ru: Как нам обойти это?
+      example: The road was blocked, so they wondered, "How do we get around it?"
+
     - eng: How do you account for being late?
       ru: Как вы объясните свое опоздание?
-    - eng: How do you account for being late?
-      ru: Как вы объясните свое опоздание?
+      example: The teacher asked the student, "How do you account for being late every day this week?"
+
     - eng: How do you account for doing smth.?
       ru: Как вы объясняете / можете объяснить свои действия?
-    - eng: How do you account for doing smth?
-      ru: Как вы объясняете / можете объяснить свои действия?
+      example: The boss asked, "How do you account for losing such an important client?"
+
     - eng: How do you choose shoes
       ru: Как ты выбираешь туфли?
+      example: '"How do you choose shoes that are both stylish and comfortable?" she asked'
+
     - eng: How do you cook pizza
       ru: Как ты готовишь пиццу?
+      example: '"How do you cook pizza in a regular home oven?" the beginner asked'
+
     - eng: How do you like to spend your free time?
       ru: Как Вы любите проводить свободное время?
-    - eng: How do you like to spend your free time?
-      ru: Как ты любишь проводить свободное время?
+      example: The interviewer asked, "How do you like to spend your free time outside work?"
+
     - eng: How do you propose tackling this problem
       ru: Как вы предлагаете решить эту проблему
+      example: The manager asked the team, "How do you propose tackling this problem?"
+
     - eng: How do you sleep
       ru: Как тебе спиться?
+      example: The doctor asked the patient, "How do you sleep at night without medication?"
+
     - eng: How do you understand their dialect
       ru: Как ты понимаешь их диалект?
+      example: How do you understand their dialect when it's so different from standard speech?
+
     - eng: How do you usually spend your free time?
       ru: Как Вы обычно проводите свободное время?
-    - eng: How do you usually spend your free time?
-      ru: Как Вы обычно проводите свободное время?
+      example: '"How do you usually spend your free time on weekends?" the survey asked'
+
     - eng: How does it fit?
       ru: Как вам размер?
-    - eng: How does it fit?
-      ru: Как вам размер?
+      example: She tried on the jacket and asked her friend, "How does it fit me?"
+
     - eng: How does that sound?
       ru: Как тебе идея?
+      example: '"We could leave at 8 AM. How does that sound?" he suggested'
+
     - eng: How far is it
-      ru: Насколько это далеко?; Насколько это далеко?; Насколько это далеко?
+      ru: Насколько это далеко?
+      example: '"How far is it to the nearest gas station?" the driver asked'
+
     - eng: How fast is this horse
       ru: Насколько быстра эта лошадь?
+      example: '"How fast is this horse compared to the others?" the buyer asked'
+
     - eng: How frequent are the flights?
       ru: Сколько рейсов в день?
-    - eng: How frequent are the flights?
-      ru: Сколько рейсов в день?
+      example: "How frequent are the flights from New York to Boston?"
+
     - eng: How is it going at university?
       ru: Как дела в университете?
+      example: 'His mother called and asked, "How is it going at university this semester?"'
+
     - eng: How is it going?
       ru: Как идут дела?
+      example: "How is it going with your new business venture?"
+
     - eng: How long ago have you moved here?
       ru: Вы давно сюда переехали?
+      example: The neighbor asked, "How long ago have you moved here?"
+
     - eng: How long did you hold office?
       ru: Как долго вы занимали эту должность?
+      example: The reporter asked the former mayor, "How long did you hold office?"
+
     - eng: How long do I have to wait for my order?
       ru: Сколько мне ждать заказ?
+      example: The impatient customer asked, "How long do I have to wait for my order?"
+
     - eng: How long does it take to receive my order?
       ru: Сколько времени занимает доставка моего заказа?
+      example: '"How long does it take to receive my order after I pay?" she asked'
+
     - eng: How long does the flight take?
       ru: Сколько продлится полет?
-    - eng: How long does the flight take?
-      ru: Сколько продлится полет?
+      example: "How long does the flight take from London to Tokyo?"
+
     - eng: How long have you been in the role?
       ru: Как давно ты занимаешь эту должность?
+      example: "How long have you been in the role of team leader?"
+
     - eng: How long have you been with the company?
       ru: Как давно Вы работаете в этой компании?
+      example: ""
+
     - eng: How long should I wait for the seller to contact me?
       ru: Как долго мне ждать, пока продавец свяжется со мной?
+      example: "How long should I wait for the seller to contact me before I worry?"
+
     - eng: How long will I be carrying this gasbag
       ru: Как долго я буду носить этот газовый баллон
+      example: The soldier complained, "How long will I be carrying this gasbag? It's so heavy."
+
     - eng: How long will it take?
       ru: Сколько времени это займет?
-    - eng: How long will it take?
-      ru: Сколько это займет по времени?
+      example: "How long will it take to drive to Chicago?"
+
     - eng: How long will the treatment take?
       ru: Сколько времени займет лечение?
+      example: The patient asked the doctor, "How long will the treatment take to show results?"
+
     - eng: How long will you stay here?
       ru: Сколько вы здесь пробудете?
-    - eng: How long will you stay here?
-      ru: Сколько вы здесь пробудете?
+      example: '"How long will you stay here on vacation?" the hotel clerk asked'
+
     - eng: How many
       ru: сколько
+      example: "How many people are coming to the party?"
+
     - eng: How many apples are there in the basket
       ru: Сколько яблок в корзине?
+      example: '"How many apples are there in the basket?" the hungry child asked'
+
     - eng: How many beds are in the room?
       ru: Сколько кроватей в номере?
+      example: '"How many beds are in the room?" the traveler asked the receptionist'
+
     - eng: How many hours a day do you work?
       ru: Сколько часов в сутки вы работаете?
-    - eng: How many hours a day do you work?
-      ru: Сколько часов в сутки вы работаете?
+      example: The survey asked, "How many hours a day do you work on average?"
+
     - eng: How many people were there in the car
       ru: Сколько человек было в машине?
+      example: The police officer asked, "How many people were there in the car at the time?"
+
     - eng: How many people work here
       ru: Сколько людей здесь работает
+      example: "How many people work here at this factory?"
+
     - eng: How much are the annual interest payments?
       ru: Сколько составляют ежегодные процентные выплаты?
+      example: The borrower asked, "How much are the annual interest payments on this loan?"
+
     - eng: How much do the international roaming calls cost?
       ru: Сколько стоят звонки в международном роуминге?
-    - eng: How much do the international roaming calls cost?
-      ru: Сколько стоят звонки в международном роуминге?
+      example: "How much do the international roaming calls cost per minute?"
+
     - eng: How much does a haircut cost?
       ru: Сколько стоит стрижка?
-    - eng: How much does a haircut cost?
-      ru: Сколько стоит стрижка?
+      example: "How much does a haircut cost for a man?"
+
     - eng: How much does a ladies cut and dye cost?
       ru: Сколько стоит женская стрижка с окрашиванием волос?
-    - eng: How much does a ladies cut and dye cost?
-      ru: Сколько стоит женская стрижка с укладкой?
+      example: She called the salon and asked, "How much does a ladies cut and dye cost?"
+
     - eng: How much does delivery cost and how long does it take?
       ru: Сколько стоит доставка и как долго её ждать?
+      example: '"How much does delivery cost and how long does it take?" the online shopper asked'
+
     - eng: How much does that cost?
       ru: Сколько это стоит?
-    - eng: How much does that cost?
-      ru: Сколько это стоит?
+      example: She pointed to the necklace and asked, "How much does that cost?"
+
     - eng: How much does this house cost
-      ru: Сколько стоит этот дом?; Сколько стоит этот дом?
+      ru: Сколько стоит этот дом?
+      example: '"How much does this house cost?" the potential buyer asked the realtor'
+
     - eng: How much is the bus fare?
       ru: Сколько стоит проезд?
-    - eng: How much is the bus fare?
-      ru: Сколько стоит проезд?
+      example: "How much is the bus fare to downtown?"
+
     - eng: How much is this?
       ru: Сколько это стоит?
-    - eng: How much is this?
-      ru: Это почем?
+      example: He picked up the vase and asked, "How much is this?"
+
     - eng: How much milk is there in the jar
       ru: Сколько молока в кувшине?
+      example: "How much milk is there in the jar?"
+
     - eng: How much money do you have
       ru: Сколько у тебя денег?
+      example: '"How much money do you have saved for the trip?" she asked her friend'
+
     - eng: How much money is there in my account?
       ru: Сколько денег на моем счете?
+      example: '"How much money is there in my account?" the customer asked the bank teller'
+
     - eng: How much would that cost?
       ru: Сколько это будет стоить?
-    - eng: How much would that cost?
-      ru: Сколько это будет стоить?
+      example: '"How much would that cost if I ordered it custom-made?" he asked'
+
     - eng: How often do you watch TV
       ru: Как часто вы смотрите телевизор?
+      example: '"How often do you watch TV during the week?" the researcher asked'
+
     - eng: How old am I
       ru: Сколько мне лет?
+      example: The confused patient asked the nurse, How old am I? I can't remember.
+
     - eng: How old is your brother
       ru: Сколько лет твоему брату?
+      example: How old is your brother? the teacher asked the student
+
     - eng: How old is your father
       ru: Сколько лет твоему отцу?
+      example: How old is your father turning this year? the relative asked
+
     - eng: How pleasant it was in the garden
       ru: Как приятно было в саду
+      example: She sighed and said, "How pleasant it was in the garden before the storm came."
+
     - eng: How rich was Mr.Smith?
       ru: Насколько богат был мистер Смит?
+      example: How rich was Mr. Smith before he lost everything? the journalist asked
+
     - eng: How secure is your site?
       ru: Насколько безопасен ваш сайт?
+      example: The customer asked, "How secure is your site for storing my credit card information?"
+
     - eng: How they all shriek and giggle
       ru: Как они все визжат и хихикают
+      example: '"How they all shriek and giggle at the sleepover," the mother said, shaking her head'
+
     - eng: How was the meeting?
       ru: Как прошла встреча?
+      example: "How was the meeting with the investors?"
+
     - eng: How was the weekend?
-      ru: Как прошли выходные ?
+      ru: Как прошли выходные?
+      example: '"How was the weekend?" the coworker asked on Monday morning'
+
     - eng: How was your flight?
       ru: Как прошёл полёт?
+      example: '"How was your flight?" the host asked the arriving guest'
+
     - eng: How was your holiday
       ru: Как прошёл отпуск?
+      example: '"How was your holiday in Spain?" her friend asked'
+
     - eng: How would you like to pay?
       ru: Как вы будете платить?
-    - eng: How would you like to pay?
-      ru: Как вы будете платить?
+      example: The cashier asked, "How would you like to pay, by cash or card?"
+
     - eng: How'd you wind up here
       ru: Как ты здесь оказался
-    - eng: How’s life
+      example: "How'd you wind up here in this small town?"
+
+    - eng: How's life
       ru: Как жизнь
+      example: "How's life treating you these days?"
+
     - eng: Hudson Bay
       ru: Гудзонов залив
+      example: Hudson Bay is a large body of water in northeastern Canada
+
     - eng: Huh
       ru: ха
+      example: '"Huh, I never thought of it that way," he said, scratching his head'
+
     - eng: Humanity is overrated. House M.D..
       ru: Гуманизм переоценен. Доктор Хаус.
+      example: Dr. House famously said, "Humanity is overrated," during one of his cynical rants
+
     - eng: Hundred Years' War
       ru: война между Англией И Францией 1337—1453 (116 лет)
+      example: The Hundred Years' War had a profound impact on both England and France
+
     - eng: Hungarian
       ru: венгр; венгерка
+      example: The Hungarian taught us how to make authentic goulash
+
     - eng: Hydrus
       ru: Южная Гидра
+      example: Hydrus is a small southern constellation near the south celestial pole
+
     - eng: I
       ru: я
+      example: I am the one who made this beautiful painting
+
     - eng: I accepted the invitation, with the permission of the boss
       ru: Я принял приглашение с разрешения босса
-    - eng: I acknowledge he working hard on the project
-      ru: Я признаю, что он усердно работает над проектом
+      example: ""
+
+    - eng: Acknowledge
+      ru: Признавать
+      example: I acknowledge he working hard on the project
+
     - eng: I admire your gumption
       ru: Я восхищаюсь вашей сообразительностью
+      example: I admire your gumption for starting your own business at such a young age
+
     - eng: I admit you were right
       ru: Я признаю, что ты был прав
+      example: After losing the bet, he said, "I admit you were right all along."
+
     - eng: I agree that strawberry truffles were awesome.
       ru: Я согласна, клубничные трюфели были великолепными.
+      example: '"I agree that strawberry truffles were awesome," she said, licking her lips'
+
     - eng: I agree with you up to a point.
-      ru: я согласен с вами, до определенного момента.
-    - eng: I allude to recent situation
-      ru: Я имею в виду недавнюю ситуацию
+      ru: Я согласен с вами, до определенного момента.
+      example: I agree with you up to a point, but I think there's more to consider
+
+    - eng: Allude
+      ru: Намекать
+      example: I allude to recent situation
+
     - eng: I always advise saving a little money every month
       ru: Я всегда советую откладывать немного денег каждый месяц
+      example: As a financial advisor, I always advise saving a little money every month
+
     - eng: I always look forward to that
       ru: Я всегда с нетерпением жду этого
+      example: I always look forward to our annual family reunion
+
     - eng: I always tell the truth, even when I lie. Scarface.
       ru: Я всегда говорю правду, даже когда лгу. Лицо со шрамом.
+      example: The character in Scarface said, "I always tell the truth, even when I lie."
+
     - eng: I always wanted to be a software engineer, because ...
-      ru: Я всегда хотел быть инженером- программистом, потому что...
+      ru: Я всегда хотел быть инженером-программистом, потому что...
+      example: I always wanted to be a software engineer because I love solving puzzles and building things
+
     - eng: I am a businessman.
       ru: Я - бизнесмен.
-    - eng: I am a businessman.
-      ru: Я - бизнесмен.
+      example: I am a businessman, and I treat every deal with respect
+
     - eng: I am a skateboard fan.
       ru: Я — поклонник скейтборда.
+      example: I am a skateboard fan and have been riding since I was ten
+
     - eng: I am a workaholic.
       ru: Я трудоголик.
+      example: I am a workaholic, but I'm trying to change
+
     - eng: I am allergic to…
       ru: У меня аллергия на...
-    - eng: I am assured that it is no idle boast of yours
-      ru: Я уверен, что это не пустое ваше хвастовство
+      example: '"I am allergic to peanuts," she told the waiter before ordering'
+
+    - eng: Assure
+      ru: Убеждать
+      example: I am assured that it is no idle boast of yours
+
+    - eng: idle
+      ru: Холостой, праздный, бесполезный
+      example: I am assured that it is no idle boast of yours
+
     - eng: I am away on holiday for the next two weeks.
       ru: Я в отпуске следующие две недели.
-    - eng: I am away on holiday for the next two weeks.
-      ru: Я в отпуске следующие две недели.
-    - eng: I am big! It’s the pictures that got small. Sunset Boulevard (movie).
+      example: Her email auto-reply said, "I am away on holiday for the next two weeks."
+
+    - eng: I am big! It's the pictures that got small. Sunset Boulevard (movie).
       ru: Я и есть великая звезда! Просто фильмы стали маленькими. Бульвар Сансет (фильм).
+      example: The aging actress famously declared, "I am big! It's the pictures that got small."
+
     - eng: I am certain that we will win
       ru: Я уверен, что мы победим
+      example: The coach told the team, "I am certain that we will win if we play our best."
+
     - eng: I am cleaning up at home
       ru: Я убираюсь дома
+      example: I can't go out right now; I am cleaning up at home
+
     - eng: I am contended with life
       ru: Я доволен жизнью
+      example: Despite his modest means, he said, "I am contended with life and all it brings."
+
     - eng: I am dissatisfied with what happened
       ru: Я недоволен тем, что произошло
+      example: I am dissatisfied with what happened at the meeting
+
     - eng: I am extremely disappointed with you
       ru: Я крайне разочарован вами
+      example: The teacher looked at the student and said, "I am extremely disappointed with you."
+
     - eng: I am from Russia.
       ru: Я приехал из России.
+      example: I am from Russia, but I've lived in the US for ten years
+
     - eng: I am glad to meet you!
       ru: Рад встрече.
-    - eng: I am glad to meet you!
-      ru: Рад встретиться с Вами!
+      example: '"I am glad to meet you!" she said, shaking his hand warmly'
+
     - eng: I am going to write a grocery list
       ru: я собираюсь составить список продуктов
+      example: I am going to write a grocery list before we go to the store
+
     - eng: I am in no position to turn down anything
       ru: Я не в том положении, чтобы отказываться от чего бы то ни было
+      example: With no job and no savings, I am in no position to turn down anything
+
     - eng: I am lost.
       ru: Я потерялся.
+      example: He stopped a passerby and said, "I am lost. Can you help me find this address?"
+
     - eng: I am not as old as I look
       ru: Я не так стар, как выгляжу
+      example: "I am not as old as I look, It's just the gray hair."
+
     - eng: I am on Cloud Nine!
       ru: Я на седьмом небе от счастья!
+      example: After getting the promotion, she exclaimed, "I am on Cloud Nine!"
+
     - eng: I am satisfied with my actions
       ru: Я доволен своими действиями
+      example: "I am satisfied with my actions, because I did the right thing."
+
     - eng: I am similar to you
       ru: Я похож на тебя
+      example: "I am similar to you in many ways, especially in our taste in music."
+
     - eng: I am skateboard's fan.
       ru: Я — поклонник скейтборда.
+      example: ""
+
     - eng: I am so tired that I might pass out
       ru: Я так устаю, что могу потерять сознание.
+      example: After working twelve hours straight, I am so tired that I might pass out."
+
     - eng: I am sullen and untrusing
       ru: Я угрюмый и ненадежный
+      example: He admitted, "I am sullen and untrusting after everything I've been through."
+
     - eng: I am tidying
       ru: я занимаюсь уборкой
-    - eng: I anticipate having a very big family
-      ru: Я предвкушаю, что у меня будет очень большая семья
+      example: I am tidying my room, so it's a bit messy right now
+
+    - eng: anticipate
+      ru: Предвкушать, Предвидеть, Предугадывать
+      example: '"I anticipate having a very big family someday," the young woman said dreamily'
+
     - eng: I anticipate visiting an exhibition next month
       ru: Я планирую посетить выставку в следующем месяце
+      example: I anticipate visiting an exhibition next month at the modern art museum
+
     - eng: I apologize for the delay
       ru: Я приношу извинения за задержку
+      example: The train conductor announced, "I apologize for the delay caused by signal problems."
+
     - eng: I appreciate your helping me out with the project
       ru: Я ценю вашу помощь мне с проектом
+      example: ""
+
     - eng: I arrived at the place
       ru: Я прибыл на место
+      example: He texted his friend, "I arrived at the place. Where are you?"
+
     - eng: I asked if he had told her
       ru: Я спросил, сказал ли он ей
-    - eng: I beg your pardon
-      ru: Я прошу прощения
+      example: I asked if he had told her the truth about what happened that night
+
+    - eng: bump into
+      ru: Врезаться в, наткнуться на
+      example: "I beg your pardon, I didn't mean to bump into you."
+
     - eng: I believe in my star
       ru: Я верю в свою звезду
+      example: Despite many failures, he said, "I believe in my star and my luck will change."
+
     - eng: I bet I know your name.
       ru: Держу пари, я знаю как Вас зовут.
+      example: The stranger smiled and said, "I bet I know your name. Is it Michael?"
+
     - eng: I break out in a rash
       ru: У меня начинается сыпь
+      example: Whenever I eat shellfish, I break out in a rash and need medication
+
     - eng: I brought some gasoline to our incendiary party
       ru: Я принес немного бензина для нашей зажигательной вечеринки
+      example: I brought some gasoline to our incendiary party
+
     - eng: I called in sick this week.
       ru: Я взял больничный на этой неделе.
+      example: I called in sick this week because I had a terrible flu
+
     - eng: I came across a lone sheep, abandoned by his flock
       ru: Я наткнулся на одинокую овцу, брошенную своим стадом
+      example: While hiking, I came across a lone sheep, abandoned by his flock in the mountains
+
     - eng: I came to do my homage
       ru: Я пришел засвидетельствовать свое почтение
+      example: The knight knelt and said, "I came to do my homage to the king."
+
     - eng: I came to look for you
       ru: Я пришел искать тебя
+      example: I came to look for you because you weren't answering your phone
+
     - eng: I can add chocolate, vanilla or caramel flavouring.
       ru: Я могу добавить шоколадный, ванильный или карамельный сироп.
+      example: The barista said, "I can add chocolate, vanilla or caramel flavoring to your coffee."
+
     - eng: I can bring up my child, can't I
       ru: Я могу воспитывать своего ребенка, не так ли
+      example: I can bring up my child, can't I, without interference from anyone?
+
     - eng: I can not possibly adopt your point of view
       ru: Я никак не могу принять вашу точку зрения
+      example: I can not possibly adopt your point of view," the judge said, "because it's illogical
+
     - eng: I can pull off mid-thigh shorts
       ru: Я могу снять шорты до середины бедра
+      example: "I can pull off mid-thigh shorts, even at my age."
+
     - eng: I can retrive the details fine
       ru: Я прекрасно могу восстановить детали
+      example: '"I can retrieve the details fine from the backup," the IT specialist assured'
+
     - eng: I can serve you a soda or a raspberry punch, if you like.
       ru: Могу предложить вам газированную воду или малиновый пунш, если хотите.
+      example: The host said, "I can serve you a soda or a raspberry punch, if you like."
+
     - eng: I can walk in the other direction
       ru: Я могу идти в другом направлении
+      example: If you're going that way, I can walk in the other direction
+
     - eng: I can watch only selected channels.
       ru: Я могу смотреть только определенные каналы.
+      example: '"With this package, I can watch only selected channels, not all of them," he complained'
+
     - eng: I can't cope with the workload. May I share it with you?
       ru: Я не могу справиться со всем объемом работы. Можно я отдам часть тебе?
-    - eng: I can't cope with the workload. May I share it with you?
-      ru: Я не могу справиться со всем объемом работы. Можно я отдам часть тебе?
+      example: "I can't cope with the workload. May I share it with you?"
+
     - eng: I can't find my suitcase.
       ru: Я не нахожу своего чемодана.
-    - eng: I can't find my suitcase.
-      ru: Я не нахожу своего чемодана.
+      example: At baggage claim, she panicked and said, "I can't find my suitcase anywhere."
+
     - eng: I can't forbear to offer some objections
       ru: Я не могу удержаться от некоторых возражений
-    - eng: I can’t find my bag.
+      example: I can't forbear to offer some objections to your proposal
+
+    - eng: I can't find my bag.
       ru: Я не могу найти свою сумку.
-    - eng: I can’t find my size.
+      example: ""
+
+    - eng: I can't find my size.
       ru: Я не могу найти свой размер.
-    - eng: I can’t find my size.
-      ru: Я не могу найти свой размер.
+      example: I can't find my size in these shoes
+
     - eng: I celebrate this holiday every year
       ru: Я отмечаю этот праздник каждый год
+      example: I celebrate this holiday every year with my entire family
+
     - eng: I collect stamps.
       ru: Я собираю марки.
+      example: I collect stamps from all over the world
+
     - eng: I consider buying a new house in the summer
       ru: Я подумываю о покупке нового дома летом
+      example: I consider buying a new house in the summer when prices are lower
+
     - eng: I could ask him for some tips on how to get around a tough password
       ru: Я мог бы попросить у него несколько советов о том, как обойти сложный пароль
+      example: I could ask him for some tips on how to get around a tough password
+
     - eng: I could bring you your shrimp cocktail now.
       ru: Я могу принести вам сейчас коктейль из креветок.
+      example: The waiter said, "I could bring you your shrimp cocktail now if you're ready."
+
     - eng: I could get used to this
       ru: Я мог бы привыкнуть к этому
+      example: Lying on the beach with a cold drink, he said, "I could get used to this."
+
     - eng: I could hold out no longer
       ru: Я больше не мог сдерживаться
+      example: After hours of waiting, he said, "I could hold out no longer. I had to leave."
+
     - eng: I could work up some programs
       ru: Я мог бы разработать несколько программ
+      example: I could work up some programs for you by Friday
+
     - eng: I couldn't reach you.
       ru: Я не мог дозвониться до тебя.
-    - eng: I couldn’t agree with you more.
+      example: "I couldn't reach you all day, your phone must be off."
+
+    - eng: I couldn't agree with you more.
       ru: Не могу не согласиться.
+      example: "You're absolutely right, I couldn't agree with you more."
+
     - eng: I dare say …
       ru: Я осмелюсь сказать …
+      example: I dare say this is the best meal I've ever had
+
     - eng: I deny that I did it twice a day
       ru: Я отрицаю, что делал это дважды в день
+      example: I deny that I did it twice a day
+
     - eng: I detest wasting time
       ru: Я терпеть не могу тратить время впустую
+      example: '"I detest wasting time on pointless meetings," the busy executive said'
+
     - eng: I didn't mean to interrupt your reverie
       ru: Я не хотел прерывать твои размышления
+      example: "I didn't mean to interrupt your reverie, but we need to go."
+
     - eng: I didn't receive a refund.
       ru: Я не получил возврат оплаты.
+      example: I didn't receive a refund for the returned item
+
     - eng: I didn't receive the claim tag when I checked in.
       ru: Мне не выдали багажную квитанцию при регистрации.
-    - eng: I didn't receive the claim tag when I checked in.
-      ru: Мне не выдали багажную квитанцию при регистрации.
-    - eng: I didn’t catch the last word.
+      example: I didn't receive the claim tag when I checked in
+
+    - eng: I didn't catch the last word.
       ru: Я не понял последнее слово
+      example: "I didn't catch the last word, could you repeat it?"
+
     - eng: I discuss key issues
       ru: Я обсуждаю ключевые вопросы
+      example: In our weekly meetings, I discuss key issues with the management team
+
     - eng: I disdain your sneer
       ru: Я презираю твою насмешку
+      example: I disdain your sneer and your arrogance
+
     - eng: I dislike having to work so hard in the summer
       ru: Мне не нравится так много работать летом
+      example: I dislike having to work so hard in the summer when everyone else is on vacation
+
     - eng: I do not believe this is appropriate behavior
       ru: Я не считаю, что это подходящее поведение
+      example: The teacher said, "I do not believe this is appropriate behavior in a classroom."
+
     - eng: I don't come out of the corner for free
       ru: Я за бесплатно не выступаю
+      example: The boxer said, "I don't come out of the corner for free. Pay me fairly."
+
     - eng: I don't demand that
       ru: Я не требую этого
+      example: "I don't demand that you agree with me, just that you listen."
+
     - eng: I don't eat meat
       ru: Я не ем мясо
+      example: "I don't eat meat, so I'll have the vegetarian option."
+
     - eng: I don't feel very well.
       ru: Я не очень хорошо себя чувствую.
+      example: ""
+
     - eng: I don't give a damn.
       ru: Мне до лампочки.
+      example: I don't give a damn what they think about me
+
     - eng: I don't have a bank account.
       ru: У меня нет банковского счета.
+      example: the homeless man admitted "I don't have a bank account"
+
     - eng: I don't have ammo, I'll play baseball with a bat and heads
       ru: У меня нет патронов, я буду играть в бейсбол битой и головами
+      example: The desperate soldier said, "I don't have ammo, I'll play baseball with a bat and heads."
+
     - eng: I don't have too much time for my hobby.
       ru: У меня мало времени на мое увлечение.
-    - eng: I don't have too much time for my hobby.
-      ru: У меня мало времени на мое увлечение.
+      example: I don't have too much time for my hobby because of my demanding job
+
     - eng: I don't know if Mary plays the piano
       ru: Я не знаю, играет ли Мэри на пианино
+      example: I don't know if Mary plays the piano or not
+
     - eng: I don't know what he is doing
       ru: Я не знаю, что он делает
+      example: I don't know what he is doing in the garage all day
+
     - eng: I don't know where the money is
       ru: Я не знаю, где деньги
+      example: the frightened accountant said "I don't know where the money is,"
+
     - eng: I don't know whether Bob is driving home
       ru: Я не знаю, едет ли Боб домой
+      example: I don't know whether Bob is driving home or taking the train
+
     - eng: I don't know who plays the piano
       ru: Я не знаю, кто играет на пианино
+      example: I don't know who plays the piano so beautifully every evening
+
     - eng: I don't like wine, I prefer a lemon squash.
       ru: Я не люблю вино, я предпочитаю содовую воду с лимонным соком.
+      example: I don't like wine, I prefer a lemon squash
+
     - eng: I don't like myself, I'm crazy about myself. Mae West.
       ru: Я не нравлюсь себе, я без ума от себя. Мэй Уэст
+      example: Mae West famously said, "I don't like myself, I'm crazy about myself."
+
     - eng: I don't like when fried chicken wings are too spicy.
       ru: Мне не нравится, когда жареные куриные крылышки слишком острые.
+      example: I don't like when fried chicken wings are too spicy
+
     - eng: I don't need cutlery.
       ru: Мне не нужны приборы.
+      example: "I don't need cutlery, I'm just having a sandwich."
+
     - eng: I don't understand you.
       ru: Я не понимаю Вас.
-    - eng: I don't understand you.
-      ru: Я не понимаю Вас.
+      example: '"I don''t understand you," she said, confused by his explanation'
+
     - eng: I don't want to be distracted
       ru: Я не хочу, чтобы меня отвлекали
-    - eng: I don’t like this.
+      example: '"I don''t want to be distracted while I''m working," he told his colleagues'
+
+    - eng: I don't like this.
       ru: Мне это не нравится.
-    - eng: I don’t like this.
-      ru: Мне это не нравится.
+      example: She looked at the painting and said, "I don't like this at all."
+
     - eng: I enjoy cooking flavorful appetizing nutritious meal
       ru: Мне нравится готовить ароматные аппетитные питательные блюда
+      example: I enjoy cooking flavorful, appetizing, nutritious meals for my family
+
     - eng: I entreat you to think
       ru: Я умоляю вас подумать
+      example: '"I entreat you to think before making such an important decision," the lawyer urged'
+
     - eng: I exclaimed with pleasure
       ru: Воскликнул я с удовольствием
+      example: '"What a beautiful view!" I exclaimed with pleasure as we reached the summit'
+
     - eng: I feel like I'm gonna throw up
       ru: Я чувствую, что меня сейчас вырвет
+      example: After the roller coaster, he said, "I feel like I'm gonna throw up."
+
     - eng: I feel shivery
       ru: Меня знобит
+      example: '"I feel shivery," she said, pulling a blanket around her shoulders'
+
     - eng: I feel sick.
       ru: Мне плохо.
-    - eng: I feel sick.
-      ru: Мне плохо.
+      example: '"I feel sick," the passenger told the flight attendant'
+
     - eng: I feel so dizzy.
       ru: У меня так сильно кружится голова.
+      example: '"I feel so dizzy," she said, grabbing the wall for support'
+
     - eng: I fell and twisted my ankle.
       ru: Я упала и растянула лодыжку.
+      example: I fell and twisted my ankle on the hiking trail
+
     - eng: I felt I could rely on you
       ru: Я чувствовал, что могу положиться на тебя
-    - eng: I felt nauseous but didn’t vomit
+      example: "I felt I could rely on you, but now I'm not so sure"
+
+    - eng: I felt nauseous but didn't vomit
       ru: Я почувствовал тошноту, но меня не вырвало
+      example: During the boat trip, I felt nauseous but didn't vomit, luckily
+
     - eng: I felt that the food was pretty mediocre and overpriced.
       ru: Я чувствовал, что еда здесь посредственная и слишком дорогая.
+      example: After the meal, he said, "I felt that the food was pretty mediocre and overpriced."
+
     - eng: I finally found the switch and turned It on
       ru: Наконец я нашел выключатель и включил его
+      example: After searching in the dark, I finally found the switch and turned it on
+
     - eng: I find it rather pathetic
       ru: Я нахожу это довольно жалким
+      example: I find it rather pathetic that he can't even apologize
+
     - eng: I find those journeys a slog
       ru: Я нахожу эти путешествия утомительными
+      example: '"I find those journeys a slog," he admitted, "especially in winter."'
+
     - eng: I forgot to log off
       ru: Я забыл выйти из системы
+      example: '"I forgot to log off from the public computer," she realized with concern'
+
     - eng: I found a bedsit.
       ru: Я нашел студию.
+      example: '"I found a bedsit near the university," the student told his parents'
+
     - eng: I fully agree with that view
       ru: Я полностью согласен с этой точкой зрения
+      example: '"I fully agree with that view," the senator said, nodding vigorously'
+
     - eng: I gathered up a pile of sale items to try on
       ru: Я собрала кучу распродажных вещей, чтобы примерить
+      example: 'At the mall, I gathered up a pile of sale items to try on in the fitting room'
+
     - eng: I get out of the Tube.
       ru: Я выхожу из метро.
+      example: '"I get out of the Tube at Oxford Circus," she explained to the tourist'
+
     - eng: I get paid very well.
       ru: Мне очень хорошо платят.
+      example: '"I get paid very well for what I do," the surgeon said, "but it''s stressful."'
+
     - eng: I got my seat belt off
       ru: Я отстегнул ремень безопасности
+      example: After the plane landed, I got my seat belt off and stood up quickly
+
     - eng: I got to memorize my lines
       ru: Я должен выучить свои реплики наизусть
+      example: '"I got to memorize my lines before the play tomorrow," the actor said'
+
     - eng: I got to use the toilet
       ru: Мне нужно в туалет
+      example: '"I got to use the toilet before we leave," the child announced'
+
     - eng: I got you a little present
       ru: У меня есть для тебя маленький подарок
+      example: '"I got you a little present from my trip," she said, handing him a small box'
+
     - eng: I had a high fever all week.
       ru: У меня всю неделю была высокая температура.
+      example: '"I had a high fever all week," she explained, "so I couldn''t come to work."'
+
     - eng: I had washed the floor before they came
       ru: я помыл пол до того, как они пришли
+      example: 'I had washed the floor before they came, so the house was spotless'
+
     - eng: I hate my job at the moment.
       ru: Сейчас я ненавижу свою работу.
+      example: '"I hate my job at the moment," he confessed to his wife'
+
     - eng: I have a 10 hour workday.
       ru: У меня десятичасовой рабочий день.
-    - eng: I have a 10 hour workday.
-      ru: У меня десятичасовой рабочий день.
+      example: '"I have a 10 hour workday," she said, "so I''m exhausted by evening."'
+
     - eng: I have a devious plan
       ru: У меня есть коварный план
+      example: '"I have a devious plan," the villain whispered, "and no one will stop me."'
+
     - eng: I have a nausea
       ru: У меня тошнота
+      example: '"I have a nausea that won''t go away," she told the doctor'
+
     - eng: I have a plot of land near the embankment
       ru: У меня есть участок земли рядом с набережной
+      example: '"I have a plot of land near the embankment where I want to build a house," he said'
+
     - eng: I have a runny nose.
       ru: У меня насморк.
+      example: '"I have a runny nose and a cough," the patient told the pharmacist'
+
     - eng: I have accidentally deleted a tracking number. Could you please send it again?
       ru: Я случайно удалил номер для отслеживания отправления. Не могли бы вы еще раз прислать его?
+      example: '"I have accidentally deleted a tracking number. Could you please send it again?" the customer asked'
+
     - eng: I have added an item to my basket but it isn't showing up.
       ru: Я добавил товар в корзину, но его там нет.
+      example: '"I have added an item to my basket but it isn''t showing up," the shopper complained'
+
     - eng: I have arrived at maturity
       ru: Я достиг зрелости
+      example: '"I have arrived at maturity," the young man said, "and I''m ready for responsibility."'
+
     - eng: I have been refunded the incorrect amount.
       ru: С моего счёта списали некорректную сумму денег.
+      example: '"I have been refunded the incorrect amount," the customer told the bank'
+
     - eng: I have bought an item long time ago, but it still has not been delivered. Could you update the status of my order?
       ru: С момента, как я совершил покупку, прошло много времени, но товар так и не доставили. Не могли бы вы обновить статус моего заказа?
+      example: '"I have bought an item long time ago, but it still has not been delivered. Could you update the status of my order?" he asked'
+
     - eng: I have bought an item on your site by accident.
       ru: Я случайно купил товар на вашем сайте.
+      example: '"I have bought an item on your site by accident," she wrote in her refund request'
+
     - eng: I have checked in online.
       ru: Я зарегистрировался онлайн.
+      example: '"I have checked in online," the passenger said, "so I just need to drop my bag."'
+
     - eng: I have coins and notes of various denominations.
       ru: У меня есть монеты и банкноты разного достоинства.
+      example: '"I have coins and notes of various denominations," the collector showed proudly'
+
     - eng: I have constipation.
       ru: У меня запор.
+      example: The patient whispered to the doctor, "I have constipation that won't go away."
+
     - eng: I have cut my stake in the firm
       ru: Я сократил свою долю в фирме
+      example: '"I have cut my stake in the firm," the investor announced, "to reduce my risk."'
+
     - eng: I have dug up a red beetroot
       ru: Я выкопал красную свеклу
     - eng: I have high blood pressure
