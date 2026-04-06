@@ -1889,11 +1889,11 @@ app.words:
 
     - eng: Are you nuts
       ru: Ты что, ненормальный?
-      example: He tried to pet the wild bear, and his friend yelled, "Are you nuts?"
+      example: "He tried to pet the wild bear, and his friend yelled: Are you nuts?"
 
     - eng: Are you nuts?
       ru: Ты что, спятил?
-      example: "Are you nuts?" she screamed as he ran across the highway
+      example: Are you nuts? she screamed as he ran across the highway
 
     - eng: Are you out of your mind?
       ru: Вы в своем уме?
@@ -2205,7 +2205,7 @@ app.words:
 
     - eng: Before you go off on us, answer me this question
       ru: Прежде чем ты уйдешь от нас, ответь мне на этот вопрос
-      example: "Before you go off on us, answer me this question," the teacher demanded
+      example: "Before you go off on us, answer me this question, the teacher demanded"
 
     - eng: Behind every great man is a woman rolling her eyes. Bruce Almighty.
       ru: За каждым великим мужчиной стоит женщина, которая время от времени закатывает глаза. Брюс Всемогущий.
@@ -2469,7 +2469,7 @@ app.words:
 
     - eng: But supposing... what then?
       ru: Но предположим, что ... что тогда?
-      example: "But supposing the plan fails... what then?" she asked nervously
+      example: "But supposing the plan fails... what then? she asked nervously"
 
     - eng: But this is an oyster bar you see it is written up.
       ru: Видишь, тут написано, это устричный бар!
@@ -2565,7 +2565,7 @@ app.words:
 
     - eng: Can I call you... ?
       ru: Могу я называть Вас... ?
-      example: "Can I call you Tom instead of Thomas?" the teacher asked
+      example: "Can I call you Tom instead of Thomas? the teacher asked"
 
     - eng: Can I change my shipping address?
       ru: Могу ли я изменить адрес доставки?
@@ -2573,7 +2573,7 @@ app.words:
 
     - eng: Can I change or amend my order once it has been placed?
       ru: Могу ли я сделать изменения в сделанном заказе?
-      example: "Can I change or amend my order once it has been placed?" she asked the website chat
+      example: Can I change or amend my order once it has been placed? she asked the website chat
 
     - eng: Can I come along?
       ru: Можно мне с вами?
@@ -2585,7 +2585,7 @@ app.words:
 
     - eng: Can I drive you home (to your place, somewhere)?
       ru: Разрешите, я провожу Вас до дома (куда-либо)?
-      example: "Can I drive you home or somewhere else?" he offered gallantly
+      example: '"Can I drive you home or somewhere else?" he offered gallantly'
 
     - eng: Can I get a partial refund?
       ru: Можно ли мне получить частичный возврат денег?
@@ -2609,7 +2609,7 @@ app.words:
 
     - eng: Can I just stop you there for a moment?
       ru: Могу я вас прервать на минутку?
-      example: "Can I just stop you there for a moment?" the lawyer interrupted the witness
+      example: '"Can I just stop you there for a moment?" the lawyer interrupted the witness'
 
     - eng: Can I order another colour of eye shadow?
       ru: Можно мне заказать другой цвет теней для глаз?
