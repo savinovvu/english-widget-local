@@ -5205,800 +5205,1596 @@ app.words:
 
     - eng: I sucked a cough drop
       ru: Я пососал леденец от кашля
+      example: My throat was sore so I sucked a cough drop for relief
+
     - eng: I suggest doing this after lunch
       ru: Я предлагаю сделать это после обеда
+      example: I suggest doing this after lunch when everyone is well fed
+
     - eng: I surf the web quite often.
       ru: Я очень часто сижу в Интернете.
+      example: I surf the web quite often to read news and watch videos
+
     - eng: I surf the web quite often.
       ru: Я очень часто сижу в Интернете.
+      example: I surf the web quite often for research and entertainment
+
     - eng: I suspect that someday it will be very necessary
       ru: Я подозреваю, что когда-нибудь это будет очень необходимо
+      example: I suspect that someday it will be very necessary to have this skill
+
     - eng: I suspect you misunderstood me
       ru: Я подозреваю, что вы меня неправильно поняли
+      example: I suspect you misunderstood me because that is not what I meant
+
     - eng: I think I ordered a cup of decaffeinated coffee.
       ru: Мне кажется, я заказывал кофе без кофеина.
+      example: I think I ordered a cup of decaffeinated coffee but this tastes like regular
+
     - eng: I think I'd like to come and have a look at it. Is that okay?
       ru: Думаю, я бы пришел и посмотрел на нее. Хорошо?
+      example: I think I would like to come and have a look at it. Is that okay with you
+
     - eng: I think I'd like to think about it.
       ru: Мне бы надо подумать об этом.
+      example: I think I would like to think about it before making a final decision
+
     - eng: I think I'm stuck.
       ru: Кажется я застрял.
-    - eng: I think I’ll pass.
+      example: I think I am stuck in this traffic jam for another hour
+
+    - eng: I think I'll pass.
       ru: Я думаю, что я пас.
+      example: Thanks for the invitation but I think I will pass this time
+
     - eng: I think about we should leave a 15 percent tip.
       ru: Я думаю, нам нужно оставить 15 процентов чаевых.
+      example: I think about we should leave a 15 percent tip because the service was good
+
     - eng: I think so
       ru: Я так думаю.
+      example: Do you believe we can win the game Yes I think so
+
     - eng: I think that's as far as we can go today.
       ru: Я думаю на сегодня хватит.
+      example: I think that is as far as we can go today. Let us continue tomorrow
+
     - eng: I think we can meet and spend some time together.
       ru: Думаю, мы можем встретиться и провести какое-то время вместе.
+      example: I think we can meet and spend some time together this weekend
+
     - eng: I think we can meet and spend some time together.
       ru: Думаю, мы можем встретиться и провести какое-то время вместе.
+      example: I think we can meet and spend some time together after work on Friday
+
     - eng: I think you forgot to bring me a fork.
       ru: Я думаю, вы забыли принести мне вилку.
+      example: I think you forgot to bring me a fork because I only have a spoon
+
     - eng: I think, we need a surgeon.
       ru: Думаю, нам нужен хирург.
+      example: I think we need a surgeon for this complicated operation
+
     - eng: I thought I could get away
       ru: Я думал, что смогу сбежать
+      example: I thought I could get away without anyone noticing but I was wrong
+
     - eng: I threw caution to the winds
       ru: Я отбросил осторожность на ветер
+      example: I threw caution to the winds and invested all my savings in the startup
+
     - eng: I took her on because she asked me to
       ru: Я взял ее на работу, потому что она попросила меня об этом
+      example: I took her on because she asked me to and she seemed very motivated
+
     - eng: I totally disagree
       ru: я категорически не согласен.
+      example: I totally disagree with your assessment of the situation
+
     - eng: I treat you especially well
       ru: Я отношусь к тебе особенно хорошо
+      example: I treat you especially well because you are my favorite employee
+
     - eng: I tried to be affable
       ru: Я старался быть приветливым
+      example: I tried to be affable but the customer was still angry with me
+
     - eng: I tried to get a good look at him
       ru: Я попытался хорошенько разглядеть его
+      example: I tried to get a good look at him but he was wearing a mask
+
     - eng: I tried to prevent him leaving
       ru: Я пытался помешать ему уйти
+      example: I tried to prevent him leaving but he pushed past me
+
     - eng: I turn left, and it's the third house on the right.
       ru: Поворачиваю налево и третий дом справа.
+      example: I turn left at the traffic light and it is the third house on the right
+
     - eng: I urge each and every one of you to take up this cause
       ru: Я призываю всех и каждого из вас обсудить заняться этой проблемой
+      example: I urge each and every one of you to take up this cause and make a difference
+
     - eng: I urge you to reconsider
       ru: Я настоятельно призываю вас пересмотреть свое решение
+      example: I urge you to reconsider before making such a serious mistake
+
     - eng: I use potato peeler
       ru: Я использую картофелечистку
+      example: I use potato peeler to remove the skins quickly
+
     - eng: I usually avoid using this technology
       ru: Обычно я избегаю использования этой технологии
+      example: I usually avoid using this technology because it is unreliable
+
     - eng: I walk around outside the house
       ru: Я гуляю рядом с домом
+      example: Every morning I walk around outside the house to get fresh air
+
     - eng: I walk up and say hi
-      ru: Я подхожу и говорю "привет"
+      ru: Я подхожу и говорю привет
+      example: I walk up and say hi to my neighbor whenever I see him
+
     - eng: I walked over to her and gently shook her hand
       ru: Я подошел к ней и нежно пожал ее руку
+      example: I walked over to her and gently shook her hand as I introduced myself
+
     - eng: I want an evening hairstyle.
       ru: Я хочу сделать вечернюю прическу.
+      example: I want an evening hairstyle for the gala tonight
+
     - eng: I want an evening hairstyle.
       ru: Я хочу вечернюю укладку.
+      example: I want an evening hairstyle that looks elegant and sophisticated
+
     - eng: I want them to line up at the bottom
       ru: Я хочу, чтобы они выстроились в линию внизу
+      example: I want them to line up at the bottom of the stairs before entering
+
     - eng: I want to buy your house. I mean it.
       ru: Я хочу купить ваш дом. Честное слово.
+      example: I want to buy your house. I mean it and I have the cash ready
+
     - eng: I want to deposit some money in the bank
       ru: Я хочу положить немного денег в банк
+      example: I want to deposit some money in the bank before it closes at five
+
     - eng: I want to deposit some money in the bank.
       ru: Я хочу положить немного денег в банк.
+      example: I want to deposit some money in the bank to keep it safe
+
     - eng: I want to discuss it with you first
       ru: Сначала я хочу обсудить это с вами
+      example: I want to discuss it with you first before making any announcements
+
     - eng: I want to dye my hair, the roots are already showing.
       ru: Я хочу покрасить волосы, корни уже отросли.
+      example: I want to dye my hair because the roots are already showing
+
     - eng: I want to dye my hair, the roots are already showing.
       ru: Я хочу покрасить волосы, корни уже отросли.
+      example: I want to dye my hair, the roots are already showing and it looks bad
+
     - eng: I want to find my vocation.
       ru: Я хочу найти свое призвание.
+      example: I want to find my vocation before I turn thirty years old
+
     - eng: I want to find my vocation.
       ru: Я хочу найти свое призвание.
+      example: I want to find my vocation and do something meaningful with my life
+
     - eng: I want to know God's thoughts; the rest are details. Albert Einstein.
       ru: Я хочу знать, о чем думает Бог, все остальное — детали. Альберт Эйнштейн.
+      example: Albert Einstein said I want to know God's thoughts and the rest are details
+
     - eng: I want to pick herbs for medicine
       ru: Я хочу собрать травы для лекарства
+      example: I want to pick herbs for medicine from the forest behind my house
+
     - eng: I want to put a ding in the universe. Steve Jobs.
       ru: Я хочу оставить свой след во Вселенной. Стив Джобс.
+      example: Steve Jobs famously said I want to put a ding in the universe
+
     - eng: I want to take this bag with me.
       ru: Эту сумку я хочу взять с собой в салон.
+      example: I want to take this bag with me on the plane as carry on luggage
+
     - eng: I want to take this bag with me.
       ru: Эту сумку я хочу взять с собой в салон.
+      example: I want to take this bag with me because it has my laptop inside
+
     - eng: I want to wake up in the city that never sleeps. Frank Sinatra.
       ru: Я хочу просыпаться в городе, который никогда не спит. Фрэнк Синатра.
+      example: Frank Sinatra sang I want to wake up in the city that never sleeps
+
     - eng: I want to work part-time.
       ru: Я хочу работать неполный рабочий день.
+      example: I want to work part-time so I can spend more time with my children
+
     - eng: I want to work part-time.
       ru: Я хочу работать неполный рабочий день.
+      example: I want to work part-time while I finish my degree at university
+
     - eng: I want us to go on forever
       ru: Я хочу, чтобы это продолжалось вечно
+      example: I want us to go on forever like this without any problems
+
     - eng: I want you to meet...
       ru: Я хочу представить Вам...
+      example: I want you to meet my sister who just arrived from Chicago
+
     - eng: I warned you, don't get involved
       ru: Я предупреждал тебя, не вмешивайся
+      example: I warned you do not get involved in their family drama
+
     - eng: I was fresh from that horrid place
       ru: Я только что вышел из этого ужасного места
+      example: I was fresh from that horrid place and needed a hot shower
+
     - eng: I was gonna walk off the job
       ru: Я собирался уйти с работы
+      example: I was gonna walk off the job because my boss treated me badly
+
     - eng: I was headhunted by a marketing agency.
       ru: Меня выбрали для работы в маркетинговом агентстве.
+      example: I was headhunted by a marketing agency for a senior position
+
     - eng: I was headhunted by a marketing agency.
       ru: Меня отобрали для работы в маркетинговом агентстве.
+      example: I was headhunted by a marketing agency and I accepted their offer
+
     - eng: I was just gonna take out my lenses
       ru: Я как раз собирался вынуть свои линзы
+      example: I was just gonna take out my lenses before going to sleep
+
     - eng: I was late, so I missed the meeting
       ru: Я опоздал, поэтому пропустил собрание.
+      example: I was late so I missed the meeting entirely and had to get notes from a coworker
+
     - eng: I was made redundant (let go) a few months ago.
       ru: Меня уволили несколько месяцев назад.
+      example: I was made redundant a few months ago and I am still looking for work
+
     - eng: I was really excited to get your email notification
       ru: Я был очень рад получить ваше уведомление по электронной почте
+      example: I was really excited to get your email notification about the sale
+
     - eng: I was scolded for my accident
       ru: Меня отругали за мой несчастный случай
+      example: I was scolded for my accident even though it was not my fault
+
     - eng: I was shocked by her radical views
       ru: Я был шокирован ее радикальными взглядами
+      example: I was shocked by her radical views on politics and society
+
     - eng: I was woken by a sharp rap on the door
       ru: Меня разбудил резкий стук в дверь
+      example: I was woken by a sharp rap on the door at three in the morning
+
     - eng: I waved to her to shut up
       ru: Я махнул ей, чтобы она заткнулась
+      example: I waved to her to shut up because she was saying too much
+
     - eng: I will be off-duty on Thursday.
       ru: Я не дежурю в четверг.
+      example: I will be off-duty on Thursday so I can help you then
+
     - eng: I will be off-duty on Thursday.
       ru: Я не дежурю в четверг.
+      example: I will be off-duty on Thursday so please call me on Friday instead
+
     - eng: I will break off diplomatic relations
       ru: Я разорву дипломатические отношения
+      example: I will break off diplomatic relations if this hostility continues
+
     - eng: I will call back this evening
       ru: Я перезвоню сегодня вечером
+      example: I will call back this evening after I finish my dinner
+
     - eng: I will cut I will beat, you don't bite me anyway
       ru: Я буду резать, я буду бить, ты все равно меня не укусишь
+      example: I will cut I will beat you do not bite me anyway because I am too fast
+
     - eng: I will definitely do it this week
       ru: Я обязательно сделаю это на этой неделе
+      example: I will definitely do it this week before the deadline passes
+
     - eng: I will grab a shovel and I will start digging
       ru: Я возьму лопату и начну копать
+      example: I will grab a shovel and I will start digging for buried treasure
+
     - eng: I will have to go down
       ru: Мне придется спуститься вниз
+      example: I will have to go down to the basement to check the fuse box
+
     - eng: I will pick up your hat
       ru: Я подберу твою шляпу
+      example: I will pick up your hat from the dry cleaners on my way home
+
     - eng: I will pray for your forgiveness
       ru: Я буду молиться о твоем прощении
+      example: I will pray for your forgiveness every day for the rest of my life
+
     - eng: I will resist even if there is only an oar in my hands
       ru: Я буду сопротивляться, даже если в моих руках будет только весло
+      example: I will resist even if there is only an oar in my hands against their guns
+
     - eng: I will take back my tupperware
       ru: Я заберу обратно свою посуду
+      example: I will take back my tupperware when I come to visit next week
+
     - eng: I will take this holy paddle in my hands to expel evil spirits
       ru: Я возьму это святое весло в свои руки, чтобы изгонять злых духов
+      example: I will take this holy paddle in my hands to expel evil spirits from this house
+
     - eng: I wish we could get out
       ru: Я бы хотел, чтобы мы могли выбраться отсюда
+      example: I wish we could get out of this boring meeting already
+
     - eng: I withheld payment until they had completed
       ru: Я удерживал оплату до тех пор, пока они не завершат
+      example: I withheld payment until they had completed all the work properly
+
     - eng: I won't back off
       ru: Я не отступлю
+      example: I will not back off from this fight no matter what happens
+
     - eng: I won't get mad, honey
       ru: Я не буду злиться, милая
+      example: I will not get mad honey just tell me the truth about what happened
+
     - eng: I won't keep you any longer.
       ru: я не буду задерживать вас.
+      example: I will not keep you any longer since you have a busy schedule
+
     - eng: I won't take up much of your time
       ru: Я не отниму у вас много вашего времени
+      example: I will not take up much of your time just five minutes please
+
     - eng: I wonder if Bob lives in London
-      ru: Я хотел бы знать, живет ли Боб в Лондоне; Я хотел бы знать, живет ли Боб в Лондоне
+      ru: Я хотел бы знать, живет ли Боб в Лондоне
+      example: I wonder if Bob lives in London because I saw him near the Thames
+
     - eng: I wonder if she loves me
       ru: Я хотел бы знать, любит ли она меня
+      example: I wonder if she loves me or if I am just wasting my time
+
     - eng: I wondered when we were cut off so suddenly
       ru: Я удивился, что разговор внезапно прервали
+      example: I wondered when we were cut off so suddenly during our phone call
+
     - eng: I wore the mask to scare you
       ru: Я надел маску, чтобы напугать тебя
+      example: I wore the mask to scare you but you did not even flinch
+
     - eng: I work day/afternoon/night shifts.
       ru: Я работаю в утренние/дневные/ ночные смены.
+      example: I work night shifts so I sleep during the day
+
     - eng: I work for myself.
       ru: Я работаю на себя.
+      example: I work for myself as a freelance graphic designer
+
     - eng: I would like a close shave.
       ru: Я бы хотел побриться наголо.
+      example: I would like a close shave without any razor burn please
+
     - eng: I would like a close shave.
       ru: Я б хотів поголитися наголо.
+      example: I would like a close shave and a haircut today
+
     - eng: I would like my fringe cut.
       ru: Я бы хотела постричь челку
+      example: I would like my fringe cut just above my eyebrows please
+
     - eng: I would like one queen bed, please.
       ru: Я бы хотел номер с большой кроватью (на которой спят два человека), пожалуйста.
+      example: I would like one queen bed please for my wife and me
+
     - eng: I would like this
       ru: Я бы хотел вот это.
+      example: I would like this one in blue if you have it
+
     - eng: I would like this.
       ru: Я бы хотел вот это.
+      example: I would like this item gift wrapped for my mother
+
     - eng: I would like to cut off the split ends.
       ru: Я хотел бы отрезать секущиеся кончики.
+      example: I would like to cut off the split ends but keep the length
+
     - eng: I would like to cut off the split ends.
       ru: Я бы хотел обрезать секущиеся кончики.
+      example: I would like to cut off the split ends because they make my hair look unhealthy
+
     - eng: I would like to get bangs.
       ru: Я бы хотел постричь челку.
+      example: I would like to get bangs to change my look completely
+
     - eng: I would like to order...
       ru: Я бы хотел заказать...
+      example: I would like to order a pizza with extra cheese please
+
     - eng: I would like to trim my hair.
       ru: Я бы хотел чуть-чуть подровнять волосы.
+      example: I would like to trim my hair just one inch off the ends
+
     - eng: I would like to trim my hair.
       ru: Я бы хотела чуть-чуть подровнять волосы.
+      example: I would like to trim my hair because the ends are dry
+
     - eng: I would like two double beds, please.
       ru: Я бы хотел номер с двумя большими кроватями.
+      example: I would like two double beds please for me and my two children
+
     - eng: I would never encourage something so reckless
-      ru: Я бы никогда не стал поощрять что- то столь безрассудное
+      ru: Я бы никогда не стал поощрять что-то столь безрассудное
+      example: I would never encourage something so reckless because someone could get hurt
+
     - eng: I would not suffer it
       ru: Я бы этого не потерпел
+      example: I would not suffer such disrespect from anyone including my boss
+
     - eng: I would trade all of my technology for an afternoon with Socrates. Steve Jobs.
       ru: Я бы обменял все свои технологии на встречу с Сократом. Стив Джобс.
+      example: Steve Jobs said I would trade all of my technology for an afternoon with Socrates
+
     - eng: I wouldn't hesitate a minute to make this decision
       ru: Я бы ни минуты не колебался, принимая это решение
+      example: I would not hesitate a minute to make this decision because it is clearly right
+
     - eng: I wouldn't like to see you so worn out and worried
       ru: Мне бы не хотелось видеть тебя такой измученной и обеспокоенной
+      example: I would not like to see you so worn out and worried about such small things
+
     - eng: I write down things in it and the times
       ru: Я записываю в него разные вещи и время
+      example: I write down things in it and the times so I do not forget anything
+
     - eng: I yield to you
       ru: Я уступаю тебе
+      example: I yield to you because you have more experience in this matter
+
     - eng: I'd be glad to see you.
       ru: Буду рад Вас видеть.
+      example: I would be glad to see you at the party on Saturday night
+
     - eng: I'd be glad to see you.
       ru: Буду рад Вас видеть.
+      example: I would be glad to see you whenever you have time to visit
+
     - eng: I'd just wanted to tell you that..
       ru: Я лишь хотел сказать Вам, что..
+      example: I just wanted to tell you that your help was greatly appreciated
+
     - eng: I'd like a window seat, please.
       ru: Я бы хотел место у окна.
+      example: I would like a window seat please on the flight to Chicago
+
     - eng: I'd like a window seat, please.
       ru: Я бы хотел место у окна.
+      example: I would like a window seat please so I can see the clouds
+
     - eng: I'd like an apple juice, bacon and eggs.
       ru: Принесите мне яблочный сок, бекон и яйца.
+      example: I would like an apple juice bacon and eggs for breakfast please
+
     - eng: I'd like to book a flight to New-York.
       ru: Я бы хотел забронировать рейс до Нью-Йорка.
+      example: I would like to book a flight to New York for next Tuesday
+
     - eng: I'd like to book a seat to New-York.
       ru: Я бы хотел заказать билет/место до Нью-Йорка.
+      example: I would like to book a seat to New York on the earliest flight
+
     - eng: I'd like to cancel my reservation.
       ru: Я бы хотел отменить свой заказ.
+      example: I would like to cancel my reservation because my plans have changed
+
     - eng: I'd like to cancel my reservation.
       ru: Я бы хотел отменить свой заказ.
+      example: I would like to cancel my reservation and receive a full refund
+
     - eng: I'd like to change my reservation.
       ru: Я бы хотел изменить свой заказ.
+      example: I would like to change my reservation to a later date
+
     - eng: I'd like to change my reservation.
       ru: Я бы хотел изменить свой заказ.
+      example: I would like to change my reservation from a single to a double room
+
     - eng: I'd like to check-in my luggage.
       ru: Я хочу зарегистрировать свой багаж.
+      example: I would like to check in my luggage because it is too heavy to carry
+
     - eng: I'd like to check-in my luggage.
       ru: Я хочу зарегистрировать свой багаж.
+      example: I would like to check in my luggage at the counter please
+
     - eng: I'd like to close my account.
       ru: Я бы хотел закрыть свой счет.
+      example: I would like to close my account and transfer the remaining balance
+
     - eng: I'd like to cook you an impressive breakfast
       ru: Я бы хотел приготовить вам впечатляющий завтрак
+      example: I would like to cook you an impressive breakfast tomorrow morning
+
     - eng: I'd like to get to know you much better.
       ru: Хотелось бы узнать тебя получше.
+      example: I would like to get to know you much better over dinner sometime
+
     - eng: I'd like to get to know you much better.
       ru: Хотелось бы узнать тебя получше.
+      example: I would like to get to know you much better before we make any decisions
+
     - eng: I'd like to go on a boat trip the day after tomorrow.
       ru: Я бы хотел на экскурсию на лодках послезавтра.
+      example: I would like to go on a boat trip the day after tomorrow if the weather is nice
+
     - eng: I'd like to go on a boat trip the day after tomorrow.
       ru: Я бы хотел на экскурсию на лодках послезавтра.
+      example: I would like to go on a boat trip the day after tomorrow around the harbor
+
     - eng: I'd like to have a free overdraft facility.
       ru: Я бы хотел подключить бесплатный овердрафт.
+      example: I would like to have a free overdraft facility on my checking account
+
     - eng: I'd like to invite you to the theatre.
       ru: Я хочу пригласить Вас в театр.
+      example: I would like to invite you to the theatre on Saturday evening
+
     - eng: I'd like to invite you to the theatre.
       ru: Я хочу пригласить Вас в театр.
+      example: I would like to invite you to the theatre to see a new play
+
     - eng: I'd like to make a reservation on the 9:25 morning flight from New York to Moscow.
       ru: Я бы хотел зарезервировать билет на рейс из Нью-Йорка в Москву в 9:25 утра.
+      example: I would like to make a reservation on the 9:25 morning flight from New York to Moscow
+
     - eng: I'd like to make a reservation on the 9:25 morning flight from New York to Moscow.
       ru: Я бы хотел зарезервировать билет на рейс из Нью-Йорка в Москву в 9:25 утра.
+      example: I would like to make a reservation on the 9:25 morning flight from New York to Moscow please
+
     - eng: I'd like to make a reservation on the Boston flight.
       ru: Я бы хотел зарезервировать билет на Бостонский рейс.
+      example: I would like to make a reservation on the Boston flight for next Monday
+
     - eng: I'd like to make an airline reservation.
       ru: Я бы хотел зарезервировать билет на самолёт.
+      example: I would like to make an airline reservation for a round trip ticket
+
     - eng: I'd like to make an airline reservation.
       ru: Я бы хотел зарезервировать билет на самолёт.
+      example: I would like to make an airline reservation online if possible
+
     - eng: I'd like to mortgage my house.
       ru: Я хотела бы заложить дом.
+      example: I would like to mortgage my house to pay for my children's education
+
     - eng: I'd like to order an orange juice
       ru: Я бы хотел заказать апельсиновый сок
+      example: I would like to order an orange juice with my breakfast please
+
     - eng: I'd like to order this cheeseburger.
       ru: Я хотел бы заказать этот чизбургер.
+      example: I would like to order this cheeseburger with extra pickles
+
     - eng: I'd like to report a stolen credit card.
       ru: Я хотела бы сообщить об украденной кредитной карте.
+      example: I would like to report a stolen credit card and cancel it immediately
+
     - eng: I'd like to see the job description.
       ru: Я хотел бы посмотреть список должностных обязанностей.
+      example: I would like to see the job description before I apply for the position
+
     - eng: I'd like to see the job description.
       ru: Я хотел бы посмотреть список должностных обязанностей.
+      example: I would like to see the job description to understand what is expected
+
     - eng: I'd like to take a few days off.
       ru: Я бы хотел взять несколько отгулов.
+      example: I would like to take a few days off next week for a family emergency
+
     - eng: I'd like to take a few days off.
       ru: Я бы хотел взять несколько отгулов.
+      example: I would like to take a few days off to recover from my illness
+
     - eng: I'd like to talk to the bank manager!
       ru: Я хотел бы поговорить с управляющим банка!
+      example: I would like to talk to the bank manager about my loan application
+
     - eng: I'd like to talk to the human resources director.
       ru: Я бы хотел поговорить с начальником отдела кадров.
+      example: I would like to talk to the human resources director about my contract
+
     - eng: I'd like to talk to the human resources director.
       ru: Я бы хотел поговорить с начальником отдела кадров.
+      example: I would like to talk to the human resources director about my promotion
+
     - eng: I'd like to transfer $500 to my current account.
       ru: Я бы хотел перевести 500 долларов на свой текущий счет.
+      example: I would like to transfer five hundred dollars to my current account please
+
     - eng: I'd like to visit the safari park.
       ru: Я хочу посетить сафари парк.
+      example: I would like to visit the safari park with my family this summer
+
     - eng: I'd like to visit the safari park.
       ru: Я хочу посетить сафари парк.
+      example: I would like to visit the safari park to see the lions and giraffes
+
     - eng: I'd love to eat a chocolate mousse with whipped cream.
       ru: Я с удовольствием бы съела шоколадный мусс со взбитыми сливками.
+      example: I would love to eat a chocolate mousse with whipped cream for dessert
+
     - eng: I'd love to try a pecan-caramel ice cream today.
       ru: Я бы с удовольствием попробовала мороженое c карамелью и орехом пекан.
+      example: I would love to try a pecan caramel ice cream today at the new shop
+
     - eng: I'll be in time.
       ru: Я буду вовремя.
+      example: Do not worry I will be in time for the meeting
+
     - eng: I'll be in time.
       ru: Я буду вовремя.
+      example: I will be in time to catch the last train home
+
     - eng: I'll clean up later
       ru: Я приберусь позже
+      example: I will clean up later after I finish my homework
+
     - eng: I'll gain the necessary qualifications and apply for this job again.
       ru: Я получу необходимые навыки и снова попробую получить эту работу.
+      example: I will gain the necessary qualifications and apply for this job again next year
+
     - eng: I'll gain the necessary qualifications and apply for this job again.
       ru: Я получу необходимые навыки и снова попробую получить эту работу.
+      example: I will gain the necessary qualifications and apply for this job again when I am ready
+
     - eng: I'll give my internist a call
       ru: Я позвоню своему терапевту
+      example: I will give my internist a call to schedule an appointment
+
     - eng: I'll go back
       ru: Я вернусь
+      example: I will go back to the store to return this defective product
+
     - eng: I'll go shopping during my lunch break.
       ru: Я пойду по магазинам в обеденный перерыв.
+      example: I will go shopping during my lunch break to buy a birthday gift
+
     - eng: I'll hang you up by your ears
       ru: Я повешу тебя за уши
+      example: If you do that again I will hang you up by your ears
+
     - eng: I'll have a cup of cappuccino.
       ru: Я бы выпил чашку капучино.
+      example: I will have a cup of cappuccino with an extra shot of espresso
+
     - eng: I'll have to contrive a reason
       ru: Мне придется придумать причину
+      example: I will have to contrive a reason to leave the party early
+
     - eng: I'll let you walk away, set up your shop wherever you like
       ru: Я позволю тебе уйти, открывай свой магазин, где захочешь
+      example: I will let you walk away and set up your shop wherever you like without interference
+
     - eng: I'll point out anything that I see
       ru: Я укажу на все, что увижу
+      example: I will point out anything that I see that needs to be fixed
+
     - eng: I'll shoot out the glass
       ru: Я выстрелю в стекло
+      example: I will shoot out the glass to create an escape route
+
     - eng: I'll take up their offer
       ru: Я приму их предложение
+      example: I will take up their offer because it is too good to refuse
+
     - eng: I'll try asparagus and marinated mushrooms as a salad.
       ru: Я попробую салат из спаржи и маринованных грибов.
+      example: I will try asparagus and marinated mushrooms as a salad for lunch
+
     - eng: I'll wait for you on that side of the street.
       ru: Я подожду Вас на другой стороне улицы.
+      example: I will wait for you on that side of the street near the cafe
+
     - eng: I'll wait for you on that side of the street.
       ru: Я подожду Вас на той стороне улицы.
+      example: I will wait for you on that side of the street to avoid the crowd
+
     - eng: I'll whisper it in her ear
       ru: Я прошепчу это ей на ухо
+      example: I will whisper it in her ear so no one else can hear
+
     - eng: I'm a lawyer.
       ru: Я юрист.
+      example: I am a lawyer and I have been practicing for fifteen years
+
     - eng: I'm a lawyer.
       ru: Я юрист.
+      example: I am a lawyer specializing in family law cases
+
     - eng: I'm a tourist.
       ru: Я турист.
+      example: I am a tourist and I need help finding the museum
+
     - eng: I'm a tourist.
       ru: Я турист.
+      example: I am a tourist visiting from Canada for the week
+
     - eng: I'm actively engaged in voluntary work.
       ru: Я активно занимаюсь волонтерской деятельностью.
+      example: I am actively engaged in voluntary work at the local animal shelter
+
     - eng: I'm actively engaged in voluntary work.
       ru: Я активно занимаюсь волонтерской деятельностью.
+      example: I am actively engaged in voluntary work because I want to help my community
+
     - eng: I'm afraid that's completely out of the question.
       ru: я боюсь, что это полностью исключено.
+      example: I am afraid that is completely out of the question given our budget
+
     - eng: I'm afraid we were out of pineapple juice.
       ru: Боюсь, у нас нет ананасового сока.
+      example: I am afraid we were out of pineapple juice so I got orange instead
+
     - eng: I'm allergic to penicillin
       ru: У меня аллергия на пенициллин.
+      example: I am allergic to penicillin so please prescribe something else
+
     - eng: I'm available for experimentation
       ru: Я готов к экспериментам
+      example: I am available for experimentation whenever you are ready to begin
+
     - eng: I'm bitterly disappointed
       ru: Я горько разочарован
+      example: I am bitterly disappointed by the outcome of the election
+
     - eng: I'm calling to confirm my reservation for tomorrow. Its on American Airlines flight 620.
       ru: Я звоню подтвердить свой заказ на завтра. Это американские авиалинии, рейс 620.
+      example: I am calling to confirm my reservation for tomorrow on American Airlines flight 620
+
     - eng: I'm calling to confirm my reservation for tomorrow. Its on American Airlines flight 620.
       ru: Я звоню подтвердить свой заказ на завтра. Это американские авиалинии, рейс 620.
+      example: I am calling to confirm my reservation for tomorrow please
+
     - eng: I'm completely brainless
       ru: Я совершенно безмозглый
+      example: I am completely brainless when it comes to mathematics
+
     - eng: I'm counting on you.
       ru: Я рассчитываю на вас.
+      example: I am counting on you to finish this project on time
+
     - eng: I'm desperate for the loo first
       ru: Сначала мне отчаянно хочется в туалет
+      example: I am desperate for the loo first before we go anywhere else
+
     - eng: I'm devoted to my wife and family
       ru: Я предан своей жене и семье
+      example: I am devoted to my wife and family above everything else in my life
+
     - eng: I'm fast and careful like a possum
       ru: Я быстр и осторожен, как опоссум
+      example: I am fast and careful like a possum when I cross the street
+
     - eng: I'm feeling a little unhinged
       ru: Я чувствую себя немного расстроенной
+      example: I am feeling a little unhinged after everything that happened today
+
     - eng: I'm fine, thanks.
       ru: У меня всё хорошо, спасибо.
+      example: How are you doing I am fine thanks for asking
+
     - eng: I'm from Russia
       ru: Я из России
+      example: I am from Russia but I have lived in Germany for ten years
+
     - eng: I'm glad to be back with you
       ru: Я рад снова быть с тобой
+      example: I am glad to be back with you after such a long separation
+
     - eng: I'm going to faint.
       ru: Я сейчас упаду в обморок.
+      example: The room is spinning and I think I am going to faint
+
     - eng: I'm going to the 7th floor. Can you press the button, please?
       ru: Мне на 7-й. Нажмёте?
+      example: I am going to the seventh floor. Can you press the button please
+
     - eng: I'm gonna hang up my stocking
       ru: Я собираюсь повесить свой чулок
+      example: On Christmas Eve I am gonna hang up my stocking by the fireplace
+
     - eng: I'm gonna make him an offer he can't refuse. Don Corleone, Godfather.
       ru: Я сделаю ему предложение, от которого он не сможет отказаться. Дон Корлеоне, Крестный отец.
+      example: Don Corleone said I am gonna make him an offer he cannot refuse
+
     - eng: I'm gonna pretend to put away clean plates
       ru: Я собираюсь притвориться, что убираю чистые тарелки
+      example: I am gonna pretend to put away clean plates while I listen to their conversation
+
     - eng: I'm having an intimate conversation
       ru: У меня тут задушевный разговор
+      example: Please do not interrupt because I am having an intimate conversation
+
     - eng: I'm having terrible pains in my chest.
       ru: У меня ужасные боли в груди.
+      example: I am having terrible pains in my chest and I need a doctor now
+
     - eng: I'm improvising
       ru: Я импровизирую
+      example: I do not have a script so I am improvising as I go
+
     - eng: I'm jobless.
       ru: Я безработный.
+      example: I am jobless at the moment but I am looking for work
+
     - eng: I'm jobless/unemployed.
       ru: Я безработный.
+      example: I am unemployed and I need to find a job soon
+
     - eng: I'm just gonna keep on talking
       ru: Я просто собираюсь продолжать говорить
+      example: I am just gonna keep on talking until someone listens to me
+
     - eng: I'm just highly motivated to do nothing
       ru: я просто очень мотивирован ничего не делать
+      example: I am just highly motivated to do nothing all weekend long
+
     - eng: I'm learning the captivating art of japanese origami
       ru: Я изучаю увлекательное искусство японского оригами
+      example: I am learning the captivating art of Japanese origami from online videos
+
     - eng: I'm looking at you in admiration
       ru: Я смотрю на тебя с восхищением
+      example: I am looking at you in admiration because you achieved so much
+
     - eng: I'm looking for a job
       ru: Я ищу работу.
+      example: I am looking for a job in the marketing field right now
+
     - eng: I'm looking for the tourist information office.
       ru: Я ищу туристический центр.
+      example: I am looking for the tourist information office to get a map
+
     - eng: I'm looking for the tourist information office.
       ru: Я ищу туристический центр.
+      example: I am looking for the tourist information office can you help me
+
     - eng: I'm looking forward to meeting you.
       ru: С нетерпением жду встречи с Вами.
+      example: I am looking forward to meeting you in person next week
+
     - eng: I'm looking forward to meeting you.
       ru: С нетерпением жду встречи с Вами.
+      example: I am looking forward to meeting you after talking online for so long
+
     - eng: I'm more resourceful than you think
       ru: Я более изобретателен, чем ты думаешь
+      example: I am more resourceful than you think so I will find a solution
+
     - eng: I'm not a typist
       ru: Я не машинистка
+      example: I am not a typist so please excuse my slow typing speed
+
     - eng: I'm not ashamed to ask what does this mean
       ru: я не постесняюсь спросить, что это значит
+      example: I am not ashamed to ask what does this mean because I want to learn
+
     - eng: I'm not going to use it to just pick up some girl
-      ru: Я не собираюсь использовать это, чтобы просто подцепить какую- нибудь девушку
+      ru: Я не собираюсь использовать это, чтобы просто подцепить какую-нибудь девушку
+      example: I am not going to use it to just pick up some girl I have better intentions
+
     - eng: I'm not gonna end up like this
       ru: Я не собираюсь заканчивать так
+      example: I am not gonna end up like this I will change my life
+
     - eng: I'm not married.
       ru: Я не замужем/неженат.
+      example: I am not married and I do not have any children
+
     - eng: I'm not trying to offend you
       ru: Я не пытаюсь тебя обидеть
+      example: I am not trying to offend you but I disagree with your opinion
+
     - eng: I'm on a business trip.
       ru: Я в командировке.
+      example: I am on a business trip so I cannot come home this weekend
+
     - eng: I'm on a business trip.
       ru: Я в командировке.
+      example: I am on a business trip to meet with our overseas clients
+
     - eng: I'm on a diet, please bring me a piece of rye bread.
       ru: Я на диете, пожалуйста, принесите мне кусочек ржаного хлеба.
+      example: I am on a diet please bring me a piece of rye bread instead of white
+
     - eng: I'm on my way.
       ru: Я уже в пути.
+      example: Do not start without me because I am on my way right now
+
     - eng: I'm on vacation.
       ru: Я в отпуске.
+      example: I am on vacation and I will return to work next Monday
+
     - eng: I'm perishing with hunger
       ru: Я умираю с голоду
+      example: I have not eaten all day and I am perishing with hunger
+
     - eng: I'm putting these goods in the trolley now
       ru: Сейчас я укладываю эти товары в тележку
+      example: I am putting these goods in the trolley now so we can check out
+
     - eng: I'm puzzled by how such a race condition could be avoided
       ru: Я озадачен тем, как можно было избежать такого состояния гонки
+      example: I am puzzled by how such a race condition could be avoided in this code
+
     - eng: I'm really grateful to you.
       ru: Я очень Вам благодарен.
+      example: I am really grateful to you for all your help this year
+
     - eng: I'm really grateful to you.
       ru: Я очень Вам благодарен.
+      example: I am really grateful to you for supporting me during difficult times
+
     - eng: I'm received plaudits
       ru: Меня встречают аплодисментами
+      example: I am received plaudits from the audience after my performance
+
     - eng: I'm resolved on leaving this country
       ru: Я твердо решил покинуть эту страну
+      example: I am resolved on leaving this country by the end of the year
+
     - eng: I'm sharing a bathroom.
       ru: У меня общая ванная комната.
+      example: I am sharing a bathroom with three other people in my dorm
+
     - eng: I'm siberian resident
       ru: Я житель Сибири
+      example: I am a Siberian resident and I am used to very cold winters
+
     - eng: I'm so happy! I have been called for an interview today.
       ru: Я так счастлив! Меня позвали на собеседование сегодня.
+      example: I am so happy because I have been called for an interview today
+
     - eng: I'm so happy! I have been called for an interview today.
       ru: Я так счастлив! Меня позвали на собеседование сегодня.
+      example: I am so happy I have been called for an interview today at my dream company
+
     - eng: I'm so hungry, bring me a smoked salmon with crispy polenta.
       ru: Я такой голодный, принесите мне копчёного лосося с хрустящей полентой.
+      example: I am so hungry please bring me a smoked salmon with crispy polenta
+
     - eng: I'm so sorry, I'll get you a new glass
       ru: Мне так жаль, я принесу тебе новый стакан
+      example: I am so sorry I broke your glass. I will get you a new glass right now
+
     - eng: I'm sorry to break in on you like this
       ru: Мне жаль, что я вот так врываюсь к тебе
+      example: I am sorry to break in on you like this but there is an emergency
+
     - eng: I'm staying at our room tonight.
       ru: Я сегодня останусь в нашем номере.
+      example: I am staying at our room tonight because I am too tired to go out
+
     - eng: I'm staying at our room tonight.
       ru: Я сегодня останусь в нашем номере.
+      example: I am staying at our room tonight to get some rest
+
     - eng: I'm suffering from prostration
       ru: Я страдаю от упадка сил
+      example: I am suffering from prostration after working for fourteen hours straight
+
     - eng: I'm surprised you didn't knock down a wall
       ru: Я удивлен, что ты не снес стену
+      example: I am surprised you did not knock down a wall with all that noise
+
     - eng: I'm too handsome to do paperwork. House M.D..
       ru: Я слишком красив, чтобы заниматься бумажной работой. Доктор Хаус.
+      example: Dr House said I am too handsome to do paperwork
+
     - eng: I'm too ill to travel.
       ru: Я слишком больна, чтобы путешествовать.
+      example: I am too ill to travel so I will stay home and rest
+
     - eng: I'm trapped in a game
       ru: Я пойман в ловушку игры
+      example: I am trapped in a game and I cannot log out
+
     - eng: I'm travelling alone
       ru: Я путешествую один.
+      example: I am travelling alone because my friends could not come
+
     - eng: I'm travelling alone.
       ru: Я путешествую один.
+      example: I am travelling alone for the first time and I am a little nervous
+
     - eng: I'm travelling on business.
       ru: Я в командировке.
+      example: I am travelling on business so the company pays for my hotel
+
     - eng: I'm travelling with my wife and kids.
       ru: Я путешествую с женой и детьми.
+      example: I am travelling with my wife and kids to Disney World
+
     - eng: I'm travelling with my wife and kids.
       ru: Я путешествую с женой и детьми.
+      example: I am travelling with my wife and kids so we need a family suite
+
     - eng: I'm trying to achieve a better work-life balance.
       ru: Я стараюсь достичь баланса между работой и личной жизнью.
+      example: I am trying to achieve a better work life balance this year
+
     - eng: I'm trying to achieve a better work-life balance.
       ru: Я стараюсь достичь баланса между работой и личной жизнью.
+      example: I am trying to achieve a better work life balance by leaving the office earlier
+
     - eng: I'm used to getting up early
       ru: Я привык вставать рано
+      example: I am used to getting up early because of my previous job
+
     - eng: I'm very sorry, but you lack experience.
       ru: Мне очень жаль, но у вас недостаточно опыта.
+      example: I am very sorry but you lack experience for this senior position
+
     - eng: I'm very sorry, but you lack experience.
       ru: Мне очень жаль, но у вас недостаточно опыта.
+      example: I am very sorry but you lack experience compared to other candidates
+
     - eng: I've been collecting stamps for 5 years.
       ru: Я коллекционирую марки 5 лет.
+      example: I have been collecting stamps for five years and I have over one thousand
+
     - eng: I've been collecting stamps for 5 years.
       ru: Я коллекционирую марки 5 лет.
-    - eng: I've been downgraded from principal to vice- principal.
+      example: I have been collecting stamps for five years now as a hobby
+
+    - eng: I've been downgraded from principal to vice-principal.
       ru: Меня понизили с директора до замдиректора.
-    - eng: I've been downgraded from principal to vice- principal.
+      example: I have been downgraded from principal to vice principal which is disappointing
+
+    - eng: I've been downgraded from principal to vice-principal.
       ru: Меня понизили с директора до замдиректора.
+      example: I have been downgraded from principal to vice principal after the merger
+
     - eng: I've been throwing up all night!
       ru: Меня рвало всю ночь!
+      example: I have been throwing up all night and I feel terrible this morning
+
     - eng: I've been trying to get in touch with you
       ru: Я пытался связаться с тобой
+      example: I have been trying to get in touch with you for three days now
+
     - eng: I've complained about it
       ru: Я жаловался на это
+      example: I have complained about it to the manager several times
+
     - eng: I've dropped my spoon, bring me another one.
       ru: Я уронил ложку, принесите мне другую.
+      example: I have dropped my spoon please bring me another one
+
     - eng: I've got a dog and two cats.
       ru: У меня есть собака и две кошки.
+      example: I have got a dog and two cats at my house
+
     - eng: I've got a full-time job.
       ru: Я работаю полный рабочий день.
+      example: I have got a full-time job with good benefits
+
     - eng: I've got a labrador.
       ru: У меня есть лабрадор.
+      example: I have got a labrador named Max who loves to play fetch
+
     - eng: I've got a part-time job.
       ru: Я работаю неполный рабочий день.
+      example: I have got a part-time job at a coffee shop near campus
+
     - eng: I've got enough money
       ru: У меня достаточно денег
+      example: I have got enough money to pay for the trip without any help
+
     - eng: I've got enough of this
       ru: С меня этого достаточно
+      example: I have got enough of this nonsense and I am leaving now
+
     - eng: I've got many pets.
       ru: У меня много домашних животных.
+      example: I have got many pets including two dogs three cats and a rabbit
+
     - eng: I've got many pets.
       ru: У меня много домашних животных.
+      example: I have got many pets because I love animals so much
+
     - eng: I've gota a Labrador.
       ru: У меня есть лабрадор
+      example: I have got a Labrador who is very friendly with children
+
     - eng: I've gota dog and two cats.
       ru: У меня есть собака и две кошки.
+      example: I have got a dog and two cats and they all get along well
+
     - eng: I've just gotten shot
       ru: В меня только что стреляли
+      example: I have just gotten shot and I need a doctor immediately
+
     - eng: I've just missed the bus. When is the next one?
       ru: Я только что пропустил автобус. Когда будет следующий?
+      example: I have just missed the bus. When is the next one scheduled
+
     - eng: I've just missed the bus. When is the next one?
       ru: Я только что пропустил автобус. Когда будет следующий?
+      example: I have just missed the bus. When is the next one coming
+
     - eng: I've never been in an elevator before.
       ru: Я раньше в лифте не ездила.
+      example: I have never been in an elevator before and I am nervous
+
     - eng: I've read the things you like... You won't believe I like all of those things too!
       ru: Прочитала чем ты интересуешься... Ты не поверишь, но мне нравится то же самое!
+      example: I have read the things you like and you will not believe I like all of those things too
+
     - eng: I've read the things you like... You won't believe I like all of those things too!
       ru: Прочитала чем ты интересуешься... Ты не поверишь, но мне нравится то же самое!
+      example: I have read the things you like and you will not believe I like all of those things too
+
     - eng: I've run into the same issue that he describes here
       ru: Я столкнулся с той же проблемой, которую он описывает здесь
-    - eng: I`ll think about that tomorrow. Scarlett O`Hara.
+      example: I have run into the same issue that he describes here in his post
+
+    - eng: I'll think about that tomorrow. Scarlett O'Hara.
       ru: Я подумаю об этом завтра. Скарлетт О`Хара.
+      example: Scarlett OHara said I will think about that tomorrow
+
     - eng: Iberian Sea
       ru: Балеарское море
+      example: The Iberian Sea is also known as the Balearic Sea near Spain
+
     - eng: Icelander
       ru: исландец; исландка
+      example: The Icelander told us about the beautiful northern lights
+
     - eng: Iconoclasm
       ru: иконоборчество
+      example: Iconoclasm was a major controversy in the Byzantine Empire
+
     - eng: If I could just finish what I was saying.
       ru: если бы я только мог закончить то, что я говорил.
+      example: If I could just finish what I was saying you would understand my point
+
     - eng: If I do not, may lightning strike me
       ru: Если я этого не сделаю, пусть молния поразит меня
-    - eng: If anything is worth trying at all, it’s worth trying at least 10 times. Art Linkletter.
+      example: If I do not keep my promise may lightning strike me where I stand
+
+    - eng: If anything is worth trying at all, it's worth trying at least 10 times. Art Linkletter.
       ru: Если что-то вообще стоит пробовать, это стоит попробовать не меньше 10 раз. Арт Линклеттер.
+      example: Art Linkletter said if anything is worth trying at all it is worth trying at least ten times
+
     - eng: If he gets tired, take turns
       ru: Если он устанет, поменяйтесь
+      example: If he gets tired take turns carrying the heavy backpack
+
     - eng: If life deals you lemons, make lemonade. Saying.
       ru: Если жизнь даёт тебе лимон, сделай лимонад. Поговорка.
+      example: The old saying goes if life deals you lemons make lemonade
+
     - eng: If the wings of the butterfly are to keep their sheen, you mustn't touch them. Pablo Picasso.
       ru: Если хочешь сохранить глянец на крыльях бабочки, не касайся их. Пабло Пикассо.
+      example: Pablo Picasso said if the wings of the butterfly are to keep their sheen you must not touch them
+
     - eng: If we take, we give back
       ru: Если мы берем, мы отдаем обратно
+      example: If we take from nature we must give back to restore the balance
+
     - eng: If you haven't found it yet, keep looking. Steve Jobs.
       ru: Если вы еще не нашли свое дело, продолжайте искать. Стив Джобс.
+      example: Steve Jobs advised if you have not found it yet keep looking
+
     - eng: If you judge people, you have no time to love them. Mother Teresa.
       ru: Если вы судите людей, у вас не остаётся времени, чтобы их любить. Мать Тереза.
+      example: Mother Teresa said if you judge people you have no time to love them
+
     - eng: If you need anything, please ask at the reception desk.
       ru: Если вам что-нибудь понадобится, обратитесь на стойку регистрации.
+      example: If you need anything please ask at the reception desk during office hours
+
     - eng: If you need anything, please ask at the reception desk.
       ru: Если вам что-нибудь понадобится, обратитесь на стойку регистрации.
+      example: If you need anything please ask at the reception desk and they will help you
+
     - eng: If you think so
       ru: Если вы так думаете
+      example: If you think so then I will trust your judgment
+
     - eng: If you're good at something never do it for free. Joker, Batman Dark Knight.
       ru: Если ты делаешь что-то хорошо, никогда не делай это бесплатно. Джокер, Темный рыцарь.
+      example: The Joker said if you are good at something never do it for free
+
     - eng: Imagination is more important than knowledge… Albert Einstein.
       ru: Воображение важнее, чем знания… Альберт Эйнштейн.
+      example: Albert Einstein believed that imagination is more important than knowledge
+
     - eng: Imagination rules the world. Napoleon.
       ru: Воображение правит миром. Наполеон.
+      example: Napoleon famously said imagination rules the world
+
     - eng: Iman
       ru: Иман
+      example: Iman is the Islamic term for faith or belief in God
+
     - eng: In Sicily, women are more dangerous than shotguns. Godfather.
       ru: Сицилийские женщины опаснее ружей. Крестный отец.
+      example: The Godfather movie said in Sicily women are more dangerous than shotguns
+
     - eng: In an emergency, call this number.
       ru: В случае чрезвычайной ситуации, позвоните по этому номеру.
+      example: In an emergency call this number for immediate assistance
+
     - eng: In case of an emergency, call this number.
       ru: В случае чрезвычайной ситуации, позвоните по этому номеру.
+      example: In case of an emergency call this number twenty four hours a day
+
     - eng: In my opinion, there is an important difference between these things
       ru: На мой взгляд, между этими вещами есть важное различие
+      example: In my opinion there is an important difference between these two proposals
+
     - eng: In the book of life, the answers aren't in the back. Charles M. Schulz.
       ru: В конце книги жизни нет ответов. Чарльз Шульц
+      example: Charles Schulz said in the book of life the answers are not in the back
+
     - eng: In this world, nothing is certain but death and taxes. Meet Joe Black.
       ru: Неизбежны лишь смерть и налоги. Знакомьтесь, Джо Блэк.
+      example: The movie Meet Joe Black reminded us that nothing is certain but death and taxes
+
     - eng: Incorrect PIN.
       ru: Неверный пин-код.
+      example: The ATM showed the message Incorrect PIN after my third attempt
+
     - eng: Indeed, her performance continues to astound me
       ru: Действительно, её производительность продолжает поражать меня
+      example: Indeed her performance continues to astound me every single time
+
     - eng: Independence Day
       ru: день независимости сша
+      example: Independence Day is celebrated on July fourth in the United States
+
     - eng: India – Republic of India
       ru: индия, республика индия
+      example: India is the seventh largest country in the world by land area
+
     - eng: Indian Ocean
       ru: Индийский океан
+      example: The Indian Ocean is the third largest ocean on Earth
+
     - eng: Indians
       ru: индийцы
+      example: Indians celebrate many festivals throughout the year
+
     - eng: Indonesia – Republic of Indonesia
       ru: индонезия, республика индонезия
+      example: Indonesia is an archipelago of over seventeen thousand islands
+
     - eng: Indonesian
       ru: индонезиец; индонезийка
+      example: The Indonesian showed us how to cook nasi goreng
+
     - eng: Initial size
       ru: исходный размер
+      example: The initial size of the file was ten megabytes before compression
+
     - eng: Inspiration does exist, but it must find you working. Pablo Picasso.
       ru: Вдохновение существует, но оно приходит во время работы. Пабло Пикассо.
+      example: Pablo Picasso said inspiration does exist but it must find you working
+
     - eng: Integrated Development Environment
       ru: Интегрированная среда разработки
+      example: An Integrated Development Environment helps programmers write and test code
+
     - eng: International Woman's Day
       ru: Международный женский день
+      example: International Woman's Day is celebrated on March eighth every year
+
     - eng: International items may be subject to customs processing and additional charges.
       ru: Международные почтовые отправления могут потребовать таможенного оформления, что влечет за собой дополнительные расходы
+      example: International items may be subject to customs processing and additional charges at delivery
+
     - eng: Into
       ru: на; внутрь; в
+      example: She walked into the room and sat down on the chair
+
     - eng: Invoice Number
       ru: Номер счета
+      example: Please include the Invoice Number when you make your payment
+
     - eng: Ionian Sea
       ru: Ионическое море
+      example: The Ionian Sea is located south of the Adriatic Sea near Greece
+
     - eng: Iran – Islamic Republic of Iran
       ru: Иран, Исламская Республика Иран
+      example: Iran has a rich history dating back thousands of years
+
     - eng: Iranian
       ru: иранец, иранка
+      example: The Iranian offered us tea and traditional sweets
+
     - eng: Iraqi
       ru: житель Ирака
+      example: The Iraqi showed us photos of his family in Baghdad
+
     - eng: Irish Sea
       ru: Ирландское море
+      example: The Irish Sea separates Ireland from Great Britain
+
     - eng: Irish coffee
       ru: кофе по-ирландски
+      example: Irish coffee is made with coffee whiskey and whipped cream
+
     - eng: Irishman
       ru: ирландец
+      example: The Irishman told a funny joke at the pub
+
     - eng: Irishwoman
       ru: ирландка
+      example: The Irishwoman sang a beautiful traditional song
+
     - eng: Iron Age
       ru: железный век
+      example: The Iron Age followed the Bronze Age in many parts of the world
+
     - eng: Iron Curtain
       ru: железный занавес
+      example: The Iron Curtain divided Europe during the Cold War
+
     - eng: Ironmonger's/hardware store
       ru: жестяной магазин
+      example: He bought nails and a hammer at the ironmonger's store
+
     - eng: Is Bob driving home
       ru: Боб едет домой?
+      example: Is Bob driving home or taking the train tonight
+
     - eng: Is it a big car or a small bus
       ru: Это большая машина или маленький автобус?
+      example: Is it a big car or a small bus I cannot tell from here
+
     - eng: Is it a fracture?
       ru: Это перелом?
+      example: The doctor examined the X ray and asked is it a fracture
+
     - eng: Is it a non-stop flight?
       ru: Это прямой рейс?
+      example: Is it a non stop flight or do we have a layover
+
     - eng: Is it a non-stop flight?
       ru: Это беспосадочный рейс?
+      example: Is it a non stop flight from New York to London
+
     - eng: Is it all right if I put out the light
       ru: Ничего, если я потушу свет
+      example: Is it all right if I put out the light before we go to sleep
+
     - eng: Is it big car or a small bus
       ru: Это большая машина или маленький автобус?
+      example: Is it a big car or a small bus that is coming toward us
+
     - eng: Is it contagious?
       ru: Это заразно?
+      example: The patient asked the doctor is it contagious to others
+
     - eng: Is it far from here?
       ru: Это далеко отсюда?
+      example: Is it far from here to the nearest gas station
+
     - eng: Is it far from here?
       ru: Это далеко отсюда?
+      example: Is it far from here to the airport by taxi
+
     - eng: Is it necessary to take out the tooth?
       ru: Зуб нужно удалять?
+      example: The dentist asked is it necessary to take out the tooth or can we save it
+
     - eng: Is it possible to prevent further outbreaks?
       ru: Возможно ли предотвратить дальнейшие вспышки?
+      example: The health official asked is it possible to prevent further outbreaks of the virus
+
     - eng: Is it possible to take out an interest-free loan?
       ru: Возможно ли взять заем без процентов?
+      example: Is it possible to take out an interest free loan from this bank
+
     - eng: Is it table service or self-service?
       ru: Этот столик обслуживается или надо самим заказывать?
+      example: Is it table service or self service at this restaurant
+
     - eng: Is she cooking soup or salad
       ru: Она готовит суп или салат?
+      example: Is she cooking soup or salad for dinner tonight
+
     - eng: Is she happy
       ru: Счастлива ли она?
+      example: I often wonder is she happy with her new job
+
     - eng: Is that where you were?
       ru: Так вот где ты был
+      example: Is that where you were hiding all this time
+
     - eng: Is that where you were?
       ru: Так вот где ты был?
+      example: Is that where you were when I called you yesterday
+
     - eng: Is that why (where, what) ...?
       ru: Так вот почему (где, что)...?
+      example: Is that why you have been so quiet lately
+
     - eng: Is that why / where / what / ...?
       ru: Так вот почему / где / что...
+      example: Is that what you meant when you said you were busy
+
     - eng: Is that why they didn't invite us?
       ru: Так вот почему они не пригласили нас?
+      example: Is that why they did not invite us to the wedding
+
     - eng: Is that why they didn't invite us?
       ru: Так вот почему они не пригласили нас ?
+      example: Is that why they did not invite us because of what happened last time
+
     - eng: Is there a bus to airport?
       ru: В аэропорт ходит автобус?
+      example: Is there a bus to airport that runs at this hour
+
     - eng: Is there a bus to the airport?
       ru: В аэропорт ходит автобус?
+      example: Is there a bus to the airport from the city center
+
     - eng: Is there a flight to London?
       ru: Есть рейс до Лондона?
+      example: Is there a flight to London this evening after seven pm
+
     - eng: Is there a flight to London?
       ru: Есть рейс до Лондона?
+      example: Is there a flight to London tomorrow morning
+
     - eng: Is there a free breakfast?
       ru: Тут есть бесплатный завтрак?
+      example: Is there a free breakfast included with the room price
+
     - eng: Is there anything in the bag? No, there isn't.
       ru: В сумке что-то есть? Нет.
+      example: Is there anything in the bag No there is not it is completely empty
+
     - eng: Is this an astronaut or a firefighter
       ru: Это астронавт или пожарный?
+      example: Is this an astronaut or a firefighter in that costume
+
     - eng: Is this gluten-free?
       ru: Это без глютена?
+      example: Is this gluten free because I have a food allergy
+
     - eng: Is this time suitable for you?
       ru: Это время Вам подходит?
+      example: Is this time suitable for you or would you prefer a different hour
+
     - eng: Is this time suitable for you?
       ru: Это время Вам подходит?
+      example: Is this time suitable for you to meet for coffee
+
     - eng: Israeli
       ru: израильтянин, израильтянка
+      example: The Israeli showed us around the old city of Jerusalem
+
     - eng: It can hardly be so.
       ru: Вряд ли это так.
+      example: You think he is guilty but it can hardly be so
+
     - eng: It doesn't prove a thing
       ru: Это ничего не доказывает
-    - eng: It doesn’t make any difference to me.
+      example: The evidence is weak and it does not prove a thing
+
+    - eng: It doesn't make any difference to me.
       ru: Для меня это не имеет никакого значения.
+      example: You can choose either option because it does not make any difference to me
+
     - eng: It embody the great history and wealth
       ru: Он олицетворяет великую историю и богатство
+      example: This museum collection embodies the great history and wealth of our nation
+
     - eng: It feels like it took you guys months to move in here
       ru: Такое чувство, что вам, ребята, потребовались месяцы, чтобы переехать сюда
+      example: It feels like it took you guys months to move in here and unpack everything
+
     - eng: It had almost ended in disaster
       ru: Это чуть не закончилось катастрофой
+      example: Our trip was exciting but it had almost ended in disaster during the storm
+
     - eng: It has an open plan.
       ru: У нее (у квартиры) свободная планировка.
+      example: The apartment is very spacious because it has an open plan design
+
     - eng: It is cold.
       ru: холодно
+      example: I need a jacket because it is cold outside today
+
     - eng: It is combined with butter and Worcestershire sauce.
       ru: Это блюдо сочетается с маслом и вустерширским соусом.
+      example: This sauce is delicious and it is combined with butter and Worcestershire sauce
+
     - eng: It is cool.
       ru: прохладно
+      example: The weather is pleasant because it is cool and breezy
+
     - eng: It is dangerous to be sincere unless you are also stupid. George Bernard Shaw.
       ru: Искренним быть не опасно, тем более если вы вдобавок глупы. Джордж Бернард Шоу.
+      example: George Bernard Shaw said it is dangerous to be sincere unless you are also stupid
+
     - eng: It is great event for everybody
       ru: Это великое событие для всех
+      example: The festival is a great event for everybody in the community
+
     - eng: It is hot.
       ru: жарко
+      example: Let us stay inside because it is hot outside today
+
     - eng: It is rainy.
       ru: Идет дождь.
+      example: I need an umbrella because it is rainy this morning
+
     - eng: It is snowy.
       ru: Идет снег.
+      example: It is snowy so please drive carefully on the roads
+
     - eng: It is sunny.
       ru: солнечно
+      example: It is sunny and warm perfect weather for a picnic
+
     - eng: It is windy.
       ru: ветрено
+      example: Hold onto your hat because it is windy today
+
     - eng: It made men docile
       ru: Это делало людей послушными
+      example: The strict rules made men docile and obedient to authority
+
     - eng: It makes things easier
       ru: Так проще.
+      example: Using a dishwasher makes things easier after a big dinner
+
     - eng: It means Luca Brasi sleeps with the fishes. Godfather.
       ru: Это значит, что Лука Брази кормит рыб на дне океана. Крестный отец.
+      example: The Godfather said it means Luca Brasi sleeps with the fishes
+
     - eng: It means fall down
       ru: Это означает падать вниз
+      example: The word descend means to fall down or go lower
+
     - eng: It means he'll moan during the night
       ru: Это значит, что он будет стонать всю ночь
+      example: If he takes that medicine it means he will moan during the night
+
     - eng: It never crossed my mind that we would find this treasure.
       ru: Мне никогда не приходило в голову, что мы найдем это сокровище.
+      example: It never crossed my mind that we would find this treasure in the old cave
+
     - eng: It never occurred to me to ask where she'd been.
       ru: Мне никогда не приходило в голову спросить, где она была.
+      example: It never occurred to me to ask where she had been all those years
+
     - eng: It seemed to glad her, anyway
       ru: Во всяком случае, это, казалось, обрадовало ее
+      example: I do not know why but it seemed to glad her anyway
+
     - eng: It seems appropriate
       ru: Это кажется уместным
+      example: Under the circumstances it seems appropriate to apologize
+
     - eng: It seems to me that what you lack is perseverance
       ru: Мне кажется, что вам не хватает настойчивости
+      example: It seems to me that what you lack is perseverance to finish what you start
+
     - eng: It sounded more like a demand than a request
       ru: Это прозвучало скорее как требование, чем просьба
+      example: When he spoke it sounded more like a demand than a request to me
+
     - eng: It was a boarding school for difficult children
       ru: Это была школа-интернат для трудных детей
     - eng: It was a toxin I had never come across before
