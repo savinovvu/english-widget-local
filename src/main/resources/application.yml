@@ -4793,212 +4793,416 @@ app.words:
 
     - eng: I have dug up a red beetroot
       ru: Я выкопал красную свеклу
+      example: This morning I have dug up a red beetroot from my vegetable garden
+
     - eng: I have high blood pressure
       ru: У меня высокое кровяное давление.
+      example: The doctor told me I have high blood pressure and need to reduce salt intake
+
     - eng: I have lost my passport.
       ru: Я потерял свой паспорт.
+      example: I have lost my passport and cannot board the flight without it
+
     - eng: I have no job satisfaction. I'm going to leave.
       ru: Моя работа не приносит удовлетворения. Я собираюсь уйти.
-    - eng: I have no job satisfaction. I'm going to leave.
-      ru: Моя работа не приносит удовлетворения. Я собираюсь уйти.
+      example: I have no job satisfaction. I'm going to leave and find something better
+
     - eng: I have no opinion on the matter.
       ru: У меня нет мнения по этому вопросу.
+      example: When asked about the debate, she said I have no opinion on the matter
+
     - eng: I have purchased many items on your site. Do you offer a discount?
       ru: Я купил много товаров на вашем сайте. Вы предоставляете скидку?
+      example: I have purchased many items on your site. Do you offer a discount for loyal customers?
+
     - eng: I have seen this film before
       ru: Я уже видел этот фильм раньше
+      example: I have seen this film before so I already know the ending
+
     - eng: I have things to do.
       ru: У меня дела.
+      example: I cannot join you for coffee because I have things to do at home
+
     - eng: I have to break out of here
       ru: Я должен вырваться отсюда
+      example: This place is driving me crazy and I have to break out of here tonight
+
     - eng: I haven't fully recovered yet.
       ru: Я еще полностью не выздоровела.
+      example: I am still coughing and I haven't fully recovered yet from the flu
+
     - eng: I haven't given it much thought.
       ru: Я пока еще не думал об этом.
+      example: The question caught me off guard and I haven't given it much thought
+
     - eng: I haven't played for a long time
       ru: Я уже давно не играл
+      example: My guitar is dusty because I haven't played for a long time
+
     - eng: I haven't seen you for ages!
       ru: Сколько лет, сколько зим!
+      example: I haven't seen you for ages since we graduated from college
+
     - eng: I heard on the radio today that they are finally going to start building the new hospital.
-      ru: Я слышал по радио, что они наконец- то собираются построить новую больницу.
+      ru: Я слышал по радио, что они наконец-то собираются построить новую больницу.
+      example: I heard on the radio today that they are finally going to start building the new hospital next spring
+
     - eng: I heard that you have a great story about...
       ru: Слышал, у Вас есть интересная история о...
+      example: I heard that you have a great story about your trip to Japan last year
+
     - eng: I heard you were floating around with this
       ru: Я слышал, ты ходил вокруг да около с этим
+      example: I heard you were floating around with this idea for months without taking action
+
     - eng: I hope you can get on with your conscience
       ru: я надеюсь, что ты сможешь поладить со своей совестью
+      example: After what you did, I hope you can get on with your conscience
+
     - eng: I hope, you won't come down with pneumonia.
       ru: Надеюсь, ты не сляжешь с пневмонией.
+      example: You are coughing badly and I hope you won't come down with pneumonia
+
     - eng: I just saw him pull up
       ru: Я только что видел, как он подъехал
+      example: I just saw him pull up in a black car outside the building
+
     - eng: I just throw away newspapers everyday
       ru: Я просто выбрасываю газеты каждый день
+      example: I just throw away newspapers everyday because I read them online
+
     - eng: I just wanted to tell you that..
       ru: Я лишь хотел сказать Вам, что..
+      example: I just wanted to tell you that your presentation was excellent
+
     - eng: I just wish my mouth had a backspace key. Anonymous.
       ru: Как я хочу, чтоб у моего рта была кнопка «backspace. Неизвестный автор.
+      example: After saying something stupid, I just wish my mouth had a backspace key
+
     - eng: I know that devilish grin of yours
       ru: Я знаю твою дьявольскую ухмылку
+      example: I know that devilish grin of yours and it means you are up to something
+
     - eng: I lay down to take a nap, please save me
       ru: Я прилег вздремнуть, пожалуйста, спаси меня
+      example: I lay down to take a nap, please save me from oversleeping and missing the meeting
+
     - eng: I left a wake up call for nine
       ru: я поставил будильник на девять
+      example: I left a wake up call for nine because I have an early flight
+
     - eng: I lie down and wait to die
       ru: Я ложусь и жду смерти
+      example: Exhausted from the illness, I lie down and wait to die in peace
+
     - eng: I like
       ru: мне нравится
+      example: I like the way you decorated your apartment
+
     - eng: I like sports
       ru: Я люблю спорт.
+      example: I like sports especially basketball and football
+
     - eng: I like sports.
       ru: Я люблю спорт.
+      example: I like sports because they keep me active and healthy
+
     - eng: I like the more contemporary stuff
       ru: Мне нравятся более современные вещи
+      example: When it comes to art, I like the more contemporary stuff rather than classical paintings
+
     - eng: I like to relax and contemplate in silence
       ru: Мне нравится расслабляться и созерцать в тишине
+      example: On weekends, I like to relax and contemplate in silence by the lake
+
     - eng: I like travelling
       ru: Я люблю путешествовать.
+      example: I like travelling to new countries and experiencing different cultures
+
     - eng: I like travelling.
       ru: Я люблю путешествовать.
+      example: I like travelling because it broadens my horizons
+
     - eng: I like your confidence and your passion
       ru: Мне нравится твоя уверенность и твоя страсть
+      example: I like your confidence and your passion for this project
+
     - eng: I like your music taste.
       ru: Мне нравится Ваш музыкальный вкус.
+      example: I like your music taste because you introduced me to great bands
+
     - eng: I like your musical taste
       ru: Мне нравится твой музыкальный вкус
+      example: I like your musical taste since we enjoy the same genres
+
     - eng: I like your musical taste.
       ru: Мне нравится Ваш музыкальный вкус.
+      example: I like your musical taste and I want to borrow some of your albums
+
     - eng: I listen to different kinds of music.
       ru: Я слушаю разную музыку.
+      example: I listen to different kinds of music from jazz to heavy metal
+
     - eng: I listen to different kinds of music.
       ru: Я слушаю очень разные виды музыки.
+      example: In my car, I listen to different kinds of music depending on my mood
+
     - eng: I love Mickey Mouse more than any woman I have ever known. Walt Disney.
-      ru: Я люблю Микки Мауса больше чем, любую женщину, которую я когда- либо знал. Уолт Дисней..
+      ru: Я люблю Микки Мауса больше чем, любую женщину, которую я когда-либо знал. Уолт Дисней..
+      example: Walt Disney once said I love Mickey Mouse more than any woman I have ever known
+
     - eng: I love doing my elevator circles. No, I'm not crazy!
       ru: Люблю ходить туда-сюда между лифтами, пытаясь угадать, какой из них приедет первым. Нет, я не сумасшедший!
+      example: I love doing my elevator circles trying to guess which door will open first
+
     - eng: I love herring under a fur coat
       ru: Я люблю селедку под шубой
+      example: At every Russian holiday party, I love herring under a fur coat salad
+
     - eng: I love meeting different people.
       ru: Мне нравится встречаться с разными людьми.
+      example: In my job as a flight attendant, I love meeting different people every day
+
     - eng: I love meeting different people.
       ru: Мне нравится встречаться с разными людьми.
+      example: I love meeting different people because everyone has a unique story
+
     - eng: I love my job.
       ru: Мне нравится моя работа.
+      example: I love my job because I get to help people every single day
+
     - eng: I love sunny-side up eggs with a piece of toast.
       ru: Я обожаю яичницу с кусочком тоста.
+      example: For breakfast, I love sunny-side up eggs with a piece of toast and coffee
+
     - eng: I love to inspire other people and get inspired by them
       ru: Я люблю вдохновлять других людей и получать от них вдохновение
+      example: As a teacher, I love to inspire other people and get inspired by them
+
     - eng: I love you. That'll be the ending of this under the words. Michael Jackson.
       ru: Я люблю тебя. Это будет финал под эти слова. Майкл Джексон
+      example: Michael Jackson sang I love you and that will be the ending of this song
+
     - eng: I made no reply
       ru: Я ничего не ответил
+      example: When he accused me of lying, I made no reply and just walked away
+
     - eng: I made you expose your faith
       ru: Я заставил тебя раскрыть свою веру
+      example: By asking those difficult questions, I made you expose your faith publicly
+
     - eng: I may take her away somewhere
       ru: Я могу увезти ее куда-нибудь
+      example: To surprise my wife, I may take her away somewhere for the weekend
+
     - eng: I meant only the best.
       ru: Я хотел только как лучше.
+      example: Even though I offended you, I meant only the best for your future
+
     - eng: I might expose my real feelings
       ru: Я мог бы раскрыть свои настоящие чувства
+      example: If you ask me directly, I might expose my real feelings about this situation
+
     - eng: I motivate my employees
       ru: Я мотивирую своих сотрудников
+      example: As a manager, I motivate my employees through recognition and rewards
+
     - eng: I must be off now
       ru: Мне пора идти
+      example: It is getting late so I must be off now to catch my train
+
     - eng: I must be up long before daylight
       ru: Я должен встать задолго до рассвета
+      example: Tomorrow I must be up long before daylight to finish my work
+
     - eng: I must have caught a cold.
       ru: Должно быть, я подхватила простуду.
+      example: My nose is runny and I must have caught a cold from someone at work
+
     - eng: I need a brush with double bristles.
       ru: Мне нужна расческа с двойными зубцами.
+      example: My hair is very thick and I need a brush with double bristles
+
     - eng: I need a brush with double bristles.
       ru: Мне нужна щетка с двойной щетиной.
+      example: For my curly hair, I need a brush with double bristles to detangle properly
+
     - eng: I need a cut and a color. Can you take me now?
       ru: Мне нужна стрижка и покраска. Вы можете принять меня сейчас?
+      example: My roots are showing and I need a cut and a color. Can you take me now?
+
     - eng: I need a cut and a color. Can you take me now?
       ru: Мне нужна стрижка и окрашивание. Вы можете принять меня сейчас?
+      example: I have a wedding tomorrow so I need a cut and a color. Can you take me now?
+
     - eng: I need a first aid kit or pills
       ru: Мне нужна аптечка первой помощи или таблетки
+      example: I cut my finger badly and I need a first aid kit or pills for the pain
+
     - eng: I need a shovel to go for mushrooms
       ru: Мне нужна лопата, чтобы сходить за грибами
+      example: The ground is hard and I need a shovel to go for mushrooms in the forest
+
     - eng: I need help.
       ru: Мне нужна помощь.
+      example: I cannot lift this box alone and I need help from someone stronger
+
     - eng: I need some time out.
       ru: Мне нужно отдохнуть.
+      example: After working twelve hours straight, I need some time out to recharge
+
     - eng: I need to go over the suppliers lists
       ru: Мне нужно перепроверить списки поставщиков
+      example: Before placing the order, I need to go over the suppliers lists carefully
+
     - eng: I need to go to the bank.
       ru: Мне нужно в банк.
+      example: I have no cash left and I need to go to the bank to withdraw money
+
     - eng: I need to put out fires, not start new ones
       ru: Мне нужно тушить пожары, а не разжигать новые
+      example: As a crisis manager, I need to put out fires, not start new ones
+
     - eng: I need to talk to the desk clerk.
       ru: Мне нужно поговорить с регистратором гостиницы.
+      example: There is a problem with my room and I need to talk to the desk clerk
+
     - eng: I need to talk to the desk clerk.
       ru: Мне нужно поговорить с регистратором гостиницы.
+      example: I lost my room key so I need to talk to the desk clerk for a replacement
+
     - eng: I never mind walking before work in the morning
       ru: Я никогда не возражаю против утренней прогулки перед работой
+      example: I never mind walking before work in the morning because it wakes me up
+
     - eng: I never wanted to be famous for being mean
       ru: Я никогда не хотел прославиться тем, что был подлым
+      example: I never wanted to be famous for being mean but for my talent instead
+
     - eng: I often miss having free time
       ru: Мне часто не хватает свободного времени
+      example: With three jobs, I often miss having free time to relax with friends
+
     - eng: I picked a great night to get lost in the woods
       ru: Я выбрал отличную ночь, чтобы заблудиться в лесу
+      example: It is raining heavily and I picked a great night to get lost in the woods
+
     - eng: I pulled into the shade and shut down the motor
       ru: Я съехал в тень и заглушил мотор
+      example: The sun was scorching so I pulled into the shade and shut down the motor
+
     - eng: I pulled up the window
       ru: Я поднял окно
+      example: It was getting cold so I pulled up the window to keep the warmth inside
+
     - eng: I pursue my dream of stardom
       ru: Я следую за своей мечтой о славе
+      example: Every day I pursue my dream of stardom by attending auditions
+
     - eng: I put in my papers
       ru: Я положил свои бумаги
+      example: I was so frustrated with my boss that I put in my papers yesterday
+
     - eng: I rarely complain about the annoying situations
       ru: Я редко жалуюсь на досадные ситуации
+      example: I rarely complain about the annoying situations because I try to stay positive
+
     - eng: I rather hope that will never come off
       ru: Я скорее надеюсь, что это никогда не произойдет
+      example: That plan sounds dangerous and I rather hope that will never come off
+
     - eng: I read in the paper today that the Mall in the city center is closing.
       ru: Я прочитал в газете, что супермаркет в центре города закрывается.
+      example: I read in the paper today that the Mall in the city center is closing next month
+
     - eng: I ready to turn it up
       ru: Я готов сделать это погромче
+      example: The music is too quiet and I am ready to turn it up loud
+
     - eng: I recall buying that fascinating thing
       ru: Я помню, как покупал эту очаровательную вещь
+      example: I recall buying that fascinating thing at a flea market in Paris
+
     - eng: I received the item isn't what I was expecting. What am I supposed to do?
       ru: Я получил не тот товар. Что же мне делать?
+      example: I received the item isn't what I was expecting. What am I supposed to do now?
+
     - eng: I reckon it's our bedtime
       ru: Я думаю, нам пора спать
+      example: The children are yawning so I reckon it is our bedtime
+
     - eng: I reckon she'll be late
       ru: Я думаю, она опоздает
+      example: Traffic is terrible so I reckon she will be late for the meeting
+
     - eng: I recollect playing a lot of games as a child
       ru: Я помню, как в детстве играл во множество игр
+      example: I recollect playing a lot of games as a child with my brothers
+
     - eng: I remember doing for two hours
       ru: Я помню, как занимался этим в течение двух часов
+      example: I remember doing that homework for two hours every night
+
     - eng: I remind
       ru: помнить
+      example: I remind myself every morning to be grateful for what I have
+
     - eng: I remind that you need to finish this by six in the evening
       ru: Я напоминаю, что вам нужно закончить это к шести вечера
+      example: I remind that you need to finish this by six in the evening today
+
     - eng: I replied, shrugging my shoulders
       ru: Ответил я, пожимая плечами
+      example: I replied, shrugging my shoulders because I did not know the answer
+
     - eng: I reported spending twelve hours on the job
       ru: Я сообщил, что потратил на работу двенадцать часов
+      example: I reported spending twelve hours on the job to justify the overtime pay
+
     - eng: I saw you take off
       ru: Я видел, как ты взлетел
+      example: From the control tower, I saw you take off smoothly
+
     - eng: I saw your advert on Gumtree.
       ru: Я увидел объявление на Gumtree.
+      example: I saw your advert on Gumtree and I am interested in the bicycle you are selling
+
     - eng: I see a disgruntled boss, his department failed to fulfill the plan
       ru: Я вижу недовольного босса, его отдел не выполнил план
+      example: I see a disgruntled boss because his department failed to fulfill the plan again
+
     - eng: I see a problem before it happens
       ru: Я вижу проблему до того, как она возникает
+      example: With my experience, I see a problem before it happens and can prevent it
+
     - eng: I see he let you out
       ru: Я вижу, он тебя выпустил
+      example: I see he let you out of the meeting early today
+
     - eng: I should defer replying by three pm
       ru: Я должен отложить ответ до трех часов дня
+      example: I should defer replying by three pm until I have all the information
+
     - eng: I stand by my reputation
       ru: Я отстаиваю свою репутацию
+      example: No matter what they say, I stand by my reputation as an honest person
+
     - eng: I stapled the order form to the invoice
-      ru: Я прикрепил бланк заказа к счету- фактуре
+      ru: Я прикрепил бланк заказа к счету-фактуре
+      example: I stapled the order form to the invoice before filing it away
+
     - eng: I start my shift at 8 a.m.
       ru: Моя смена начинается в восемь утра.
+      example: I start my shift at 8 a.m. so I have to wake up very early
+
     - eng: I start my shift at 8 a.m.
       ru: Моя смена начинается в восемь утра.
+      example: Every weekday I start my shift at 8 a.m. and finish at 5 p.m.
+
     - eng: I started working when I was threatened with dismissal
       ru: Я начал работать, когда мне пригрозили увольнением
+      example: I started working when I was threatened with dismissal by my angry supervisor
+
     - eng: I sucked a cough drop
       ru: Я пососал леденец от кашля
     - eng: I suggest doing this after lunch
