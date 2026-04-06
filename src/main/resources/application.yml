@@ -9797,208 +9797,412 @@ app.words:
 
     - eng: Sorry, I don't quite see what you mean. Could you be a bit more specific?
       ru: извините, я не вполне понимаю, что вы имеете в виду. не могли бы вы быть более конкретным?
+      example: Sorry I do not quite see what you mean could you be a bit more specific please
+
     - eng: Sorry, I don't understand. Could you explain what you mean?
       ru: извините, я не понимаю. не могли бы вы объяснить, что вы имеете в виду?
+      example: Sorry I do not understand could you explain what you mean in simple terms
+
     - eng: Sorry, I meant well
       ru: Извини, я хотел как лучше
+      example: I did not intend to hurt you so sorry I meant well
+
     - eng: Sorry, I miss that. Could you say it again?
       ru: Извините, я пропустил это. Повторите еще раз.
+      example: Sorry I missed that could you say it again please
+
     - eng: Sorry, I'm not with you. Could you go over that again?
       ru: Извините, я не с вами. Могли бы мы обсудить это еще раз.
+      example: Sorry I am not with you could you go over that again more slowly
+
     - eng: Sorry, we can't cash your cheque.
       ru: Извините, мы не можем обналичить ваш чек.
+      example: Sorry we cannot cash your cheque because the account has insufficient funds
+
     - eng: Sorry, we only ship within the United States; we do not ship internationally.
       ru: К сожалению мы отправляем товары только в США. Мы не занимаемся международной доставкой.
+      example: Sorry we only ship within the United States and we do not ship internationally
+
     - eng: Sorting Hat
       ru: Распределяющая Шляпа
+      example: In Harry Potter the Sorting Hat decides which house each student belongs to
+
     - eng: Sour cream
       ru: сметана
+      example: I added a dollop of sour cream to my baked potato
+
     - eng: South China Sea
       ru: Южно-Китайское море
+      example: The South China Sea is a major shipping route for global trade
+
     - eng: South Korean
       ru: южнокореец, южнокореянка
+      example: The South Korean showed us around Seoul the capital city
+
     - eng: Southern Ocean
       ru: Южный океан
+      example: The Southern Ocean surrounds Antarctica and is the fourth largest ocean
+
     - eng: Soy beans
       ru: соевые бобы
+      example: Soy beans are used to make tofu soy milk and many other products
+
     - eng: Spain – Kingdom of Spain
       ru: испания, королевство испания
+      example: Spain is famous for its flamenco dancing bullfights and paella
+
     - eng: Spaniard
       ru: испанец, испанка
+      example: The Spaniard taught us how to make authentic tortilla espanola
+
     - eng: Spaniard or the Spanish
       ru: испанец, испанка, испанцы
+      example: The Spanish are known for their late dinners and lively festivals
+
     - eng: Sparkly
       ru: сверкающий
+      example: She wore a sparkly dress that caught everyone's attention
+
     - eng: Speak fair and think what you like. Proverb.
       ru: Разговаривай вежливо, а думай, что хочешь. Пословица.
+      example: The old proverb says speak fair and think what you like in private
+
     - eng: Spencer Gulf
       ru: залив Спенсер
+      example: The Spencer Gulf is located in South Australia near the city of Port Augusta
+
     - eng: Spoon the custard on top
       ru: Ложкой выложите сверху заварной крем
+      example: Spoon the custard on top of the cake before serving
+
     - eng: Squeeze up a little and let me, in please.
       ru: Потеснитесь немного и дайте мне войти, пожалуйста.
+      example: The bus is crowded so squeeze up a little and let me in please
+
     - eng: Sri Lanka – Democratic Socialist Republic of Sri Lanka
       ru: Шри-Ланка, Демократическая Социалистическая Республика Шри- Ланка
+      example: Sri Lanka is an island nation off the southern coast of India
+
     - eng: Sri Lankan
       ru: житель Шри-Ланки
+      example: The Sri Lankan offered us fresh coconut water on the beach
+
     - eng: Statehood
       ru: статус государства
+      example: Many territories have fought for statehood over the years
+
     - eng: Stationery/stationer's
       ru: канцтовары
+      example: I need to buy notebooks and pens at the stationery shop
+
     - eng: Steam Engine
       ru: паровой двигатель
+      example: The steam engine revolutionized transportation during the Industrial Revolution
+
     - eng: Sticking feathers up your butt does not make you a chicken. Tyler Durden, The Fight Club.
       ru: Сколько перья не цепляй — цыплёнком не станешь. Тайлер Дёрден, Бойцовский клуб.
+      example: Tyler Durden said sticking feathers up your butt does not make you a chicken
+
     - eng: Stop drooling
       ru: Перестань пускать слюни
+      example: Stop drooling over that expensive car you cannot afford it
+
     - eng: Stop whining or I'll put you out of your misery
       ru: Перестань ныть, или я избавлю тебя от страданий
+      example: Stop whining or I will put you out of your misery said the annoyed parent
+
     - eng: Store the most valuable things in a safety deposit box!
       ru: Храни самые ценные вещи в сейфовой ячейке!
+      example: Store the most valuable things in a safety deposit box at the bank
+
     - eng: Stupid is as stupid does. Forrest Gump.
       ru: Дурака видно по делам. Форрест Гамп.
+      example: Forrest Gump famously said stupid is as stupid does
+
     - eng: Sucre
       ru: Сукре
+      example: Sucre is the constitutional capital of Bolivia
+
     - eng: Suit yourself, but I've got a work to do and I won't go to Paris.
       ru: Воля ваша, но мне нужно кое-что сделать, и в Париж я не поеду.
+      example: Suit yourself but I have got work to do and I will not go to Paris
+
     - eng: Suite room
       ru: номер "люкс"
+      example: The hotel upgraded us to a suite room with a separate living area
+
     - eng: Sulu Sea
       ru: море Сулу
+      example: The Sulu Sea is located between the Philippines and Malaysia
+
     - eng: Sunday
       ru: воскресенье
+      example: Sunday is the day of the week when many people rest and relax
+
     - eng: Surely he wouldn't refuse, would he
       ru: Конечно, он бы не отказался, не так ли
+      example: He loves helping people so surely he would not refuse would he
+
     - eng: Surely you can see that?
       ru: Вы конечно же это понимаете?
+      example: The answer is obvious so surely you can see that
+
     - eng: Surely you can see that?
       ru: Неужели ты не понимаешь?
+      example: Surely you can see that this plan will never work
+
     - eng: Surely you saw them
       ru: Неужели ты их не видел?
+      example: They were standing right in front of you so surely you saw them
+
     - eng: Surinamese
       ru: житель Суринама
+      example: The Surinamese told us about the diverse cultures in his country
+
     - eng: Suva
       ru: Сува
+      example: Suva is the capital of Fiji located on the island of Viti Levu
+
     - eng: Swazi
       ru: свази
+      example: The Swazi people are known for their colorful traditional ceremonies
+
     - eng: Swaziland – Kingdom of Swaziland
       ru: свазиленд, королевство свазиленд
+      example: Swaziland is a small landlocked country in southern Africa now called Eswatini
+
     - eng: Sweden – Kingdom of Sweden
       ru: швеция, королевство швеция
+      example: Sweden is known for its beautiful archipelagos and innovative design
+
     - eng: Swiss
       ru: швейцарец, швейцарка
+      example: The Swiss are famous for their chocolate cheese and watches
+
     - eng: Swiss cheese
       ru: швейцарский сыр
+      example: Swiss cheese is known for its distinctive holes and mild flavor
+
     - eng: Switch off the torch
       ru: выключи фонарь
+      example: It is daylight now so switch off the torch to save the batteries
+
     - eng: Switzerland – Swiss Confederation
       ru: швейцария, швейцарская конфедерация
+      example: Switzerland is a neutral country famous for its Alps and banking system
+
     - eng: Syracuse
       ru: Сиракузы
+      example: Syracuse is a historic city on the island of Sicily in Italy
+
     - eng: Syrian
       ru: сириец, сирийка
+      example: The Syrian showed us the ancient ruins of Palmyra
+
     - eng: São Tomé and Príncipe – Democratic Republic of São Tomé and Príncipe
       ru: Сан-Томе и Принсипи, Демократическая Республика Сан- Томе и Принсипи
+      example: Sao Tome and Principe is a small island nation off the coast of West Africa
+
     - eng: T-bills
       ru: казначейский вексель
+      example: T bills are short term government securities considered very safe
+
     - eng: T-shirt
       ru: футболка; тенниска
+      example: He wore a simple white T shirt and blue jeans to the party
+
     - eng: THE NATO
       ru: НАТО
+      example: NATO is a military alliance of North American and European countries
+
     - eng: TRICK-OR-TREAT
       ru: угощение или шалость
+      example: On Halloween children go door to door shouting trick or treat
+
     - eng: TV
       ru: телевизор
+      example: I watch the news on TV every evening before dinner
+
     - eng: TV is sure trying to trivialize marriage
       ru: Телевидение, несомненно, пытается опошлить брак
+      example: TV is sure trying to trivialize marriage with all those reality shows
+
     - eng: TV men
       ru: телевизионщики
+      example: The TV men arrived early to set up the cameras for the broadcast
+
     - eng: TV nowadays is much more entertaining
       ru: Телевидение в наши дни гораздо интереснее
+      example: TV nowadays is much more entertaining than it was twenty years ago
+
     - eng: TV set
       ru: телевизор
+      example: The old TV set in the basement still works perfectly
+
     - eng: Tagus
       ru: Тахо
+      example: The Tagus River flows through Spain and Portugal into the Atlantic
+
     - eng: Tajik
       ru: таджик, таджичка
+      example: The Tajik taught us a few words of the Persian language
+
     - eng: Tajik or Tadzhik
       ru: таджик, таджичка
+      example: The Tajik or Tadzhik people have a rich cultural heritage
+
     - eng: Take a seat
       ru: сесть
+      example: Please come in and take a seat while you wait for the doctor
+
     - eng: Take him up to surgery.
       ru: Везите его в хирургию.
+      example: The patient is ready so take him up to surgery immediately
+
     - eng: Take it easy
       ru: не волнуйтесь, не бери в голову, успокойся
+      example: You have been working too hard so take it easy for a few days
+
     - eng: Take part
       ru: принимать участие
+      example: Everyone is encouraged to take part in the charity run
+
     - eng: Take what you can; give nothing in return. Jack Sparrow, Pirates of the Carribean.
       ru: Бери все, что сможешь; и ничего не давай взамен. Джек Воробей, Пираты Карибского моря.
+      example: Jack Sparrow said take what you can and give nothing in return
+
     - eng: Take your time
       ru: Не торопитесь
+      example: There is no rush so take your time to finish the exam
+
     - eng: Tallinn
       ru: Таллин
+      example: Tallinn is the capital of Estonia known for its medieval old town
+
     - eng: Tanzanian
       ru: житель Танзании
+      example: The Tanzanian guided us through the Serengeti National Park
+
     - eng: Tap water
       ru: водопроводная вода
+      example: Is it safe to drink the tap water in this city
+
     - eng: Tashkent
       ru: Ташкент
+      example: Tashkent is the capital of Uzbekistan in Central Asia
+
     - eng: Tasman Sea
       ru: Тасманово море
+      example: The Tasman Sea lies between Australia and New Zealand
+
     - eng: Taurus
       ru: телец
+      example: Taurus is the second sign of the zodiac represented by a bull
+
     - eng: Tbilisi
       ru: Тбилиси
+      example: Tbilisi is the capital of Georgia known for its sulfur baths
+
     - eng: Teachers open the door, but you must enter by yourself. Chinese proverb.
       ru: Учителя только открывают двери, дальше вы идете сами. Китайская пословица.
+      example: The Chinese proverb says teachers open the door but you must enter by yourself
+
     - eng: Tegucigalpa
       ru: Тегусигальпа
+      example: Tegucigalpa is the capital of Honduras in Central America
+
     - eng: Tehran
       ru: Тегеран
+      example: Tehran is the capital of Iran located at the foot of the Alborz mountains
+
     - eng: Telescopium
       ru: Телескоп
+      example: Telescopium is a small southern constellation named after the telescope
+
     - eng: Tell him whatever you want, I don't give a shit.
       ru: Можешь говорить ему все, что угодно — мне до лампочки.
+      example: Tell him whatever you want because I do not give a shit about his opinion
+
     - eng: Tell me more about that.
       ru: Расскажи мне поподробнее.
+      example: Your story sounds interesting so tell me more about that
+
     - eng: Tell me whether you are satified
       ru: Скажи мне, довольна ли ты
+      example: After the meal please tell me whether you are satisfied
+
     - eng: Tell me why you are so sad
       ru: Скажи мне, почему ты так грустна
+      example: I can see tears in your eyes so tell me why you are so sad
+
     - eng: Tend to your own affairs.
       ru: Лучше займись своими делами. / Не лезь не в свое дело.
+      example: Stop gossiping about others and tend to your own affairs
+
     - eng: Texas holdem
       ru: техасский холдем
+      example: Texas holdem is the most popular form of poker played worldwide
+
     - eng: Thai
       ru: таец, тайка
+      example: The Thai taught us how to make green curry paste from scratch
+
     - eng: Thailand – Kingdom of Thailand
       ru: таиланд, королевство таиланд
+      example: Thailand is known for its beautiful beaches temples and delicious food
+
     - eng: Than
       ru: чем
+      example: She is taller than her brother even though she is younger
+
     - eng: Thank you for payment.
       ru: Спасибо за оплату.
+      example: Thank you for payment your order will be shipped tomorrow
+
     - eng: Thank you for your compliment.
       ru: Спасибо за комплимент!
+      example: Thank you for your compliment about my presentation it means a lot
+
     - eng: Thank you for your compliment.
       ru: Спасибо за комплимент.
+      example: Thank you for your compliment on my new haircut
+
     - eng: Thank you in advance
       ru: Заранее спасибо
+      example: I appreciate your help and thank you in advance
+
     - eng: Thank you very much
       ru: большое спасибо
+      example: Thank you very much for your generous gift
+
     - eng: Thanks for inviting me to interview
       ru: Спасибо, что пригласили меня на собеседование
+      example: Thanks for inviting me to interview for this position at your company
+
     - eng: Thanks so much for...
       ru: Большое спасибо за...
+      example: Thanks so much for helping me move all this furniture
+
     - eng: Thanksgiving
       ru: день благодарения
+      example: Thanksgiving is celebrated in the United States on the fourth Thursday of November
+
     - eng: That can't be right
       ru: Это не может быть правдой.
+      example: You say he is only twenty years old but that cannot be right
+
     - eng: That can't be right.
       ru: это не может быть правдой.
+      example: The total is one hundred dollars but that cannot be right I only bought two items
+
     - eng: That doesn't sound right to me.
       ru: Это звучит неправдоподобно для меня
+      example: He said he finished in ten minutes but that does not sound right to me
+
     - eng: That is nothing to him
       ru: для него это ничего не значит
+      example: Losing a hundred dollars is nothing to him because he is very rich
+
     - eng: That shouldn't be too much of a problem.
       ru: Это не должно быть слишком большой проблемой.
     - eng: That sounds fantastic!
