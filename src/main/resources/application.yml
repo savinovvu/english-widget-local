@@ -60002,1052 +60002,2100 @@ app.words:
 
     - eng: she's training to be a paramedic
       ru: она учится на парамедика
+      example: She's training to be a paramedic and works on an ambulance.
+
     - eng: she's wearing braces
       ru: она носит брекеты
+      example: She's wearing braces to straighten her teeth.
+
     - eng: she-goat
       ru: коза
+      example: The she-goat gave birth to two kids.
+
     - eng: shear
       ru: сдвиг
+      example: The shear stress deformed the material.
+
     - eng: shear force
-      ru: Поперечная сила
+      ru: поперечная сила
+      example: The shear force at the beam's end is zero.
+
     - eng: shear, sheared, shorn/sheared
       ru: стричь, резать
+      example: The farmer sheared the sheep.
+
     - eng: shed, shed, shed
       ru: проливать
+      example: The tree sheds its leaves in autumn.
+
     - eng: sheep
       ru: овца
+      example: The sheep grazed in the field.
+
     - eng: sheep
       ru: овца
+      example: A flock of sheep crossed the road.
+
     - eng: sheep-dog
       ru: овчарка
+      example: The sheep-dog herded the flock.
+
     - eng: sheet
       ru: простыня
+      example: Change the sheet on the bed.
+
     - eng: sheet wadding
       ru: ватин
+      example: The sheet wadding is used for quilting.
+
     - eng: shelf
       ru: полка
+      example: Put the book on the shelf.
+
     - eng: shell
       ru: оболочка
+      example: The turtle hid in its shell.
+
     - eng: shelter
       ru: бомбоубежище
+      example: They took shelter from the storm.
+
     - eng: shepherd
       ru: пастух
+      example: The shepherd led his sheep.
+
     - eng: shift
       ru: смещать; смещение; перемещать
+      example: Shift the gear to drive.
+
     - eng: shift your ground
       ru: поменять точку зрения
+      example: He shifted his ground after hearing new evidence.
+
     - eng: shifty eyes
       ru: бегающие глазки
+      example: The suspect had shifty eyes.
+
     - eng: shiism
       ru: шиизм
+      example: Shiism is a branch of Islam.
+
     - eng: shimmering effect
       ru: эффект мерцания
+      example: The shimmering effect of the heat haze was visible.
+
     - eng: shin
       ru: голень
+      example: He kicked his shin on the table.
+
     - eng: shine
       ru: сиять; светить
+      example: The sun shines brightly.
+
     - eng: shine, shined, shined
       ru: светить, сиять
+      example: He shined his shoes.
+
     - eng: shine, shone, shone
       ru: светить, сиять
+      example: The moon shone through the window.
+
     - eng: shingle
       ru: галька
+      example: The beach was covered with shingle.
+
     - eng: ship
       ru: судно; корабль
+      example: The ship sailed across the ocean.
+
     - eng: shipping
-      ru: отгрузка; Судоходство
+      ru: отгрузка; судоходство
+      example: The shipping of goods takes time.
+
     - eng: shirt
       ru: рубашка
+      example: He wore a white shirt.
+
     - eng: shit
       ru: вздор
+      example: That's a bunch of shit.
+
     - eng: shock
       ru: ударная волна; удар
+      example: The shock from the explosion was felt miles away.
+
     - eng: shock-absorber
       ru: амортизатор
+      example: The car's shock-absorbers need replacing.
+
     - eng: shocked by
       ru: шокированный чем-либо
+      example: I was shocked by the news.
+
     - eng: shockwaves
       ru: ударные волны
+      example: The explosion sent shockwaves through the building.
+
     - eng: shoe
       ru: туфля; башмак
+      example: Put your left shoe on.
+
     - eng: shoe lace
       ru: шнурок
+      example: Tie your shoe laces.
+
     - eng: shoe repair
       ru: ремонт обуви
+      example: Take your boots for shoe repair.
+
     - eng: shoe shod shod
       ru: обувать, подковывать
+      example: The blacksmith shod the horse.
+
     - eng: shoe shop
       ru: обувной
+      example: Buy sandals at the shoe shop.
+
     - eng: shoe shop
       ru: обувной
+      example: The shoe shop is having a sale.
+
     - eng: shoemaker
       ru: сапожник
+      example: The shoemaker repaired my soles.
+
     - eng: shoes
       ru: обувь
+      example: I need new shoes.
+
     - eng: shogun
       ru: сёгун
+      example: The shogun ruled Japan in feudal times.
+
     - eng: shogunate
       ru: сёгунат
+      example: The shogunate ended in the nineteenth century.
+
     - eng: shoot
       ru: снимать фильм; стрелять; совершить бросок
+      example: He will shoot the scene tomorrow.
+
     - eng: shoot when I give the command
       ru: стреляйте, когда я дам команду
+      example: Shoot when I give the command, not before.
+
     - eng: shoot, shot, shot
       ru: стрелять
+      example: He shot the arrow at the target.
+
     - eng: shooting
       ru: съёмка; стрельба
+      example: The shooting of the film took three months.
+
     - eng: shooting guard
       ru: подвижный защитник, умеющий пройти под кольцо или бросить издалека
+      example: The shooting guard scored 20 points.
+
     - eng: shooting point
       ru: точка съёмки
+      example: Find a good shooting point for the photo.
+
     - eng: shootout
       ru: навылет
+      example: The match was decided by a shootout.
+
     - eng: shop
       ru: универмаг; магазин
+      example: I went to the shop to buy milk.
+
     - eng: shop assistant
       ru: продавец
+      example: The shop assistant helped me find a shirt.
+
     - eng: shoplift
       ru: красть в магазине с открытых прилавков, выносить товар неоплаченным
+      example: He tried to shoplift a candy bar.
+
     - eng: shoplifting
       ru: магазинная кража
+      example: Shoplifting is a crime.
+
     - eng: shopping
       ru: делать покупки
+      example: I enjoy shopping on weekends.
+
     - eng: shopping district
       ru: торговый район
+      example: The shopping district is busy on Saturday.
+
     - eng: shopping mall
       ru: торговый центр
+      example: We spent the afternoon at the shopping mall.
+
     - eng: shore
       ru: берег
+      example: The waves crashed on the shore.
+
     - eng: short
       ru: короткий
+      example: The pencil is short.
+
     - eng: short circuit
       ru: короткое замыкание
+      example: The short circuit caused a fire.
+
     - eng: short distance
       ru: короткая дистанция
+      example: He ran a short distance to the bus stop.
+
     - eng: short film
       ru: короткометражный фильм
+      example: The short film won an award.
+
     - eng: short stories
       ru: рассказы
+      example: She writes short stories for a magazine.
+
     - eng: short story
       ru: короткий рассказ
+      example: The short story was very moving.
+
     - eng: short term
       ru: краткосрочный период
+      example: In the short term, we need to cut costs.
+
     - eng: short track
       ru: шорт-трек
+      example: Short track speed skating is exciting.
+
     - eng: short-handed game
       ru: игра с малым количеством участников
+      example: They played a short-handed game with only six players.
+
     - eng: short-term capital
       ru: краткосрочный капитал
+      example: Short-term capital is invested for less than a year.
+
     - eng: short-term liquidity
       ru: краткосрочная ликвидность
+      example: The company's short-term liquidity is strong.
+
     - eng: shortage
       ru: дефицит
+      example: There is a shortage of water.
+
     - eng: shortcake
-      ru: слоёный торт с фруктовой начинкой; песочное печенье,
+      ru: слоёный торт с фруктовой начинкой; песочное печенье
+      example: Strawberry shortcake is delicious.
+
     - eng: shortly
       ru: скоро
+      example: The train will arrive shortly.
+
     - eng: shorts
       ru: шорты
+      example: He wore shorts because it was hot.
+
     - eng: shot clock
-      ru: Бросок
+      ru: бросок
+      example: The shot clock expired before he could shoot.
+
     - eng: shot put
       ru: толкание ядра
+      example: He won the shot put competition.
+
     - eng: should
       ru: нужно; должен
+      example: You should see a doctor.
+
     - eng: shoulder
       ru: плечо
+      example: He carried the bag on his shoulder.
+
     - eng: shoulder bikeway
       ru: тип велодорожки, когда велосипедисты едут по асфальтированной обочине
+      example: The shoulder bikeway is separated from traffic.
+
     - eng: shoulder strap
       ru: бретелька
+      example: The dress has thin shoulder straps.
+
     - eng: shout
       ru: кричать
+      example: Do not shout at me.
+
     - eng: show
       ru: показывать
+      example: Show me your ticket.
+
     - eng: show of hands
       ru: голосование поднятием рук
+      example: The decision was made by a show of hands.
+
     - eng: show off
       ru: хвастаться
+      example: He likes to show off his new car.
+
     - eng: show somebody to something
       ru: провожать кого-либо к чему-либо
+      example: The usher showed us to our seats.
+
     - eng: show someone around
       ru: показать кому-то окрестности
+      example: Let me show you around the city.
+
     - eng: show the ropes
       ru: ввести в курс дела
+      example: The trainer showed the new employee the ropes.
+
     - eng: show up
       ru: появляться, приходить
+      example: He did not show up for the meeting.
+
     - eng: show, showed, showed
       ru: показывать
+      example: She showed me her photos.
+
     - eng: show, showed, shown
       ru: показывать
+      example: The data has shown a trend.
+
     - eng: show, showed, shown/showed
       ru: показывать
+      example: They have shown their support.
+
     - eng: showdown
       ru: раскрытие карт
+      example: The final showdown was intense.
+
     - eng: shower
       ru: ливень
+      example: A shower of rain cooled the air.
+
     - eng: shrimp
       ru: креветка
+      example: Shrimp are small shellfish.
+
     - eng: shrimp cocktail
       ru: коктейль из креветок
+      example: We ordered shrimp cocktail as an appetizer.
+
     - eng: shrine
       ru: рака
+      example: The shrine contains holy relics.
+
     - eng: shrink, shrank, shrunk
       ru: сжиматься
+      example: The sweater shrank in the wash.
+
     - eng: shrink, shrank, shrunk/shrunken
       ru: сжиматься
+      example: The fabric has shrunk.
+
     - eng: shut
       ru: закрывать
+      example: Shut the door quietly.
+
     - eng: shut down
       ru: закрыть, прикрыть, выключить, отключить
+      example: The factory was shut down.
+
     - eng: shut out
       ru: выдавить
+      example: The team shut out their opponents.
+
     - eng: shut up
-      ru: заставить замолчать; Заткнись! (Замолчи)
+      ru: заставить замолчать; заткнись! (замолчи)
+      example: Shut up and listen.
+
     - eng: shut, shut, shut
       ru: закрывать, затворять
+      example: He shut the window.
+
     - eng: shutter
       ru: затвор
+      example: The camera shutter clicked.
+
     - eng: shutter priority
       ru: приоритет выдержки
+      example: Use shutter priority mode to freeze motion.
+
     - eng: shutter release button
       ru: спусковой механизм
+      example: Press the shutter release button gently.
+
     - eng: shuttle
       ru: шаттл
+      example: The space shuttle launched.
+
     - eng: shy
       ru: застенчивый; робкий
+      example: The shy child hid behind his mother.
+
     - eng: sibling
       ru: брат или сестра
+      example: I have two siblings.
+
     - eng: sick
       ru: больной
+      example: She is sick with the flu.
+
     - eng: sick leave
       ru: отпуск по болезни
+      example: He took sick leave for a week.
+
     - eng: sick of
       ru: надоело, тошнит от чего-то кого-то
+      example: I am sick of this weather.
+
     - eng: sickness
       ru: тошнота
+      example: Motion sickness affects some people.
+
     - eng: side
-      ru: Бок; сторона
+      ru: бок; сторона
+      example: The right side of the road.
+
     - eng: side dish
       ru: гарнир
+      example: French fries are a side dish.
+
     - eng: side dish
       ru: гарнир
+      example: The meal came with a side dish of vegetables.
+
     - eng: side effects
       ru: побочные эффекты
+      example: The medication has side effects.
+
     - eng: side order
       ru: гарнир
+      example: I ordered a side order of salad.
+
     - eng: side pot
       ru: побочный банк
+      example: The side pot went to the player with the best hand.
+
     - eng: side somersault
       ru: сальто боком
+      example: The gymnast performed a side somersault.
+
     - eng: side window
       ru: иллюминатор
+      example: The side window of the plane was small.
+
     - eng: side with someone
       ru: быть на чьей-то стороне
+      example: I side with you on this issue.
+
     - eng: side-effect
       ru: побочное действие
+      example: Drowsiness is a side-effect of the drug.
+
     - eng: sideboard
       ru: сервант
+      example: The dishes are in the sideboard.
+
     - eng: sideburn
       ru: бакенбарды
+      example: He has long sideburns.
+
     - eng: sidewalk
       ru: тротуар
+      example: Walk on the sidewalk, not the road.
+
     - eng: siege
       ru: осада
+      example: The siege of the castle lasted a year.
+
     - eng: sienna
       ru: сиена
+      example: The artist used burnt sienna paint.
+
     - eng: sieve
       ru: сито
+      example: Sift the flour through a sieve.
+
     - eng: sigh
       ru: вздыхать
+      example: He sighed with relief.
+
     - eng: sight
       ru: вид; зрение
+      example: The sight of the ocean was beautiful.
+
     - eng: sightseeing
       ru: осмотр достопримечательностей
+      example: We went sightseeing in Paris.
+
     - eng: sign
       ru: знак
+      example: The sign said Stop.
+
     - eng: sign here, please
-      ru: Подпишите здесь, пожалуйста.
+      ru: подпишите здесь, пожалуйста
+      example: Sign here, please, at the bottom of the page.
+
     - eng: sign in
       ru: войти, зарегистрироваться
+      example: Please sign in at the front desk.
+
     - eng: sign on the dotted line
       ru: окончательно согласиться
+      example: Just sign on the dotted line and the car is yours.
+
     - eng: sign this non-disclosure agreement
       ru: подпишите настоящее соглашение о неразглашении
+      example: Please sign this non-disclosure agreement before we proceed.
+
     - eng: signal
       ru: сигнал
+      example: The traffic signal turned red.
+
     - eng: signal strength
       ru: сила сигнала
+      example: The signal strength on my phone is low.
+
     - eng: signature
       ru: подпись
+      example: Put your signature here.
+
     - eng: signet ring
       ru: кольцо с печаткой
+      example: He wore a gold signet ring.
+
     - eng: significant
       ru: значительный
+      example: There was a significant increase in sales.
+
     - eng: silence
       ru: тишина
+      example: Silence filled the room.
+
     - eng: silent
       ru: тихий; молчаливый
+      example: He is a silent person.
+
     - eng: silhouette
       ru: силуэт
+      example: The silhouette of the trees was black.
+
     - eng: silicate
       ru: силикат
+      example: Silicates are common minerals.
+
     - eng: silicates
-      ru: силикат
+      ru: силикаты
+      example: Most rocks contain silicates.
+
     - eng: silicic
       ru: кремниевый
+      example: Silicic acid is a weak acid.
+
     - eng: silk
       ru: шёлковый
+      example: The dress is made of silk.
+
     - eng: silly
       ru: глупый
+      example: That was a silly mistake.
+
     - eng: siltstone
       ru: алеврит
+      example: Siltstone is a sedimentary rock.
+
     - eng: silver
       ru: серебряный
+      example: She wore a silver necklace.
+
     - eng: silver fir
       ru: пихта
+      example: The silver fir is an evergreen tree.
+
     - eng: silver maple
       ru: серебристый клён
+      example: The silver maple has silvery leaves.
+
     - eng: silver wedding
       ru: серебряная свадьба
+      example: They celebrated their silver wedding anniversary.
+
     - eng: similar
       ru: подобный
+      example: Our coats are similar.
+
     - eng: similar triangles
       ru: аналогичные треугольники
+      example: Similar triangles have the same shape.
+
     - eng: simple
       ru: несложный; простой
+      example: The answer is simple.
+
     - eng: simple interest
       ru: простые проценты
+      example: Simple interest is calculated on the principal only.
+
     - eng: simply
       ru: легко; просто
+      example: It is simply not true.
+
     - eng: sin
       ru: грех
+      example: Lying is a sin.
+
     - eng: since
       ru: с тех пор
+      example: I have been here since Monday.
+
     - eng: sing
       ru: петь
+      example: She sings beautifully.
+
     - eng: sing, sang, sung
       ru: петь
+      example: He sang a song.
+
     - eng: singapore
-      ru: Сингапур
+      ru: сингапур
+      example: Singapore is a city-state.
+
     - eng: singer
       ru: певец
+      example: The singer performed on stage.
+
     - eng: singing
       ru: пение
+      example: Singing is her passion.
+
     - eng: singing bird
       ru: певчая птица
+      example: The singing bird woke me up.
+
     - eng: single
       ru: каждый; единственный; один
+      example: A single rose lay on the table.
+
     - eng: single bed
       ru: односпальная кровать
+      example: The room has a single bed.
+
     - eng: single bond
       ru: одинарная связь
+      example: A single bond shares one pair of electrons.
+
     - eng: single class configuration
       ru: одноклассовая компоновка
+      example: The airplane has a single class configuration.
+
     - eng: single room
       ru: одноместный номер
+      example: I booked a single room.
+
     - eng: single-step
       ru: одношажный ход
+      example: The skier used a single-step technique.
+
     - eng: sink
       ru: раковина
+      example: Wash your hands in the sink.
+
     - eng: sink (sank, sunk)
       ru: погружаться, опускаться
+      example: The ship sank in the ocean.
+
     - eng: sinner
       ru: грешник
+      example: The sinner asked for forgiveness.
+
     - eng: sir
       ru: сэр
+      example: Yes, sir.
+
     - eng: siskin
-      ru: Чиж
+      ru: чиж
+      example: The siskin is a small finch.
+
     - eng: sister
       ru: сестра
+      example: My sister is older than me.
+
     - eng: sister-in-law
       ru: свояченица; невестка
+      example: My sister-in-law is visiting us.
+
     - eng: sistrum
       ru: систр
+      example: The priestess shook the sistrum.
+
     - eng: sit
       ru: сидеть
+      example: Please sit down.
+
     - eng: sit back
       ru: откинуться назад/на спинку сиденья
+      example: Sit back and relax.
+
     - eng: sit down
       ru: садиться, усаживаться, занимать место
+      example: Let us sit down for dinner.
+
     - eng: sit, sat, sat
       ru: сидеть
+      example: She sat on the chair.
+
     - eng: sitting
       ru: заседание
+      example: The sitting of parliament lasted all day.
+
     - eng: sitting-room
       ru: гостиная
+      example: The sitting-room is cosy.
+
     - eng: situation
       ru: ситуация
+      example: The situation is under control.
+
     - eng: six
-      ru: шесть; шeсть
+      ru: шесть
+      example: There are six chairs.
+
     - eng: sixteen
       ru: шестнадцать
+      example: She is sixteen years old.
+
     - eng: sixteenth
       ru: шестнадцатый
+      example: Today is the sixteenth.
+
     - eng: sixth
       ru: шестой
+      example: He finished in sixth place.
+
     - eng: sixth street
       ru: шестая улица
+      example: Turn onto Sixth Street.
+
     - eng: sixtieth
       ru: шестидесятый
+      example: He celebrated his sixtieth birthday.
+
     - eng: sixty
       ru: шестьдесят
+      example: Sixty seconds in a minute.
+
     - eng: size
       ru: размер
+      example: What size shoes do you wear?
+
     - eng: skate
       ru: кататься на коньках
+      example: Children skate on the frozen pond.
+
     - eng: skateboarding
       ru: катание на скейтборде
+      example: Skateboarding is popular among teenagers.
+
     - eng: skating
-      ru: Катание на коньках
+      ru: катание на коньках
+      example: Skating is fun in winter.
+
     - eng: skeleton
       ru: скелет
+      example: The skeleton of a dinosaur was found.
+
     - eng: sketch
       ru: очерк; эскиз
+      example: He drew a quick sketch of the building.
+
     - eng: skewer
       ru: шампур
+      example: Thread the meat onto a skewer.
+
     - eng: ski
       ru: кататься на лыжах
+      example: We ski in the Alps.
+
     - eng: ski boots
       ru: лыжные ботинки
+      example: Rent ski boots at the resort.
+
     - eng: ski course
       ru: лыжная трасса
+      example: The ski course is marked with flags.
+
     - eng: ski jumper
       ru: прыгун
+      example: The ski jumper flew through the air.
+
     - eng: ski jumping
       ru: прыжки на лыжах с трамплина
+      example: Ski jumping requires courage.
+
     - eng: ski lift
-      ru: подъемник для лыжников
+      ru: подъёмник для лыжников
+      example: Take the ski lift to the top.
+
     - eng: ski pole
       ru: лыжная палка
+      example: Use ski poles for balance.
+
     - eng: skibobbing
       ru: скибоб
+      example: Skibobbing is a winter sport on a bike-like sled.
+
     - eng: skier
       ru: лыжник
+      example: The skier raced down the slope.
+
     - eng: skiing
-      ru: Лыжный спорт
+      ru: лыжный спорт
+      example: Skiing is my favourite winter activity.
+
     - eng: skiing equipment
       ru: лыжный инвентарь
+      example: Buy skiing equipment at the shop.
+
     - eng: skilful
       ru: квалифицированный
+      example: He is a skilful carpenter.
+
     - eng: skill
       ru: умение
+      example: Cooking is a useful skill.
+
     - eng: skilled negotiators helped defuse the crisis
       ru: опытные переговорщики помогли разрядить кризис
+      example: Skilled negotiators helped defuse the crisis.
+
     - eng: skin
       ru: кожа
+      example: Protect your skin from the sun.
+
     - eng: skin eruption
       ru: сыпь
+      example: The skin eruption was itchy.
+
     - eng: skip breakfast
       ru: пропускать завтрак
+      example: Do not skip breakfast, it is unhealthy.
+
     - eng: skirt
       ru: юбка
+      example: She wore a long skirt.
+
     - eng: skis
       ru: лыжи
+      example: Rent skis for the day.
+
     - eng: skull
       ru: череп
+      example: The skull protects the brain.
+
     - eng: skunk
       ru: скунс
+      example: The skunk sprayed a bad smell.
+
     - eng: sky
       ru: небеса; небо
+      example: The sky is blue.
+
     - eng: skydiving
       ru: прыжки с парашютом
+      example: Skydiving is an extreme sport.
+
     - eng: skyscraper
-      ru: небоскреб
+      ru: небоскрёб
+      example: The skyscraper is very tall.
+
     - eng: skysurfing
       ru: скайсёрфинг
+      example: Skysurfing involves a board attached to the feet.
+
     - eng: slab layer
       ru: обломочный слой
+      example: The slab layer is composed of broken rock.
+
     - eng: slag
       ru: шлак
+      example: Slag is a waste product from smelting.
+
     - eng: slalom
       ru: слалом
+      example: The skier raced in the slalom.
+
     - eng: slam dunk
       ru: бросок сверху
+      example: He scored with a slam dunk.
+
     - eng: slander
       ru: клевета
+      example: Slander is a spoken defamation.
+
     - eng: slave
       ru: раб
+      example: Slaves worked on the plantation.
+
     - eng: slavery
       ru: рабство
+      example: Slavery was abolished in the 19th century.
+
     - eng: slavery was abolished in the nineteenth century
       ru: рабство было отменено в девятнадцатом веке
+      example: Slavery was abolished in the nineteenth century.
+
     - eng: slay slew slain
       ru: убивать
+      example: The knight slew the dragon.
+
     - eng: sleep
       ru: спать
+      example: I need to sleep.
+
     - eng: sleep like a log
-      ru: спать как убитый,как сурок
+      ru: спать как убитый, как сурок
+      example: After the long hike, he slept like a log.
+
     - eng: sleep on it
-      ru: Утро вечера мудренее; надо тщательно обдумать
+      ru: утро вечера мудренее; надо тщательно обдумать
+      example: Do not decide now; sleep on it.
+
     - eng: sleep, slept, slept
       ru: спать
+      example: She slept for eight hours.
+
     - eng: sleeping bag
       ru: спальный мешок
+      example: Bring a sleeping bag for camping.
+
     - eng: sleeping tablet
       ru: снотворная таблетка
+      example: He took a sleeping tablet to fall asleep.
+
     - eng: sleepy
       ru: сонный; засыпающий
+      example: I feel sleepy after lunch.
+
     - eng: sleet
       ru: дождь со снегом
+      example: Sleet fell in the afternoon.
+
     - eng: sleeve
       ru: рукав
+      example: The sleeve of his shirt was torn.
+
     - eng: sleigh
       ru: сани
+      example: Santa travels on a sleigh.
+
     - eng: sleigh bells
       ru: бубенчики
+      example: The sleigh bells jingled.
+
     - eng: slender
       ru: стройный
+      example: She has a slender figure.
+
     - eng: slice
       ru: ломтик
+      example: A slice of bread.
+
     - eng: slicer
       ru: ломтерезка
+      example: Use a slicer to cut the meat thinly.
+
     - eng: slide
       ru: слайд; скользить
+      example: The children slide down the hill.
+
     - eng: slide windows
       ru: форточки в пилотской кабине
+      example: The pilot opened the slide windows for fresh air.
+
     - eng: slide, slid, slid
       ru: скользить
+      example: She slid on the ice.
+
     - eng: sliding
       ru: выдвигающийся
+      example: The sliding door is stuck.
+
     - eng: sliding ash-tray
       ru: выдвижная пепельница
+      example: The sliding ash-tray is under the dashboard.
+
     - eng: slight
       ru: пренебрежение; оскорбительное равнодушие
+      example: He felt a slight from his friends.
+
     - eng: slightly cheaper than
       ru: немного дешевле, чем
+      example: This brand is slightly cheaper than that one.
+
     - eng: slim
       ru: тонкий
+      example: He has a slim build.
+
     - eng: sling
       ru: перевязь
+      example: He carried his arm in a sling.
+
     - eng: slink slunk slunk
       ru: идти крадучись
+      example: The cat slunk through the grass.
+
     - eng: slip of the tongue
       ru: обмолвка, оговорка
+      example: It was just a slip of the tongue.
+
     - eng: slippers
       ru: тапочки
+      example: Wear slippers inside the house.
+
     - eng: slippery elm
       ru: скользкий вяз
+      example: Slippery elm bark is used in herbal medicine.
+
     - eng: slogan
       ru: слоган
+      example: The advertising slogan was catchy.
+
     - eng: slope
       ru: склон
+      example: The ski slope was steep.
+
     - eng: sloping
       ru: пологий
+      example: The sloping roof collected rain.
+
     - eng: sloth
       ru: ленивец
+      example: The sloth moves very slowly.
+
     - eng: slow
       ru: тихий; медленный
+      example: The turtle is slow.
+
     - eng: slowly
       ru: медленно
+      example: Drive slowly in the rain.
+
     - eng: sluice
       ru: шлюз
+      example: The sluice gate controls the water flow.
+
     - eng: slush
       ru: слякоть
+      example: The snow turned to slush on the roads.
+
     - eng: slushie
       ru: замороженный напиток
+      example: The children drank slushies.
+
     - eng: slushy
       ru: слякотный
+      example: The sidewalks were slushy.
+
     - eng: small
       ru: маленький
+      example: The cat is small.
+
     - eng: small forward
-      ru: малый нападающий, достаточно высокий игрок умеющий пройти под кольцо или бросить издалека
+      ru: малый нападающий, достаточно высокий игрок, умеющий пройти под кольцо или бросить издалека
+      example: The small forward led the team in scoring.
+
     - eng: small horn
       ru: рожок
+      example: The small horn sounded the alarm.
+
     - eng: small intestine
       ru: тонкая кишка
+      example: The small intestine absorbs nutrients.
+
     - eng: small items
       ru: мелкие вещи
+      example: The bag contains small items.
+
     - eng: small knot ot women listened to his sermon
       ru: небольшая группа женщин слушала его проповедь
+      example: A small knot of women listened to his sermon.
+
     - eng: small nettle
       ru: крапива жгучая
+      example: Small nettle can cause a rash.
+
     - eng: small talk
       ru: светская беседа
+      example: We exchanged small talk at the party.
+
     - eng: small talk is a good way of getting to know someone
       ru: светская беседа - это хороший способ узнать кого-то получше
+      example: Small talk is a good way of getting to know someone.
+
     - eng: smart
       ru: умный
+      example: She is a smart student.
+
     - eng: smell
-      ru: чувствовать запах; запах; чувствовать запах
+      ru: чувствовать запах; запах
+      example: I smell something burning.
+
     - eng: smell, smelt, smelt
       ru: пахнуть, нюхать
+      example: He smelt the milk to see if it was fresh.
+
     - eng: smelt
       ru: корюшка
+      example: Smelt is a small fish.
+
     - eng: smile
       ru: улыбка
+      example: She greeted me with a smile.
+
     - eng: smiling face
       ru: улыбающееся лицо
+      example: The child had a smiling face.
+
     - eng: smilingly
       ru: с улыбкой; смеясь
+      example: She smilingly accepted the compliment.
+
     - eng: smirk
       ru: ухмылка; ухмыляться
+      example: He had a smug smirk on his face.
+
     - eng: smite, smote, smitten
       ru: разбить, сразить
+      example: He was smitten by her beauty.
+
     - eng: smog
       ru: смог
+      example: Smog hung over the city.
+
     - eng: smoggy
       ru: задымленный
+      example: The sky was smoggy.
+
     - eng: smoke
       ru: курить
+      example: Smoking is bad for health.
+
     - eng: smoke detector
       ru: индикатор дыма
+      example: The smoke detector went off.
+
     - eng: smoked salmon
       ru: копчёный лосось
+      example: Smoked salmon is a delicacy.
+
     - eng: smokeless locomotive
       ru: бездымный локомотив
+      example: The smokeless locomotive reduced air pollution.
+
     - eng: smooth
       ru: гладкий
+      example: The surface is smooth.
+
     - eng: smooth endoplasmic reticulum
       ru: гладкая эндоплазматическая сеть
+      example: The smooth endoplasmic reticulum synthesizes lipids.
+
     - eng: smooth-cheeked
       ru: чисто выбритый
+      example: The young man was smooth-cheeked.
+
     - eng: smooth-faced
       ru: чисто выбритый
+      example: He looked smooth-faced and young.
+
     - eng: smoothie
       ru: смузи
+      example: I drink a banana smoothie for breakfast.
+
     - eng: snack
       ru: лёгкая закуска
+      example: I had a snack in the afternoon.
+
     - eng: snail
       ru: улитка
+      example: The snail left a slimy trail.
+
     - eng: snail lobster
       ru: лангуст
+      example: Snail lobster is another name for langoustine.
+
     - eng: snail mail
       ru: разг. обычная почта (в противопоставление электронной; высмеивает скорость доставки как у улитки)
+      example: Send the document by snail mail if email is not possible.
+
     - eng: snake
       ru: змея
+      example: The snake slithered through the grass.
+
     - eng: snakes only hiss
       ru: змеи только шипят
+      example: Snakes only hiss when threatened.
+
     - eng: snap hook
-      ru: карабин (застежка)
+      ru: карабин (застёжка)
+      example: Use a snap hook to attach the leash.
+
     - eng: snapdragon
       ru: львиный зев
+      example: Snapdragons are colourful flowers.
+
     - eng: snapper
       ru: грубиян
+      example: The old man was a snapper.
+
     - eng: snare drum
       ru: малый барабан
+      example: The snare drum has a sharp sound.
+
     - eng: sneakers
       ru: теннисные туфли; кроссовки; кеды
+      example: Wear sneakers for the run.
+
     - eng: sneakoscope
       ru: вредноскоп
+      example: In Harry Potter, a sneakoscope detects untrustworthy people.
+
     - eng: sneeze
       ru: чихать
+      example: Cover your mouth when you sneeze.
+
     - eng: snooker
       ru: снукер
+      example: He plays snooker at the club.
+
     - eng: snorkle
       ru: плавать под водой с маской и трубкой
+      example: We snorkled in the coral reef.
+
     - eng: snout
       ru: рыльце
+      example: The pig's snout was pink.
+
     - eng: snow
       ru: снег
+      example: The snow is falling.
+
     - eng: snow is a phenomenon of winter
-      ru: Снег - это явление зимы
+      ru: снег - это явление зимы
+      example: Snow is a phenomenon of winter in cold climates.
+
     - eng: snow leopard
       ru: ирбис, снежный барс
+      example: The snow leopard is an endangered species.
+
     - eng: snow slide
       ru: снежный обвал; лавина
+      example: The snow slide buried the road.
+
     - eng: snow-white
       ru: белоснежный
+      example: The dress was snow-white.
+
     - eng: snowball
       ru: калина
+      example: The children threw snowballs.
+
     - eng: snowboard cross
       ru: сноуборд-кросс
+      example: Snowboard cross involves racing down a course.
+
     - eng: snowboarder
       ru: сноубордист
+      example: The snowboarder performed a jump.
+
     - eng: snowboarding
       ru: сноуборд
+      example: Snowboarding is a popular winter sport.
+
     - eng: snowdrift
       ru: сугроб
+      example: The car got stuck in a snowdrift.
+
     - eng: snowdrop
       ru: подснежник
+      example: Snowdrops bloom in early spring.
+
     - eng: snowfall
       ru: снегопад
+      example: The snowfall was heavy last night.
+
     - eng: snowflake
       ru: снежинка
+      example: Each snowflake is unique.
+
     - eng: snowmobile
       ru: снегоход
+      example: They rode snowmobiles across the tundra.
+
     - eng: snowstorm
       ru: метель
+      example: The snowstorm closed the roads.
+
     - eng: snowy
       ru: снежный
+      example: It was a snowy day.
+
     - eng: snub nose
       ru: курносый нос
+      example: The baby had a cute snub nose.
+
     - eng: so
       ru: такой
+      example: It was so cold.
+
     - eng: so soon
       ru: так скоро
+      example: Why are you leaving so soon?
+
     - eng: so that
-      ru: При условии; с тем результатом, что; так что
+      ru: при условии; с тем результатом, что; так что
+      example: Speak clearly so that everyone can hear.
+
     - eng: so what
       ru: ну и что?
+      example: So what if I am late?
+
     - eng: soap
       ru: мыло
+      example: Wash your hands with soap.
+
     - eng: soap operas
       ru: мыльные оперы
+      example: She watches soap operas every afternoon.
+
     - eng: soccer
       ru: футбол
+      example: Soccer is the world's most popular sport.
+
     - eng: sociable
       ru: общительный
+      example: He is a sociable person.
+
     - eng: sociable
       ru: общительный
+      example: The party was full of sociable people.
+
     - eng: social
       ru: социальный; общественный
+      example: Social media is popular.
+
     - eng: social art
       ru: соц-арт
+      example: Social art addresses political issues.
+
     - eng: social commerce
       ru: социальная коммерция
+      example: Social commerce uses platforms like Facebook to sell.
+
     - eng: social dance
       ru: социальные танцы
+      example: Social dance includes salsa and swing.
+
     - eng: social intercourse was hard
       ru: общение было трудным
+      example: Social intercourse was hard for him due to shyness.
+
     - eng: social media
       ru: социальные медиа
+      example: Social media connects people worldwide.
+
     - eng: social protection
       ru: социальная защита
+      example: Social protection helps the poor.
+
     - eng: social rights
       ru: социальные права
+      example: Social rights include healthcare and education.
+
     - eng: social work
       ru: социальная работа
+      example: She studied social work at university.
+
     - eng: socialism
       ru: социализм
+      example: Socialism advocates public ownership.
+
     - eng: society
       ru: общество
+      example: Modern society faces many challenges.
+
     - eng: sociobiology
       ru: социобиология
+      example: Sociobiology studies the biological basis of social behaviour.
+
     - eng: sociology
       ru: социология
+      example: Sociology examines social structures.
+
     - eng: socket
       ru: розетка
+      example: Plug the lamp into the socket.
+
     - eng: socket for a pneumatic headset
-      ru: розетка для акустических наушников,
+      ru: розетка для акустических наушников
+      example: The socket for a pneumatic headset is near the seat.
+
     - eng: socket for an electrical headset
       ru: розетка для электро-наушников
+      example: Find the socket for an electrical headset under the armrest.
+
     - eng: sockeye salmon
       ru: нерка
+      example: Sockeye salmon is bright red.
+
     - eng: socks
       ru: носки
+      example: Put on clean socks.
+
     - eng: socle
       ru: цоколь
+      example: The statue stands on a stone socle.
+
     - eng: soda
       ru: газированная вода; газировка; сода; содовая
+      example: I drink soda with my meal.
+
     - eng: sofa
       ru: диван
+      example: Sit on the sofa.
+
     - eng: sofa-bed
       ru: диван-кровать
+      example: The sofa-bed folds out into a bed.
+
     - eng: sofabed
       ru: диван-кровать
+      example: The sofabed is comfortable for guests.
+
     - eng: soft
-      ru: Отзывчивый; мягкий
+      ru: отзывчивый; мягкий
+      example: The pillow is soft.
+
     - eng: soft cheese
       ru: мягкий сыр
+      example: Brie is a soft cheese.
+
     - eng: soft drink
       ru: безалкогольный напиток
+      example: I ordered a soft drink.
+
     - eng: soft drinks
       ru: безалкогольные напитки
+      example: The fridge is full of soft drinks.
+
     - eng: soft furniture
       ru: мягкая мебель
+      example: The living room has soft furniture.
+
     - eng: soft-boiled eggs
       ru: яйца всмятку
+      example: I like soft-boiled eggs for breakfast.
+
     - eng: softball
       ru: софтбол
+      example: Softball is similar to baseball.
+
     - eng: softpedal
       ru: бессиловое педалирование
+      example: Softpedal helps conserve energy on long rides.
+
     - eng: software
       ru: программа
+      example: Install the software on your computer.
+
     - eng: software
       ru: программное обеспечение
+      example: The software needs an update.
+
     - eng: soil; earth
-      ru: I брит. / амер. сущ. 1) грунт, земля, почва 2) земля, страна; территория II брит. / амер. гл. 1) а) пачкать, грязнить б) пачкаться, грязниться 2) бесчестить, порочить, позорить, пятнать (имя, репутацию) III брит. / амер. гл. давать скоту зелёный корм
+      ru: I брит./амер. сущ. 1) грунт, земля, почва 2) земля, страна; территория II брит./амер. гл. 1) а) пачкать, грязнить б) пачкаться, грязниться 2) бесчестить, порочить, позорить, пятнать (имя, репутацию) III брит./амер. гл. давать скоту зелёный корм
+      example: The soil is rich and fertile.
+
     - eng: sol
       ru: солнечные сутки на планете Марс, равные 24 час. 39 мин.
+      example: A sol on Mars is slightly longer than an Earth day.
+
     - eng: solar
       ru: солнечный
+      example: Solar energy is renewable.
+
     - eng: solar cell
       ru: солнечный элемент
+      example: The solar cell converts light to electricity.
+
     - eng: solar observatory
       ru: солнечная обсерватория
+      example: The solar observatory studies the Sun.
+
     - eng: solar panel
       ru: солнечная батарея
+      example: The house has solar panels on the roof.
+
     - eng: solar panels
       ru: солнечные панели
+      example: Solar panels reduce electricity bills.
+
     - eng: solar power
       ru: солнечная энергия
+      example: Solar power is clean energy.
+
     - eng: solar system
       ru: солнечная система
+      example: Our solar system has eight planets.
+
     - eng: solar system body
       ru: тело в солнечной системе
+      example: A comet is a solar system body.
+
     - eng: soldier
       ru: солдат
+      example: The soldier stood at attention.
+
     - eng: sole
       ru: подошва
+      example: The sole of the shoe is worn.
+
     - eng: solemnly
       ru: торжественно
+      example: He solemnly swore to tell the truth.
+
     - eng: solfeggio
       ru: сольфеджио
+      example: Solfeggio teaches sight-singing.
+
     - eng: solid
-      ru: Твердый
+      ru: твёрдый
+      example: Ice is solid water.
+
     - eng: solid object
-      ru: твердые предметы
+      ru: твёрдые предметы
+      example: The table is a solid object.
+
     - eng: solidarity
       ru: единство
+      example: The workers showed solidarity.
+
     - eng: solo
       ru: соло
+      example: She sang a solo.
+
     - eng: soloist
       ru: солист
+      example: The soloist played the violin.
+
     - eng: solute
       ru: растворённое вещество
+      example: Salt is the solute in saltwater.
+
     - eng: solution
       ru: решение; раствор
+      example: We found a solution to the problem.
+
     - eng: solution deposits
       ru: отложения из растворов
+      example: Solution deposits form when minerals precipitate.
+
     - eng: solution to
       ru: разрешение ч-л (проблемы)
+      example: The solution to the puzzle was simple.
+
     - eng: solve
       ru: решать
+      example: Solve the equation.
+
     - eng: solve a question
       ru: решать вопрос
+      example: We need to solve this question quickly.
+
     - eng: solvency
       ru: платежеспособность
+      example: The company's solvency is strong.
+
     - eng: solvent
       ru: растворитель
+      example: Water is a common solvent.
+
     - eng: solvents
       ru: растворители
+      example: Organic solvents are used in paints.
+
     - eng: somatic
       ru: соматический
+      example: Somatic cells are body cells.
+
     - eng: some
       ru: немного; несколько
+      example: I have some apples.
+
     - eng: some potential buyers will be deterred by the price
-      ru: некоторых потенциальных покупателей отпугнет цена
+      ru: некоторых потенциальных покупателей отпугнёт цена
+      example: Some potential buyers will be deterred by the price.
+
     - eng: some shortcomings were inherent in our approach
       ru: нашему подходу были присущи некоторые недостатки
+      example: Some shortcomings were inherent in our approach.
+
     - eng: somebody
       ru: кто-то; кто-нибудь
+      example: Somebody called for you.
+
     - eng: somehow
       ru: как-нибудь
+      example: Somehow, we will manage.
+
     - eng: someone
       ru: кто-нибудь; кто-то
+      example: Someone is at the door.
+
     - eng: someone believes you personally responsible
       ru: кто-то считает вас лично ответственным
+      example: Someone believes you personally responsible for the failure.
+
     - eng: someone's
       ru: кто-то
+      example: Someone's car is blocking the driveway.
+
     - eng: someone's nicked my wallet
       ru: кто-то стащил мой бумажник
+      example: Someone's nicked my wallet from my pocket.
+
     - eng: something
       ru: что-нибудь, что-то; нечто; что-то; что- то; что-нибудь; что-либо; кое-что
+      example: Something is wrong.
+
     - eng: something akin to panic overwhelmed him
       ru: что-то похожее на панику охватило его
+      example: Something akin to panic overwhelmed him.
+
     - eng: something which is prerequisite to any deep success
       ru: что-то, что является необходимым условием для любого глубокого успеха
+      example: Hard work is something which is prerequisite to any deep success.
+
     - eng: sometimes
       ru: иногда
+      example: Sometimes I go for a walk.
+
     - eng: sometimes publicity helped to raise public awareness
-      ru: иногда публичность помогала повысить осведомленность общественности
+      ru: иногда публичность помогала повысить осведомлённость общественности
+      example: Sometimes publicity helped to raise public awareness.
+
     - eng: somewhere
       ru: где-то; где-нибудь
+      example: Let us go somewhere quiet.
+
     - eng: son
       ru: сын
+      example: My son is in college.
+
     - eng: son-in-law
       ru: зять
+      example: My son-in-law is a doctor.
+
     - eng: sonata
       ru: соната
+      example: Beethoven wrote many sonatas.
+
     - eng: song
       ru: песня
+      example: She sang a beautiful song.
+
     - eng: songbird
       ru: певчая птица
+      example: The songbird sang at dawn.
+
     - eng: songster
       ru: певчая птица
+      example: The songster perched on the branch.
+
     - eng: soon
       ru: скоро
+      example: I will arrive soon.
+
     - eng: soon as I can scrounge up a car
       ru: как только смогу раздобыть машину
+      example: I will leave as soon as I can scrounge up a car.
+
     - eng: soot natural
-      ru: сажа природная,
+      ru: сажа природная
+      example: Natural soot comes from incomplete combustion.
+
     - eng: soothsayer
       ru: предсказатель
+      example: The soothsayer predicted the future.
+
     - eng: soprano
       ru: сопрано
+      example: She sings soprano in the choir.
+
     - eng: sorbet
       ru: сорбет; щербет; шербет
+      example: Lemon sorbet is refreshing.
+
     - eng: sorcerer
       ru: волхв
+      example: The sorcerer cast a spell.
+
     - eng: sore
       ru: язва / рана
+      example: The sore on his foot was painful.
+
     - eng: sore point
       ru: больное, уязвимое место
+      example: Mentioning his ex-wife is a sore point.
+
     - eng: sore throat
-      ru: больное горло, ангина; больное горло
+      ru: больное горло, ангина
+      example: I have a sore throat.
+
     - eng: sorry
       ru: огорчённый
+      example: I am sorry for being late.
+
     - eng: sort
-      ru: сортировать, распределять; вид; род; сортировать
+      ru: сортировать, распределять; вид; род
+      example: Sort the papers by date.
+
     - eng: sorting
       ru: сортировка
+      example: Sorting takes time.
+
     - eng: soteriology
       ru: сотериология
+      example: Soteriology is the study of salvation.
+
     - eng: soul
       ru: душа
+      example: The soul is immortal.
+
     - eng: sound
       ru: шум; звучать; звук
+      example: The sound of music filled the hall.
+
     - eng: sound bite
       ru: короткий отрывок из записанного интервью или речи
+      example: The politician's sound bite was played on the news.
+
     - eng: sounds good to me
       ru: это меня устраивает
+      example: Let us meet at noon. Sounds good to me.
+
     - eng: soundtrack
       ru: звуковая дорожка
+      example: The movie's soundtrack is excellent.
+
     - eng: soup
       ru: суп
+      example: Chicken soup is warm and comforting.
+
     - eng: soup bowl
       ru: супница; суповая тарелка
+      example: Pour the soup into a soup bowl.
+
     - eng: sour
       ru: кислый
+      example: The lemon is sour.
+
     - eng: source
       ru: источник
+      example: The river's source is in the mountains.
+
     - eng: source information
       ru: исходная информация
+      example: The source information was unreliable.
+
     - eng: south
       ru: юг
+      example: The wind is from the south.
+
     - eng: south African
       ru: житель Южно-Африканской Республики
+      example: My colleague is a South African.
+
     - eng: souvenir
       ru: сувенир
+      example: I bought a souvenir from the museum.
+
     - eng: sovereignty
       ru: суверенитет
+      example: The country's sovereignty is respected.
+
     - eng: sow
       ru: самка свиньи
+      example: The sow gave birth to piglets.
+
     - eng: soy-bean
       ru: соя
+      example: Soy-beans are used to make tofu.
+
     - eng: space
       ru: пространство
+      example: Outer space is vast.
+
     - eng: space debris
       ru: космический мусор
+      example: Space debris orbits the Earth.
+
     - eng: space observatory
       ru: космическая обсерватория
+      example: The Hubble is a space observatory.
+
     - eng: spaghetti
       ru: спагетти; макароны спагетти
+      example: Spaghetti with meatballs is a classic dish.
+
     - eng: spam
       ru: спам
+      example: My email filters out spam.
+
     - eng: spam
       ru: спам
+      example: Spam messages are annoying.
+
     - eng: spaniel
       ru: спаниель
+      example: The spaniel has long ears.
+
     - eng: spar
       ru: шпат
+      example: Spar is a crystalline mineral.
+
     - eng: spare
       ru: подать милостыню
+      example: Spare some change for the poor.
+
     - eng: spare parts
       ru: запчасти
+      example: The mechanic ordered spare parts.
+
     - eng: spark plug
       ru: свеча зажигания
+      example: The spark plug ignites the fuel.
+
     - eng: sparkling
       ru: игристый; газированный
+      example: Sparkling wine is festive.
+
     - eng: sparkling water
       ru: газированная вода
+      example: I drink sparkling water instead of soda.
+
     - eng: sparks turn into flames
-      ru: Искры превращаются в пламя
+      ru: искры превращаются в пламя
+      example: Sparks turn into flames if not controlled.
+
     - eng: sparrow
       ru: воробей
+      example: A sparrow perched on the fence.
+
     - eng: sparrow hawk
       ru: перепелятник
+      example: The sparrow hawk hunts small birds.
+
     - eng: spasm
       ru: спазм
+      example: A muscle spasm caused pain.
+
     - eng: spatial
       ru: пространственный
+      example: Spatial awareness is important for driving.
+
     - eng: spatula
       ru: кухонная лопатка
+      example: Use a spatula to flip the pancake.
+
     - eng: speak
       ru: говорить, изъясняться, выражать свою мысль; говорить; сказать
+      example: Please speak more slowly.
+
     - eng: speak, spoke, spoken
       ru: говорить
+      example: He spoke to the crowd.
+
     - eng: speaker
       ru: оратор
+      example: The speaker was very persuasive.
+
     - eng: speaker reinforced his argument with facts
       ru: выступающий подкрепил свои аргументы фактами
+      example: The speaker reinforced his argument with facts.
+
     - eng: speaking
       ru: разговор
+      example: Public speaking is a skill.
+
     - eng: spear
       ru: копьё
+      example: The hunter threw his spear.
+
     - eng: spearfishing
       ru: подводная охота
+      example: Spearfishing requires a spear gun.
+
     - eng: special
       ru: блюдо дня; особенный; специальный
+      example: Today's special is lasagne.
+
     - eng: special education
       ru: специальное образование
+      example: Special education helps children with disabilities.
+
     - eng: special offer
-      ru: Специальное предложение
+      ru: специальное предложение
+      example: The store has a special offer on shoes.
+
     - eng: specialist
       ru: специалист
+      example: She is a specialist in heart surgery.
+
     - eng: specialize in portraiture
       ru: специализироваться на портретной живописи
+      example: The artist specializes in portraiture.
+
     - eng: specialize in still life
       ru: специализироваться на натюрмортах
+      example: He specializes in still life paintings.
+
     - eng: speciation
       ru: видообразование
+      example: Speciation is the formation of new species.
+
     - eng: species
       ru: особь
+      example: This species of bird is rare.
+
     - eng: specific gravity
       ru: удельный вес
+      example: The specific gravity of gold is high.
+
     - eng: spectacular
       ru: эффектный
+      example: The fireworks were spectacular.
+
     - eng: spectacularly
       ru: впечатляющий
+      example: The plan failed spectacularly.
+
     - eng: spectator
       ru: зритель
+      example: The spectators cheered the team.
+
     - eng: spectral
       ru: спектральный
+      example: The spectral lines indicate the element.
+
     - eng: spectre
       ru: призрак
+      example: The spectre haunted the castle.
+
     - eng: spectroscopy
       ru: спектроскопия
+      example: Spectroscopy analyses light.
+
     - eng: spectrum
       ru: спектр
+      example: The visible spectrum includes all colours.
+
     - eng: speculator
       ru: спекулянт
+      example: The speculator made a profit on the stock.
+
     - eng: speech
       ru: речь
+      example: The president's speech was inspiring.
+
     - eng: speed
       ru: скорость
+      example: The speed of light is fast.
+
     - eng: speed of light
       ru: скорость света
+      example: Nothing travels faster than the speed of light.
+
     - eng: speed skating
       ru: конькобежный спорт
+      example: Speed skating is an Olympic sport.
+
     - eng: speed, sped, sped
       ru: мчаться
+      example: The car sped down the highway.
+
     - eng: speeding
       ru: превышение дозволенной скорости
+      example: He got a ticket for speeding.
+
     - eng: speedometer
       ru: спидометр
+      example: The speedometer showed 80 km/h.
+
     - eng: spell
       ru: читать по буквам
+      example: Spell your name for me.
+
     - eng: spell, spelt, spelt
       ru: читать по буквам
+      example: She spelt the word correctly.
+
     - eng: spelling
       ru: правописание
+      example: His spelling is excellent.
+
     - eng: spend
       ru: тратить
+      example: Do not spend all your money.
+
     - eng: spend money like water
       ru: швырять деньги на ветер
+      example: He spends money like water on luxury items.
+
     - eng: spend money on
       ru: тратить деньги на
+      example: I spend money on books.
+
     - eng: spend time with family
-      ru: проводить время с семьей
+      ru: проводить время с семьёй
+      example: I like to spend time with family on weekends.
+
     - eng: spend, spent, spent
       ru: тратить, проводить
+      example: She spent her vacation in Italy.
+
     - eng: sphalerite
       ru: сфалерит
+      example: Sphalerite is an ore of zinc.
+
     - eng: sphere of knowledge
       ru: сфера знания
+      example: This topic is outside my sphere of knowledge.
+
     - eng: spherical
       ru: сферический
+      example: The Earth is nearly spherical.
+
     - eng: spicatto
       ru: отрывисто
+      example: The violinist played spicatto.
+
     - eng: spice
       ru: пряность; специя
+      example: Add spice to the dish.
+
     - eng: spiced tea
       ru: пряный чай
+      example: Spiced tea contains cinnamon and cloves.
+
     - eng: spicule
       ru: спикула
+      example: Spicules are found in sponges.
+
     - eng: spicy
       ru: острый
+      example: The curry is very spicy.
+
     - eng: spider
       ru: паук
     - eng: spill
