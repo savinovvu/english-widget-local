@@ -58088,961 +58088,1918 @@ app.words:
       example: Epsom salts are used for muscle relaxation.
 
     - eng: salty
-      ru: соленый; солёный
+      ru: солёный
+      example: The soup is too salty.
+
     - eng: salty cheese
-      ru: соленый сыр
+      ru: солёный сыр
+      example: Feta is a salty cheese.
+
     - eng: salvadorian
       ru: житель Сальвадора
+      example: My friend is a Salvadorian.
+
     - eng: sambo
       ru: самбо
+      example: Sambo is a martial art from Russia.
+
     - eng: same
       ru: одинаковый; тот же самый
+      example: We have the same car.
+
     - eng: sample
       ru: образец
+      example: The lab tested a blood sample.
+
     - eng: sand
       ru: песок
+      example: The beach has white sand.
+
     - eng: sandal
       ru: сандалия
+      example: She wore a leather sandal.
+
     - eng: sandals
       ru: сандалии
+      example: Sandals are comfortable in summer.
+
     - eng: sandboarding
       ru: сэндборд
+      example: Sandboarding is popular in deserts.
+
     - eng: sandstone
       ru: песчаник
+      example: The canyon walls are made of sandstone.
+
     - eng: sandstorm
-      ru: Песчаная буря
+      ru: песчаная буря
+      example: The sandstorm reduced visibility to zero.
+
     - eng: sandwich
       ru: сэндвич; бутерброд
+      example: I ate a ham sandwich.
+
     - eng: sangria
       ru: сангрия
+      example: Sangria is a Spanish drink.
+
     - eng: sanguine
       ru: сангина
+      example: The artist drew with sanguine.
+
     - eng: santiago
-      ru: Сантьяго
+      ru: сантьяго
+      example: Santiago is the capital of Chile.
+
     - eng: sapphire
       ru: сапфир
+      example: The ring has a blue sapphire.
+
     - eng: sapropelic
       ru: сапропелевый
+      example: Sapropelic deposits form at the bottom of lakes.
+
     - eng: sarcasm
       ru: сарказм
+      example: His sarcasm hurt her feelings.
+
     - eng: sardine
       ru: сардина
+      example: Sardines are small, oily fish.
+
     - eng: sassafras
       ru: сассафрас
+      example: Sassafras is used to make tea.
+
     - eng: sateen
       ru: сатин
+      example: The sheets are made of sateen.
+
     - eng: satellite
       ru: спутник
+      example: The satellite orbits the Earth.
+
     - eng: satellite observatory
       ru: спутниковая обсерватория
+      example: The satellite observatory studies distant stars.
+
     - eng: satin
       ru: атлас
+      example: Her dress is made of satin.
+
     - eng: satin stitch
       ru: вышивка гладью
+      example: Satin stitch creates a smooth surface.
+
     - eng: satire
       ru: сатира
+      example: The play is a satire of politics.
+
     - eng: satisfied with
-      ru: удовлетворенный чем-л
+      ru: удовлетворённый чем-л.
+      example: I am satisfied with the result.
+
     - eng: satisfy
       ru: удовлетворить; удовлетворять
+      example: This meal will satisfy your hunger.
+
     - eng: satsuma
       ru: мандарин
+      example: Satsumas are easy to peel.
+
     - eng: saturn
-      ru: Сатурн
+      ru: сатурн
+      example: Saturn has beautiful rings.
+
     - eng: sauce
-      ru: cоус; соус
+      ru: соус
+      example: The pasta is served with tomato sauce.
+
     - eng: sauce pan
       ru: кастрюля
+      example: Heat the milk in a sauce pan.
+
     - eng: saucepan
       ru: кастрюля
+      example: Use a saucepan to cook the soup.
+
     - eng: saucer
       ru: блюдце
+      example: The cup is on the saucer.
+
     - eng: sauna
       ru: сауна
+      example: We relaxed in the sauna.
+
     - eng: sausage
-      ru: колбаса; колбаса; сосиска
+      ru: колбаса; сосиска
+      example: Grill the sausages for breakfast.
+
     - eng: savages used body language, didn't they
       ru: дикари используют язык тела, не так ли
+      example: Savages used body language, didn't they?
+
     - eng: save
       ru: сэкономить
+      example: We need to save money.
+
     - eng: save money
-      ru: Экономить деньги
+      ru: экономить деньги
+      example: I save money by cooking at home.
+
     - eng: save time
-      ru: Экономить время
+      ru: экономить время
+      example: Taking the train saves time.
+
     - eng: savings account
-      ru: сберегательный счет
+      ru: сберегательный счёт
+      example: Open a savings account at the bank.
+
     - eng: savior
       ru: спаситель
+      example: The firefighter was a savior.
+
     - eng: savory
       ru: чабер
+      example: Savory is an herb used in cooking.
+
     - eng: savoy cabbage
       ru: савойская капуста
+      example: Savoy cabbage has wrinkled leaves.
+
     - eng: savvy reporter
-      ru: опытный репортер
+      ru: опытный репортёр
+      example: The savvy reporter uncovered the truth.
+
     - eng: saw
       ru: пила
+      example: Cut the wood with a saw.
+
     - eng: sawfish
       ru: пила-рыба
+      example: The sawfish has a long, toothed snout.
+
     - eng: saxhorn
       ru: саксгорн
+      example: The saxhorn is a brass instrument.
+
     - eng: saxophone
       ru: саксофон
+      example: He plays the saxophone in a jazz band.
+
     - eng: say
       ru: говорить; сказать
+      example: What did you say?
+
     - eng: say your goodbyes
       ru: попрощаться
+      example: It is time to say your goodbyes.
+
     - eng: say, said, said
       ru: сказать
+      example: She said hello.
+
     - eng: says
       ru: говорит (от say)
+      example: He says he is tired.
+
     - eng: scalability
       ru: масштабируемость
+      example: The system's scalability is impressive.
+
     - eng: scalability
       ru: масштабируемость
+      example: Scalability is important for growing businesses.
+
     - eng: scalable
       ru: масштабируемый
+      example: The software is scalable.
+
     - eng: scalable
       ru: масштабируемый
+      example: A scalable solution can handle more users.
+
     - eng: scalar quantity
       ru: скалярная величина
+      example: Temperature is a scalar quantity.
+
     - eng: scale
-      ru: масштаб, шкала; шкала
+      ru: масштаб, шкала
+      example: The scale of the map is one to one thousand.
+
     - eng: scallion
       ru: зелёный лук
+      example: Chop the scallions for the salad.
+
     - eng: scapula
       ru: лопатка
+      example: The scapula is the shoulder blade.
+
     - eng: scare
       ru: пугать; испуг; паника
+      example: The loud noise scared the cat.
+
     - eng: scared
       ru: испуганный
+      example: The child was scared of the dark.
+
     - eng: scarf
       ru: шарф
+      example: Wear a scarf in the cold weather.
+
     - eng: scary
       ru: ужасный; жуткий
+      example: The horror movie was scary.
+
     - eng: scat
       ru: уходить прочь
+      example: Scat, cat, get out of here.
+
     - eng: scene
-      ru: место действия (в пьесе, романе и т. п.); сцена
+      ru: место действия (в пьесе, романе и т.п.); сцена
+      example: The first scene of the play was funny.
+
     - eng: scenery
       ru: пейзаж
+      example: The scenery in the mountains is beautiful.
+
     - eng: scenic
       ru: живописный
+      example: The drive along the coast is scenic.
+
     - eng: scented tea
       ru: ароматизированный чай
+      example: Scented tea smells like jasmine.
+
     - eng: schedule
       ru: расписание
+      example: Check the train schedule.
+
     - eng: schema
       ru: схема
+      example: The database schema is well designed.
+
     - eng: schematic diagram
       ru: принципиальная схема
+      example: The schematic diagram shows the circuit.
+
     - eng: scherzo
       ru: скерцо
+      example: The scherzo is a lively movement.
+
     - eng: schism
       ru: раскол
+      example: The schism divided the church.
+
     - eng: schist
       ru: аспидный сланец
+      example: Schist is a metamorphic rock.
+
     - eng: schnitzel
       ru: шницель
+      example: Wiener schnitzel is a traditional Austrian dish.
+
     - eng: scholarship
       ru: стипендия
+      example: She won a scholarship to university.
+
     - eng: scholasticism
       ru: схоластика
+      example: Scholasticism dominated medieval philosophy.
+
     - eng: school
       ru: школа
+      example: The children go to school.
+
     - eng: school bus
       ru: школьный автобус
+      example: The school bus is yellow.
+
     - eng: school discipline
       ru: школьная дисциплина
+      example: School discipline is important for learning.
+
     - eng: school psychologist
       ru: школьный психолог
+      example: The school psychologist helps students with problems.
+
     - eng: school subjects
       ru: школьные предметы
+      example: Math and science are school subjects.
+
     - eng: schorl
       ru: турмалин
+      example: Schorl is a black tourmaline.
+
     - eng: science
       ru: наука
+      example: Science helps us understand the world.
+
     - eng: science education
       ru: образование в области естественных наук (научное образование)
+      example: Science education is essential for progress.
+
     - eng: science fiction
       ru: научная фантастика
+      example: I love reading science fiction.
+
     - eng: science fiction (sci-fi)
       ru: научная фантастика
+      example: Star Wars is science fiction.
+
     - eng: scientific management
       ru: научные методы управления
+      example: Scientific management improves efficiency.
+
     - eng: scientist
       ru: учёный
+      example: The scientist conducted experiments.
+
     - eng: scilla
       ru: сцилла
+      example: Scilla flowers are blue.
+
     - eng: scissors
       ru: ножницы
+      example: Cut the paper with scissors.
+
     - eng: sconce
       ru: бра
+      example: The sconce on the wall holds a candle.
+
     - eng: scoop
       ru: черпак
+      example: Use a scoop to serve the ice cream.
+
     - eng: scorching
       ru: знойный
+      example: The scorching heat made us sweat.
+
     - eng: score
-      ru: счет в игре; партитура
+      ru: счёт в игре; партитура
+      example: The final score was 3 to 1.
+
     - eng: scotch tape
       ru: скотч
+      example: Use scotch tape to wrap the gift.
+
     - eng: scowl
       ru: угрюмый вид; сердито смотреть; хмуриться
+      example: He gave me a scowl when I interrupted.
+
     - eng: scramble leg
       ru: первый этап эстафеты
+      example: The runner finished the scramble leg quickly.
+
     - eng: scrambled eggs
       ru: яичница-болтунья
+      example: I ate scrambled eggs for breakfast.
+
     - eng: scrape the dead leaves together into a pile
       ru: соберите опавшие листья в кучку
+      example: Scrape the dead leaves together into a pile.
+
     - eng: scream
       ru: пронзительно кричать
+      example: She screamed when she saw the spider.
+
     - eng: screen
       ru: экран
+      example: The computer screen is bright.
+
     - eng: screenwriter
       ru: сценарист
+      example: The screenwriter won an Oscar.
+
     - eng: screwdriver
       ru: отвёртка
+      example: Use a screwdriver to tighten the screw.
+
     - eng: script
       ru: сценарий
+      example: The actor read the script.
+
     - eng: scripture
       ru: священное писание
+      example: The priest read from scripture.
+
     - eng: scriptwriter
       ru: сценарист
+      example: The scriptwriter wrote the dialogue.
+
     - eng: scroll bar
       ru: полоса прокрутки
+      example: Use the scroll bar to move down the page.
+
     - eng: scrotum
       ru: мошонка
+      example: The scrotum protects the testicles.
+
     - eng: scrubs
-      ru: форма медсестер/медперсонала
+      ru: форма медсестёр/медперсонала
+      example: The nurses wore blue scrubs.
+
     - eng: scrutinize
       ru: изучать, тщательно рассматривать
+      example: The accountant scrutinized the records.
+
     - eng: scuba diving
-      ru: Подводное плавание
+      ru: подводное плавание
+      example: Scuba diving is fun in warm water.
+
     - eng: scull
       ru: весло
+      example: He rowed using a scull.
+
     - eng: sculpin
       ru: подкаменщик
+      example: The sculpin is a bottom-dwelling fish.
+
     - eng: sculptor
       ru: скульптор
+      example: The sculptor carved a statue.
+
     - eng: sculpture
       ru: скульптура
+      example: The museum has a marble sculpture.
+
     - eng: scutum
-      ru: Щит
+      ru: щит
+      example: The Roman soldier carried a scutum.
+
     - eng: sea
       ru: море; морской
+      example: The sea is calm today.
+
     - eng: sea cow
       ru: ламантин
+      example: The sea cow is a gentle marine mammal.
+
     - eng: sea level
       ru: уровень моря
+      example: The city is below sea level.
+
     - eng: sea of Azov
-      ru: Азовское море
+      ru: азовское море
+      example: The Sea of Azov is shallow.
+
     - eng: sea of Japan
-      ru: Японское море
+      ru: японское море
+      example: The Sea of Japan separates Japan from Russia.
+
     - eng: sea of Okhotsk
-      ru: Охотское море
+      ru: охотское море
+      example: The Sea of Okhotsk is icy in winter.
+
     - eng: sea turtle
       ru: морская черепаха
+      example: Sea turtles return to the beach to lay eggs.
+
     - eng: sea view
       ru: номер с видом на море
+      example: We booked a room with a sea view.
+
     - eng: sea-buckthorn
       ru: облепиха
+      example: Sea-buckthorn berries are rich in vitamins.
+
     - eng: sea-swallow
       ru: крачка
+      example: The sea-swallow dives for fish.
+
     - eng: seafaring
       ru: мореплавание
+      example: Seafaring has a long history.
+
     - eng: seafood
       ru: морепродукты
+      example: Seafood includes fish and shrimp.
+
     - eng: seafood restaurant
       ru: рыбный ресторан
+      example: We ate at a seafood restaurant.
+
     - eng: seafood spaghetti
       ru: спагетти с морепродуктами
+      example: Seafood spaghetti is delicious.
+
     - eng: seal
       ru: тюлень
+      example: The seal balanced a ball on its nose.
+
     - eng: seal swims in the lake
       ru: тюлень плавает в озере
+      example: The seal swims in the lake, looking for fish.
+
     - eng: sealed instrument
       ru: документ с печатью
+      example: The contract is a sealed instrument.
+
     - eng: sealing
       ru: опечатывать
+      example: Sealing the envelope prevents tampering.
+
     - eng: sealion
       ru: сивуч
+      example: The sea lion barked loudly.
+
     - eng: search
       ru: поиск; искать
+      example: I search for my keys every morning.
+
     - eng: seascape
       ru: морской пейзаж
+      example: The artist painted a seascape.
+
     - eng: seascape painter
       ru: маринист
+      example: The seascape painter captured the waves.
+
     - eng: seaside
       ru: побережье
+      example: We walked along the seaside.
+
     - eng: season
       ru: время года
+      example: Autumn is my favourite season.
+
     - eng: seasoning
       ru: приправа
+      example: Add seasoning to the soup.
+
     - eng: seasonings
       ru: приправы
+      example: The recipe calls for various seasonings.
+
     - eng: seasons
       ru: сезоны
+      example: The four seasons are spring, summer, autumn, and winter.
+
     - eng: seat
       ru: сиденье; место
+      example: Please take a seat.
+
     - eng: seat 17 E
-      ru: место Е в 17-ом ряду
+      ru: место Е в 17-м ряду
+      example: My ticket says seat 17 E.
+
     - eng: seat allocation
       ru: размещение на места, назначение мест
+      example: Seat allocation is done at check-in.
+
     - eng: seat pocket
       ru: карман в спинке кресла
+      example: The safety card is in the seat pocket.
+
     - eng: seat-back
       ru: спинка кресла
+      example: Adjust your seat-back for comfort.
+
     - eng: seatbelt
       ru: привязной ремень
+      example: Fasten your seatbelt before takeoff.
+
     - eng: second
       ru: другой; второй
+      example: He finished in second place.
+
     - eng: second best
       ru: второсортный
+      example: I will not accept second best.
+
     - eng: second chance
       ru: второй шанс на атаку, возникающий после подбора в нападении
+      example: The team got a second chance after the rebound.
+
     - eng: second cousin
       ru: троюродный брат
+      example: My second cousin lives in Canada.
+
     - eng: second run
       ru: второй заезд
+      example: The second run of the race was faster.
+
     - eng: second-hand
       ru: магазин вещей, которые были в пользовании
+      example: I bought this jacket second-hand.
+
     - eng: second-hand
       ru: магазин вещей, которые были в пользовании
+      example: The book is second-hand but in good condition.
+
     - eng: secondary education
-      ru: Среднее образование
+      ru: среднее образование
+      example: Secondary education lasts five years.
+
     - eng: seconds
-      ru: секунд
+      ru: секунды
+      example: The race was won by two seconds.
+
     - eng: secret
       ru: тайна; секрет
+      example: Can you keep a secret?
+
     - eng: secretary
       ru: секретарь
+      example: The secretary scheduled the meeting.
+
     - eng: secretion
       ru: секреция
+      example: The secretion of hormones is regulated.
+
     - eng: section
       ru: сечение; отрезок; секция
+      example: The book is divided into sections.
+
     - eng: secular
       ru: светский
+      example: The country has a secular government.
+
     - eng: secular clergy
       ru: белое духовенство
+      example: The secular clergy work in parishes.
+
     - eng: secular holiday
       ru: светский праздник
+      example: New Year's Day is a secular holiday.
+
     - eng: secular state
       ru: светское государство
+      example: France is a secular state.
+
     - eng: secularization
       ru: секуляризация
+      example: Secularization reduced the power of the church.
+
     - eng: securities
       ru: ценные бумаги
+      example: He invests in securities.
+
     - eng: security
-      ru: Обеспечение безопасности
+      ru: обеспечение безопасности
+      example: Airport security is tight.
+
     - eng: security deposit
       ru: гарантийный залог
+      example: The landlord requires a security deposit.
+
     - eng: sedan
       ru: седан
+      example: He drives a blue sedan.
+
     - eng: sedge
       ru: осока
+      example: Sedge grows near the water.
+
     - eng: sediment
       ru: отложение
+      example: Sediment settled at the bottom of the river.
+
     - eng: sedimentary
       ru: осадочный
+      example: Sandstone is a sedimentary rock.
+
     - eng: sedimentary complex
       ru: серия осадочных пластов
+      example: The sedimentary complex is millions of years old.
+
     - eng: sedimentary deposits
       ru: осадочные отложения
+      example: Sedimentary deposits contain fossils.
+
     - eng: seduction
       ru: искушение
+      example: He resisted the seduction of fame.
+
     - eng: see
       ru: понимать; видеть
+      example: I see what you mean.
+
     - eng: see eye to eye
       ru: сходиться во взглядах
+      example: They do not see eye to eye on politics.
+
     - eng: see off
       ru: провожать
+      example: We went to the airport to see him off.
+
     - eng: see off a competitor
       ru: выпроводить, выгнать конкурента
+      example: The company saw off a competitor by lowering prices.
+
     - eng: see you later
-      ru: До встречи!; увидимся
+      ru: до встречи!; увидимся
+      example: See you later, take care.
+
     - eng: see, saw, seen
       ru: видеть
+      example: I saw a movie last night.
+
     - eng: seed
       ru: семя
+      example: Plant the seed in the soil.
+
     - eng: seed capital
       ru: начальный капитал
+      example: The startup received seed capital.
+
     - eng: seed funding
       ru: посевное финансирование
+      example: Seed funding helped launch the company.
+
     - eng: seed stage
       ru: посевная стадия
+      example: The project is at the seed stage.
+
     - eng: seedling
       ru: рассада
+      example: The seedling needs water.
+
     - eng: seek
       ru: искать
+      example: Seek the truth.
+
     - eng: seek (sought, sought)
       ru: искать
+      example: He sought advice from a lawyer.
+
     - eng: seem
       ru: казаться
+      example: You seem tired.
+
     - eng: seems
       ru: оказывается
+      example: It seems that he was right.
+
     - eng: seer
       ru: провидец
+      example: The seer predicted the future.
+
     - eng: sego lily
       ru: калохортус
+      example: The sego lily is the state flower of Utah.
+
     - eng: seguidilla
       ru: сегидилья
+      example: The seguidilla is a Spanish dance.
+
     - eng: seine
       ru: сена
+      example: The Seine River flows through Paris.
+
     - eng: seismic
       ru: сейсмический
+      example: Seismic activity is monitored.
+
     - eng: seismic gap
       ru: период повторяемости землетрясений
+      example: The seismic gap suggests an earthquake is due.
+
     - eng: seismograph
       ru: сейсмограф
+      example: The seismograph recorded the tremor.
+
     - eng: seizure
       ru: приступ
+      example: He had an epileptic seizure.
+
     - eng: seldom
       ru: редко
+      example: I seldom eat fast food.
+
     - eng: selection channel
       ru: переключатель каналов
+      example: Turn the selection channel to change the station.
+
     - eng: selective attention
       ru: избирательное внимание
+      example: Selective attention filters out distractions.
+
     - eng: selectivity
       ru: селективность
+      example: The selectivity of the filter is high.
+
     - eng: self-confident
       ru: самоуверенный
+      example: She is very self-confident.
+
     - eng: self-conscious
       ru: застенчивый
+      example: He felt self-conscious in the new suit.
+
     - eng: self-contained trip
       ru: автономный поход
+      example: We planned a self-contained trip with no resupply.
+
     - eng: self-esteem
       ru: чувство собственного достоинства
+      example: Low self-esteem can cause problems.
+
     - eng: self-expression
       ru: самовыражение
+      example: Art is a form of self-expression.
+
     - eng: self-pollination
       ru: самоопыление
+      example: Self-pollination occurs in some plants.
+
     - eng: self-portrait
       ru: автопортрет
+      example: Van Gogh painted many self-portraits.
+
     - eng: self-promotion
       ru: самопродвижение, самореклама
+      example: Self-promotion is necessary in business.
+
     - eng: self-promotion
       ru: самопродвижение, самореклама
+      example: He is good at self-promotion.
+
     - eng: self-service
       ru: самообслуживание
+      example: The gas station has self-service pumps.
+
     - eng: self-service restaurant
-      ru: ресторан самообслуживания;
+      ru: ресторан самообслуживания
+      example: The cafeteria is a self-service restaurant.
+
     - eng: self-taught
       ru: самоучка
+      example: He is a self-taught programmer.
+
     - eng: self-worth
       ru: самооценка
+      example: Her self-worth is not tied to her job.
+
     - eng: selfish
       ru: эгоистичный
+      example: His selfish behaviour annoyed everyone.
+
     - eng: selfless
       ru: самоотверженный
+      example: She is a selfless volunteer.
+
     - eng: sell
       ru: продать; продавать
+      example: I want to sell my car.
+
     - eng: sell at a discount
       ru: продавать с дисконтом
+      example: The store sells last season's items at a discount.
+
     - eng: sell, sold, sold
       ru: продавать
+      example: He sold his house.
+
     - eng: selling
       ru: продажа
+      example: Selling is part of business.
+
     - eng: semaphore
       ru: семафор
+      example: The sailor used semaphore to signal.
+
     - eng: semi-dome
       ru: конха, полусвод
+      example: The apse has a semi-dome.
+
     - eng: semi-dome
       ru: полукупол
+      example: The semi-dome is decorated with mosaics.
+
     - eng: semi-loop
       ru: кольцевой маршрут с радиалкой
+      example: The semi-loop trail is great for hiking.
+
     - eng: semiconductor
       ru: полупроводник
+      example: Silicon is a semiconductor.
+
     - eng: senator
       ru: сенатор
+      example: The senator gave a speech.
+
     - eng: send
-      ru: посылать, отправлять; послать; посылать; отправлять
+      ru: посылать, отправлять; послать
+      example: Send me an email.
+
     - eng: send a fax
       ru: отправить факс
+      example: I need to send a fax.
+
     - eng: send cards
       ru: отправлять открытки
+      example: She sends cards for birthdays.
+
     - eng: send smb. to jail
       ru: отправить в тюрьму
+      example: The judge sent him to jail.
+
     - eng: send, sent, sent
       ru: посылать
+      example: They sent a package.
+
     - eng: senior editor
       ru: ведущий редактор
+      example: The senior editor approved the article.
+
     - eng: senior journalist
       ru: старший корреспондент
+      example: The senior journalist has twenty years of experience.
+
     - eng: sense
-      ru: чувство, смысл; чувство
+      ru: чувство, смысл
+      example: This sentence makes no sense.
+
     - eng: senseless
       ru: бессмысленный
+      example: The violence was senseless.
+
     - eng: sensible
-      ru: разумный; разумный
+      ru: разумный
+      example: That is a sensible decision.
+
     - eng: sensitive
       ru: чувствительный
+      example: Her skin is sensitive to sunlight.
+
     - eng: sensitivity
       ru: восприимчивость; чувствительность
+      example: The sensitivity of the microphone is high.
+
     - eng: sensitizing
       ru: сенсибилизация (фото)
+      example: Sensitizing the film improves its speed.
+
     - eng: sensitometer
       ru: сенситометр
+      example: The sensitometer measures film sensitivity.
+
     - eng: sensitometric test strip
       ru: полоса, сенситометрическая проверочная
+      example: The sensitometric test strip checks the developer.
+
     - eng: sensitometric wedge
       ru: клин, сенситометрический
+      example: The sensitometric wedge is used for calibration.
+
     - eng: sensor
       ru: датчик, сенсор
+      example: The camera sensor detects light.
+
     - eng: sentence
       ru: предложение
+      example: Write a complete sentence.
+
     - eng: sentimentalism
       ru: сентиментализм
+      example: Sentimentalism in art focuses on emotion.
+
     - eng: seoul
-      ru: Сеул
+      ru: сеул
+      example: Seoul is the capital of South Korea.
+
     - eng: separate
       ru: разделять; отдельный
+      example: Separate the eggs into yolks and whites.
+
     - eng: sepia
       ru: сепия
+      example: The old photo was in sepia.
+
     - eng: sepulchre
       ru: могильник
+      example: The ancient sepulchre was carved into rock.
+
     - eng: sequel
       ru: продолжение
+      example: The sequel to the movie was disappointing.
+
     - eng: sequoia
       ru: секвойя
+      example: The sequoia tree is very tall.
+
     - eng: serbian
       ru: серб; сербка
+      example: My neighbour is a Serbian.
+
     - eng: serenade
       ru: серенада
+      example: He sang a serenade under her window.
+
     - eng: serendipity
-      ru: Интуитивная прозорливость
+      ru: интуитивная прозорливость
+      example: Serendipity led to the discovery.
+
     - eng: serfdom
       ru: крепостное право
+      example: Serfdom was abolished in Russia in 1861.
+
     - eng: series
       ru: сериал; ряд
+      example: I watch a TV series every evening.
+
     - eng: series circuit
-      ru: неразветвленная цепь; последовательная цепь
+      ru: неразветвлённая цепь; последовательная цепь
+      example: In a series circuit, the current is the same everywhere.
+
     - eng: serious
       ru: серьёзный
+      example: This is a serious problem.
+
     - eng: seriously
       ru: серьёзно
+      example: He is seriously ill.
+
     - eng: sermon
       ru: проповедь
+      example: The priest delivered a sermon.
+
     - eng: serpent
       ru: крупная змея
+      example: The serpent slithered through the grass.
+
     - eng: servant who was carrying the cake stepped on an orange peel
-      ru: слуга, несший торт, наступил на апельсиновую корку
+      ru: слуга, нёсший торт, наступил на апельсиновую корку
+      example: The servant who was carrying the cake stepped on an orange peel and fell.
+
     - eng: serve
-      ru: обслуживать, служить; служить
+      ru: обслуживать, служить
+      example: The waiter serves food.
+
     - eng: serve on a jury
       ru: исполнять обязанности присяжных
+      example: He was called to serve on a jury.
+
     - eng: serve sentences
       ru: отбывать наказания
+      example: The prisoner serves sentences for his crimes.
+
     - eng: server
       ru: сервер
+      example: The server is down.
+
     - eng: service
       ru: служба
+      example: The service at the restaurant was excellent.
+
     - eng: service centre
       ru: сервисный центр
+      example: Take your phone to the service centre.
+
     - eng: service class
       ru: класс обслуживания
+      example: The flight has economy and business service classes.
+
     - eng: service fee
       ru: плата за услуги (амер.)
+      example: The service fee is added to the bill.
+
     - eng: service station
       ru: автомастерская
+      example: Stop at the service station for gas.
+
     - eng: serviceberry
       ru: ирга
+      example: Serviceberry fruits are sweet.
+
     - eng: serviceman
       ru: военнослужащий
+      example: The serviceman returned from deployment.
+
     - eng: services
       ru: услуги
+      example: The company offers consulting services.
+
     - eng: set
       ru: ставить; устанавливать
+      example: Set the glass on the table.
+
     - eng: set a goal
       ru: ставить цели
+      example: Set a goal for yourself.
+
     - eng: set alarm bells ringing
       ru: поднять тревогу
+      example: The news set alarm bells ringing.
+
     - eng: set down
       ru: поставить, положить
+      example: Set down your bags.
+
     - eng: set of bells
       ru: колокольчики
+      example: The set of bells chimed the hour.
+
     - eng: set of originals
       ru: комплект оригиналов
+      example: The set of originals is in the archive.
+
     - eng: set off
       ru: отправляться в путь
+      example: We set off at dawn.
+
     - eng: set out
       ru: отправляться
+      example: They set out on a journey.
+
     - eng: set up
       ru: устраивать, организовывать, создавать
+      example: Set up the tent.
+
     - eng: set, set, set
       ru: сажать, устанавливать
+      example: He set the record.
+
     - eng: set-up
       ru: устройство
+      example: The set-up of the room is efficient.
+
     - eng: setback
       ru: неудача
+      example: The project suffered a setback.
+
     - eng: settee
       ru: небольшой диван
+      example: She sat on the settee.
+
     - eng: setting
       ru: место действия
+      example: The setting of the novel is Paris.
+
     - eng: settle
       ru: обустроиться
+      example: They settled in a new town.
+
     - eng: settle a dispute
       ru: урегулировать спор
+      example: The mediator helped settle the dispute.
+
     - eng: settle a lawsuit
       ru: разрешать правовой спор, тяжбу
+      example: The parties agreed to settle the lawsuit.
+
     - eng: settlement
       ru: поселение
+      example: The settlement was founded in 1800.
+
     - eng: settlers
       ru: поселенцы
+      example: The settlers built log cabins.
+
     - eng: seven
       ru: семь
+      example: There are seven days in a week.
+
     - eng: seven card stud
       ru: семикарточный стад-покер
+      example: Seven card stud is a classic poker game.
+
     - eng: seven-stick candelabrum
       ru: семисвечник
+      example: The seven-stick candelabrum is a menorah.
+
     - eng: sevens rule
       ru: правило семерок
+      example: The sevens rule applies in some poker variants.
+
     - eng: seventeen
       ru: семнадцать
+      example: She is seventeen years old.
+
     - eng: seventeenth
       ru: семнадцатый
+      example: Today is the seventeenth of April.
+
     - eng: seventh
       ru: септима; седьмой
+      example: He finished in seventh place.
+
     - eng: seventh street
       ru: седьмая улица
+      example: Turn left onto Seventh Street.
+
     - eng: seventieth
       ru: семидесятый
+      example: He celebrated his seventieth birthday.
+
     - eng: seventy
       ru: семьдесят
+      example: Seventy people attended.
+
     - eng: several
       ru: несколько
+      example: Several students were late.
+
     - eng: several disagreements have yet to be resolved
-      ru: несколько разногласий еще предстоит урегулировать
+      ru: несколько разногласий ещё предстоит урегулировать
+      example: Several disagreements have yet to be resolved.
+
     - eng: sew
       ru: шить
+      example: She sews her own dresses.
+
     - eng: sew, sewed, sewed
       ru: шить, пришивать
+      example: He sewed a button on his shirt.
+
     - eng: sew, sewed, sewn
       ru: шить
+      example: The dress was sewn by hand.
+
     - eng: sew, sewed, sewn/sewed
       ru: шить
+      example: She sewed a patch on the knee.
+
     - eng: sewing-machine
       ru: швейная машинка
+      example: Use a sewing-machine to make the curtains.
+
     - eng: sex education
       ru: сексуальное воспитание
+      example: Sex education is taught in schools.
+
     - eng: sex-linked
       ru: сцепленный с полом
+      example: Colour blindness is a sex-linked trait.
+
     - eng: sextet
       ru: секстет
+      example: The jazz sextet performed.
+
     - eng: sexual organs
       ru: половые органы
+      example: Sexual organs are used for reproduction.
+
     - eng: sexual reproduction
       ru: половое размножение
+      example: Sexual reproduction involves two parents.
+
     - eng: shad
       ru: абажур
+      example: The lamp has a silk shad.
+
     - eng: shadberry
       ru: ирга
+      example: Shadberry is another name for serviceberry.
+
     - eng: shade
       ru: тень
+      example: Sit in the shade.
+
     - eng: shades
       ru: тени
+      example: The shades of colour are beautiful.
+
     - eng: shading
       ru: светотень
+      example: The artist used shading to create depth.
+
     - eng: shadow
       ru: тень
+      example: The tree cast a long shadow.
+
     - eng: shaft
       ru: ствол
+      example: The elevator shaft is deep.
+
     - eng: shake
       ru: трясти
+      example: Shake the bottle before use.
+
     - eng: shake like a leaf
       ru: трястись как осиновый лист
+      example: He was shaking like a leaf from fear.
+
     - eng: shake, shook, shaken
       ru: трясти
+      example: The earthquake shook the building.
+
     - eng: shale
       ru: сланец
+      example: Shale is a sedimentary rock.
+
     - eng: shale oil
       ru: сланцевая нефть
+      example: Shale oil is extracted from rock.
+
     - eng: shallot
       ru: лук-шалот
+      example: Shallots have a mild flavour.
+
     - eng: shallow
       ru: мелководье
+      example: The water is shallow near the shore.
+
     - eng: shallow angle
       ru: небольшой угол
+      example: The camera was at a shallow angle.
+
     - eng: shallow water blackout
       ru: потеря сознания при нырянии с задержкой дыхания в результате недостатка кислорода
+      example: Shallow water blackout is a risk for freedivers.
+
     - eng: shame on you
-      ru: Как тебе не стыдно!
+      ru: как тебе не стыдно!
+      example: Shame on you for lying.
+
     - eng: shampoo
       ru: шампунь
+      example: Wash your hair with shampoo.
+
     - eng: shamrock
       ru: трилистник
+      example: The shamrock is a symbol of Ireland.
+
     - eng: shape
       ru: форма
+      example: The shape of the ball is round.
+
     - eng: shaping
       ru: шейпинг
+      example: Shaping is a fitness class.
+
     - eng: share
       ru: делиться; делить; разделять; совместно использовать
+      example: Share your food with your brother.
+
     - eng: share capital
       ru: акционерный капитал
+      example: The company's share capital is one million.
+
     - eng: share of mind
       ru: ассоциирование с маркой
+      example: The brand has a high share of mind.
+
     - eng: shareholder
       ru: акционер
+      example: The shareholders voted on the issue.
+
     - eng: shares
       ru: акции
+      example: He owns shares in the company.
+
     - eng: sharia(h)
       ru: шариат
+      example: Sharia law is followed in some countries.
+
     - eng: sharing ideas
       ru: обмен идеями
+      example: Sharing ideas leads to innovation.
+
     - eng: shark
       ru: акула
+      example: The shark swam near the boat.
+
     - eng: sharp
       ru: резкий; острый
+      example: This knife is very sharp.
+
     - eng: sharpen all your blunt knives
-      ru: Наточи все свои тупые ножи
+      ru: наточи все свои тупые ножи
+      example: Sharpen all your blunt knives before cooking.
+
     - eng: sharpness of image
       ru: резкость изображения
+      example: The sharpness of image depends on the lens.
+
     - eng: shave
       ru: бриться
+      example: He shaves every morning.
+
     - eng: shawl
       ru: шаль
+      example: She wore a woollen shawl.
+
     - eng: she
       ru: она
+      example: She is my sister.
+
     - eng: she abused her friend's trust
       ru: она злоупотребила доверием своей подруги
+      example: She abused her friend's trust by spreading secrets.
+
     - eng: she accepted his offer with gratitude
       ru: она с благодарностью приняла его предложение
+      example: She accepted his offer with gratitude.
+
     - eng: she always shows up late
       ru: она всегда приходит поздно
+      example: She always shows up late to meetings.
+
     - eng: she asked a lot of naive questions
       ru: она задавала много наивных вопросов
+      example: She asked a lot of naive questions during the interview.
+
     - eng: she awaited her punishment with dread
       ru: она со страхом ожидала своего наказания
+      example: She awaited her punishment with dread.
+
     - eng: she began polishing the boot again
       ru: она снова принялась полировать ботинок
+      example: She began polishing the boot again until it shone.
+
     - eng: she called for a tow last night
-      ru: Прошлой ночью она вызвала эвакуатор
+      ru: прошлой ночью она вызвала эвакуатор
+      example: She called for a tow last night when her car broke down.
+
     - eng: she cannot conceive
       ru: она не может забеременеть
+      example: She cannot conceive despite trying for years.
+
     - eng: she captured all the men's hearts
-      ru: Она покорила все мужские сердца
+      ru: она покорила все мужские сердца
+      example: She captured all the men's hearts with her charm.
+
     - eng: she checked her makeup
       ru: она проверила свой макияж
+      example: She checked her makeup in the mirror.
+
     - eng: she collapsed on the sofa
       ru: она рухнула на диван
+      example: She collapsed on the sofa after a long day.
+
     - eng: she complained of being persecuted by the press
       ru: она жаловалась на преследование со стороны прессы
+      example: She complained of being persecuted by the press.
+
     - eng: she conveyed the message to me
       ru: она передала мне это послание
+      example: She conveyed the message to me in person.
+
     - eng: she could not stop sobbing
       ru: она не могла перестать рыдать
+      example: She could not stop sobbing after the sad news.
+
     - eng: she could speak on a hoarse whisper
-      ru: она могла говорить хриплым шепотом
+      ru: она могла говорить хриплым шёпотом
+      example: She could speak only in a hoarse whisper.
+
     - eng: she couldn't suppress her anger
       ru: она не могла подавить свой гнев
+      example: She couldn't suppress her anger any longer.
+
     - eng: she dedicated her life to combating poverty
       ru: она посвятила свою жизнь борьбе с бедностью
+      example: She dedicated her life to combating poverty.
+
     - eng: she described the horrific accident in detail
       ru: она подробно описала ужасный несчастный случай
+      example: She described the horrific accident in detail.
+
     - eng: she did it out of sheer malice
       ru: она сделала это из чистой злобы
+      example: She did it out of sheer malice.
+
     - eng: she didn't bake this cake I did
       ru: не она пекла этот пирог, а я
+      example: She didn't bake this cake; I did.
+
     - eng: she didn't fit the typecast pop-star image at all
       ru: она совершенно не соответствовала типичному образу поп-звезды
+      example: She didn't fit the typecast pop-star image at all.
+
     - eng: she didn't want to cook, and neither did her sister
-      ru: она не хотела готовить, и ее сестра тоже
+      ru: она не хотела готовить, и её сестра тоже
+      example: She didn't want to cook, and neither did her sister.
+
     - eng: she doesn't manifest much desire
       ru: она не проявляет особого желания
+      example: She doesn't manifest much desire to succeed.
+
     - eng: she drank herself into oblivion
       ru: она напилась до беспамятства
+      example: She drank herself into oblivion at the party.
+
     - eng: she drops me off at the groceries
       ru: она высаживает меня у магазина
+      example: She drops me off at the groceries on her way to work.
+
     - eng: she embarked upon a new career
       ru: она начала новую карьеру
+      example: She embarked upon a new career as a teacher.
+
     - eng: she emulated the success of her predecessor
       ru: она подражала успеху своей предшественницы
+      example: She emulated the success of her predecessor.
+
     - eng: she endorses a line of clothing
-      ru: Она одобряет линию одежды
+      ru: она одобряет линию одежды
+      example: She endorses a line of clothing for a major brand.
+
     - eng: she eventually overcame the deprivations of her childhood
       ru: в конце концов она преодолела лишения своего детства
+      example: She eventually overcame the deprivations of her childhood.
+
     - eng: she exhibited her paintings
       ru: она выставляла свои картины
+      example: She exhibited her paintings at the gallery.
+
     - eng: she exposed their sham and hypocrisy
       ru: она разоблачила их притворство и лицемерие
+      example: She exposed their sham and hypocrisy in public.
+
     - eng: she felt terribly airsick
-      ru: ее ужасно укачивало в воздухе
+      ru: её ужасно укачивало в воздухе
+      example: She felt terribly airsick during the flight.
+
     - eng: she gave a memorable performance
       ru: она дала незабываемое представление
+      example: She gave a memorable performance on stage.
+
     - eng: she gave an affirmative answer
       ru: она дала утвердительный ответ
+      example: She gave an affirmative answer without hesitation.
+
     - eng: she gazed at the statue with awe
       ru: она с благоговением смотрела на статую
+      example: She gazed at the statue with awe.
+
     - eng: she got in through a gap in the hedge
       ru: она проникла внутрь через щель в живой изгороди
+      example: She got in through a gap in the hedge.
+
     - eng: she got lost in the throng
       ru: она затерялась в толпе
+      example: She got lost in the throng of people.
+
     - eng: she had been under the police surveillance
       ru: она находилась под наблюдением полиции
+      example: She had been under police surveillance for weeks.
+
     - eng: she had an immaculate record of service
-      ru: у нее был безупречный послужной список
+      ru: у неё был безупречный послужной список
+      example: She had an immaculate record of service.
+
     - eng: she had promised improvements during her presidency
       ru: она обещала улучшения во время своего президентства
+      example: She had promised improvements during her presidency.
+
     - eng: she has a bold personality
-      ru: у нее смелый характер
+      ru: у неё смелый характер
+      example: She has a bold personality.
+
     - eng: she has a distinguished career
-      ru: у нее выдающаяся карьера
+      ru: у неё выдающаяся карьера
+      example: She has a distinguished career in medicine.
+
     - eng: she has a mature outlook on life
-      ru: у нее зрелый взгляд на жизнь
+      ru: у неё зрелый взгляд на жизнь
+      example: She has a mature outlook on life.
+
     - eng: she has a pale complexion
-      ru: У нее бледный цвет лица
+      ru: у неё бледный цвет лица
+      example: She has a pale complexion.
+
     - eng: she has a passionate interest in animal rights
       ru: она страстно интересуется правами животных
+      example: She has a passionate interest in animal rights.
+
     - eng: she has a slender figure
-      ru: у нее стройная фигура
+      ru: у неё стройная фигура
+      example: She has a slender figure.
+
     - eng: she has an inborn talent for music
-      ru: у нее врожденный талант к музыке
+      ru: у неё врождённый талант к музыке
+      example: She has an inborn talent for music.
+
     - eng: she has an infectious grin
-      ru: у неё заразительный смех
+      ru: у неё заразительная улыбка
+      example: She has an infectious grin.
+
     - eng: she has an innate sense of rhythm
-      ru: у нее врожденное чувство ритма
+      ru: у неё врождённое чувство ритма
+      example: She has an innate sense of rhythm.
+
     - eng: she has endured disappointment with fortitude
       ru: она стойко перенесла разочарование
+      example: She has endured disappointment with fortitude.
+
     - eng: she hasn't been returning my phone calls
-      ru: Она не перезванивает мне
+      ru: она не перезванивает мне
+      example: She hasn't been returning my phone calls.
+
     - eng: she heard the splash of water
       ru: она услышала плеск воды
+      example: She heard the splash of water from the pool.
+
     - eng: she helped us without knowing it
-      ru: она помогла нам, сама того не зная.
+      ru: она помогла нам, сама того не зная
+      example: She helped us without knowing it.
+
     - eng: she hunted around in the closet
       ru: она порылась в шкафу
+      example: She hunted around in the closet for her shoes.
+
     - eng: she is a dedicated socialist
-      ru: она убежденная социалистка
+      ru: она убеждённая социалистка
+      example: She is a dedicated socialist.
+
     - eng: she is an idiot
       ru: она идиотка
+      example: She is an idiot for doing that.
+
     - eng: she is still at work
-      ru: она все еще на работе
+      ru: она всё ещё на работе
+      example: She is still at work at this hour.
+
     - eng: she is uninterested in fame
-      ru: Она равнодушна к славе
+      ru: она равнодушна к славе
+      example: She is uninterested in fame.
+
     - eng: she is unusually charitable to me
       ru: она необычайно добра ко мне
+      example: She is unusually charitable to me.
+
     - eng: she is unwilling to participate in it
       ru: она не желает в этом участвовать
+      example: She is unwilling to participate in it.
+
     - eng: she is washing clothes
       ru: она стирает одежду
+      example: She is washing clothes in the basement.
+
     - eng: she let out a piercing shriek
       ru: она издала пронзительный крик
+      example: She let out a piercing shriek when she saw the mouse.
+
     - eng: she levered up the drain cover
       ru: она приподняла сливную крышку
+      example: She levered up the drain cover with a tool.
+
     - eng: she lived a quiet, frugal existence
       ru: она вела тихое, скромное существование
+      example: She lived a quiet, frugal existence.
+
     - eng: she lives in a rural area
-      ru: она живет в сельской местности
+      ru: она живёт в сельской местности
+      example: She lives in a rural area.
+
     - eng: she looked at him with reproach
-      ru: она посмотрела на него с упреком
+      ru: она посмотрела на него с упрёком
+      example: She looked at him with reproach.
+
     - eng: she looked the epitome of elegance
       ru: она выглядела воплощением элегантности
+      example: She looked the epitome of elegance in her gown.
+
     - eng: she made a bid on the painting
-      ru: Она сделала ставку на картину
+      ru: она сделала ставку на картину
+      example: She made a bid on the painting at the auction.
+
     - eng: she makes a charitable donation every year
       ru: каждый год она делает благотворительное пожертвование
+      example: She makes a charitable donation every year.
+
     - eng: she managed to turn a lothario into a devoted husband
       ru: ей удалось превратить бабника в преданного мужа
+      example: She managed to turn a lothario into a devoted husband.
+
     - eng: she paused, composing her thoughts
       ru: она помолчала, собираясь с мыслями
+      example: She paused, composing her thoughts before speaking.
+
     - eng: she played the part of the wicked stepmother in the play
       ru: она сыграла в пьесе роль злой мачехи
+      example: She played the part of the wicked stepmother in the play.
+
     - eng: she plays the role with great relish
       ru: она играет эту роль с большим удовольствием
+      example: She plays the role with great relish.
+
     - eng: she poured more wine and took a sip
-      ru: Она налила еще вина и сделала глоток
+      ru: она налила ещё вина и сделала глоток
+      example: She poured more wine and took a sip.
+
     - eng: she prepares wholesome meals
       ru: она готовит полезные блюда
+      example: She prepares wholesome meals for her family.
+
     - eng: she registered her new car
       ru: она зарегистрировала свою новую машину
+      example: She registered her new car at the DMV.
+
     - eng: she said she was too busy for this case
       ru: она сказала, что слишком занята для этого дела
+      example: She said she was too busy for this case.
+
     - eng: she sealed the letter with hot wax
       ru: она запечатала письмо горячим воском
+      example: She sealed the letter with hot wax.
+
     - eng: she set about rearranging the furniture in the living room
       ru: она принялась переставлять мебель в гостиной
+      example: She set about rearranging the furniture in the living room.
+
     - eng: she shows compassion to the sick
       ru: она проявляет сострадание к больным
+      example: She shows compassion to the sick.
+
     - eng: she shrieked when she saw a mouse
       ru: она взвизгнула, когда увидела мышь
+      example: She shrieked when she saw a mouse.
+
     - eng: she slipped and hit her head on the sidewalk
       ru: она поскользнулась и ударилась головой о тротуар
+      example: She slipped and hit her head on the sidewalk.
+
     - eng: she snatched the toy from his hands
       ru: она выхватила игрушку у него из рук
+      example: She snatched the toy from his hands.
+
     - eng: she sneered at her little sister
       ru: она насмехалась над своей младшей сестрой
+      example: She sneered at her little sister.
+
     - eng: she specializes in honey bees
-      ru: она специализируется на медоносных пчелах
+      ru: она специализируется на медоносных пчёлах
+      example: She specializes in honey bees.
+
     - eng: she started her algebra homework
       ru: она приступила к домашнему заданию по алгебре
+      example: She started her algebra homework.
+
     - eng: she still hasn't emptied the tub
-      ru: она все еще не вылила ванну
+      ru: она всё ещё не вылила ванну
+      example: She still hasn't emptied the tub.
+
     - eng: she stutters when she gets excited
       ru: она заикается, когда волнуется
+      example: She stutters when she gets excited.
+
     - eng: she takes on more responsibility
-      ru: она берет на себя больше ответственности
+      ru: она берёт на себя больше ответственности
+      example: She takes on more responsibility at work.
+
     - eng: she thinks you laze about the house
       ru: она думает, что ты бездельничаешь по дому
+      example: She thinks you laze about the house all day.
+
     - eng: she used a wallpaperfor the trim
       ru: для отделки она использовала обои
+      example: She used a wallpaper for the trim.
+
     - eng: she uttered a few words to them
       ru: она сказала им несколько слов
+      example: She uttered a few words to them before leaving.
+
     - eng: she wants to hire a tutor for a girl under ten years old
       ru: она хочет нанять репетитора для девочки младше десяти лет
+      example: She wants to hire a tutor for a girl under ten years old.
+
     - eng: she was a little old lady, dressed in black
-      ru: это была маленькая пожилая леди, одетая в черное
+      ru: это была маленькая пожилая леди, одетая в чёрное
+      example: She was a little old lady, dressed in black.
+
     - eng: she was addicted before she met him
-      ru: она была зависима еще до того, как встретила его
+      ru: она была зависима ещё до того, как встретила его
+      example: She was addicted before she met him.
+
     - eng: she was forced
-      ru: Она была вынуждена
+      ru: она была вынуждена
+      example: She was forced to resign.
+
     - eng: she was forced to leave in disgrace
       ru: она была вынуждена уйти с позором
+      example: She was forced to leave in disgrace.
+
     - eng: she was plucking her eyebrows with a tweezer
       ru: она выщипывала брови пинцетом
+      example: She was plucking her eyebrows with a tweezer.
+
     - eng: she was scared of losing her purse
       ru: она боялась потерять свою сумочку
+      example: She was scared of losing her purse.
+
     - eng: she was tired of struggling
       ru: она устала бороться
+      example: She was tired of struggling.
+
     - eng: she was very confident and sporty
       ru: она была очень уверенной в себе и спортивной
+      example: She was very confident and sporty.
+
     - eng: she was wearing a red anorak
-      ru: Она была одета в красную куртку с капюшоном
+      ru: она была одета в красную куртку с капюшоном
+      example: She was wearing a red anorak.
+
     - eng: she went to the party disguised as a princess
-      ru: Она пришла на вечеринку переодетой принцессой
+      ru: она пришла на вечеринку переодетой принцессой
+      example: She went to the party disguised as a princess.
+
     - eng: she wept all day after reading it
       ru: прочитав это, она проплакала весь день
+      example: She wept all day after reading it.
+
     - eng: she will finish her lunch at two pm
       ru: она закончит свой обед в два часа дня
+      example: She will finish her lunch at two pm.
+
     - eng: she will not have been dancing very long by the time we get to the theatre
-      ru: Они не будет танцевать очень долго к тому моменту, как мы доберёмся до театра
+      ru: она не будет танцевать очень долго к тому моменту, как мы доберёмся до театра
+      example: She will not have been dancing very long by the time we get to the theatre.
+
     - eng: she will not have been staying even a month before she moves out
       ru: она не пробудет здесь и месяца, прежде чем съедет
+      example: She will not have been staying even a month before she moves out.
+
     - eng: she won a tennis trophy
       ru: она выиграла теннисный трофей
+      example: She won a tennis trophy.
+
     - eng: she wondered whether he had heard it
       ru: она гадала, слышал ли он это
+      example: She wondered whether he had heard it.
+
     - eng: she wore a hair ornament
       ru: она носила украшение для волос
+      example: She wore a hair ornament.
+
     - eng: she wore a pinstriped dark suit
-      ru: на ней был темный костюм в тонкую полоску
+      ru: на ней был тёмный костюм в тонкую полоску
+      example: She wore a pinstriped dark suit.
+
     - eng: she would have cleaned your room if she had had time
-      ru: она бы убрала твою комнату, если бы у нее было время
+      ru: она бы убрала твою комнату, если бы у неё было время
+      example: She would have cleaned your room if she had had time.
+
     - eng: she would have gone to the dancing class if she hadn't broke her leg
       ru: она бы пошла на урок танцев, если бы не сломала ногу
+      example: She would have gone to the dancing class if she hadn't broken her leg.
+
     - eng: she writes in very clear prose
-      ru: она пишет очень ясной прозой; она пишет очень ясной прозой
+      ru: она пишет очень ясной прозой
+      example: She writes in very clear prose.
+
     - eng: she wrote her letters in a colloquial style
       ru: она писала свои письма в разговорном стиле
+      example: She wrote her letters in a colloquial style.
+
     - eng: she wrote him an hysterical letter
       ru: она написала ему истеричное письмо
+      example: She wrote him a hysterical letter.
+
     - eng: she'll be over the moon
       ru: она будет на седьмом небе от счастья
+      example: She'll be over the moon when she hears the news.
+
     - eng: she's knitting a sweater
       ru: она вяжет свитер
+      example: She's knitting a sweater for her grandson.
+
     - eng: she's stunning
-      ru: Она сногсшибательна
+      ru: она сногсшибательна
+      example: She's stunning in that dress.
+
     - eng: she's the clever one in the family
       ru: она самая умная в семье
+      example: She's the clever one in the family.
+
     - eng: she's too stubborn
       ru: она слишком упряма
+      example: She's too stubborn to admit she is wrong.
+
+
     - eng: she's training to be a paramedic
       ru: она учится на парамедика
     - eng: she's wearing braces
