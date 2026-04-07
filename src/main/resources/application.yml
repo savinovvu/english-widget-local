@@ -46913,1108 +46913,2212 @@ app.words:
 
     - eng: masterpiece
       ru: шедевр
+      example: The painting is a true masterpiece.
+
     - eng: mastersinger
       ru: мейстерзингеры
+      example: The mastersinger performed at the festival.
+
     - eng: match
       ru: спичка
+      example: He lit a match to start the fire.
+
     - eng: mate
       ru: приятель
+      example: He is my old mate from school.
+
     - eng: material
       ru: вещество; материал
+      example: Wood is a natural material.
+
     - eng: material evidence
       ru: вещественное доказательство
+      example: The knife was presented as material evidence.
+
     - eng: materialistic
       ru: практичный
+      example: He is too materialistic for my taste.
+
     - eng: maternal
       ru: материнский
+      example: She has strong maternal instincts.
+
     - eng: maternity leave
       ru: декретный отпуск
+      example: She is on maternity leave for six months.
+
     - eng: mathematical biology
       ru: математическая биология
+      example: Mathematical biology uses equations to model living systems.
+
     - eng: mathematical equations
       ru: математические уравнения
+      example: Mathematical equations describe physical phenomena.
+
     - eng: mathematics
       ru: математика
+      example: Mathematics is my favourite subject.
+
     - eng: mathematics education
       ru: математическое образование
+      example: Mathematics education is important for engineers.
+
     - eng: matins
       ru: утреня
+      example: The monks gathered for matins at dawn.
+
     - eng: matriarchy
       ru: матриархат
+      example: Some ancient societies were matriarchies.
+
     - eng: matrimonial matters
       ru: супружеские вопросы
+      example: The lawyer specializes in matrimonial matters.
+
     - eng: matrix
       ru: матрица
+      example: The data is arranged in a matrix.
+
     - eng: matrix organization
       ru: матричная структура
+      example: The company uses a matrix organization.
+
     - eng: matter
       ru: иметь значение
+      example: Your opinion matters to me.
+
     - eng: matter of fact
       ru: на самом деле
+      example: As a matter of fact, I know him well.
+
     - eng: matter-of-fact
       ru: основанный на фактах
+      example: She gave a matter-of-fact explanation.
+
     - eng: mattins
       ru: утреня
+      example: Mattins is held early in the morning.
+
     - eng: mattress
       ru: тюфяк
+      example: The mattress is very comfortable.
+
     - eng: mature
       ru: зрелый
+      example: He is mature for his age.
+
     - eng: maturity
       ru: срок платежа
+      example: The bond reaches maturity in five years.
+
     - eng: maturity date
       ru: срок погашения; дата погашения
+      example: The loan's maturity date is next June.
+
     - eng: maverick
       ru: независимый человек
+      example: He is a maverick who follows his own rules.
+
     - eng: maxim
       ru: правило
+      example: Honesty is the best maxim to live by.
+
     - eng: maxim of war
       ru: максима войны
+      example: Know your enemy is a famous maxim of war.
+
     - eng: maximum
       ru: максимум
+      example: The temperature reached its maximum at noon.
+
     - eng: maximum cable capacitance
       ru: максимальная ёмкость кабеля
+      example: Exceeding the maximum cable capacitance causes signal loss.
+
     - eng: maximum frictional
       ru: максимальное трение
+      example: The maximum frictional force prevents slipping.
+
     - eng: maximum input voltage
       ru: максимальное входное напряжение
+      example: Do not exceed the maximum input voltage.
+
     - eng: maximum output power
       ru: максимальная выходная мощность
+      example: The amplifier has a maximum output power of 100 watts.
+
     - eng: maximum surface temperature
       ru: максимальная температура поверхности
+      example: The engine's maximum surface temperature is critical.
+
     - eng: maximum velocity to height ratio
       ru: соотношение максимальной скорости к высоте
+      example: The drone has a safe maximum velocity to height ratio.
+
     - eng: may all of your wishes come true
-      ru: Пусть все ваши желания сбудутся
+      ru: пусть все ваши желания сбудутся
+      example: May all of your wishes come true on your birthday.
+
     - eng: may I have some cereal
       ru: можно мне немного хлопьев
+      example: May I have some cereal for breakfast?
+
     - eng: may I say a word
       ru: могу я сказать пару слов
+      example: May I say a word before we start?
+
     - eng: may I see a room
       ru: могу я осмотреть комнату
+      example: May I see a room before I book it?
+
     - eng: may I see the pipe
       ru: могу я взглянуть на трубу
+      example: May I see the pipe to check for leaks?
+
     - eng: may I take a seat
       ru: могу я присесть
+      example: May I take a seat while I wait?
+
     - eng: may I use the phone
       ru: могу я воспользоваться телефоном
+      example: May I use the phone to make a call?
+
     - eng: may the force be with you
-      ru: Да пребудет с тобой Сила
+      ru: да пребудет с тобой сила
+      example: May the force be with you, said the Jedi.
+
     - eng: may we have a word
       ru: можем мы перекинуться парой слов
+      example: May we have a word in private?
+
     - eng: may you succeed and achieve all of your goals this year
       ru: желаю вам успеха и достижения всех ваших целей в этом году
+      example: May you succeed and achieve all of your goals this year.
+
     - eng: may, might, might
       ru: мочь, иметь возможность
+      example: He may come to the party if he is free.
+
     - eng: maybe
       ru: может быть; возможно
+      example: Maybe it will rain tomorrow.
+
     - eng: maybe five to ten minutes
       ru: может быть, пять-десять минут
+      example: The wait will be maybe five to ten minutes.
+
     - eng: mayflower
-      ru: Мэйфлауэр
+      ru: мэйфлауэр
+      example: The Mayflower brought pilgrims to America.
+
     - eng: mayonnaise
       ru: майонез
+      example: Add mayonnaise to the salad.
+
     - eng: mayor court
       ru: суд мэра
+      example: The case was heard in mayor court.
+
     - eng: mazurka
       ru: мазурка
+      example: The orchestra played a mazurka.
+
     - eng: me
       ru: меня; мне
+      example: Can you help me?
+
     - eng: meadow
       ru: луг
+      example: The cows grazed in the meadow.
+
     - eng: meal
       ru: еда
+      example: We had a delicious meal.
+
     - eng: mean
-      ru: значить; иметь ввиду; жадный
+      ru: значить; иметь в виду; жадный
+      example: What does this word mean?
+
     - eng: mean, meant, meant
       ru: значить
+      example: I meant what I said.
+
     - eng: meanwhile time slips through my fingers
       ru: тем временем время утекает у меня сквозь пальцы
+      example: Meanwhile time slips through my fingers, and I am not ready.
+
     - eng: measles
       ru: корь
+      example: Measles is a contagious disease.
+
     - eng: measure
       ru: мера; иметь размер
+      example: Measure the length of the table.
+
     - eng: measurement
       ru: измерение
+      example: Accurate measurement is important.
+
     - eng: measurements
       ru: измерения
+      example: Take the measurements of the room.
+
     - eng: measuring cup
       ru: мерная чашка
+      example: Use a measuring cup for the flour.
+
     - eng: measuring spoon
       ru: мерная ложка
+      example: Add one teaspoon using a measuring spoon.
+
     - eng: meat
       ru: мясо
+      example: I do not eat red meat.
+
     - eng: meat grinder
       ru: мясорубка
+      example: Grind the meat with a meat grinder.
+
     - eng: meat tenderizer
       ru: молоток для отбивания мяса
+      example: Use a meat tenderizer to soften the steak.
+
     - eng: meat thermometer
       ru: термометр для мяса
+      example: Check the roast with a meat thermometer.
+
     - eng: meccano
-      ru: конструктор(игра)
+      ru: конструктор (игра)
+      example: The child built a tower with Meccano.
+
     - eng: mechanical energy
       ru: механическая энергия
+      example: A moving car has mechanical energy.
+
     - eng: mechanical system
       ru: механическая система
+      example: The clock is a mechanical system.
+
     - eng: medal
       ru: медаль
+      example: He won a gold medal.
+
     - eng: media
       ru: средства массовой информации
+      example: The media reported the news.
+
     - eng: media clutter
       ru: перегруженность средств рекламы
+      example: Media clutter makes it hard to reach consumers.
+
     - eng: media event
       ru: информационный повод
+      example: The press conference was a major media event.
+
     - eng: media kit
       ru: медиакит
+      example: The company sent a media kit to journalists.
+
     - eng: media mix
       ru: медиа-микс
+      example: The advertising campaign used a media mix.
+
     - eng: media monitoring
       ru: мониторинг СМИ
+      example: Media monitoring tracks brand mentions.
+
     - eng: media planning
       ru: медиапланирование
+      example: Media planning allocates the advertising budget.
+
     - eng: media-man
-      ru: работник сми
+      ru: работник СМИ
+      example: The media-man interviewed the celebrity.
+
     - eng: median
       ru: медиана
+      example: The median income has increased.
+
     - eng: medical education
       ru: медицинское образование
+      example: Medical education takes many years.
+
     - eng: medical examination
       ru: медицинское освидетельствование
+      example: The job requires a medical examination.
+
     - eng: medical insurance
       ru: медицинская страховка
+      example: Do you have medical insurance?
+
     - eng: medical insurance gives us time to get well, anyway
-      ru: медицинская страховка в любом случае дает нам время на выздоровление
+      ru: медицинская страховка в любом случае даёт нам время на выздоровление
+      example: Medical insurance gives us time to get well, anyway.
+
     - eng: medical school
       ru: медицинская школа
+      example: She wants to go to medical school.
+
     - eng: medicine
       ru: лекарство
+      example: Take your medicine three times a day.
+
     - eng: meditation
       ru: медитация
+      example: Meditation helps reduce stress.
+
     - eng: medium
       ru: среда; носитель
+      example: Water is the medium for the fish.
+
     - eng: medium height
       ru: средний рост
+      example: He is of medium height.
+
     - eng: medium rare
       ru: средне прожаренный; средней прожарки
+      example: I like my steak medium rare.
+
     - eng: meet
       ru: видеться; встречаться; встречать
+      example: Let us meet at the station.
+
     - eng: meet a need
       ru: удовлетворять нужды
+      example: This product meets a need.
+
     - eng: meet with a client
       ru: встретиться с клиентом
+      example: I need to meet with a client today.
+
     - eng: meet, met, met
       ru: встречать, знакомиться
+      example: We met at a conference.
+
     - eng: meeting
       ru: встреча
+      example: The meeting starts at ten.
+
     - eng: meeting people
       ru: знакомство с людьми
+      example: Meeting people is easy at parties.
+
     - eng: meeting point
       ru: место встречи
+      example: The fountain is our meeting point.
+
     - eng: meetup
       ru: неформальная встреча
+      example: We organized a meetup for developers.
+
     - eng: megalith
       ru: мегалит
+      example: Stonehenge is a famous megalith.
+
     - eng: megamouth shark
       ru: большеротая акула
+      example: The megamouth shark is a rare species.
+
     - eng: megapixel
       ru: мегапиксель
+      example: The camera has 20 megapixels.
+
     - eng: megger
       ru: мегомметр
+      example: The technician used a megger to test insulation.
+
     - eng: meiosis
       ru: мейоз
+      example: Meiosis produces gametes.
+
     - eng: melancholy
       ru: меланхолия; меланхоличный
+      example: A feeling of melancholy filled the room.
+
     - eng: melodrama
       ru: мелодрама
+      example: The film is a melodrama about love.
+
     - eng: melody
       ru: мелодия
+      example: The melody is very catchy.
+
     - eng: melon
       ru: дыня
+      example: This melon is very sweet.
+
     - eng: melting
-      ru: Плавление
+      ru: плавление
+      example: The melting of ice causes sea levels to rise.
+
     - eng: melting point
       ru: температура плавления
+      example: The melting point of iron is high.
+
     - eng: member
       ru: участник
+      example: She is a member of the club.
+
     - eng: member of parliament
-      ru: Член Парламента
+      ru: член парламента
+      example: The member of parliament gave a speech.
+
     - eng: membrana
       ru: оболочка
+      example: The membrana surrounds the cell.
+
     - eng: membrane
       ru: мембрана
+      example: The cell membrane controls what enters.
+
     - eng: memorial service
       ru: поминальная служба
+      example: The memorial service was held at the church.
+
     - eng: memory
       ru: память
+      example: She has a good memory.
+
     - eng: memory of
       ru: воспоминания о
+      example: The memory of our trip makes me happy.
+
     - eng: mend
       ru: чинить
+      example: Can you mend my shirt?
+
     - eng: menorah
       ru: менора
+      example: The menorah is lit during Hanukkah.
+
     - eng: mention
       ru: упоминать
+      example: Did he mention the meeting?
+
     - eng: mentor
       ru: наставник
+      example: My mentor guided me through my career.
+
     - eng: menu
       ru: меню
+      example: Can I see the menu, please?
+
     - eng: mercenary
       ru: наёмник
+      example: The mercenary fought for money.
+
     - eng: mercury
-      ru: Меркурий
+      ru: меркурий
+      example: Mercury is the closest planet to the Sun.
+
     - eng: merger
       ru: слияние
+      example: The merger of the two companies was announced.
+
     - eng: meridian
       ru: меридиан
+      example: The prime meridian passes through Greenwich.
+
     - eng: merrily
       ru: радостно; весело
+      example: The children sang merrily.
+
     - eng: mess
       ru: беспорядок
+      example: His room is a mess.
+
     - eng: message
       ru: сообщение
+      example: I received your message.
+
     - eng: messenger
       ru: курьер
+      example: The messenger delivered the package.
+
     - eng: messiah
       ru: мессия
+      example: The prophecy foretold the coming of the Messiah.
+
     - eng: metabolic
       ru: метаболический
+      example: Metabolic rate varies between individuals.
+
     - eng: metabolism
       ru: обмен веществ
+      example: Exercise boosts your metabolism.
+
     - eng: metacarpals
       ru: пястная кость
+      example: The metacarpals are in the hand.
+
     - eng: metal
       ru: металл
+      example: Iron is a strong metal.
+
     - eng: metalloid
       ru: металлоид
+      example: Silicon is a metalloid.
+
     - eng: metamorphic
       ru: метаморфический
+      example: Marble is a metamorphic rock.
+
     - eng: metamorphic deposit
       ru: метаморфическое месторождение
+      example: The geologist studied the metamorphic deposit.
+
     - eng: metamorphic grade
       ru: степень метаморфизма
+      example: The metamorphic grade indicates high pressure.
+
     - eng: metamorphism
       ru: метаморфизм
+      example: Metamorphism transforms rocks under heat and pressure.
+
     - eng: metaphor
       ru: метафора
+      example: Life is a journey is a metaphor.
+
     - eng: meteor
       ru: метеор
+      example: A meteor streaked across the sky.
+
     - eng: meteor shower
       ru: метеорный дождь
+      example: We watched the meteor shower at night.
+
     - eng: meteorite
       ru: метеорит
+      example: The meteorite left a large crater.
+
     - eng: meteoroid
       ru: метеорное тело
+      example: A meteoroid enters the atmosphere and becomes a meteor.
+
     - eng: meteorologically
-      ru: C точки зрения метеорологии
+      ru: с точки зрения метеорологии
+      example: Meteorologically, this winter is unusual.
+
     - eng: meteorologist
       ru: метеоролог
+      example: The meteorologist predicted rain.
+
     - eng: meter
       ru: измерительный прибор
+      example: The gas meter is in the basement.
+
     - eng: metering mode
       ru: режимы измерения экспозиции
+      example: Select the metering mode on your camera.
+
     - eng: method
-      ru: метод; метод, способ; способ
+      ru: метод; метод, способ
+      example: This is an effective method.
+
     - eng: methodology
       ru: методология
+      example: The research methodology was sound.
+
     - eng: methylene blue
       ru: синий метилен
+      example: Methylene blue is used as a dye.
+
     - eng: meticulous
       ru: педантичный
+      example: He is meticulous about details.
+
     - eng: meticulous
       ru: тщательно
+      example: She cleaned the room meticulously.
+
     - eng: metre
       ru: метр
+      example: The room is five metres long.
+
     - eng: metrimony
       ru: брак
+      example: Holy metrimony is a sacrament.
+
     - eng: metro
       ru: метро
+      example: Take the metro to the city centre.
+
     - eng: metro area reporter
       ru: обозреватели и редакторы местных новостей
+      example: The metro area reporter covered the local election.
+
     - eng: metronome
       ru: метроном
+      example: Use a metronome to keep time.
+
     - eng: metropolitan
       ru: митрополит
+      example: The metropolitan led the church service.
+
     - eng: mew
       ru: чайка
+      example: The mew cried over the harbour.
+
     - eng: mezzo-soprano
       ru: меццо-сопрано
+      example: She sings as a mezzo-soprano.
+
     - eng: microbiology
       ru: микробиология
+      example: Microbiology studies bacteria and viruses.
+
     - eng: microcentrifuge
       ru: микроцентрифуга
+      example: The microcentrifuge spins small samples.
+
     - eng: microphone
       ru: микрофон
+      example: Speak into the microphone.
+
     - eng: microwave oven
       ru: микроволновая печь
+      example: Heat the soup in the microwave oven.
+
     - eng: microwaves
       ru: микроволны
+      example: Microwaves are used for communication.
+
     - eng: mid
       ru: средняя дверь
+      example: The bus has a mid door for exit.
+
     - eng: midday
       ru: полдень
+      example: We ate lunch at midday.
+
     - eng: middle
       ru: середина; средний
+      example: The middle of the circle is the centre.
+
     - eng: middle ages
       ru: средневековье
+      example: The Middle Ages lasted from 500 to 1500 AD.
+
     - eng: middle door
       ru: средняя дверь
+      example: The middle door leads to the balcony.
+
     - eng: middle finger
       ru: средний палец
+      example: She wore a ring on her middle finger.
+
     - eng: middle-aged
       ru: средний возраст
+      example: The middle-aged man had grey hair.
+
     - eng: middle-of-the-road
       ru: умеренный
+      example: His political views are middle-of-the-road.
+
     - eng: midnight
       ru: полночь
+      example: The clock struck midnight.
+
     - eng: midpoint
       ru: средняя точка
+      example: The midpoint between the two cities is the rest stop.
+
     - eng: might
       ru: мог
+      example: I might go to the party.
+
     - eng: migration
       ru: миграция
+      example: Bird migration occurs in autumn.
+
     - eng: mild
       ru: умеренный
+      example: The weather is mild today.
+
     - eng: mile
       ru: миля
+      example: The school is a mile away.
+
     - eng: mileage
       ru: километраж
+      example: The car has high mileage.
+
     - eng: milfoil
       ru: тысячелистник
+      example: Milfoil is used in herbal medicine.
+
     - eng: military
       ru: военный
+      example: He served in the military.
+
     - eng: military aviation
       ru: военная авиация
+      example: Military aviation includes fighter jets.
+
     - eng: military education
       ru: военное образование
+      example: Military education trains officers.
+
     - eng: military service
       ru: военная служба
+      example: Military service is mandatory in some countries.
+
     - eng: milk
       ru: молоко
+      example: Drink a glass of milk.
+
     - eng: milk tea
       ru: чай с молоком
+      example: Milk tea is popular in Asia.
+
     - eng: milk-tooth
       ru: молочный зуб
+      example: The child lost a milk tooth.
+
     - eng: milker
       ru: молочная корова
+      example: The farmer has a good milker.
+
     - eng: milkshake
       ru: молочный коктейль
+      example: She ordered a chocolate milkshake.
+
     - eng: milline rate
       ru: миллайн
+      example: The milline rate is used in advertising.
+
     - eng: milliner
       ru: модистка
+      example: The milliner makes hats.
+
     - eng: million
       ru: миллион
+      example: A million people live in this city.
+
     - eng: mime
       ru: пантомима
+      example: The actor performed a mime.
+
     - eng: mimicry
       ru: мимикрия
+      example: The butterfly's mimicry protects it from predators.
+
     - eng: mimosa
       ru: мимоза
+      example: Mimosa flowers are yellow and fluffy.
+
     - eng: minaret
       ru: минарет
+      example: The mosque has a tall minaret.
+
     - eng: mind the gap
-      ru: синоним в российском метро – Осторожно, двери закрываются!
+      ru: «осторожно, двери закрываются!»(в метро)
+      example: Mind the gap between the train and the platform.
+
     - eng: mine
       ru: мой; мои; моя
+      example: That book is mine.
+
     - eng: miner
-      ru: шахтер
+      ru: шахтёр
+      example: The miner works underground.
+
     - eng: mineral
       ru: минерал
+      example: Quartz is a common mineral.
+
     - eng: mineral water
-      ru: Минеральная вода
+      ru: минеральная вода
+      example: I prefer sparkling mineral water.
+
     - eng: mini-skirt
       ru: мини-юбка
+      example: She wore a mini-skirt.
+
     - eng: miniature
       ru: миниатюра
+      example: The artist painted a miniature.
+
     - eng: minimalism
       ru: минимализм
+      example: Minimalism is an art movement.
+
     - eng: minimum daily balance
       ru: минимальный ежедневный остаток
+      example: The account requires a minimum daily balance.
+
     - eng: minimum viable product
       ru: минимально жизнеспособный продукт
+      example: Start with a minimum viable product.
+
     - eng: mining
       ru: добыча
+      example: Coal mining is dangerous work.
+
     - eng: miniskirt
       ru: мини-юбка
+      example: Miniskirts were popular in the 1960s.
+
     - eng: minister
       ru: министр
+      example: The minister announced new policies.
+
     - eng: minium
       ru: сурик
+      example: Minium is a red pigment.
+
     - eng: mink
       ru: норка
+      example: Mink fur is very soft.
+
     - eng: minnow
       ru: гольян
+      example: The minnow is a small fish.
+
     - eng: minor role
       ru: второстепенная роль
+      example: He played a minor role in the film.
+
     - eng: minor subjects
       ru: второстепенные предметы
+      example: Her minor subjects include history and art.
+
     - eng: mint
       ru: мята
+      example: Add fresh mint to the tea.
+
     - eng: mint tea
       ru: мятный чай
+      example: Mint tea is refreshing.
+
     - eng: minuend
       ru: уменьшаемое
+      example: In 10 minus 4, the minuend is 10.
+
     - eng: minuet
       ru: менуэт
+      example: The dancers performed a minuet.
+
     - eng: minus
       ru: без; минус
+      example: Ten minus three equals seven.
+
     - eng: minute
       ru: минута
+      example: Wait a minute, please.
+
     - eng: minutes
       ru: протокол
+      example: The secretary took minutes of the meeting.
+
     - eng: miracle
       ru: чудо
+      example: It is a miracle he survived.
+
     - eng: miracle fruit
       ru: чудесная ягода
+      example: Miracle fruit makes sour things taste sweet.
+
     - eng: mirror
       ru: зеркало
+      example: Look at yourself in the mirror.
+
     - eng: mirror finish
       ru: зеркальная полировка
+      example: The metal has a mirror finish.
+
     - eng: misdemeanor
-      ru: легкий проступок
+      ru: лёгкий проступок
+      example: Petty theft is a misdemeanor.
+
     - eng: misdemeanor in office
       ru: должностное преступление
+      example: The official was charged with misdemeanor in office.
+
     - eng: misdemeanour
       ru: преступление
+      example: He was convicted of a misdemeanour.
+
     - eng: miser hides resources
       ru: скряга прячет ресурсы
+      example: The miser hides resources under the floor.
+
     - eng: misinterpret
       ru: неправильно растолковать
+      example: Do not misinterpret my words.
+
     - eng: mislead misled misled
       ru: вводить в заблуждение
+      example: The false report misled the public.
+
     - eng: miss a ball
       ru: пропустить мяч
+      example: The goalkeeper missed the ball.
+
     - eng: miss an opportunity
       ru: упустить (возможность)
+      example: Do not miss this opportunity.
+
     - eng: miss classes
       ru: пропускать занятия
+      example: She missed classes due to illness.
+
     - eng: miss the boat
       ru: упустить (возможность)
+      example: I missed the boat by arriving late.
+
     - eng: missile
       ru: ракета
+      example: The missile was launched from the ship.
+
     - eng: mission
       ru: миссия
+      example: His mission is to help others.
+
     - eng: missionary
       ru: миссионер
+      example: The missionary travelled to Africa.
+
     - eng: mississippi
-      ru: Миссисипи
+      ru: миссисипи
+      example: The Mississippi River flows through the US.
+
     - eng: misspell
       ru: делать орфографические ошибки
+      example: Be careful not to misspell his name.
+
     - eng: mist
       ru: лёгкий туман
+      example: The mist covered the hills.
+
     - eng: mistake
       ru: ошибка
+      example: Everyone makes mistakes.
+
     - eng: mistletoe
       ru: омела белая; омела
+      example: They kissed under the mistletoe.
+
     - eng: mitochondrion
       ru: митохондрия
+      example: The mitochondrion produces energy for the cell.
+
     - eng: mitosis
       ru: митоз
+      example: Mitosis is cell division.
+
     - eng: mittens
       ru: варежки
+      example: Wear mittens to keep your hands warm.
+
     - eng: mix
       ru: смесь
+      example: Add the cake mix to the bowl.
+
     - eng: mixed / compound larceny
       ru: кража при отягощающих вину обстоятельствах
+      example: He was charged with mixed larceny.
+
     - eng: mixed fraction
       ru: смешанная дробь
+      example: One and a half is a mixed fraction.
+
     - eng: mixed number
       ru: смешанное число
+      example: A mixed number has a whole part and a fraction.
+
     - eng: mixer
       ru: миксер
+      example: Use a mixer to blend the ingredients.
+
     - eng: mocaccino
       ru: мокаччино
+      example: I ordered a mocaccino with chocolate.
+
     - eng: moccasins
       ru: мокасины
+      example: She wore comfortable moccasins.
+
     - eng: mockingbird
       ru: пересмешник
+      example: The mockingbird imitates other birds.
+
     - eng: mode
       ru: режим
+      example: Switch the camera to manual mode.
+
     - eng: model
       ru: модель
+      example: She is a fashion model.
+
     - eng: moderato
       ru: модерато
+      example: The piece should be played moderato.
+
     - eng: modern
       ru: современный
+      example: Modern technology is amazing.
+
     - eng: modern conveniences
       ru: современные удобства
+      example: The apartment has all modern conveniences.
+
     - eng: modern history
       ru: новое время
+      example: Modern history begins around 1500 AD.
+
     - eng: modern language
       ru: современный язык
+      example: He studies modern languages at university.
+
     - eng: modernism
       ru: модернизм
+      example: Modernism rejected traditional forms.
+
     - eng: modesty
       ru: скромность
+      example: Her modesty is admirable.
+
     - eng: modicum
       ru: капелька
+      example: A modicum of effort would help.
+
     - eng: modified
-      ru: измененный
+      ru: изменённый
+      example: The car has a modified engine.
+
     - eng: modify a reservation
       ru: изменить бронирование
+      example: You can modify a reservation online.
+
     - eng: modulation
       ru: модуляция
+      example: Modulation changes the signal frequency.
+
     - eng: mogadishu
-      ru: Могадишо
+      ru: могадишо
+      example: Mogadishu is the capital of Somalia.
+
     - eng: mohair
       ru: мохер
+      example: The sweater is made of mohair.
+
     - eng: moishe
-      ru: Мойша
+      ru: мойша
+      example: Moishe is a common Yiddish name.
+
     - eng: mojito
       ru: мохито
+      example: He ordered a mojito at the bar.
+
     - eng: molar
       ru: коренной зуб
+      example: The dentist filled a molar.
+
     - eng: mold
       ru: плесень
+      example: The bread grew mold.
+
     - eng: molding
       ru: молдинг
+      example: The room has decorative molding.
+
     - eng: mole
       ru: родинка
+      example: She has a mole on her cheek.
+
     - eng: molecular
       ru: молекулярный
+      example: Molecular biology studies DNA.
+
     - eng: molecular biology
       ru: молекулярная биология
+      example: Molecular biology has advanced medicine.
+
     - eng: molecule
       ru: молекула
+      example: A water molecule has two hydrogen atoms.
+
     - eng: moles
       ru: родинки
+      example: He has several moles on his back.
+
     - eng: mollusc
       ru: моллюск
+      example: Snails are molluscs.
+
     - eng: molluscan shellfish
       ru: моллюск
+      example: Oysters and clams are molluscan shellfish.
+
     - eng: mollusk
       ru: моллюск
+      example: The octopus is a mollusk.
+
     - eng: molto allegro
-      ru: Очень быстро
+      ru: очень быстро
+      example: The symphony ends molto allegro.
+
     - eng: molybdenite
       ru: молибденит
+      example: Molybdenite is an ore of molybdenum.
+
     - eng: moment
-      ru: момент; Миг
+      ru: момент; миг
+      example: Wait a moment, please.
+
     - eng: momentum
       ru: движущая сила
+      example: The project gained momentum.
+
     - eng: monaco
-      ru: Монако
+      ru: монако
+      example: Monaco is a small country on the French Riviera.
+
     - eng: monarchy
       ru: монархия
+      example: The United Kingdom is a constitutional monarchy.
+
     - eng: monastery
       ru: монастырь
+      example: The monks live in the monastery.
+
     - eng: monastic
       ru: монашеский
+      example: He took monastic vows.
+
     - eng: monetary policy
       ru: кредитно-денежная политика
+      example: The central bank controls monetary policy.
+
     - eng: monetary value
       ru: денежная стоимость, ценность
+      example: The painting has high monetary value.
+
     - eng: money
       ru: деньги
+      example: Money cannot buy happiness.
+
     - eng: money is always a temptation
-      ru: Деньги - это всегда искушение
+      ru: деньги - это всегда искушение
+      example: Money is always a temptation for many people.
+
     - eng: money market
       ru: денежный рынок, рынок краткосрочного капитала
+      example: The money market offers short-term loans.
+
     - eng: money order
       ru: денежный перевод
+      example: Send a money order by mail.
+
     - eng: mongol tax-gatherer
       ru: монгольский сборщик дани
+      example: The Mongol tax-gatherer collected tribute.
+
     - eng: mongoose
       ru: мангуст
+      example: The mongoose fights snakes.
+
     - eng: mongrel
       ru: дворняга
+      example: The dog is a friendly mongrel.
+
     - eng: monitor
       ru: отслеживать
+      example: Monitor your blood pressure regularly.
+
     - eng: monitor lizard
       ru: варан
+      example: The monitor lizard is a large reptile.
+
     - eng: monitoring
       ru: мониторинг
+      example: Continuous monitoring is required.
+
     - eng: monk
       ru: монах
+      example: The monk meditated daily.
+
     - eng: monk having taken vows of schema
       ru: схимник
+      example: The monk having taken vows of schema lived in seclusion.
+
     - eng: monkey
       ru: обезьяна
+      example: The monkey climbed the tree.
+
     - eng: monkey business
-      ru: проделки; Проделки, фокусы
+      ru: проделки; фокусы
+      example: Stop the monkey business and focus.
+
     - eng: monkfish
       ru: морской чёрт
+      example: Monkfish is a delicacy.
+
     - eng: mono
-      ru: Одиночный
+      ru: одиночный
+      example: The recording is in mono.
+
     - eng: monochromatic film
       ru: монохроматическая фотоплёнка
+      example: Monochromatic film records only black and white.
+
     - eng: monofins
       ru: моноласты
+      example: Freedivers use monofins for speed.
+
     - eng: monogram
       ru: монограмма
+      example: The towel has his monogram.
+
     - eng: monograph
       ru: монография
+      example: She wrote a monograph on the subject.
+
     - eng: monohybrid cross
       ru: моногибридное скрещивание
+      example: A monohybrid cross studies one trait.
+
     - eng: monologue
       ru: монолог
+      example: The actor delivered a long monologue.
+
     - eng: monomial
       ru: одночлен
+      example: In algebra, 5x is a monomial.
+
     - eng: monopoly
       ru: монополия
+      example: The company has a monopoly on the market.
+
     - eng: monotheism
       ru: монотеизм
+      example: Judaism and Christianity practice monotheism.
+
     - eng: monotypy
       ru: монотипия
+      example: Monotypy means a single type.
+
     - eng: monster
       ru: монстр; чудовище
+      example: The monster in the movie was scary.
+
     - eng: month
       ru: месяц
+      example: I will return in a month.
+
     - eng: month-end close
       ru: закрытие месяца
+      example: The accountant performs the month-end close.
+
     - eng: monthly
       ru: ежемесячно
+      example: The rent is paid monthly.
+
     - eng: monthly discount
       ru: ежемесячная скидка
+      example: You get a monthly discount on the subscription.
+
     - eng: monthly maintenance fee
       ru: ежемесячная плата за обслуживание
+      example: The bank charges a monthly maintenance fee.
+
     - eng: months elapsed before his case was brought to trial
       ru: прошли месяцы, прежде чем его дело было передано в суд
+      example: Months elapsed before his case was brought to trial.
+
     - eng: monument
       ru: памятник
+      example: The monument honours the fallen soldiers.
+
     - eng: monument of art
       ru: памятник искусства
+      example: The church is a monument of art.
+
     - eng: mood
       ru: расположение духа; настроение
+      example: His mood changed quickly.
+
     - eng: moody
       ru: человек настроения
+      example: She is moody and unpredictable.
+
     - eng: moon
       ru: луна
+      example: The moon is bright tonight.
+
     - eng: moonlight
       ru: лунный свет
+      example: They walked by moonlight.
+
     - eng: moor
       ru: торфяник
+      example: The moor is covered with heather.
+
     - eng: moorage
       ru: причал
+      example: The boat found moorage at the dock.
+
     - eng: moose
       ru: лось; американский лось
+      example: A moose crossed the road.
+
     - eng: mop
       ru: швабра
+      example: Use a mop to clean the floor.
+
     - eng: moraine
-      ru: Морена
+      ru: морена
+      example: The glacier left a moraine.
+
     - eng: moral
       ru: мораль
+      example: The moral of the story is honesty.
+
     - eng: moray eel
       ru: мурена
+      example: The moray eel hides in coral reefs.
+
     - eng: moreover, he is getting stuck in elevator at the moment
       ru: более того, в данный момент он застрял в лифте
+      example: Moreover, he is getting stuck in the elevator at the moment.
+
     - eng: morning
       ru: утро
+      example: I wake up early in the morning.
+
     - eng: morning call
       ru: утренний звонок
+      example: The hotel offers a morning call service.
+
     - eng: morning glory
       ru: ипомея; вьюнок
+      example: Morning glory flowers open at dawn.
+
     - eng: morning peak
       ru: утренний пиковый период в метро (3 часа)
+      example: The morning peak is from 7 to 10 AM.
+
     - eng: morose
       ru: угрюмый
+      example: He was morose after losing the game.
+
     - eng: morose
       ru: сварливый
+      example: The morose old man complained about everything.
+
     - eng: mortar and pestle
       ru: ступка и пестик
+      example: Grind the spices with a mortar and pestle.
+
     - eng: mortgage
       ru: ипотека
+      example: We took out a mortgage to buy the house.
+
     - eng: mortified
       ru: оскорблённый
+      example: She felt mortified by her mistake.
+
     - eng: mosaic
       ru: мозаика
+      example: The floor is decorated with mosaic.
+
     - eng: mosque
       ru: мечеть
+      example: The mosque is a place of worship.
+
     - eng: moss
       ru: мох
+      example: The rocks are covered with moss.
+
     - eng: most
       ru: самый большой, наибольший
+      example: Most people like ice cream.
+
     - eng: mostly
       ru: в основном, преимущественно
+      example: The sky is mostly clear.
+
     - eng: motel
       ru: мотель
+      example: We stayed at a motel overnight.
+
     - eng: mother
       ru: мать
+      example: My mother is a teacher.
+
     - eng: mother seized her child by the arm
-      ru: мать схватила своего ребенка за руку
+      ru: мать схватила своего ребёнка за руку
+      example: The mother seized her child by the arm to stop him.
+
     - eng: mother-in-law
       ru: свекровь; тёща
+      example: My mother-in-law is visiting us.
+
     - eng: motif
       ru: мотив
+      example: The flower motif appears throughout the design.
+
     - eng: motion
       ru: перемещение; движение
+      example: The motion of the planets is predictable.
+
     - eng: motivate
       ru: мотивировать
+      example: The coach motivated the team.
+
     - eng: motivation
       ru: поощрение; мотивация
+      example: His motivation is to help others.
+
     - eng: motivation letter
       ru: мотивационное письмо
+      example: Write a motivation letter for the job application.
+
     - eng: motor
       ru: мотор, двигатель
+      example: The motor of the car is broken.
+
     - eng: motor mechanic
       ru: автомеханик
+      example: The motor mechanic fixed the engine.
+
     - eng: motor racing
       ru: автогонки
+      example: Motor racing is an exciting sport.
+
     - eng: motor ship
       ru: теплоход
+      example: The motor ship sailed down the river.
+
     - eng: motorbike
       ru: мотоцикл
+      example: He rides a motorbike to work.
+
     - eng: motorcycle
       ru: мотоцикл
+      example: The motorcycle is very fast.
+
     - eng: moulding
       ru: лепное украшение
+      example: The ceiling has beautiful moulding.
+
     - eng: mountain
       ru: гора
+      example: The highest mountain is Everest.
+
     - eng: mountain ash
       ru: рябина
+      example: Mountain ash berries are red.
+
     - eng: mountain climbing
       ru: альпинизм
+      example: Mountain climbing requires special gear.
+
     - eng: mountain range
-      ru: Горный хребет
+      ru: горный хребет
+      example: The Andes is a long mountain range.
+
     - eng: mountain ridge
-      ru: Горный хребет
+      ru: горный хребет
+      example: The mountain ridge is covered in snow.
+
     - eng: mountaineering
       ru: альпинизм
+      example: Mountaineering is dangerous.
+
     - eng: mountainous
       ru: горный
+      example: The region is mountainous.
+
     - eng: mounting
       ru: монтаж
+      example: The mounting of the photo took time.
+
     - eng: mouse
       ru: мышь
+      example: The mouse ran under the fridge.
+
     - eng: mousse
       ru: мусс
+      example: Chocolate mousse is a dessert.
+
     - eng: moustache
       ru: усы
+      example: He grew a thick moustache.
+
     - eng: mouth
       ru: рот
+      example: Open your mouth wide.
+
     - eng: movable holiday
       ru: переходящий праздник
+      example: Easter is a movable holiday.
+
     - eng: move
       ru: двигаться; двигать
+      example: Please move your car.
+
     - eng: move all-in
       ru: пойти ва-банк
+      example: In poker, he decided to move all-in.
+
     - eng: move in
       ru: въезжать/поселяться, входить
+      example: We will move in next week.
+
     - eng: move off the course
       ru: сойти с лыжни
+      example: The skier moved off the course to avoid a collision.
+
     - eng: move on
       ru: идти дальше, продолжать движение
+      example: Let us move on to the next topic.
+
     - eng: move out
       ru: съезжать, выдвигаться, выходить
+      example: They moved out of the apartment.
+
     - eng: moved
       ru: растроганный
+      example: I was moved by his speech.
+
     - eng: movement
       ru: движение
+      example: The dance movement was graceful.
+
     - eng: movements
       ru: движения
+      example: His movements were slow and careful.
+
     - eng: movie
       ru: фильм
+      example: Let us watch a movie tonight.
+
     - eng: movie is a subject of controversy
       ru: фильм является предметом споров
+      example: The movie is a subject of controversy among critics.
+
     - eng: movie star
       ru: кинозвезда
+      example: She is a famous movie star.
+
     - eng: moving from the city to the country requires an adjustment
       ru: переезд из города в деревню требует корректировки
+      example: Moving from the city to the country requires an adjustment.
+
     - eng: mow, mowed, mowed
       ru: косить, жать
+      example: He mowed the lawn yesterday.
+
     - eng: mow, mowed, mown
       ru: косить
+      example: The grass was mown this morning.
+
     - eng: much
       ru: много (с неисчисляемыми существительными); очень; много
+      example: I do not have much time.
+
     - eng: much more expensive than
       ru: намного дороже, чем
+      example: This car is much more expensive than that one.
+
     - eng: much obliged
       ru: весьма признателен
+      example: I am much obliged for your help.
+
     - eng: much, more, the most
       ru: много, больше, больше всего (не исчислимое)
+      example: She has the most patience of anyone.
+
     - eng: mud bogging
       ru: езда по грязи для удовольствия
+      example: Mud bogging is popular with off-road enthusiasts.
+
     - eng: mud cracks
       ru: трещина усыхания
+      example: Mud cracks form when clay dries.
+
     - eng: muezzin
       ru: муэдзин
+      example: The muezzin calls Muslims to prayer.
+
     - eng: muff
       ru: муфта
+      example: She wore a fur muff to keep her hands warm.
+
     - eng: mufti
-      ru: Муфтий
+      ru: муфтий
+      example: The mufti issued a religious ruling.
+
     - eng: mug
       ru: кружка
+      example: He drank coffee from a large mug.
+
     - eng: mugging
       ru: уличный грабёж
+      example: Mugging is common in some cities.
+
     - eng: muggle
       ru: магл, человек без магических способностей
+      example: In Harry Potter, muggles cannot see magic.
+
     - eng: mulberry
       ru: тутовая ягода
+      example: Mulberries taste like blackberries.
+
     - eng: mullah
       ru: мулла
+      example: The mullah led the prayer.
+
     - eng: mulled wine
       ru: глинтвейн
+      example: Mulled wine is served at Christmas markets.
+
     - eng: mullet
       ru: кефаль
+      example: Mullet is a common fish in the Mediterranean.
+
     - eng: multicellular
       ru: многоклеточный
+      example: Humans are multicellular organisms.
+
     - eng: multicultural
       ru: относящийся к разным культурам
+      example: The city is multicultural.
+
     - eng: multifunctional
       ru: многофункциональный
+      example: This tool is multifunctional.
+
     - eng: multifunctional
       ru: многофункциональный
+      example: A smartphone is multifunctional.
+
     - eng: multilateral talks
       ru: многосторонние переговоры
+      example: Multilateral talks aimed to reduce tensions.
+
     - eng: multilens camera
       ru: фотоаппарат, многообъективный
+      example: A multilens camera captures multiple angles.
+
     - eng: multilingual
       ru: многоязычный
+      example: The website is multilingual.
+
     - eng: multilingualism
       ru: многоязычие
+      example: Multilingualism is an asset in business.
+
     - eng: multinomial
       ru: многочлен
+      example: A multinomial has several terms.
+
     - eng: multiple
       ru: кратный; многочисленный
+      example: He received multiple awards.
+
     - eng: multiple alleles
       ru: множественные аллели
+      example: Blood type is determined by multiple alleles.
+
     - eng: multiple exposure
       ru: многократная экспозиция
+      example: Multiple exposure creates artistic photos.
+
     - eng: multiple exposure mode
       ru: кнопка многократного экспонирования
+      example: Use the multiple exposure mode for creative effects.
+
     - eng: multiplicand
       ru: множимое
+      example: In 5 times 3, the multiplicand is 5.
+
     - eng: multiplication
       ru: умножение
+      example: Multiplication is repeated addition.
+
     - eng: multiplication table
       ru: таблица умножения
+      example: Learn the multiplication table by heart.
+
     - eng: multiplicative identity
       ru: мультипликативное тождество
+      example: The number 1 is the multiplicative identity.
+
     - eng: multiplier
       ru: множитель
+      example: In 5 times 3, the multiplier is 3.
+
     - eng: multiply
       ru: умножать
+      example: Multiply 4 by 3 to get 12.
+
     - eng: multispectral camera
       ru: мультиспектральный фотоаппарат
+      example: A multispectral camera captures different wavelengths.
+
     - eng: multistory building
       ru: многоэтажное здание, высотный
+      example: The multistory building has an elevator.
+
     - eng: multy-pot
       ru: мультипот
+      example: Cook soup in the multy-pot.
+
     - eng: mum
       ru: мама
+      example: My mum makes great cookies.
+
     - eng: mummification
       ru: мумификация
+      example: The ancient Egyptians practiced mummification.
+
     - eng: mummy
       ru: мумия
+      example: The museum has an Egyptian mummy.
+
     - eng: murder
       ru: убийство
+      example: Murder is a serious crime.
+
     - eng: muscat
-      ru: Маскат
+      ru: маскат
+      example: Muscat is the capital of Oman.
+
     - eng: muscle
       ru: мышца
+      example: Exercise strengthens your muscles.
+
     - eng: muscovite
       ru: мусковит
+      example: Muscovite is a type of mica.
+
     - eng: museum
       ru: музей
+      example: We visited the art museum.
+
     - eng: mushroom
       ru: гриб
+      example: Do not eat wild mushrooms.
+
     - eng: mushroom puff
       ru: слоёная булочка с грибами
+      example: I bought a mushroom puff at the bakery.
+
     - eng: mushroom puffs
       ru: булочки с грибами
+      example: Mushroom puffs are delicious appetizers.
+
     - eng: mushrooms
       ru: грибы
+      example: Add mushrooms to the pizza.
+
     - eng: mushy
       ru: впечатлительный; эмоциональный
+      example: The movie was too mushy for me.
+
     - eng: music
       ru: музыка
+      example: I listen to music every day.
+
     - eng: music education
       ru: музыкальное образование
+      example: Music education improves brain development.
+
     - eng: music has always been his passion
-      ru: Музыка всегда была его страстью
+      ru: музыка всегда была его страстью
+      example: Music has always been his passion since childhood.
+
     - eng: musical
       ru: мюзикл; музыкальный
+      example: We saw a musical on Broadway.
+
     - eng: musical comedy
       ru: музыкальная комедия
+      example: The film is a musical comedy.
+
     - eng: musical drama
       ru: музыкальная драма
+      example: Les Misérables is a musical drama.
+
     - eng: musical film
       ru: музыкальный фильм
+      example: The Sound of Music is a famous musical film.
+
     - eng: musical form
       ru: музыкальная форма
+      example: Sonata is a musical form.
+
     - eng: musicality
       ru: музыкальность
+      example: Her musicality is impressive.
+
     - eng: musician
       ru: музыкант
+      example: The musician played the violin.
+
     - eng: musicianship
       ru: музыкальность
+      example: His musicianship is outstanding.
+
     - eng: musk ox
       ru: овцебык
+      example: The musk ox lives in the Arctic.
+
     - eng: muskrat
       ru: ондатра
+      example: The muskrat builds lodges in marshes.
+
     - eng: mussel
       ru: мидия
+      example: Mussels are cooked with white wine.
+
     - eng: must
       ru: быть должным
+      example: You must finish your homework.
+
     - eng: mustache
       ru: усы
+      example: He shaved off his mustache.
+
     - eng: mustard
       ru: горчица
+      example: Add mustard to the sandwich.
+
     - eng: mutation
       ru: мутация
+      example: A mutation can change the colour of an animal.
+
     - eng: mute
       ru: сурдина
+      example: The trumpeter used a mute.
+
     - eng: mutiny
       ru: мятеж
+      example: The crew staged a mutiny against the captain.
+
     - eng: mutton
       ru: баранина
+      example: Mutton curry is a traditional dish.
+
     - eng: mutual fund
       ru: общий инвестиционный фонд
+      example: He invests in a mutual fund.
+
     - eng: mutual interest
       ru: взаимный интерес
+      example: They have a mutual interest in music.
+
     - eng: mutual understanding
       ru: взаимопонимание
+      example: Mutual understanding is key to a relationship.
+
     - eng: mutualism
       ru: мутуализм
+      example: Bees and flowers have a mutualism relationship.
+
     - eng: my
       ru: моя; мои; мой
+      example: This is my book.
+
     - eng: my banker has refused to advance funds
       ru: мой банкир отказался предоставить авансовые средства
+      example: My banker has refused to advance funds for the project.
+
     - eng: my brain is in a buzz
       ru: мой мозг гудит
+      example: After studying all night, my brain is in a buzz.
+
     - eng: my captain won't hesitate to help you
       ru: мой капитан без колебаний поможет вам
+      example: My captain won't hesitate to help you in need.
+
     - eng: my decision has been made
-      ru: мое решение было принято
+      ru: моё решение было принято
+      example: My decision has been made and I will not change it.
+
     - eng: my doctor is a very competent surgeon
       ru: мой врач - очень компетентный хирург
+      example: My doctor is a very competent surgeon.
+
     - eng: my english skills have been crucial
       ru: мои знания английского языка имели решающее значение
+      example: My English skills have been crucial for my career.
+
     - eng: my face broke into a delighted smile
-      ru: мое лицо расплылось в довольной улыбке
+      ru: моё лицо расплылось в довольной улыбке
+      example: My face broke into a delighted smile when I saw the gift.
+
     - eng: my father expected perfection from all of us
       ru: мой отец ожидал совершенства от всех нас
+      example: My father expected perfection from all of us.
+
     - eng: my feeling of frustration is massive
-      ru: мое чувство разочарования огромно
+      ru: моё чувство разочарования огромно
+      example: My feeling of frustration is massive after the failure.
+
     - eng: my girlfriend doesn't pick out my clothes
       ru: моя девушка не выбирает мне одежду
+      example: My girlfriend doesn't pick out my clothes; I do it myself.
+
     - eng: my headache was gone after taking the painkiller
-      ru: моя головная боль прошла после приема обезболивающего
+      ru: моя головная боль прошла после приёма обезболивающего
+      example: My headache was gone after taking the painkiller.
+
     - eng: my income is not high, but it is adequate
       ru: мой доход невелик, но он достаточен
+      example: My income is not high, but it is adequate for my needs.
+
     - eng: my life has been a whirlwind lately
       ru: в последнее время моя жизнь превратилась в настоящий вихрь
+      example: My life has been a whirlwind lately with all the changes.
+
     - eng: my mum likes spicy food, and so do I
       ru: моя мама любит острую пищу, и я тоже
+      example: My mum likes spicy food, and so do I.
+
     - eng: my neighbour asked us if we had seen his dog
       ru: мой сосед спросил нас, видели ли мы его собаку
+      example: My neighbour asked us if we had seen his dog.
+
     - eng: my neighbour got onto the city council
       ru: мой сосед попал в городской совет
+      example: My neighbour got onto the city council after the election.
+
     - eng: my parents remain as obstinate as ever
-      ru: Мои родители остаются такими же упрямыми, как всегда
+      ru: мои родители остаются такими же упрямыми, как всегда
+      example: My parents remain as obstinate as ever.
+
     - eng: my patience was running out
-      ru: мое терпение было на исходе
+      ru: моё терпение было на исходе
+      example: My patience was running out after waiting for an hour.
+
     - eng: my pleasure
-      ru: Всегда рад, не за что
+      ru: всегда рад, не за что
+      example: Thank you for your help. My pleasure.
+
     - eng: my police baton wants to touch the beautiful body of a fat man
       ru: моя полицейская дубинка хочет прикоснуться к прекрасному телу толстяка
+      example: My police baton wants to touch the beautiful body of a fat man is a strange phrase.
+
     - eng: my uncle was always telling us stories about our parents
       ru: мой дядя всегда рассказывал нам истории о наших родителях
+      example: My uncle was always telling us stories about our parents when they were young.
+
     - eng: my wife made buns on Wednesday
       ru: моя жена испекла булочки в среду
+      example: My wife made buns on Wednesday and they were delicious.
+
     - eng: mycology
       ru: микология
+      example: Mycology is the study of fungi.
+
     - eng: myriad
       ru: несметное количество; несметное число
+      example: A myriad of stars filled the sky.
+
     - eng: myrrh
       ru: мирра
+      example: Myrrh is a fragrant resin.
+
     - eng: myrtle
       ru: мирт
+      example: Myrtle is an evergreen shrub.
+
     - eng: myself
       ru: себя
+      example: I did it myself.
+
     - eng: mystery
       ru: тайна
+      example: The mystery was never solved.
+
     - eng: mystic
       ru: мистик
+      example: The mystic claimed to see the future.
+
     - eng: myth
       ru: миф
+      example: The myth of Hercules is famous.
+
     - eng: mythological genre
       ru: мифологический жанр
+      example: The mythological genre includes stories of gods.
+
     - eng: mythology
       ru: мифология
+      example: Greek mythology is fascinating.
+
     - eng: nadir
       ru: самый низкий уровень; надир
+      example: The company reached its nadir last year.
+
     - eng: nail
       ru: ноготь
+      example: She painted her nails red.
+
     - eng: naive art
       ru: примитивизм
+      example: Naive art has a childlike quality.
+
     - eng: naked bike
-      ru: разгруженный велосипед после долгой езды на груженом
+      ru: разгруженный велосипед после долгой езды на гружёном
+      example: After carrying heavy bags, the naked bike felt light.
+
     - eng: name
       ru: имя
+      example: What is your name?
+
     - eng: nanny
       ru: няня
+      example: The nanny looks after the children.
+
     - eng: nanny goat
       ru: коза
+      example: The nanny goat gave milk.
+
     - eng: nape
       ru: затылок
+      example: The hair on her nape was curly.
+
     - eng: napkin
       ru: салфетка
+      example: Wipe your mouth with a napkin.
+
     - eng: narcissus
       ru: нарцисс
+      example: Narcissus flowers bloom in spring.
+
     - eng: narcosis
       ru: наркоз
+      example: The patient was under narcosis during surgery.
+
     - eng: narration
       ru: повествование
+      example: The narration of the film was excellent.
+
     - eng: narrative
       ru: история, повествование
+      example: The narrative of the book is complex.
+
     - eng: narrator
       ru: рассказчик
+      example: The narrator told the story in first person.
+
     - eng: narrow
       ru: узкий
+      example: The path is very narrow.
+
     - eng: narrow-bodied aircraft
-      ru: узкофюзеляжный самолет
+      ru: узкофюзеляжный самолёт
+      example: A narrow-bodied aircraft has a single aisle.
+
     - eng: nasturtium
       ru: настурция
+      example: Nasturtium flowers are edible.
+
     - eng: nasty
-      ru: Противный
+      ru: противный
+      example: The weather is nasty today.
+
     - eng: nation
       ru: нация; народ
+      example: The nation celebrated its independence.
+
     - eng: nation's sovereignty
       ru: суверенитет государства
+      example: The nation's sovereignty must be respected.
+
     - eng: national
       ru: народный, национальный, государственный
+      example: The national anthem was played.
+
     - eng: national desk
       ru: отдел новостей по стране
+      example: The national desk covers major events.
+
     - eng: national holiday
       ru: национальный праздник
+      example: July 14th is a national holiday in France.
+
     - eng: national park
       ru: национальный парк
+      example: Yellowstone is a national park.
+
     - eng: national security
       ru: национальная безопасность
+      example: National security is a priority.
+
     - eng: national socialism
       ru: национал-социализм
+      example: National socialism rose in Germany in the 1930s.
+
     - eng: national strike
       ru: общенациональная забастовка
+      example: A national strike paralyzed the country.
+
     - eng: nationalism
       ru: национализм
+      example: Nationalism can unite or divide people.
+
     - eng: native
       ru: родной
+      example: Spanish is her native language.
+
     - eng: native elements
       ru: самородные элементы
+      example: Gold is found as a native element.
+
     - eng: nativity
       ru: рождение
+      example: The nativity scene shows baby Jesus.
+
     - eng: natron
       ru: сода
+      example: Natron was used in mummification.
+
     - eng: natural
       ru: природный; естественный
+      example: This is a natural product.
+
     - eng: natural boundary
       ru: естественная граница
+      example: The river forms a natural boundary.
+
     - eng: natural coffee
       ru: натуральный кофе
+      example: Natural coffee has no additives.
+
     - eng: natural disasters
       ru: стихийные бедствия
+      example: Earthquakes are natural disasters.
+
     - eng: natural frequency
       ru: (физ.) собственная частота
+      example: The bridge has a natural frequency that causes vibration.
+
     - eng: natural gas
       ru: природный газ
+      example: Natural gas is used for heating.
+
     - eng: natural resources
       ru: природные ресурсы
+      example: Oil is a valuable natural resource.
+
     - eng: natural selection
       ru: естественный отбор
+      example: Darwin proposed natural selection.
+
     - eng: naturally I wanted to back a female candidate
       ru: естественно, я хотел поддержать кандидата-женщину
+      example: Naturally I wanted to back a female candidate.
+
     - eng: nature
       ru: природа
+      example: I love spending time in nature.
+
     - eng: nature's imagination is so boundless compared to our own meager human imagination
       ru: воображение природы так безгранично по сравнению с нашим собственным скудным человеческим воображением
     - eng: nausea
