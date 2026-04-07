@@ -55949,1074 +55949,2144 @@ app.words:
 
     - eng: reach
       ru: достигать; достичь
+      example: We need to reach our destination before dark.
+
     - eng: reach a conclusion
       ru: прийти к заключению
+      example: The jury took hours to reach a conclusion.
+
     - eng: react
       ru: реагировать
+      example: How did she react to the news?
+
     - eng: reaction
       ru: реакция
+      example: His reaction was unexpected.
+
     - eng: reaction to
       ru: реагировать на
+      example: Her reaction to the medicine was positive.
+
     - eng: reactionary
       ru: реакционный
+      example: The regime was reactionary and oppressive.
+
     - eng: reactor
       ru: реактор
+      example: The nuclear reactor was shut down.
+
     - eng: read
       ru: читать
+      example: I read a book every week.
+
     - eng: read (film)
       ru: дешифрировать
+      example: The technician read the film to extract the data.
+
     - eng: read between the lines
       ru: читать между строк
+      example: If you read between the lines, you will understand the truth.
+
     - eng: read only
       ru: предназначенный только для чтения
+      example: The file is read only, so you cannot edit it.
+
     - eng: read the syllabus before class
       ru: прочитайте программу перед занятием
+      example: Read the syllabus before class to know what to expect.
+
     - eng: read, read, read
       ru: читать
+      example: She read the entire book in one day.
+
     - eng: reader
       ru: читатель
+      example: The reader was captivated by the story.
+
     - eng: reader (of film)
       ru: дешифровщик
+      example: The reader of the film noticed an anomaly.
+
     - eng: reading
       ru: чтение
+      example: Reading is a good habit.
+
     - eng: reading (of film)
       ru: дешифровка; дешифрирование
+      example: The reading of the film revealed the hidden image.
+
     - eng: reading disability
       ru: неспособность к чтению
+      example: A reading disability can be overcome with help.
+
     - eng: ready
       ru: готовый
+      example: Dinner is ready.
+
     - eng: ready for
       ru: готов для
+      example: I am ready for the test.
+
     - eng: real
       ru: действительный; настоящий; реальный
+      example: This is a real diamond.
+
     - eng: real image
       ru: реальное изображение
+      example: A real image can be projected onto a screen.
+
     - eng: realism
       ru: реализм
+      example: Realism in art depicts everyday life.
+
     - eng: realist
       ru: реалист
+      example: He is a realist who accepts things as they are.
+
     - eng: reality
       ru: реальность
+      example: Virtual reality is becoming popular.
+
     - eng: realize
       ru: осознавать; осуществлять
+      example: I did not realize it was so late.
+
     - eng: really
-      ru: действительно,в самом деле; В самом деле; действительно
+      ru: действительно, в самом деле
+      example: Is it really true?
+
     - eng: rear focus
       ru: вершинное фокусное расстояние
+      example: The rear focus of the lens affects image sharpness.
+
     - eng: rear vault
       ru: заднее хранилище
+      example: The rear vault contains old archives.
+
     - eng: rear wheel
       ru: заднее колесо
+      example: The rear wheel of the bike is flat.
+
     - eng: reason
       ru: причина; повод; основание
+      example: What is the reason for your absence?
+
     - eng: reason for
       ru: причина для
+      example: There is no reason for concern.
+
     - eng: reasonable
       ru: разумный
+      example: The price is reasonable.
+
     - eng: reasonable prices
       ru: приемлемые цены
+      example: The store offers reasonable prices.
+
     - eng: reasoning
       ru: рассуждение
+      example: His reasoning was flawed.
+
     - eng: reasons
       ru: основания
+      example: There are several reasons for the delay.
+
     - eng: rebel
       ru: бунтарский; мятежный
+      example: The rebel soldiers refused to obey.
+
     - eng: rebellious
       ru: мятежный
+      example: The teenager was rebellious.
+
     - eng: rebill
-      ru: выставить новый счет
+      ru: выставить новый счёт
+      example: The company will rebill you for the service.
+
     - eng: rebirth
       ru: возрождение
+      example: The city experienced a rebirth after the war.
+
     - eng: reboot
       ru: перезагрузка
+      example: Reboot the computer to fix the error.
+
     - eng: rebound
       ru: подбор мяча
+      example: He grabbed the rebound and scored.
+
     - eng: rebreathing
       ru: возвратное дыхание
+      example: Rebreathing can lead to carbon dioxide buildup.
+
     - eng: recapitalization
       ru: изменение структуры капитала компании
+      example: The recapitalization saved the company from bankruptcy.
+
     - eng: recapitalization
       ru: изменение структуры капитала компании
+      example: Recapitalization often involves issuing new shares.
+
     - eng: recede
       ru: убывать
+      example: The floodwaters began to recede.
+
     - eng: receipt
       ru: квитанция
+      example: Keep the receipt for your purchase.
+
     - eng: receive
       ru: получать; получить
+      example: I received a gift from my friend.
+
     - eng: receiving
       ru: получение товара
+      example: The receiving department checks all shipments.
+
     - eng: recent
       ru: недавний, последний; новейший, свежий, современный
+      example: This is a recent photo.
+
     - eng: recently
       ru: недавно
+      example: I recently moved to a new apartment.
+
     - eng: reception
-      ru: Стойка регистрации
+      ru: стойка регистрации
+      example: Check in at the reception.
+
     - eng: receptionist
       ru: администратор (отель)
+      example: The receptionist gave us our room keys.
+
     - eng: recess
       ru: парламентские каникулы
+      example: Parliament is in recess for the summer.
+
     - eng: recessive allele
       ru: рецессивный аллель
+      example: A recessive allele is only expressed when two copies are present.
+
     - eng: recharge your batteries
       ru: набраться сил
+      example: I need a vacation to recharge my batteries.
+
     - eng: recipe
       ru: рецепт
+      example: This recipe is for chocolate cake.
+
     - eng: recipes
       ru: рецепты
+      example: The cookbook has many recipes.
+
     - eng: reciprocating engine
       ru: поршневой двигатель
+      example: A car has a reciprocating engine.
+
     - eng: recitation of poetry to musical accompaniment
       ru: мелодекламация
+      example: The recitation of poetry to musical accompaniment was moving.
+
     - eng: recitative
       ru: речитатив
+      example: The opera includes recitative sections.
+
     - eng: reckless disregard
       ru: безрассудное пренебрежение
+      example: He showed reckless disregard for safety.
+
     - eng: recline on
       ru: сидеть откинувшись назад
+      example: She reclined on the sofa.
+
     - eng: recline upon
       ru: сидеть откинувшись назад
+      example: He reclined upon the comfortable chair.
+
     - eng: recognition
       ru: признание
+      example: He received recognition for his work.
+
     - eng: recognizable
       ru: легко узнаваемый
+      example: Her voice is easily recognizable.
+
     - eng: recognize
-      ru: узнавать; узнавать
+      ru: узнавать
+      example: I recognized him immediately.
+
     - eng: recommend
       ru: рекомендовать
+      example: I recommend this restaurant.
+
     - eng: reconnaissance
       ru: разведка
+      example: The troops went on a reconnaissance mission.
+
     - eng: reconstructed
       ru: реконструированный
+      example: The reconstructed building looks new.
+
     - eng: record
       ru: записывать
+      example: Record the lecture on your phone.
+
     - eng: record player
       ru: проигрыватель
+      example: The record player spins vinyl records.
+
     - eng: recovery
       ru: выздоровление
+      example: His recovery from surgery was quick.
+
     - eng: recreational
       ru: развлекательный
+      example: The park has recreational facilities.
+
     - eng: rectangular
       ru: прямоугольный
+      example: The box is rectangular.
+
     - eng: rectification
-      ru: Исправление
+      ru: исправление
+      example: The rectification of errors took time.
+
     - eng: rectify
       ru: исправлять ошибки
+      example: Please rectify the mistake.
+
     - eng: recumbent fold
       ru: лежачая складка
+      example: The recumbent fold is nearly horizontal.
+
     - eng: recycling
       ru: переработка
+      example: Recycling helps reduce waste.
+
     - eng: recycling is important to help protect our environment
       ru: переработка отходов важна для защиты нашей окружающей среды
+      example: Recycling is important to help protect our environment.
+
     - eng: red
       ru: красный
+      example: The apple is red.
+
     - eng: red cabbage
       ru: краснокочанная капуста
+      example: Red cabbage is often used in coleslaw.
+
     - eng: red chalk
       ru: сангина
+      example: The artist drew with red chalk.
+
     - eng: red currant
-      ru: Красная смородина
+      ru: красная смородина
+      example: Red currants are tart and sweet.
+
     - eng: red eye
-      ru: ночной рейс,прибывающий в место назначения рано утром
+      ru: ночной рейс, прибывающий в место назначения рано утром
+      example: She took the red eye from Los Angeles to New York.
+
     - eng: red eye effect
       ru: эффект красных глаз
+      example: The red eye effect occurs when flash reflects off the retina.
+
     - eng: red hair
       ru: рыжий
+      example: She has beautiful red hair.
+
     - eng: red herring
-      ru: Отвлекающий манёвр
+      ru: отвлекающий манёвр
+      example: The clue was a red herring.
+
     - eng: red pepper
       ru: красный перец
+      example: Add red pepper for spice.
+
     - eng: red sea bream
       ru: красный морской карась
+      example: Red sea bream is a popular fish in Japan.
+
     - eng: red shift
       ru: красное смещение
+      example: The red shift indicates the galaxy is moving away.
+
     - eng: red tape
-      ru: Бюрократизм
+      ru: бюрократизм
+      example: The project was delayed by red tape.
+
     - eng: red-letter day
       ru: праздник, памятный день
+      example: Graduation was a red-letter day.
+
     - eng: redbreast
       ru: малиновка
+      example: The redbreast sang in the tree.
+
     - eng: redcurrant
-      ru: Красная смородина
+      ru: красная смородина
+      example: Redcurrant jelly is delicious with lamb.
+
     - eng: redeem
       ru: погашать
+      example: He redeemed his voucher for a free meal.
+
     - eng: redemption
       ru: искупление
+      example: The prisoner sought redemption.
+
     - eng: redhead
       ru: рыжий
+      example: The redhead stood out in the crowd.
+
     - eng: reduce
       ru: снижать; уменьшать; сокращать; понижать
+      example: Reduce your speed when driving in the rain.
+
     - eng: reef
       ru: рифовый
+      example: The coral reef is home to many fish.
+
     - eng: refer
       ru: направлять; ссылаться
+      example: Please refer to the manual.
+
     - eng: referee
       ru: рефери
+      example: The referee blew the whistle.
+
     - eng: reference
       ru: справочная информация; рекомендация; ссылка
+      example: Provide three references with your application.
+
     - eng: referendum
       ru: референдум
+      example: The referendum decided the issue.
+
     - eng: referred
       ru: отнесённый (к какому-то пункту в договоре), именуемый
+      example: The referred clause was ambiguous.
+
     - eng: reflect
       ru: отражать
+      example: The mirror reflects light.
+
     - eng: reflectance
       ru: коэффициент отражения
+      example: The reflectance of the surface is high.
+
     - eng: reflection
       ru: рефлекс (отсвет)
+      example: I saw my reflection in the water.
+
     - eng: reflectivity (of a target)
       ru: отражаемость
+      example: The reflectivity of the target affects radar detection.
+
     - eng: reflex
       ru: блик
+      example: The lens produced an unwanted reflex.
+
     - eng: reformation
       ru: реформация
+      example: The Reformation changed European history.
+
     - eng: refraction
       ru: отражение; преломление
+      example: Refraction makes a straw look bent in water.
+
     - eng: refrigerator
       ru: холодильник
+      example: Put the milk in the refrigerator.
+
     - eng: refuelling
       ru: автозаправка
+      example: The plane stopped for refuelling.
+
     - eng: refugee
       ru: беженец
+      example: The refugees fled the war.
+
     - eng: refund
       ru: компенсация; возврат денег
+      example: I asked for a refund.
+
     - eng: refurbish
       ru: обновлять
+      example: They refurbished the old hotel.
+
     - eng: refuse
       ru: отказаться; отказывать
+      example: He refused to answer.
+
     - eng: regain
       ru: снова получить обратно
+      example: He regained consciousness.
+
     - eng: regard
       ru: внимание
+      example: He has high regard for his teacher.
+
     - eng: regarding
       ru: в отношении
+      example: Regarding your question, the answer is no.
+
     - eng: regardless of
       ru: невзирая на
+      example: Regardless of the cost, we will do it.
+
     - eng: regeneration
       ru: регенерация
+      example: The lizard is capable of regeneration.
+
     - eng: regent
       ru: регент
+      example: The regent ruled until the king came of age.
+
     - eng: regime
       ru: режим
+      example: The regime was overthrown.
+
     - eng: region
       ru: область
+      example: The region is known for its wine.
+
     - eng: regional
       ru: местный
+      example: The regional airport has limited flights.
+
     - eng: register
       ru: дневник
+      example: The teacher recorded grades in the register.
+
     - eng: registered
       ru: зарегистрированный
+      example: Send the letter by registered mail.
+
     - eng: registration fee
       ru: регистрационный взнос
+      example: The registration fee is fifty dollars.
+
     - eng: regret
       ru: сожалеть; сожаление
+      example: I regret my decision.
+
     - eng: regret for
-      ru: Сожаление (о ком либо/о чем либо)
+      ru: сожаление (о ком-либо/о чём-либо)
+      example: He expressed regret for his actions.
+
     - eng: regular army
       ru: регулярная армия
+      example: The regular army was well trained.
+
     - eng: regular crust
       ru: обычная корочка
+      example: I prefer a regular crust on my pizza.
+
     - eng: regularly
       ru: регулярно
+      example: Exercise regularly.
+
     - eng: regulation
       ru: всё обычное время игры
+      example: The score was tied at the end of regulation.
+
     - eng: rehearsal
       ru: репетиция
+      example: We have a rehearsal tonight.
+
     - eng: reign
       ru: царство
+      example: The reign of the king lasted forty years.
+
     - eng: reimburse
       ru: возмещать
+      example: The company will reimburse your travel expenses.
+
     - eng: reincarnation
       ru: реинкарнация
+      example: Some religions believe in reincarnation.
+
     - eng: reindeer
       ru: северный олень
+      example: Reindeer pull Santa's sleigh.
+
     - eng: reiterate
       ru: повторять
+      example: Let me reiterate the main point.
+
     - eng: reject
       ru: отклонить
+      example: The committee rejected the proposal.
+
     - eng: reject a bill
       ru: отклонить законопроект
+      example: The president threatened to reject the bill.
+
     - eng: reject a proposal
       ru: отвергнуть предложение, отклонить предложение
+      example: They voted to reject the proposal.
+
     - eng: rejoicing
       ru: ликование; радость; веселье
+      example: There was great rejoicing at the victory.
+
     - eng: relate
       ru: относиться
+      example: This relates to our previous discussion.
+
     - eng: relations
       ru: отношения
+      example: Diplomatic relations were established.
+
     - eng: relationship
       ru: отношение
+      example: Their relationship is strong.
+
     - eng: relative
       ru: родственник
+      example: She is visiting relatives.
+
     - eng: relative age
       ru: относительный возраст
+      example: The relative age of the rock is determined by its layer.
+
     - eng: relative exposure
       ru: относительная экспозиция
+      example: Adjust the relative exposure for the background.
+
     - eng: relative index
       ru: относительный показатель
+      example: The relative index of refraction is calculated.
+
     - eng: relative index of refraction
       ru: относительный показатель преломления
+      example: The relative index of refraction of water is 1.33.
+
     - eng: relative motion
       ru: относительное движение
+      example: Relative motion affects how objects appear to move.
+
     - eng: relax
       ru: расслабляться; расслабиться; расслаблять
+      example: Relax and take a deep breath.
+
     - eng: relay
       ru: реле
+      example: The relay controls the circuit.
+
     - eng: relay course
       ru: эстафетная трасса
+      example: The runners completed the relay course.
+
     - eng: release
-      ru: релиз, выпуск в свет (фильма, книги); релиз; выпуск в свет
+      ru: релиз, выпуск в свет (фильма, книги)
+      example: The new movie release is on Friday.
+
     - eng: release smb. on parole
       ru: освобождать условно
+      example: The court decided to release him on parole.
+
     - eng: reliable client
-      ru: надежный клиент
+      ru: надёжный клиент
+      example: He is a reliable client who pays on time.
+
     - eng: reliable partner
-      ru: надежный партнер
+      ru: надёжный партнёр
+      example: We need a reliable partner for the joint venture.
+
     - eng: relic
       ru: мощи
+      example: The church displays a holy relic.
+
     - eng: relics
       ru: мощи
+      example: The relics of the saint are in the cathedral.
+
     - eng: relict radiation
       ru: реликтовое излучение
+      example: Relict radiation is a remnant of the Big Bang.
+
     - eng: relief
       ru: рельеф
+      example: The relief map shows mountains and valleys.
+
     - eng: relief map
       ru: рельефная карта
+      example: The relief map helped the hikers navigate.
+
     - eng: relieve
       ru: облегчить
+      example: The medicine relieved his pain.
+
     - eng: religious
       ru: религиозный
+      example: She is very religious.
+
     - eng: religious education
       ru: религиозное образование
+      example: Religious education is offered in many schools.
+
     - eng: religious holiday
       ru: религиозный праздник
+      example: Easter is a religious holiday.
+
     - eng: reload a magazine
       ru: перезаряжать/перезарядить кассету
+      example: Reload a magazine with fresh film.
+
     - eng: remain
       ru: оставаться; остаться
+      example: Please remain seated.
+
     - eng: remainder
       ru: остаток
+      example: The remainder of the food was thrown away.
+
     - eng: remake
       ru: римейк
+      example: The remake of the classic film was disappointing.
+
     - eng: remedy
       ru: средство
+      example: A good remedy for a cold is rest.
+
     - eng: remember
       ru: помнить
+      example: I remember my first day of school.
+
     - eng: remember his goodness and have mercy on him
       ru: помни о его благости и смилуйся над ним
+      example: Remember his goodness and have mercy on him.
+
     - eng: remind
       ru: напоминать; напомнить
+      example: Please remind me to call the doctor.
+
     - eng: remonstrate
       ru: противостоять
+      example: He remonstrated against the decision.
+
     - eng: remora
       ru: акулья ремора
+      example: The remora attaches itself to sharks.
+
     - eng: remorse
       ru: угрызения совести; раскаяние
+      example: He felt remorse for his crime.
+
     - eng: remote
-      ru: Дистанционный
+      ru: дистанционный
+      example: Use the remote control to change the channel.
+
     - eng: remote administration
-      ru: удаленное администрирование
+      ru: удалённое администрирование
+      example: Remote administration allows IT to fix problems from afar.
+
     - eng: remove
       ru: удалить
+      example: Remove the old paint before repainting.
+
     - eng: remuneration
       ru: вознаграждение
+      example: The remuneration for the job is good.
+
     - eng: renaissance
-      ru: Эпоха Возрождения
+      ru: эпоха возрождения
+      example: The Renaissance was a period of great art.
+
     - eng: rend rent rent
       ru: раздирать
+      example: The loud noise rent the air.
+
     - eng: renewable
       ru: возобновляемый
+      example: Solar energy is renewable.
+
     - eng: renewable sources
       ru: возобновляемые источники
+      example: Wind and sun are renewable sources.
+
     - eng: renovated
       ru: отремонтированный
+      example: The renovated kitchen looks great.
+
     - eng: rent
-      ru: Арендная плата; арендовать
+      ru: арендная плата; арендовать
+      example: The rent is due on the first of the month.
+
     - eng: renunciation
       ru: отречение
+      example: His renunciation of the throne surprised everyone.
+
     - eng: reorganization
       ru: реорганизация
+      example: The company underwent a reorganization.
+
     - eng: repaint
       ru: прописки
+      example: We need to repaint the living room.
+
     - eng: repair
       ru: ремонтировать
+      example: The mechanic repaired my car.
+
     - eng: repair kit
       ru: ремнабор
+      example: The bicycle repair kit includes a pump.
+
     - eng: repairer
       ru: ремонтник
+      example: The repairer fixed the washing machine.
+
     - eng: repairman
       ru: ремонтный рабочий
+      example: The repairman arrived within an hour.
+
     - eng: repeal
       ru: аннулировать
+      example: The government repealed the law.
+
     - eng: repeat
       ru: повторять
+      example: Repeat the exercise ten times.
+
     - eng: repeat 5 times
       ru: повторять 5 раз
+      example: Repeat the movement five times.
+
     - eng: repeat mark
       ru: вольта
+      example: The repeat mark indicates a section should be played again.
+
     - eng: repeater
       ru: транслятор
+      example: The radio signal is boosted by a repeater.
+
     - eng: repent sinners before the image of your god - chainsaw
       ru: покайтесь, грешники, перед образом вашего бога - бензопилы
+      example: Repent sinners before the image of your god - chainsaw.
+
     - eng: repentance
       ru: покаяние
+      example: Repentance is necessary for forgiveness.
+
     - eng: replace
       ru: заменять; заменить
+      example: Replace the old battery with a new one.
+
     - eng: replenish
       ru: подкреплять/подкрепить
+      example: Replenish your water bottle before the hike.
+
     - eng: replica
       ru: точная копия
+      example: The museum sells replicas of ancient coins.
+
     - eng: replication
       ru: репликация
+      example: DNA replication occurs during cell division.
+
     - eng: replies
       ru: возражать; ответ; отвечать
+      example: He replies quickly to emails.
+
     - eng: reply
       ru: отвечать; ответ
+      example: I am waiting for your reply.
+
     - eng: reply to
       ru: ответить на
+      example: Please reply to my message.
+
     - eng: repo
       ru: договор об обратной покупке, репо
+      example: The bank entered into a repo agreement.
+
     - eng: repossess
       ru: изымать за неплатёж
+      example: The bank repossessed his car.
+
     - eng: represent
       ru: быть представителем; представлять
+      example: The lawyer will represent the client.
+
     - eng: representative
       ru: представитель
+      example: Send a representative to the meeting.
+
     - eng: represents
       ru: представляет
+      example: This symbol represents peace.
+
     - eng: reprise
       ru: реприза
+      example: The song ends with a reprise of the chorus.
+
     - eng: reproduce
       ru: воспроизводить/воспроизвести
+      example: The printer can reproduce images accurately.
+
     - eng: reproduction
       ru: репродукция
+      example: The reproduction of the painting is high quality.
+
     - eng: reptiles
       ru: пресмыкающееся
+      example: Snakes and lizards are reptiles.
+
     - eng: republic
       ru: республика
+      example: France is a republic.
+
     - eng: repudiate
       ru: отвергать; расторгнуть договор
+      example: He repudiated the contract.
+
     - eng: repulsive
-      ru: омерзительный; вызывающий отвращение; Отталкивающий; Противный
+      ru: омерзительный; вызывающий отвращение; отталкивающий; противный
+      example: The smell was repulsive.
+
     - eng: repulsive force
       ru: сила отталкивания
+      example: Like charges produce a repulsive force.
+
     - eng: repurchase agreement
       ru: договор об обратной покупке, репо
+      example: The repurchase agreement was signed by both parties.
+
     - eng: request
       ru: запрос
+      example: Submit a request for information.
+
     - eng: request for quotation
       ru: запрос о цене
+      example: We sent a request for quotation to three suppliers.
+
     - eng: requiem
       ru: реквием
+      example: Mozart's Requiem is a masterpiece.
+
     - eng: requiem service
       ru: отпевание
+      example: The requiem service was held at the church.
+
     - eng: require
-      ru: требовать; требовать
+      ru: требовать
+      example: This job requires experience.
+
     - eng: require securities
       ru: требовать гарантии (залог)
+      example: The bank requires securities for the loan.
+
     - eng: required taxes
       ru: необходимые налоги
+      example: Pay all required taxes on time.
+
     - eng: requirement
       ru: требование
+      example: Meeting the requirements is essential.
+
     - eng: rescue
       ru: спасать
+      example: The firefighter rescued the cat.
+
     - eng: research
       ru: исследование
+      example: She conducts research in biology.
+
     - eng: research park
       ru: технопарк
+      example: The company is located in a research park.
+
     - eng: resemble
       ru: похожий
+      example: He resembles his father.
+
     - eng: reservation
       ru: бронирование
+      example: I have a reservation at the hotel.
+
     - eng: reservation request
       ru: запрос на бронирование
+      example: Submit your reservation request online.
+
     - eng: reserved seat ticket
       ru: плацкарт
+      example: I bought a reserved seat ticket for the train.
+
     - eng: reservoir
       ru: водохранилище
+      example: The reservoir supplies water to the city.
+
     - eng: reservoir pressure
       ru: пластовое давление
+      example: Reservoir pressure affects oil extraction.
+
     - eng: reset
       ru: сброс
+      example: Press the reset button.
+
     - eng: reset, reset, reset
-      ru: Возвращать
+      ru: возвращать
+      example: He reset the clock to the correct time.
+
     - eng: residential building
       ru: жилое здание
+      example: The residential building has twenty apartments.
+
     - eng: residual lung volume
-      ru: остаточный объем легких
+      ru: остаточный объём лёгких
+      example: Residual lung volume is the air left after exhalation.
+
     - eng: resign
       ru: уходить в отставку
+      example: The minister resigned from his post.
+
     - eng: resignation
       ru: отставка
+      example: His resignation was accepted.
+
     - eng: resistance
       ru: сопротивление
+      example: The army met fierce resistance.
+
     - eng: resistor
       ru: резистор, сопротивление
+      example: The circuit has a 100 ohm resistor.
+
     - eng: resolution
       ru: резолюция
+      example: The UN passed a resolution.
+
     - eng: resolution of lens
       ru: разрешающая сила объектива
+      example: The resolution of the lens is measured in line pairs per millimetre.
+
     - eng: resolve
       ru: принимать решение; решение; решать
+      example: We need to resolve this issue.
+
     - eng: resonance
       ru: резонанс
+      example: The singer's voice created a resonance in the hall.
+
     - eng: resonant
       ru: резонансный
+      example: The resonant frequency of the bridge was measured.
+
     - eng: resonator
       ru: резонатор
+      example: The guitar body acts as a resonator.
+
     - eng: resort
       ru: курорт
+      example: We went to a ski resort.
+
     - eng: resource
       ru: ресурсы
+      example: Water is a valuable resource.
+
     - eng: respect
-      ru: уважать; уважение; уважать
+      ru: уважать; уважение
+      example: I respect your opinion.
+
     - eng: respect for the rights
       ru: уважение прав
+      example: Respect for the rights of others is fundamental.
+
     - eng: respiration
       ru: дыхание
+      example: Respiration provides oxygen to the body.
+
     - eng: respond to a complaint
       ru: отвечать на жалобу
+      example: The company must respond to a complaint within a week.
+
     - eng: responsibility
       ru: ответственность
+      example: He took responsibility for the mistake.
+
     - eng: responsibility for
       ru: ответственность за
+      example: She has responsibility for the project.
+
     - eng: responsible
       ru: ответственный
+      example: He is a responsible person.
+
     - eng: responsible for
       ru: ответственный за что-то
+      example: Who is responsible for this mess?
+
     - eng: rest
       ru: отдыхать
+      example: I need to rest after work.
+
     - eng: restaurant
       ru: ресторан
+      example: Let us go to a restaurant.
+
     - eng: restaurant chain
       ru: сеть ресторанов
+      example: The restaurant chain has locations nationwide.
+
     - eng: restaurant district
       ru: район ресторанов
+      example: The restaurant district is busy at night.
+
     - eng: restoration
       ru: реставрация
+      example: The restoration of the painting took months.
+
     - eng: restored
       ru: восстановленный
+      example: The restored church is beautiful.
+
     - eng: restriction
       ru: ограничение
+      example: There is a speed restriction on this road.
+
     - eng: restroom
       ru: туалет
+      example: Where is the restroom?
+
     - eng: result
       ru: результат
+      example: The result of the test was positive.
+
     - eng: resume negotiations
       ru: возобновить переговоры
+      example: The two sides agreed to resume negotiations.
+
     - eng: resurrection
       ru: воскресение
+      example: Christians believe in the resurrection of Jesus.
+
     - eng: retail chain
       ru: розничная сеть
+      example: The retail chain has many stores.
+
     - eng: retailer
       ru: розничный торговец
+      example: The retailer sells directly to customers.
+
     - eng: retake
       ru: пересдавать экзамен
+      example: He had to retake the exam.
+
     - eng: retention rate
       ru: коэффициент сохранения клиентов
+      example: The retention rate for the app is high.
+
     - eng: retire
       ru: уходить в отставку
+      example: He will retire next year.
+
     - eng: return
-      ru: возвращаться; Возвращать
+      ru: возвращаться; возвращать
+      example: Return the book to the library.
+
     - eng: return on investment
       ru: прибыль на инвестированный капитал
+      example: The return on investment was twenty percent.
+
     - eng: return ticket
       ru: билет в обе стороны
+      example: I bought a return ticket to London.
+
     - eng: returns
       ru: результаты выборов
+      example: The election returns are coming in.
+
     - eng: reveal
       ru: обнаруживать
+      example: The investigation revealed the truth.
+
     - eng: reveal the person's nature
       ru: показывать человеческую натуру
+      example: Actions reveal a person's nature.
+
     - eng: revealing
       ru: раскрывающий
+      example: The article was revealing.
+
     - eng: revelations
       ru: откровения
+      example: The revelations shocked the public.
+
     - eng: revenue
       ru: выручка; доход
+      example: The company's revenue increased.
+
     - eng: revenue authorities
       ru: налоговые власти
+      example: The revenue authorities audited the company.
+
     - eng: revenue share
       ru: распределение доходов
+      example: The partners agreed on a revenue share.
+
     - eng: revenue tax
       ru: фискальный налог
+      example: Revenue tax funds government services.
+
     - eng: reverend
       ru: преподобный
+      example: The reverend led the prayer.
+
     - eng: reversal film
       ru: обратимая фотоплёнка
+      example: Reversal film produces positive images directly.
+
     - eng: reverse
       ru: обратное
+      example: Put the car in reverse.
+
     - eng: reverse fault
       ru: обратный сброс
+      example: A reverse fault occurs when the hanging wall moves up.
+
     - eng: review
       ru: отзыв; рецензия
+      example: The book received a positive review.
+
     - eng: revise
       ru: повторять перед экзаменом
+      example: I need to revise for my test.
+
     - eng: revival
       ru: возрождение
+      example: There has been a revival of interest in vinyl records.
+
     - eng: revocable credit
       ru: отзывной кредит
+      example: The bank offered revocable credit.
+
     - eng: revoke
       ru: отменить
+      example: The license was revoked.
+
     - eng: revolt
       ru: восстание
+      example: The people rose in revolt.
+
     - eng: revolution
       ru: революция
+      example: The French Revolution changed Europe.
+
     - eng: revolving door
       ru: вращающаяся дверь
+      example: Enter through the revolving door.
+
     - eng: revulsion
       ru: антипатия; отвращение
+      example: She felt revulsion at the sight of blood.
+
     - eng: reward
       ru: награда
+      example: There is a reward for finding the lost dog.
+
     - eng: rewind/advance (film)
       ru: перематывать/перемотать
+      example: Rewind the film before removing it from the camera.
+
     - eng: reykjavik
-      ru: Рейкьявик
+      ru: рейкьявик
+      example: Reykjavik is the capital of Iceland.
+
     - eng: rhesus
       ru: резус
+      example: The rhesus monkey is used in research.
+
     - eng: rhetoric
       ru: риторика
+      example: The politician used empty rhetoric.
+
     - eng: rhino
       ru: носорог
+      example: The rhino has a horn on its nose.
+
     - eng: rhinoceros
       ru: носорог
+      example: The rhinoceros is an endangered species.
+
     - eng: rhododendron
       ru: рододендрон
+      example: Rhododendrons have large, colourful flowers.
+
     - eng: rhubarb
       ru: ревень
+      example: Rhubarb is used in pies.
+
     - eng: rhyme
       ru: рифма
+      example: The poem has a rhyme scheme.
+
     - eng: rhyolite
       ru: риолит
+      example: Rhyolite is a volcanic rock.
+
     - eng: rhythm
       ru: размер (в стихосложении); ритм
+      example: The rhythm of the music made me tap my foot.
+
     - eng: rhythm and blues
       ru: ритм-энд-блюз
+      example: Rhythm and blues influenced rock and roll.
+
     - eng: rhythmic gymnastics
       ru: художественная гимнастика
+      example: Rhythmic gymnastics uses ribbons and hoops.
+
     - eng: rib
       ru: нервюра; ребро
+      example: He broke a rib in the accident.
+
     - eng: ribosome
       ru: рибосома
+      example: Ribosomes synthesise proteins.
+
     - eng: ribs
-      ru: ребра
+      ru: рёбра
+      example: The ribs protect the lungs.
+
     - eng: rice
       ru: рис
+      example: Rice is a staple food in Asia.
+
     - eng: rice cooker
       ru: рисоварка
+      example: The rice cooker automatically shuts off.
+
     - eng: rice should never be undercooked
       ru: рис ни в коем случае не должен быть недоваренным
+      example: Rice should never be undercooked, as it can be hard to digest.
+
     - eng: rich
       ru: богатый
+      example: He is a rich man.
+
     - eng: ride
       ru: ездить верхом
+      example: She rides a horse well.
+
     - eng: ride a bike
       ru: кататься на велосипеде
+      example: Children learn to ride a bike.
+
     - eng: ride a horse
       ru: кататься верхом
+      example: He likes to ride a horse on weekends.
+
     - eng: ride a motorbike
       ru: кататься на мотоцикле
+      example: She rides a motorbike to work.
+
     - eng: ride, rode, ridden
       ru: ездить верхом
+      example: He rode a horse across the field.
+
     - eng: rider
       ru: наездник
+      example: The rider fell off the horse.
+
     - eng: ridiculous
       ru: нелепый
+      example: That is a ridiculous idea.
+
     - eng: riding
       ru: неторопливая езда на велосипеде
+      example: We went for a relaxing ride through the park.
+
     - eng: riding boots
       ru: сапоги для верховой езды
+      example: She wore leather riding boots.
+
     - eng: riding position
       ru: посадка
+      example: A proper riding position improves balance.
+
     - eng: right
       ru: верный; право; правильный; правый
+      example: You are right.
+
     - eng: right angle
       ru: прямой угол
+      example: A square has four right angles.
+
     - eng: right away
       ru: сразу, тотчас, немедленно
+      example: I will do it right away.
+
     - eng: right-hand part
       ru: партия правой руки
+      example: The right-hand part of the piano piece is difficult.
+
     - eng: righteous behavior is own reward
       ru: праведное поведение - это собственная награда
+      example: Righteous behavior is its own reward.
+
     - eng: rights
       ru: права
+      example: Everyone has human rights.
+
     - eng: rind
       ru: кожура
+      example: Remove the rind from the orange.
+
     - eng: ring
       ru: ободок; кольцо; звенеть
+      example: She wears a gold ring.
+
     - eng: ring finger
       ru: безымянный палец
+      example: The wedding ring goes on the ring finger.
+
     - eng: ring game
       ru: полная игра
+      example: In a ring game, players can come and go.
+
     - eng: ring road
       ru: кольцевая дорога
+      example: Take the ring road to avoid city traffic.
+
     - eng: ring, rang, rung
       ru: звонить
+      example: The phone rang three times.
+
     - eng: rings
       ru: кольца
+      example: Saturn has rings around it.
+
     - eng: rink
       ru: каток
+      example: We went ice skating at the rink.
+
     - eng: riot
       ru: восстание; бунт
+      example: The protest turned into a riot.
+
     - eng: rip
       ru: рваться
+      example: The paper ripped easily.
+
     - eng: ripe
       ru: спелый
+      example: The banana is ripe.
+
     - eng: ripening
       ru: созревание
+      example: The ripening of fruit takes time.
+
     - eng: ripple marks
       ru: знаки ряби
+      example: Ripple marks on the rock indicate ancient water flow.
+
     - eng: rise
       ru: восходить; вставать; подниматься
+      example: The sun rises in the east.
+
     - eng: rise rose risen
       ru: восходить, подниматься
+      example: The balloon rose into the sky.
+
     - eng: rising ground
       ru: возвышение
+      example: The house is on rising ground.
+
     - eng: risk analysis
       ru: анализ степени риска
+      example: Risk analysis is essential before investing.
+
     - eng: risk profile
       ru: профиль риска
+      example: The investment has a high risk profile.
+
     - eng: risk-taker
       ru: рисковый человек, авантюрист
+      example: He is a risk-taker who enjoys challenges.
+
     - eng: risks analysis
       ru: анализ степени риска
+      example: A risks analysis was conducted for the project.
+
     - eng: rite
       ru: обряд
+      example: The funeral rite was performed.
+
     - eng: ritual
       ru: ритуал
+      example: The ritual has been practiced for centuries.
+
     - eng: rive rived riven
       ru: расщеплять
+      example: The lightning rived the old tree.
+
     - eng: river
       ru: река
+      example: The river flows to the sea.
+
     - eng: riverside
       ru: прибрежный
+      example: We walked along the riverside path.
+
     - eng: rivet
-      ru: заклепки
+      ru: заклёпки
+      example: The bridge is held together with rivets.
+
     - eng: riyadh
-      ru: Эр-Рияд
+      ru: эр-рияд
+      example: Riyadh is the capital of Saudi Arabia.
+
     - eng: road
       ru: дорога
+      example: The road is paved.
+
     - eng: road map
       ru: дорожный атлас
+      example: Use a road map to plan your trip.
+
     - eng: road rage
       ru: агрессивное поведение на дороге
+      example: Road rage is dangerous.
+
     - eng: roadside signs
       ru: придорожные знаки, рекламные щиты
+      example: Roadside signs advertise local businesses.
+
     - eng: roadworks are carried out to enhance the comfort
       ru: дорожные работы проводятся для повышения комфорта
+      example: Roadworks are carried out to enhance the comfort of drivers.
+
     - eng: roast
       ru: запекать; жареный
+      example: Roast the chicken for an hour.
+
     - eng: roast the lamb on a spit
       ru: запеките баранину на вертеле
+      example: Roast the lamb on a spit over the fire.
+
     - eng: roasted chicken
       ru: жареная курица
+      example: Roasted chicken is a family favourite.
+
     - eng: roasted vegetables
       ru: жареные овощи
+      example: Roasted vegetables are healthy and tasty.
+
     - eng: roaster
       ru: жаровня
+      example: Put the turkey in the roaster.
+
     - eng: robbery
       ru: уличный грабёж
+      example: The robbery was caught on camera.
+
     - eng: robe
       ru: мантия
+      example: The judge wore a black robe.
+
     - eng: robin
       ru: малиновка
+      example: The robin has a red breast.
+
     - eng: rock
       ru: рок; скала
+      example: The ship hit a rock.
+
     - eng: rock lobster
       ru: лангуст
+      example: Rock lobster is a delicacy.
+
     - eng: rock the boat
-      ru: раскачивать лодку, возмущать спокойствие; изменять ход событий; нарушать покой, вносить разлад; мешать слаженной работе (коллектива и т. п.)
+      ru: раскачивать лодку, возмущать спокойствие; изменять ход событий; нарушать покой, вносить разлад; мешать слаженной работе (коллектива и т.п.)
+      example: Do not rock the boat by complaining.
+
     - eng: rocker
       ru: кресло-качалка
+      example: He sat in the rocker on the porch.
+
     - eng: rocket
       ru: руккола; ракетный
+      example: The rocket launched into space.
+
     - eng: rocking chair
       ru: кресло-качалка
+      example: The old man sat in a rocking chair.
+
     - eng: rococo
       ru: рококо
+      example: The palace is decorated in the rococo style.
+
     - eng: rod
-      ru: Шток
+      ru: шток
+      example: The curtain rod is made of metal.
+
     - eng: role
       ru: роль
+      example: She played the leading role in the play.
+
     - eng: roll
       ru: катиться
+      example: The ball rolled down the hill.
+
     - eng: roll of film
-      ru: рулон фотоплёнка
+      ru: рулон фотоплёнки
+      example: I bought a roll of film for my camera.
+
     - eng: roll-forward
       ru: перенос на следующий срок
+      example: The roll-forward of the contract was automatic.
+
     - eng: roller
       ru: ролик
+      example: Use a roller to paint the wall.
+
     - eng: roller coaster
-      ru: Американские горки
+      ru: американские горки
+      example: The roller coaster was thrilling.
+
     - eng: roller skating
       ru: катание на роликах
+      example: Roller skating is fun at the park.
+
     - eng: rolling pin
       ru: скалка для теста; скалка
+      example: Use a rolling pin to flatten the dough.
+
     - eng: romance
       ru: роман (жанр)
+      example: She enjoys reading romance novels.
+
     - eng: romance novel
       ru: любовный роман
+      example: Romance novels often have happy endings.
+
     - eng: romanesco
       ru: капуста романеско
+      example: Romanesco has a fractal pattern.
+
     - eng: romanesque (style)
       ru: романский стиль
+      example: The church is built in the Romanesque style.
+
     - eng: romantic
       ru: романтичный
+      example: He gave her a romantic gift.
+
     - eng: romanticism
       ru: романтизм
+      example: Romanticism emphasized emotion and nature.
+
     - eng: rome
       ru: рим
+      example: Rome is the capital of Italy.
+
     - eng: rondo
-      ru: Рондо
+      ru: рондо
+      example: The piece is in rondo form.
+
     - eng: roof
       ru: крыша
+      example: The roof needs repairs.
+
     - eng: rook
       ru: грач
+      example: The rook built a nest in the tree.
+
     - eng: rookie mark
       ru: след от цепи на штанине велосипедиста
+      example: He got a rookie mark on his new trousers.
+
     - eng: room
       ru: помещение; комната
+      example: This room is very bright.
+
     - eng: room divider
       ru: комнатная перегородка
+      example: Use a room divider to separate the space.
+
     - eng: room service
       ru: обслуживание номеров
+      example: Order breakfast from room service.
+
     - eng: room type
       ru: тип размещения
+      example: Choose your room type when booking.
+
     - eng: rooster
       ru: петух
+      example: The rooster crows at dawn.
+
     - eng: root
       ru: корень
+      example: The root of the tree is deep.
+
     - eng: root vegetable
       ru: корнеплод
+      example: Carrots are root vegetables.
+
     - eng: rope
       ru: верёвка
+      example: Tie the rope tightly.
+
     - eng: rosary
       ru: чётки
+      example: She prayed with her rosary.
+
     - eng: rose
       ru: роза
+      example: The rose is red.
+
     - eng: rose coloured glasses
       ru: розовые очки
+      example: He sees the world through rose-coloured glasses.
+
     - eng: rose hips
       ru: плоды шиповника
+      example: Rose hips are rich in vitamin C.
+
     - eng: rosemary
       ru: розмарин
+      example: Add rosemary to the roasted potatoes.
+
     - eng: rosy cheeks
-      ru: румяные щеки
+      ru: румяные щёки
+      example: The child had rosy cheeks from the cold.
+
     - eng: rotate
       ru: вращать
+      example: Rotate the knob to adjust the volume.
+
     - eng: rotation
       ru: вращение
+      example: The rotation of the Earth causes day and night.
+
     - eng: rotor
       ru: ротор
+      example: The helicopter's rotor spun rapidly.
+
     - eng: rotten
       ru: гнилой
+      example: The fruit is rotten.
+
     - eng: roughy
       ru: австралийский ёрш
+      example: Roughy is a deep-sea fish.
+
     - eng: round
       ru: у; за; около; круглый
+      example: The table is round.
+
     - eng: round face
       ru: круглое лицо
+      example: She has a round face.
+
     - eng: round of betting
       ru: круг торговли
+      example: The round of betting started with the player to the left.
+
     - eng: round table talks
       ru: переговоры за круглым столом
+      example: The round table talks lasted three days.
+
     - eng: round-up
       ru: сводка новостей
+      example: Watch the news round-up at ten.
+
     - eng: rounds
-      ru: Обходы
+      ru: обходы
+      example: The doctor makes rounds every morning.
+
     - eng: route
       ru: маршрут
+      example: What is the best route to the airport?
+
     - eng: routine
       ru: заведённый порядок
+      example: My daily routine includes exercise.
+
     - eng: row
       ru: ряд
+      example: The chairs are in a row.
+
     - eng: row house
       ru: дом ленточной застройки
+      example: They live in a row house in the city.
+
     - eng: rowan
       ru: рябина
+      example: Rowan berries are bright red.
+
     - eng: rowing
       ru: гребля
+      example: Rowing is good exercise.
+
     - eng: royal
       ru: королевский
+      example: The royal family attended the ceremony.
+
     - eng: royal flush
       ru: флеш-рояль
+      example: He won with a royal flush.
+
     - eng: royalty
       ru: лицензионный платёж
+      example: The author receives royalties from book sales.
+
     - eng: rubber
       ru: ластик
+      example: Use a rubber to erase the pencil mark.
+
     - eng: rubber band
       ru: резинка
+      example: Wrap the papers with a rubber band.
+
     - eng: rubber tree
       ru: гевея
+      example: Rubber is harvested from the rubber tree.
+
     - eng: rubberized
       ru: прорезиненный
+      example: The rubberized fabric is waterproof.
+
     - eng: rubbish
       ru: хлам; мусор
+      example: Throw the rubbish in the bin.
+
     - eng: rubble
       ru: щебень
+      example: The building was reduced to rubble.
+
     - eng: ruby
       ru: рубин
+      example: The ruby is a red gemstone.
+
     - eng: rucksack
       ru: рюкзак
+      example: She carried a rucksack on her back.
+
     - eng: rude
       ru: грубый
+      example: It is rude to interrupt.
+
     - eng: rug
-      ru: коврик; ковер
+      ru: коврик; ковёр
+      example: The rug is soft and warm.
+
     - eng: rugby
       ru: регби
+      example: Rugby is a physical sport.
+
     - eng: rugby player
       ru: регбист
+      example: The rugby player scored a try.
+
     - eng: ruin
       ru: разорять
+      example: The scandal ruined his career.
+
     - eng: rule
       ru: закон; линейка; правило
+      example: Follow the rules.
+
     - eng: rule of thumb
       ru: правило, установленное на основе практики
+      example: As a rule of thumb, water boils at 100 degrees Celsius.
+
     - eng: ruled paper
       ru: линованная бумага
+      example: Write on ruled paper for neatness.
+
     - eng: ruler
       ru: правитель
+      example: The ruler was loved by his people.
+
     - eng: rules of signs
       ru: правила знаков
+      example: The rules of signs determine the sign of a product.
+
     - eng: ruling party
       ru: правящая партия
+      example: The ruling party won the election.
+
     - eng: rum
       ru: ром
+      example: He ordered a rum and coke.
+
     - eng: run
       ru: бежать
+      example: He runs every morning.
+
     - eng: run away
       ru: убегать, удирать
+      example: The dog ran away from home.
+
     - eng: run into
       ru: встретить, столкнуться, наскочить
+      example: I ran into an old friend at the mall.
+
     - eng: run off
       ru: удирать, убегать, сбегать
+      example: The thief ran off with the money.
+
     - eng: run out
       ru: выбегать, кончаться, истощаться
+      example: We ran out of milk.
+
     - eng: run over
       ru: подбегать, переехать, задавить
+      example: The car ran over a pothole.
+
     - eng: run round like a headless chicken
       ru: как белка в колесе
+      example: He was running round like a headless chicken trying to finish the work.
+
     - eng: run, ran, run
       ru: бежать
+      example: She ran to catch the bus.
+
     - eng: run-of-the-mill
       ru: обычный
+      example: It was a run-of-the-mill day.
+
     - eng: running
       ru: бег
+      example: Running is good for your heart.
+
     - eng: running shoes
       ru: кроссовки
+      example: Buy a pair of running shoes.
+
     - eng: runny nose
       ru: насморк
+      example: I have a runny nose due to allergies.
+
     - eng: russule
       ru: сыроежка
+      example: Russule mushrooms are edible.
+
     - eng: rutabaga
       ru: брюква
+      example: Rutabaga is a root vegetable.
+
     - eng: rye bread
       ru: ржаной хлеб
+      example: Rye bread is dark and dense.
+
     - eng: sable
       ru: соболь
+      example: Sable fur is very valuable.
+
     - eng: sacrament
       ru: таинство
+      example: Baptism is a sacrament.
+
     - eng: sacred place
       ru: священное место
+      example: The temple is a sacred place.
+
     - eng: sacrifice
       ru: жертва
+      example: He made a sacrifice for his family.
+
     - eng: sacrum
       ru: крестец
+      example: The sacrum is at the base of the spine.
+
     - eng: sad
       ru: печальный
+      example: She felt sad after the movie.
+
     - eng: sad about
-      ru: грустить о чем-л.
+      ru: грустить о чём-л.
+      example: He is sad about losing his job.
+
     - eng: sad face
       ru: печальный вид
+      example: Why the sad face?
+
     - eng: sadaqat
       ru: садака
+      example: Sadaqat is voluntary charity in Islam.
+
     - eng: saddle
       ru: седло
+      example: Put the saddle on the horse.
+
     - eng: saddle time
       ru: чистое время велосипедной поездки
+      example: My saddle time today was two hours.
+
     - eng: sadly
       ru: печально; грустно
+      example: Sadly, he could not come.
+
     - eng: sadness
       ru: печаль; грусть
+      example: The sadness in her eyes was evident.
+
     - eng: safe
       ru: безопасный
+      example: This neighborhood is safe.
+
     - eng: safe and sound
       ru: жив и здоров; целый и невредимый
+      example: The children arrived home safe and sound.
+
     - eng: safe deposit box
       ru: сейф для хранения ценностей
+      example: Keep your documents in a safe deposit box.
+
     - eng: safety
       ru: безопасность
+      example: Safety is our first priority.
+
     - eng: safety features
       ru: меры обеспечения безопасности
+      example: The car has many safety features.
+
     - eng: safety poster
       ru: плакат по технике безопасности (на стройплощадке)
+      example: The safety poster reminds workers to wear helmets.
+
     - eng: sag wagon
       ru: машина сопровождения в велотурах
+      example: The sag wagon picked up the tired cyclist.
+
     - eng: sage
       ru: шалфей
+      example: Sage is an herb used in cooking.
+
     - eng: said
       ru: сказал
+      example: He said hello.
+
     - eng: sail
       ru: парус
+      example: The sail caught the wind.
+
     - eng: sailboard
       ru: парусная доска
+      example: He rode a sailboard across the lake.
+
     - eng: sailfish
       ru: парусник
+      example: The sailfish is a fast swimmer.
+
     - eng: sailing
       ru: парусный спорт
+      example: Sailing is a relaxing hobby.
+
     - eng: sailor
       ru: моряк
+      example: The sailor navigated the ship.
+
     - eng: saint
       ru: преподобный; святой
+      example: Saint Patrick is the patron saint of Ireland.
+
     - eng: saint (noun)
       ru: святой (существительное)
+      example: She lived her life like a saint.
+
     - eng: salad
       ru: салат
+      example: I ate a salad for lunch.
+
     - eng: salad bowl
       ru: салатник; салатница
+      example: Mix the ingredients in a salad bowl.
+
     - eng: salad dressing
       ru: салатная заправка; приправа для салата
+      example: Vinaigrette is a healthy salad dressing.
+
     - eng: salad-dish
       ru: салатник
+      example: The salad-dish is made of wood.
+
     - eng: salami
       ru: салями
+      example: Salami is a type of cured sausage.
+
     - eng: salary
-      ru: заработная плата; заработная плата
+      ru: заработная плата
+      example: His salary is paid monthly.
+
     - eng: salat
       ru: салят (намаз)
+      example: Muslims perform salat five times a day.
+
     - eng: sale
       ru: продажа
+      example: The house is for sale.
+
     - eng: sales manager
       ru: менеджер по продажам
+      example: The sales manager set the targets.
+
     - eng: sales quota
-      ru: целевой показатель объема продаж
+      ru: целевой показатель объёма продаж
+      example: The sales team met their quota.
+
     - eng: sales representative
       ru: торговый представитель
+      example: The sales representative visited the client.
+
     - eng: salesman
       ru: продавец
+      example: The salesman helped me choose a suit.
+
     - eng: salient
       ru: выдающийся
+      example: The salient feature of the plan is its simplicity.
+
     - eng: saline solution
       ru: соляной раствор
+      example: Use a saline solution to clean the wound.
+
     - eng: salmon
       ru: лосось
+      example: Salmon is rich in omega-3.
+
     - eng: salmon return to the stream to reproduce offspring
       ru: лосось возвращается в ручей, чтобы произвести потомство
+      example: Salmon return to the stream to reproduce offspring.
+
     - eng: salmonberry
       ru: морошка (ягода)
+      example: Salmonberries are orange and tart.
+
     - eng: salsa
       ru: сальса
+      example: Salsa dancing is energetic.
+
     - eng: salsa
       ru: сальса
+      example: Serve the tacos with salsa.
+
     - eng: salt
       ru: соль
+      example: Add salt to the soup.
+
     - eng: salt cellar
       ru: солонка
+      example: Pass me the salt cellar.
+
     - eng: salt shaker
       ru: солонка
+      example: The salt shaker is on the table.
+
     - eng: saltbush
       ru: лебеда
+      example: Saltbush grows in arid regions.
+
     - eng: salts
       ru: соли
+      example: Epsom salts are used for muscle relaxation.
+
     - eng: salty
       ru: соленый; солёный
     - eng: salty cheese
