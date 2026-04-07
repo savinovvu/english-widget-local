@@ -66058,936 +66058,1868 @@ app.words:
 
     - eng: the guns were smuggled across the border
       ru: оружие было контрабандно переправлено через границу
+      example: The guns were smuggled across the border in trucks.
+
     - eng: the gymnast turned a somersault
       ru: гимнаст сделал сальто
+      example: The gymnast turned a somersault in the air.
+
     - eng: the hall has excellent acoustics
       ru: в зале отличная акустика
+      example: The hall has excellent acoustics for concerts.
+
     - eng: the hardest part was syncing the music
       ru: самым сложным было синхронизировать музыку
+      example: The hardest part was syncing the music with the video.
+
     - eng: the hawk was circling high in the sky
       ru: ястреб кружил высоко в небе
+      example: The hawk was circling high in the sky, looking for prey.
+
     - eng: the hearing was scheduled
       ru: слушание было назначено
+      example: The hearing was scheduled for Monday morning.
+
     - eng: the heart has four chambers
-      ru: сердце состоит из четырех камер
+      ru: сердце состоит из четырёх камер
+      example: The heart has four chambers that pump blood.
+
     - eng: the home team demolished the visitors
       ru: хозяева поля разгромили гостей
+      example: The home team demolished the visitors by twenty points.
+
     - eng: the horse bounded across the meadow
       ru: лошадь поскакала по лугу
+      example: The horse bounded across the meadow with joy.
+
     - eng: the horse leapt over the barrier
       ru: лошадь перепрыгнула через барьер
+      example: The horse leapt over the barrier easily.
+
     - eng: the horse plodded up the hill
       ru: лошадь с трудом взбиралась на холм
+      example: The horse plodded up the hill slowly.
+
     - eng: the hotel room where we stayed was shabby
       ru: гостиничный номер, где мы остановились, был убогим
-    - eng: the house became an icon of residential architecure
+      example: The hotel room where we stayed was shabby and needed renovation.
+
+    - eng: the house became an icon of residential architecture
       ru: дом стал иконой жилой архитектуры
+      example: The house became an icon of residential architecture in the region.
+
     - eng: the house has a detached garage
       ru: в доме есть отдельно стоящий гараж
+      example: The house has a detached garage behind the garden.
+
     - eng: the house is sadly in want of repair
       ru: дом, к сожалению, нуждается в ремонте
+      example: The house is sadly in want of repair after years of neglect.
+
     - eng: the house was furnished poorly
       ru: дом был обставлен бедно
+      example: The house was furnished poorly with old, mismatched furniture.
+
     - eng: the houses were partly timber
       ru: дома были частично деревянными
+      example: The houses were partly timber and partly stone.
+
     - eng: the howl turned to a whine
-      ru: вой перешел в скулеж
+      ru: вой перешёл в скулёж
+      example: The dog's howl turned to a whine when it saw its owner.
+
     - eng: the hunter discharged his gun into the air
-      ru: охотник разрядил свое ружье в воздух
+      ru: охотник разрядил своё ружьё в воздух
+      example: The hunter discharged his gun into the air as a warning.
+
     - eng: the idealization of rural life was very misleading
       ru: идеализация сельской жизни была очень обманчивой
+      example: The idealization of rural life was very misleading to city dwellers.
+
     - eng: the injection left a small stab on her upper arm
-      ru: от укола у нее на предплечье остался небольшой порез
+      ru: от укола у неё на предплечье остался небольшой порез
+      example: The injection left a small stab on her upper arm.
+
     - eng: the insult left me speechless
       ru: это оскорбление лишило меня дара речи
+      example: The insult left me speechless for a moment.
+
     - eng: the intellect instinctively dreads lies
       ru: интеллект инстинктивно боится лжи
+      example: The intellect instinctively dreads lies and seeks truth.
+
     - eng: the internet
       ru: интернет
+      example: The internet has changed the way we communicate.
+
     - eng: the island's birds are quite tame
       ru: птицы острова совсем ручные
+      example: The island's birds are quite tame and will eat from your hand.
+
     - eng: the itinerants
       ru: передвижники
+      example: The Itinerants were a group of Russian realist artists.
+
     - eng: the jockey whipped his horse
       ru: жокей хлестнул свою лошадь
+      example: The jockey whipped his horse to make it run faster.
+
     - eng: the judgment of the editors is final
       ru: решение редакторов является окончательным
+      example: The judgment of the editors is final and cannot be appealed.
+
     - eng: the kernel of this doctrine is quite mysterious
       ru: суть этой доктрины довольно загадочна
+      example: The kernel of this doctrine is quite mysterious to outsiders.
+
     - eng: the key is still in the keyhole
-      ru: ключ все еще торчит в замочной скважине
+      ru: ключ всё ещё торчит в замочной скважине
+      example: The key is still in the keyhole, so we can enter easily.
+
     - eng: the killer has eluded capture
       ru: убийца ускользнул от поимки
+      example: The killer has eluded capture for several years.
+
     - eng: the king abdicated the throne
-      ru: король отрекся от трона
+      ru: король отрёкся от трона
+      example: The king abdicated the throne in favour of his son.
+
     - eng: the king's death marked the end of an epoch
       ru: смерть короля ознаменовала конец целой эпохи
+      example: The king's death marked the end of an epoch in the country's history.
+
     - eng: the koala is actually a marsupial
       ru: коала на самом деле сумчатое животное
+      example: The koala is actually a marsupial, not a bear.
+
     - eng: the land is zoned for industrial use
       ru: земля зонирована для промышленного использования
+      example: The land is zoned for industrial use, not residential.
+
     - eng: the land was too rocky to cultivate
-      ru: земля была слишком каменистой, чтобы ее можно было обрабатывать
+      ru: земля была слишком каменистой, чтобы её можно было обрабатывать
+      example: The land was too rocky to cultivate any crops.
+
     - eng: the landlord says your rent is late
       ru: домовладелец говорит, что вы просрочили арендную плату
+      example: The landlord says your rent is late and must be paid today.
+
     - eng: the larger the closet, the louder it will fall
       ru: чем больше шкаф, тем громче он будет падать
+      example: The larger the closet, the louder it will fall when it tips over.
+
     - eng: the last but one row
       ru: предпоследний ряд
+      example: We sat in the last but one row of the cinema.
+
     - eng: the last row
       ru: последний ряд
+      example: The last row of the bus was empty.
+
     - eng: the last survivor of his race
       ru: последний оставшийся в живых представитель своей расы
+      example: He was the last survivor of his race, a dying breed.
+
     - eng: the lease is gonna be up soon
-      ru: срок аренды скоро истечет
+      ru: срок аренды скоро истечёт
+      example: The lease is gonna be up soon, so we need to decide whether to renew.
+
     - eng: the legislation has a fundamental weakness
       ru: законодательство имеет фундаментальный недостаток
+      example: The legislation has a fundamental weakness that makes it ineffective.
+
     - eng: the less we know the more we suspect
       ru: чем меньше мы знаем, тем больше подозреваем
+      example: The less we know, the more we suspect others of wrongdoing.
+
     - eng: the letter and the spirit of smth.
       ru: дух и буква чего-л.
+      example: The law must be applied according to both the letter and the spirit.
+
     - eng: the letter had gone astray in the post
       ru: письмо потерялось на почте
+      example: The letter had gone astray in the post and never arrived.
+
     - eng: the light is flattering, the air is perfumed
-      ru: свет льстит, воздух напоен ароматом
+      ru: свет льстит, воздух напоён ароматом
+      example: The light is flattering, the air is perfumed with jasmine.
+
     - eng: the mall is a popular venue
       ru: торговый центр является популярным местом проведения
+      example: The mall is a popular venue for weekend shoppers.
+
     - eng: the manuscript was sent to the publisher
       ru: рукопись была отправлена издателю
+      example: The manuscript was sent to the publisher last week.
+
     - eng: the mass-consumer audience
       ru: массовые потребители
+      example: The film was designed to appeal to the mass-consumer audience.
+
     - eng: the massacre (slaughter) of the innocents
       ru: избиение младенцев
+      example: The massacre of the innocents is a biblical story.
+
     - eng: the material gets the necessary solidity after thermal treatment
       ru: материал приобретает необходимую прочность после термической обработки
+      example: The material gets the necessary solidity after thermal treatment.
+
     - eng: the matter is closed
-      ru: Вопрос закрыт
+      ru: вопрос закрыт
+      example: The matter is closed and will not be discussed further.
+
     - eng: the mechanical watch needs rewinding every day
       ru: механические часы требуют подзавода каждый день
+      example: The mechanical watch needs rewinding every day to keep accurate time.
+
     - eng: the messiah
       ru: мессия
+      example: Many religions await the coming of the Messiah.
+
     - eng: the milky way
       ru: млечный путь
+      example: The Milky Way is our home galaxy.
+
     - eng: the mirror was hooked to the wall
       ru: зеркало было прикреплено крючком к стене
+      example: The mirror was hooked to the wall with a metal bracket.
+
     - eng: the money is for a worthwhile cause
-      ru: Эти деньги предназначены для стоящего дела
+      ru: эти деньги предназначены для стоящего дела
+      example: The money is for a worthwhile cause, helping homeless children.
+
     - eng: the money was lodged in a swiss bank account
-      ru: деньги были переведены на счет в швейцарском банке
+      ru: деньги были переведены на счёт в швейцарском банке
+      example: The money was lodged in a Swiss bank account for safekeeping.
+
     - eng: the monks take a vow of silence
       ru: монахи дают обет молчания
+      example: The monks take a vow of silence and only communicate by writing.
+
     - eng: the more I get the more I want
-      ru: Чем больше я получаю, тем больше я хочу
+      ru: чем больше я получаю, тем больше я хочу
+      example: The more I get, the more I want; it is never enough.
+
     - eng: the more we give the more we get
-      ru: чем больше мы отдаем тем больше получаем
+      ru: чем больше мы отдаём, тем больше получаем
+      example: The more we give, the more we get in return.
+
     - eng: the more we know the more we forget
       ru: чем больше мы знаем, тем больше забываем
+      example: The more we know, the more we forget as we age.
+
     - eng: the more you ask, the more you will learn
       ru: чем больше вы будете спрашивать, тем больше узнаете
+      example: The more you ask, the more you will learn about the subject.
+
     - eng: the most important thing is respect
       ru: самое главное - это уважение
+      example: The most important thing is respect for others.
+
     - eng: the mother changed the baby's diaper
-      ru: мать сменила подгузник ребенку
+      ru: мать сменила подгузник ребёнку
+      example: The mother changed the baby's diaper quickly.
+
     - eng: the multilingual staff will advise you
       ru: персонал, владеющий несколькими языками, проконсультирует вас
+      example: The multilingual staff will advise you in your native language.
+
     - eng: the music in the horror film created a sinister mood
       ru: музыка в фильме ужасов создавала зловещее настроение
+      example: The music in the horror film created a sinister mood.
+
     - eng: the nation is in danger of falling into anarchy
       ru: нация находится в опасности впасть в анархию
+      example: The nation is in danger of falling into anarchy after the coup.
+
     - eng: the new manager generated lotta problems
       ru: новый менеджер породил массу проблем
+      example: The new manager generated a lot of problems with his decisions.
+
     - eng: the new series has gone down well with viewers
       ru: новый сериал хорошо понравился зрителям
+      example: The new series has gone down well with viewers and critics alike.
+
     - eng: the news reported the ouster of the dictator
       ru: в новостях сообщили о свержении диктатора
+      example: The news reported the ouster of the dictator by the army.
+
     - eng: the no smoking notice
-      ru: табло "не курить"
+      ru: табло «не курить»
+      example: The no smoking notice was clearly displayed on the wall.
+
     - eng: the number nine looks like an inverted six
-      ru: число девять выглядит как перевернутая шестерка
+      ru: число девять выглядит как перевёрнутая шестёрка
+      example: The number nine looks like an inverted six when turned upside down.
+
     - eng: the nurse wheeled the patient into the ward
       ru: медсестра вкатила пациента в палату
+      example: The nurse wheeled the patient into the ward on a stretcher.
+
     - eng: the old man hates to socialize
       ru: старик терпеть не может общаться
+      example: The old man hates to socialize and prefers to be alone.
+
     - eng: the online system can classify books by subject
       ru: онлайн-система может классифицировать книги по темам
+      example: The online system can classify books by subject automatically.
+
     - eng: the opponents announced a truce
       ru: противники объявили о перемирии
+      example: The opponents announced a truce to allow peace talks.
+
     - eng: the orator bored everyone with his long speech
       ru: оратор наскучил всем своей длинной речью
+      example: The orator bored everyone with his long, tedious speech.
+
     - eng: the ordeal taught her humility
-      ru: Это испытание научило ее смирению
+      ru: это испытание научило её смирению
+      example: The ordeal taught her humility and compassion.
+
     - eng: the organization will have a clear pyramidal structure
-      ru: организация будет иметь четкую пирамидальную структуру
+      ru: организация будет иметь чёткую пирамидальную структуру
+      example: The organization will have a clear pyramidal structure with clear hierarchies.
+
     - eng: the other day
       ru: на днях
+      example: I saw him the other day at the supermarket.
+
     - eng: the outcome was in his favor
-      ru: Исход был в его пользу
+      ru: исход был в его пользу
+      example: The outcome was in his favor, and he won the case.
+
     - eng: the party is in full swing
       ru: вечеринка в самом разгаре
+      example: The party is in full swing, with music and dancing everywhere.
+
     - eng: the passage of goods between our two borders is currently under strain
-      ru: проход товаров между нашими двумя границами в настоящее время затруднен
+      ru: проход товаров между нашими двумя границами в настоящее время затруднён
+      example: The passage of goods between our two borders is currently under strain due to new regulations.
+
     - eng: the passengers went to the stern of the ship
       ru: пассажиры направились на корму корабля
+      example: The passengers went to the stern of the ship to watch the sunset.
+
     - eng: the peacock spreads its tail
       ru: павлин расправляет свой хвост
+      example: The peacock spreads its tail to attract a mate.
+
     - eng: the people rebelled
       ru: народ восстал
+      example: The people rebelled against the oppressive government.
+
     - eng: the perks make up for it
       ru: льготы компенсируют это
+      example: The salary is low, but the perks make up for it.
+
     - eng: the plague took off her parents
-      ru: чума унесла ее родителей
+      ru: чума унесла её родителей
+      example: The plague took off her parents when she was a child.
+
     - eng: the plane disappeared off their radar
-      ru: самолет исчез с их радаров
+      ru: самолёт исчез с их радаров
+      example: The plane disappeared off their radar shortly after takeoff.
+
     - eng: the plastic liquefied in the intense heat
       ru: пластик расплавился на сильном огне
+      example: The plastic liquefied in the intense heat of the fire.
+
     - eng: the play was a dismal flop
       ru: пьеса провалилась с треском
+      example: The play was a dismal flop and closed after one week.
+
     - eng: the players saluted the fans
       ru: игроки поприветствовали болельщиков
+      example: The players saluted the fans after the victory.
+
     - eng: the plot gets more and more intricate as the story continues
-      ru: сюжет становится все более и более запутанным по мере продолжения истории
+      ru: сюжет становится всё более и более запутанным по мере продолжения истории
+      example: The plot gets more and more intricate as the story continues.
+
     - eng: the pocket was empty
       ru: карман был пуст
+      example: The pocket was empty except for a few coins.
+
     - eng: the police had a warrant for his arrest
       ru: у полиции был ордер на его арест
+      example: The police had a warrant for his arrest and searched his house.
+
     - eng: the police restored law and order
       ru: полиция восстановила законность и порядок
+      example: The police restored law and order after the riots.
+
     - eng: the pomp aren't necessary
       ru: в помпезности нет необходимости
+      example: The ceremony was simple; the pomp wasn't necessary.
+
     - eng: the poor network is an impediment to its growth
-      ru: слабая сеть является препятствием для ее роста
+      ru: слабая сеть является препятствием для её роста
+      example: The poor network is an impediment to the company's growth.
+
     - eng: the precursor
       ru: предшественник
+      example: The precursor to the modern computer was the abacus.
+
     - eng: the press had immediately scented a story
-      ru: Пресса тут же почуяла интересную историю
+      ru: пресса тут же почуяла интересную историю
+      example: The press had immediately scented a story and descended on the town.
+
     - eng: the princess was intensely shy
       ru: принцесса была очень застенчивой
+      example: The princess was intensely shy and avoided public appearances.
+
     - eng: the prisoner pleaded with the king for forgiveness
       ru: пленник умолял короля о прощении
+      example: The prisoner pleaded with the king for forgiveness.
+
     - eng: the probe closed with the space station
       ru: зонд сблизился с космической станцией
+      example: The probe closed with the space station and docked successfully.
+
     - eng: the procedure is similar to our procedure in Germany
       ru: процедура аналогична нашей процедуре в Германии
+      example: The procedure is similar to our procedure in Germany, with minor differences.
+
     - eng: the proceeds of the concert will go to charity
-      ru: Вырученные от концерта средства пойдут на благотворительность
+      ru: вырученные от концерта средства пойдут на благотворительность
+      example: The proceeds of the concert will go to charity.
+
     - eng: the process is both lengthy and costly
       ru: этот процесс является длительным и дорогостоящим
+      example: The process is both lengthy and costly, but necessary.
+
     - eng: the process is circular and tautological
       ru: процесс является круговым и повторяющимся
+      example: The argument is circular and tautological, proving nothing.
+
     - eng: the promised land
-      ru: Земля обетованная
+      ru: земля обетованная
+      example: For the pilgrims, America was the promised land.
+
     - eng: the proposal is under our study
       ru: это предложение находится в стадии нашего изучения
+      example: The proposal is under our study, and we will respond soon.
+
     - eng: the public bar was already doing a brisk trade
-      ru: в общественном баре уже шла оживленная торговля
+      ru: в общественном баре уже шла оживлённая торговля
+      example: The public bar was already doing a brisk trade at noon.
+
     - eng: the publisher wants to distribute the book in Asia
       ru: издатель хочет распространять книгу в Азии
+      example: The publisher wants to distribute the book in Asia first.
+
     - eng: the queen bade us enter
       ru: королева пригласила нас войти
+      example: The queen bade us enter her chambers.
+
     - eng: the question of life after death preoccupies his mind
       ru: вопрос о жизни после смерти занимает его ум
+      example: The question of life after death preoccupies his mind constantly.
+
     - eng: the rain is drumming on the car
       ru: дождь барабанит по машине
+      example: The rain is drumming on the car roof loudly.
+
     - eng: the reason I think so is that the pandemic has been a positive change
       ru: причина, по которой я так думаю, заключается в том, что пандемия стала позитивным изменением
+      example: The reason I think so is that the pandemic has been a positive change for remote work.
+
     - eng: the rectangle is inserted in the document
       ru: прямоугольник вставляется в документ
+      example: The rectangle is inserted in the document at the cursor position.
+
     - eng: the regulations prescribe procedures for investigation of offenses
       ru: регламент предписывает процедуры расследования правонарушений
+      example: The regulations prescribe procedures for investigation of offenses.
+
     - eng: the reporter is here on assignment
-      ru: репортер находится здесь по заданию
+      ru: репортёр находится здесь по заданию
+      example: The reporter is here on assignment from the main office.
+
     - eng: the restaurant caters for parties
-      ru: Ресторан подходит для проведения вечеринок
+      ru: ресторан подходит для проведения вечеринок
+      example: The restaurant caters for parties of up to fifty people.
+
     - eng: the rider takes me far away
       ru: наездник уносит меня в далёкие дали
+      example: The rider takes me far away on his horse.
+
     - eng: the robber doesn't want to be found
       ru: грабитель не хочет, чтобы его нашли
+      example: The robber doesn't want to be found, so he is hiding.
+
     - eng: the runner took the thirty-sixth place
       ru: бегун занял тридцать шестое место
+      example: The runner took the thirty-sixth place in the marathon.
+
     - eng: the sad fact is that prejudice still exists
-      ru: печальный факт заключается в том, что предрассудки все еще существуют
+      ru: печальный факт заключается в том, что предрассудки всё ещё существуют
+      example: The sad fact is that prejudice still exists in our society.
+
     - eng: the same
       ru: тот же самый
+      example: We ordered the same dish.
+
     - eng: the samurai has no goal, there is only a path
       ru: у самурая нет цели, есть только путь
+      example: The samurai has no goal, there is only a path to follow.
+
     - eng: the scandal ruined the mayor
       ru: скандал погубил мэра
+      example: The scandal ruined the mayor's career.
+
     - eng: the scented candle on the tub
       ru: ароматическая свеча на ванне
+      example: The scented candle on the tub created a relaxing atmosphere.
+
     - eng: the self-contained stairs
       ru: встроенные трапы
+      example: The self-contained stairs lead directly to the upper deck.
+
     - eng: the shed is where we keep our tools and things
-      ru: Сарай - это место, где мы храним наши инструменты и прочее
+      ru: сарай - это место, где мы храним наши инструменты и прочее
+      example: The shed is where we keep our tools and things.
+
     - eng: the ship is in distress
       ru: корабль терпит бедствие
+      example: The ship is in distress and has sent out a mayday signal.
+
     - eng: the ship will unload tomorrow
-      ru: Судно разгрузится завтра
+      ru: судно разгрузится завтра
+      example: The ship will unload tomorrow at the port.
+
     - eng: the shores of the Lake appears like a mirage
       ru: берега озера кажутся миражом
+      example: The shores of the lake appear like a mirage in the desert heat.
+
     - eng: the silence was deafening
       ru: тишина была оглушительной
+      example: After the explosion, the silence was deafening.
+
     - eng: the site provides a virtual tour
       ru: сайт предоставляет виртуальный тур
+      example: The site provides a virtual tour of the museum.
+
     - eng: the skater executed a triple loop
       ru: фигурист выполнил тройной круг
+      example: The skater executed a triple loop perfectly.
+
     - eng: the small bird was tweeting in the tree
       ru: маленькая птичка чирикала на дереве
+      example: The small bird was tweeting in the tree outside my window.
+
     - eng: the sole aim of the program is to help the poor
       ru: единственная цель программы - помочь бедным
+      example: The sole aim of the program is to help the poor and needy.
+
     - eng: the solvent of the iodine is perfectly transparent
       ru: растворитель йода совершенно прозрачен
+      example: The solvent of the iodine is perfectly transparent after mixing.
+
     - eng: the stairs lead to the roof
-      ru: лестница ведет на крышу
+      ru: лестница ведёт на крышу
+      example: The stairs lead to the roof, where there is a garden.
+
     - eng: the star of Bethlehem
       ru: вифлеемская звезда
+      example: The Star of Bethlehem guided the wise men to Jesus.
+
     - eng: the stifling heat of the tropics
       ru: удушающая жара тропиков
+      example: The stifling heat of the tropics made it hard to breathe.
+
     - eng: the stove isn't lit till evening
       ru: печь не зажигается до вечера
+      example: The stove isn't lit till evening, so the house is cold during the day.
+
     - eng: the street is slippery after the rain
       ru: улица скользкая после дождя
+      example: The street is slippery after the rain, so drive carefully.
+
     - eng: the strife wasn't unbloody
       ru: борьба не была бескровной
+      example: The strife wasn't unbloody; many died in the conflict.
+
     - eng: the study looks at the ways parents nurture their children
       ru: в исследовании рассматривается то, как родители воспитывают своих детей
-    - eng: the style was laboured, pompous, verbouse
+      example: The study looks at the ways parents nurture their children.
+
+    - eng: the style was laboured, pompous, verbose
       ru: стиль был тяжеловесным, напыщенным, многословным
+      example: The style was laboured, pompous, verbose, and hard to read.
+
     - eng: the subject is closed
       ru: тема закрыта
+      example: The subject is closed; we will not discuss it further.
+
     - eng: the sun set and twilight fell
       ru: солнце село, и наступили сумерки
+      example: The sun set and twilight fell over the valley.
+
     - eng: the surgeon excised the tumor
       ru: хирург удалил опухоль
+      example: The surgeon excised the tumor successfully.
+
     - eng: the table overleaf provides key information
-      ru: Таблица на следующей странице содержит основную информацию
+      ru: таблица на следующей странице содержит основную информацию
+      example: The table overleaf provides key information about the study.
+
     - eng: the talks are aimed at furthering detente
       ru: переговоры направлены на дальнейшую разрядку
+      example: The talks are aimed at furthering detente between the two nations.
+
     - eng: the talks have been suspended
       ru: переговоры были приостановлены
+      example: The talks have been suspended until further notice.
+
     - eng: the talks will be held on neutral ground
       ru: переговоры пройдут на нейтральной территории
+      example: The talks will be held on neutral ground in Switzerland.
+
     - eng: the targets are assigned by the computer
       ru: цели назначаются компьютером
+      example: The targets are assigned by the computer automatically.
+
     - eng: the task had been done before you called me
-      ru: hæd bɪn dʌn bɪˈfɔr ju kɔld mi] задание было выполнено до того, как вы позвонили мне
+      ru: задание было выполнено до того, как вы позвонили мне
+      example: The task had been done before you called me, so it is already finished.
+
     - eng: the taster tries it for the eleventh time
       ru: дегустатор пробует его в одиннадцатый раз
+      example: The taster tries it for the eleventh time, still unsure.
+
     - eng: the tendency still persists
-      ru: эта тенденция все еще сохраняется
+      ru: эта тенденция всё ещё сохраняется
+      example: The tendency still persists despite our efforts.
+
     - eng: the thaw begins in March
       ru: оттепель начинается в марте
+      example: The thaw begins in March when temperatures rise above freezing.
+
     - eng: the thermometer recorded a temperature below zero
       ru: термометр зафиксировал температуру ниже нуля
+      example: The thermometer recorded a temperature below zero last night.
+
     - eng: the tide was lapping the harbour wall
-      ru: Волны прилива плескались о портовую стенку
+      ru: волны прилива плескались о портовую стенку
+      example: The tide was lapping the harbour wall gently.
+
     - eng: the time has come
-      ru: Время пришло.
+      ru: время пришло
+      example: The time has come to make a decision.
+
     - eng: the tips of their cigarettes glow in the dark
       ru: кончики их сигарет светятся в темноте
+      example: The tips of their cigarettes glow in the dark like fireflies.
+
     - eng: the tower offers a panorama of the city
       ru: с башни открывается панорама города
+      example: The tower offers a panorama of the entire city.
+
     - eng: the train will depart with a thirty-minute delay
       ru: поезд отправится с тридцатиминутной задержкой
+      example: The train will depart with a thirty-minute delay due to technical issues.
+
     - eng: the treatment is used to dissolve kidney stones
       ru: это лечение используется для растворения камней в почках
+      example: The treatment is used to dissolve kidney stones without surgery.
+
     - eng: the tributary debouched into the big river
       ru: приток впадал в большую реку
+      example: The tributary debouched into the big river near the town.
+
     - eng: the trout snapped at the bait
       ru: форель клюнула на наживку
+      example: The trout snapped at the bait immediately.
+
     - eng: the trucks were heavily laden with produce for the market
       ru: грузовики были тяжело гружены продуктами для рынка
+      example: The trucks were heavily laden with produce for the market.
+
     - eng: the tv announcer never seems to blink
       ru: телевизионный диктор, кажется, даже не моргает
+      example: The TV announcer never seems to blink, which is a bit unsettling.
+
     - eng: the two categories of acts might not coincide completely
       ru: эти две категории деяний могут не полностью совпадать
+      example: The two categories of acts might not coincide completely in all cases.
+
     - eng: the typhoon caused damage in many areas
-      ru: тайфун нанес ущерб во многих районах
+      ru: тайфун нанёс ущерб во многих районах
+      example: The typhoon caused damage in many coastal areas.
+
     - eng: the user does not want to be hacked
       ru: пользователь не хочет, чтобы его взломали
+      example: The user does not want to be hacked, so he uses strong passwords.
+
     - eng: the vacationer does not want to be disturbed
       ru: отдыхающий не хочет, чтобы его беспокоили
+      example: The vacationer does not want to be disturbed while on holiday.
+
     - eng: the velocity of rivers is very various
       ru: скорость течения рек очень различна
+      example: The velocity of rivers is very various depending on the terrain.
+
     - eng: the very front row
       ru: первоначальный ряд
+      example: The very front row of the stadium offers the best view.
+
     - eng: the vessel is leaving the port
       ru: судно покидает порт
+      example: The vessel is leaving the port at dawn.
+
     - eng: the view of the river is astonishing
       ru: вид на реку потрясающий
+      example: The view of the river from the bridge is astonishing.
+
     - eng: the view was absolutely breathtaking
       ru: вид был совершенно захватывающий
+      example: The view from the mountain top was absolutely breathtaking.
+
     - eng: the volcano is still active
-      ru: вулкан все еще активен
+      ru: вулкан всё ещё активен
+      example: The volcano is still active and could erupt again.
+
     - eng: the volcano spews out molten rocks
       ru: вулкан извергает расплавленные породы
+      example: The volcano spews out molten rocks and ash.
+
     - eng: the waiter tried to soothe the angry customer
       ru: официант попытался успокоить разгневанного клиента
+      example: The waiter tried to soothe the angry customer with a free dessert.
+
     - eng: the war brought misery
       ru: война принесла несчастья
+      example: The war brought misery to millions of people.
+
     - eng: the warrant bore the sheriff's seal
       ru: на ордере стояла печать шерифа
+      example: The warrant bore the sheriff's seal, making it official.
+
     - eng: the weather is quite mild
       ru: погода довольно тёплая
+      example: The weather is quite mild for this time of year.
+
     - eng: the whole might of country is in his hands
       ru: вся мощь страны находится в его руках
+      example: The whole might of the country is in his hands as the commander-in-chief.
+
     - eng: the whole office was late the morning of the blizzard
       ru: в то утро, когда разразилась метель, весь офис опоздал
+      example: The whole office was late the morning of the blizzard.
+
     - eng: the wind scurried the snow south
       ru: ветер гнал снег на юг
+      example: The wind scurried the snow south across the plain.
+
     - eng: the wind was shrewd
       ru: ветер был пронизывающий
+      example: The wind was shrewd and cut through our coats.
+
     - eng: the window shades were down
       ru: шторы на окнах были опущены
+      example: The window shades were down to block the sunlight.
+
     - eng: the winner hasn't been announced
-      ru: победитель еще не объявлен
+      ru: победитель ещё не объявлен
+      example: The winner hasn't been announced yet.
+
     - eng: the witch uttered a curse
       ru: ведьма произнесла проклятие
+      example: The witch uttered a curse on the village.
+
     - eng: the word has both literal meanings and figurative meaning
       ru: это слово имеет как буквальное, так и переносное значение
+      example: The word has both literal and figurative meanings.
+
     - eng: the word is french in origin
       ru: это слово французского происхождения
+      example: The word is French in origin but used in English.
+
     - eng: the work was tiring and tedious
       ru: работа была утомительной и нудной
+      example: The work was tiring and tedious, but someone had to do it.
+
     - eng: the work wearies me
       ru: работа утомляет меня
+      example: The work wearies me after a long day.
+
     - eng: the worker was dismissed for laziness
-      ru: Рабочего уволили за лень
+      ru: рабочего уволили за лень
+      example: The worker was dismissed for laziness and poor performance.
+
     - eng: the world public
       ru: мировая общественность
+      example: The world public was shocked by the news.
+
     - eng: the wound is healing slowly
-      ru: Рана заживала медленно
+      ru: рана заживает медленно
+      example: The wound is healing slowly but without infection.
+
     - eng: theatre
       ru: театр
+      example: We went to the theatre to see a play.
+
     - eng: theft
       ru: кража
+      example: Theft is a crime punishable by law.
+
     - eng: theft / larceny
       ru: кража
+      example: Theft or larceny involves taking someone's property without permission.
+
     - eng: their
-      ru: свои (притяжательное местоимение; Свой; их
+      ru: свои (притяжательное местоимение); свой; их
+      example: They brought their own food.
+
     - eng: their reaction to the news was positive
       ru: их реакция на новость была положительной
+      example: Their reaction to the news was positive and enthusiastic.
+
     - eng: theism
       ru: теизм
+      example: Theism is the belief in a god or gods.
+
     - eng: them
       ru: им; их
+      example: I gave them the books.
+
     - eng: theme
       ru: основная мысль
+      example: The theme of the novel is love and loss.
+
     - eng: themselves
       ru: себя (сами)
+      example: They built the house themselves.
+
     - eng: then
       ru: потом; тогда; затем
+      example: First we eat, then we go out.
+
     - eng: theocracy
       ru: теократия
+      example: Iran is a theocracy ruled by religious leaders.
+
     - eng: theologian
       ru: богослов
+      example: The theologian wrote a book about faith.
+
     - eng: theology
       ru: теология
+      example: Theology is the study of religious belief.
+
     - eng: theorem
       ru: теорема
+      example: Pythagoras' theorem is famous.
+
     - eng: theory
       ru: теория
+      example: The theory of evolution is widely accepted.
+
     - eng: theosophy
       ru: теософия
+      example: Theosophy combines mysticism and philosophy.
+
     - eng: therapeutist
       ru: терапевт
+      example: The therapeutist recommended regular exercise.
+
     - eng: therapy
       ru: терапия
+      example: Physical therapy helped him recover.
+
     - eng: there
       ru: там
+      example: The book is over there.
+
     - eng: there are flowers next to the window
       ru: рядом с окном стоят цветы
+      example: There are flowers next to the window in a vase.
+
     - eng: there are innumerable errors in the book
       ru: в книге бесчисленное множество ошибок
+      example: There are innumerable errors in the book, making it hard to read.
+
     - eng: there are six floors in this shop
       ru: в этом магазине шесть этажей
+      example: There are six floors in this shop, including the basement.
+
     - eng: there are two photos in the bag
       ru: в сумке есть две фотографии
+      example: There are two photos in the bag from our trip.
+
     - eng: there has been a visible change
       ru: произошли заметные изменения
+      example: There has been a visible change in his attitude.
+
     - eng: there has been an accident
       ru: произошла авария
+      example: There has been an accident on the highway.
+
     - eng: there has been widespread public debate over the food
       ru: в обществе разгорелись широкие дебаты по поводу продуктов питания
+      example: There has been widespread public debate over the safety of genetically modified food.
+
     - eng: there is a chance to knock down all of life's pins
       ru: есть шанс сбить все жизненные кегли
+      example: There is a chance to knock down all of life's pins if you try hard enough.
+
     - eng: there is a clump of bushes at the edge
       ru: на опушке есть заросли кустарника
+      example: There is a clump of bushes at the edge of the field.
+
     - eng: there is a growing gulf between rich and poor
-      ru: между богатыми и бедными растет пропасть
+      ru: между богатыми и бедными растёт пропасть
+      example: There is a growing gulf between rich and poor in many countries.
+
     - eng: there is a lot at the stake
       ru: на карту поставлено очень многое
+      example: There is a lot at stake in this negotiation.
+
     - eng: there is a river near here
       ru: здесь недалеко есть река
+      example: There is a river near here where we can swim.
+
     - eng: there is a short break in an hour
       ru: через час будет короткий перерыв
+      example: There is a short break in an hour, so we can rest.
+
     - eng: there is also an eight-screen cinema, a night club and a bowling alley
       ru: здесь также есть кинотеатр с восемью экранами, ночной клуб и дорожка для боулинга
+      example: There is also an eight-screen cinema, a night club and a bowling alley in the mall.
+
     - eng: there is increasing scarcity of land for cropping
-      ru: растет нехватка земель для возделывания сельскохозяйственных культур
+      ru: растёт нехватка земель для возделывания сельскохозяйственных культур
+      example: There is increasing scarcity of land for cropping due to urban expansion.
+
     - eng: there is no certainty of success
       ru: нет никакой уверенности в успехе
+      example: There is no certainty of success, but we must try.
+
     - eng: there is no infallible remedy to those problem
       ru: нет безошибочного решения этой проблемы
+      example: There is no infallible remedy to that problem, only temporary fixes.
+
     - eng: there is no rose without a thorn
-      ru: Нет розы без шипа
+      ru: нет розы без шипа
+      example: There is no rose without a thorn, meaning every good thing has a downside.
+
     - eng: there is one garbage bag around the corner of my house
       ru: за углом моего дома есть один мешок для мусора
+      example: There is one garbage bag around the corner of my house waiting for pickup.
+
     - eng: there is one near here
-      ru: есть один неподалеку отсюда
+      ru: есть один неподалёку отсюда
+      example: There is one near here, just two blocks away.
+
     - eng: there is safety in numbers
       ru: в единении сила
+      example: There is safety in numbers, so travel in groups.
+
     - eng: there must be some rational explanation
       ru: должно же быть какое-то рациональное объяснение
+      example: There must be some rational explanation for this mystery.
+
     - eng: there should be a distance between the roadway and the sidewalk
-      ru: между проезжей частью и тротуаром должно быть определенное расстояние
+      ru: между проезжей частью и тротуаром должно быть определённое расстояние
+      example: There should be a distance between the roadway and the sidewalk for safety.
+
     - eng: there was a landslide and the road may be out
-      ru: произошел оползень, и дорога, возможно, вышла из строя
+      ru: произошёл оползень, и дорога, возможно, вышла из строя
+      example: There was a landslide and the road may be out for several days.
+
     - eng: there was a lotta people in the store
       ru: в магазине было много людей
+      example: There was a lot of people in the store during the sale.
+
     - eng: there was a row of terraced houses
       ru: там был ряд домов с террасами
+      example: There was a row of terraced houses along the street.
+
     - eng: there was fierce competition
       ru: существовала жесткая конкуренция
+      example: There was fierce competition for the job.
+
     - eng: there was total chaos on the roads
       ru: на дорогах царил полный хаос
+      example: There was total chaos on the roads after the snowstorm.
+
     - eng: there were blood and guts all over the place
       ru: повсюду были разбросаны кровь и кишки
+      example: There were blood and guts all over the place after the accident.
+
     - eng: there were no creche facilities
       ru: здесь не было детских садов
+      example: There were no creche facilities for the workers' children.
+
     - eng: there'll be a intermention
       ru: будет перерыв
+      example: There will be an intermission after the second act.
+
     - eng: there's a lotta misinformation online
-      ru: в Интернете много дезинформации
+      ru: в интернете много дезинформации
+      example: There is a lot of misinformation online, so check your sources.
+
     - eng: there's a majesty to the way this car drives
-      ru: в том, как ездит эта машина, есть что- то величественное
+      ru: в том, как ездит эта машина, есть что-то величественное
+      example: There is a majesty to the way this car drives, smooth and powerful.
+
     - eng: there's a wrong warning on the toilet signage
       ru: на вывеске туалета написано неправильное предупреждение
+      example: There is a wrong warning on the toilet signage, it needs to be replaced.
+
     - eng: there's concern it's threatening the woods
       ru: есть опасения, что это угрожает лесу
+      example: There is concern that the development is threatening the ancient woods.
+
     - eng: there's pedestrian zone for walking
       ru: здесь есть пешеходная зона для прогулок
+      example: There is a pedestrian zone for walking in the city centre.
+
     - eng: there's so much silverware on the table
       ru: на столе так много столового серебра
+      example: There is so much silverware on the table for the formal dinner.
+
     - eng: there's someone at the door
       ru: кто-то стоит у двери
+      example: There is someone at the door; can you answer it?
+
     - eng: there, after our journey, we were welcomed by our friend
       ru: там, после нашего путешествия, нас приветствовал наш друг
+      example: There, after our journey, we were welcomed by our friend.
+
     - eng: thereafter he was also threatened
       ru: после этого ему также угрожали
+      example: Thereafter he was also threatened by the same group.
+
     - eng: thermal
       ru: тепловой
+      example: Thermal energy is produced by heat.
+
     - eng: thermal conductivity
       ru: теплопроводность
+      example: Copper has high thermal conductivity.
+
     - eng: thermal energy
       ru: тепловая энергия
+      example: Thermal energy can be converted into electricity.
+
     - eng: thermochemistry
       ru: термохимия
+      example: Thermochemistry studies heat changes in chemical reactions.
+
     - eng: thermodynamic stability
       ru: термодинамическая стабильность
+      example: The thermodynamic stability of the compound is high.
+
     - eng: thermodynamics
       ru: термодинамика
+      example: The laws of thermodynamics govern energy transfer.
+
     - eng: thermometer
       ru: термометр
+      example: The thermometer shows 25 degrees.
+
     - eng: these
       ru: эти
+      example: These apples are fresh.
+
     - eng: these bullets can penetrate armor
       ru: эти пули могут пробивать броню
+      example: These bullets can penetrate armor, making them dangerous.
+
     - eng: these cabins are used by hunters
       ru: эти хижины используются охотниками
+      example: These cabins are used by hunters during deer season.
+
     - eng: these changes are discussed in current merge request
       ru: эти изменения обсуждаются в текущем запросе на слияние
+      example: These changes are discussed in the current merge request on GitHub.
+
     - eng: these changes will decrease our expenses
-      ru: Эти изменения сократят наши расходы
+      ru: эти изменения сократят наши расходы
+      example: These changes will decrease our expenses by twenty percent.
+
     - eng: these conflicts are tragedies
       ru: эти конфликты - трагедии
+      example: These conflicts are tragedies that could have been avoided.
+
     - eng: these disorders can persist for long periods
       ru: эти расстройства могут сохраняться в течение длительного периода
+      example: These disorders can persist for long periods without treatment.
+
     - eng: these dots are read by a laser
       ru: эти точки считываются лазером
+      example: These dots are read by a laser in the barcode scanner.
+
     - eng: these pants have an elastic waist
       ru: эти брюки имеют эластичный пояс
+      example: These pants have an elastic waist for comfort.
+
     - eng: these pearls are of inferior quality
       ru: этот жемчуг низкого качества
+      example: These pearls are of inferior quality and have many blemishes.
+
     - eng: these poems are published in a book
       ru: эти стихи опубликованы в книге
+      example: These poems are published in a book of modern verse.
+
     - eng: these problems are resolved through negotiations
-      ru: эти проблемы решаются путем переговоров
+      ru: эти проблемы решаются путём переговоров
+      example: These problems are resolved through negotiations between the parties.
+
     - eng: these slippery snakes slid away
       ru: эти скользкие змеи ускользнули
+      example: These slippery snakes slid away into the grass.
+
     - eng: these traditional rites are performed only by the women of the village
       ru: эти традиционные обряды совершаются только женщинами деревни
+      example: These traditional rites are performed only by the women of the village.
+
     - eng: these two rivers mingle their waters
-      ru: эти две реки смешивают свои воды; эти две реки смешивают свои воды
+      ru: эти две реки смешивают свои воды
+      example: These two rivers mingle their waters at the delta.
+
     - eng: thesis
       ru: выпускная работа
+      example: She defended her thesis on time.
+
     - eng: they
       ru: они
+      example: They are coming to the party.
+
     - eng: they accused the newspaper columnist of defamation of character
       ru: они обвинили обозревателя газеты в клевете на личность
+      example: They accused the newspaper columnist of defamation of character.
+
     - eng: they achieved high scores
       ru: они набрали высокие баллы
+      example: They achieved high scores on the final exam.
+
     - eng: they afforded them but a scanty and precarious support
-      ru: они оказывали им лишь скудную и ненадежную поддержку
+      ru: они оказывали им лишь скудную и ненадёжную поддержку
+      example: They afforded them but a scanty and precarious support.
+
     - eng: they appropriated the resources for their own use
       ru: они присвоили эти ресурсы для собственного использования
+      example: They appropriated the resources for their own use, ignoring the rules.
+
     - eng: they are paid an hourly rate
       ru: им платят по почасовой ставке
+      example: They are paid an hourly rate plus tips.
+
     - eng: they asked if I had seen you
       ru: они спросили, видел ли я тебя
+      example: They asked if I had seen you at the station.
+
     - eng: they built a factory on the outskirts of the city
       ru: они построили фабрику на окраине города
+      example: They built a factory on the outskirts of the city.
+
     - eng: they computerized the car industry
       ru: они компьютеризировали автомобильную промышленность
+      example: They computerized the car industry to improve efficiency.
+
     - eng: they couldn't keep their cost down
       ru: они не могли снизить свои расходы
+      example: They couldn't keep their costs down due to rising material prices.
+
     - eng: they debated the truth of the proposition
       ru: они обсуждали истинность этого предложения
+      example: They debated the truth of the proposition for hours.
+
     - eng: they demonstrated a willingness to negotiate
       ru: они продемонстрировали готовность к переговорам
+      example: They demonstrated a willingness to negotiate in good faith.
+
     - eng: they dwelt in the forest
-      ru: Они жили в лесу
+      ru: они жили в лесу
+      example: They dwelt in the forest for many years.
+
     - eng: they examine their products for defects
       ru: они проверяют свою продукцию на наличие дефектов
+      example: They examine their products for defects before shipping.
+
     - eng: they expressed concern about recent unauthorized cross-border movements
       ru: они выразили обеспокоенность по поводу недавних несанкционированных перемещений через границу
+      example: They expressed concern about recent unauthorized cross-border movements.
+
     - eng: they fed erroneous information to us
       ru: они передали нам ошибочную информацию
+      example: They fed erroneous information to us, causing confusion.
+
     - eng: they get dressed and go to work at eight
-      ru: Они одеваются и идут на работу в восемь
+      ru: они одеваются и идут на работу в восемь
+      example: They get dressed and go to work at eight every morning.
+
     - eng: they had a superficial knowledge of the topic
       ru: у них были поверхностные знания по этой теме
+      example: They had a superficial knowledge of the topic and could not answer detailed questions.
+
     - eng: they had ample food for the party
       ru: у них было достаточно еды для вечеринки
+      example: They had ample food for the party, with leftovers to spare.
+
     - eng: they had still and fizzy drinks
-      ru: У них были негазированные и газированные напитки
+      ru: у них были негазированные и газированные напитки
+      example: They had still and fizzy drinks for the guests.
+
     - eng: they left in haste, without even saying goodbye
-      ru: Они поспешно ушли, даже не попрощавшись
+      ru: они поспешно ушли, даже не попрощавшись
+      example: They left in haste, without even saying goodbye.
+
     - eng: they lured him back to the scene of the crime
       ru: они заманили его обратно на место преступления
+      example: They lured him back to the scene of the crime with a false message.
+
     - eng: they menaced him with guns
       ru: они угрожали ему оружием
+      example: They menaced him with guns and demanded his wallet.
+
     - eng: they occupy all professions alongside men
       ru: они занимают все профессии наравне с мужчинами
+      example: Women now occupy all professions alongside men.
+
     - eng: they revolted, and they've been mortal enemies ever since
       ru: они восстали, и с тех пор они были смертельными врагами
+      example: They revolted, and they have been mortal enemies ever since.
+
     - eng: they scheduled retraining of us
       ru: они запланировали нашу переподготовку
+      example: They scheduled retraining of us for next month.
+
     - eng: they show no respect for authority
       ru: они не проявляют никакого уважения к власти
+      example: They show no respect for authority and constantly break the rules.
+
     - eng: they sought refuge in canada
       ru: они искали убежища в Канаде
+      example: They sought refuge in Canada after the war.
+
     - eng: they spent the summer on their yacht
       ru: они провели лето на своей яхте
+      example: They spent the summer on their yacht in the Mediterranean.
+
     - eng: they spoke to each other in murmurs
       ru: они вполголоса переговаривались друг с другом
+      example: They spoke to each other in murmurs so no one else could hear.
+
     - eng: they stared in amazement
       ru: они уставились на него в изумлении
+      example: They stared in amazement at the magician's tricks.
+
     - eng: they still haven't found our sprinter
-      ru: они все еще не нашли нашего спринтера
+      ru: они всё ещё не нашли нашего спринтера
+      example: They still haven't found our sprinter who went missing yesterday.
+
     - eng: they studied the compound's molecular structure
       ru: они изучили молекулярную структуру соединения
+      example: They studied the compound's molecular structure under a microscope.
+
     - eng: they swear fanatical allegiance
       ru: они клянутся в фанатичной верности
+      example: They swear fanatical allegiance to their leader.
+
     - eng: they use this word in their masthead
-      ru: они используют это слово в своем топе
+      ru: они используют это слово в своём топе
+      example: They use this word in their masthead to describe their mission.
+
     - eng: they used to buy ten kilos of beef in one lump
       ru: раньше они покупали десять килограммов говядины одним куском
+      example: They used to buy ten kilos of beef in one lump for the whole family.
+
     - eng: they ushered the guests into a room
       ru: они провели гостей в комнату
+      example: They ushered the guests into a room where refreshments were served.
+
     - eng: they warned me about his bad temper
       ru: они предупреждали меня о его дурном характере
+      example: They warned me about his bad temper before I met him.
+
     - eng: they was rebuked by their manager for being late
       ru: менеджер отчитал их за опоздание
+      example: They were rebuked by their manager for being late to the meeting.
+
     - eng: they were asked to leave the premises
-      ru: Их попросили покинуть помещение
+      ru: их попросили покинуть помещение
+      example: They were asked to leave the premises immediately.
+
     - eng: they were entirely dissimilar
       ru: они были совершенно непохожи
+      example: They were entirely dissimilar in personality and interests.
+
     - eng: they were overheard discussing the project
       ru: было подслушано, как они обсуждали проект
+      example: They were overheard discussing the project by a rival.
+
     - eng: they will be punished for their outrageous behavior
-      ru: они будут наказаны за свое возмутительное поведение
+      ru: они будут наказаны за своё возмутительное поведение
+      example: They will be punished for their outrageous behaviour.
+
     - eng: they will beckon to you on every corner
       ru: они будут манить вас на каждом углу
+      example: Street vendors will beckon to you on every corner.
+
     - eng: they will refuse to obey me
       ru: они откажутся повиноваться мне
+      example: They will refuse to obey me unless I have authority.
+
     - eng: they will soon be forced to declare bankruptcy
       ru: вскоре они будут вынуждены объявить о банкротстве
+      example: They will soon be forced to declare bankruptcy if sales don't improve.
+
     - eng: they will wed in the fall
       ru: они поженятся осенью
+      example: They will wed in the fall in a small ceremony.
+
     - eng: they withstood attacks from many critics
       ru: они выдержали нападки многих критиков
+      example: They withstood attacks from many critics and remained popular.
+
     - eng: they'd been political foes for years
       ru: они были политическими врагами в течение многих лет
+      example: They had been political foes for years before becoming allies.
+
     - eng: they'll be able to help us with this
       ru: они смогут помочь нам с этим
+      example: They will be able to help us with this problem.
+
     - eng: they're fighting for a cause the liberation of their people
       ru: они сражаются за правое дело - освобождение своего народа
+      example: They are fighting for a cause, the liberation of their people.
+
     - eng: they're stuck in road works
       ru: они застряли на дорожных работах
+      example: They are stuck in road works and will be late.
+
     - eng: they're waiting for us
       ru: они ждут нас
+      example: They are waiting for us at the restaurant.
+
     - eng: they've threatened to sue the company
-      ru: Они пригрозили подать в суд на компанию
+      ru: они пригрозили подать в суд на компанию
+      example: They have threatened to sue the company for breach of contract.
+
     - eng: thick
       ru: густой; толстый
+      example: The book is thick.
+
     - eng: thick eyebrows
       ru: густые брови
+      example: He has thick eyebrows that meet in the middle.
+
     - eng: thick felt
       ru: войлок
+      example: Thick felt is used for insulation.
+
     - eng: thick fog
-      ru: Густой туман
+      ru: густой туман
+      example: Thick fog reduced visibility to near zero.
+
     - eng: thick hair
       ru: густые волосы
+      example: She has thick, curly hair.
+
     - eng: thick woollen cloth
       ru: драп
+      example: The coat is made of thick woollen cloth.
+
     - eng: thief
       ru: вор
+      example: The thief stole my wallet.
+
     - eng: thigh
       ru: бедренная кость; бедро
+      example: He injured his thigh during the game.
+
     - eng: thimble
       ru: напёрсток
+      example: Use a thimble to push the needle.
+
     - eng: thin
       ru: тонкий
+      example: The paper is thin.
+
     - eng: thin crust.
       ru: тонкая корочка
+      example: I prefer pizza with a thin crust.
+
     - eng: thin face
       ru: худое лицо
+      example: The old man had a thin face with high cheekbones.
+
     - eng: thin layer of paint
-      ru: плави
+      ru: плавь
+      example: Apply a thin layer of paint to the wall.
+
     - eng: thin section
       ru: тонкий срез
+      example: The thin section of rock was examined under a microscope.
+
     - eng: thing
       ru: вещь; предмет
+      example: What is that thing?
+
     - eng: things happen
-      ru: Всякое бывает
+      ru: всякое бывает
+      example: Things happen for a reason, they say.
+
     - eng: things look black
       ru: дело плохо
+      example: Things look black for the company after the scandal.
+
     - eng: think
       ru: думать, размышлять; думать; обдумывать
+      example: I think you are right.
+
     - eng: think better of smth.
       ru: передумать, изменить мнение
+      example: I was going to argue, but then I thought better of it.
+
     - eng: think it over
-      ru: Подумай хорошенько.
+      ru: подумай хорошенько
+      example: Take your time and think it over before deciding.
+
     - eng: think, thought, thought
       ru: думать
+      example: I thought about you yesterday.
+
     - eng: third
       ru: третий; треть
+      example: He finished in third place.
+
     - eng: third street
       ru: третья улица
+      example: Turn left onto Third Street.
+
     - eng: third world
       ru: развивающиеся страны
+      example: The term Third World is less common today.
+
     - eng: thirsty
       ru: испытывающий жажду
+      example: I am thirsty after the run.
+
     - eng: thirteen
       ru: тринадцать
+      example: Thirteen is considered unlucky by some.
+
     - eng: thirteenth
       ru: тринадцатый
+      example: Today is the thirteenth of the month.
+
     - eng: thirtieth
       ru: тридцатый
+      example: She celebrated her thirtieth birthday.
+
     - eng: thirty
       ru: тридцать
+      example: Thirty people attended.
+
     - eng: this
-      ru: этот; этот, эта, это; это
+      ru: этот; этот, эта, это
+      example: This is my car.
+
     - eng: this applies both to citizens and to foreigners
       ru: это относится как к гражданам, так и к иностранцам
+      example: This law applies both to citizens and to foreigners.
+
     - eng: this argument is utterly fallacious
       ru: этот аргумент совершенно ошибочен
+      example: This argument is utterly fallacious and based on false assumptions.
+
     - eng: this book is not fit for publication
       ru: эта книга не годится для публикации
+      example: This book is not fit for publication due to its many errors.
+
     - eng: this brand has the best vest
       ru: у этого бренда самый лучший жилет
+      example: This brand has the best vest for outdoor activities.
+
     - eng: this delightful weather is perfect for a picnic
       ru: эта восхитительная погода идеально подходит для пикника
+      example: This delightful weather is perfect for a picnic in the park.
+
     - eng: this drug has one important limitation
       ru: у этого препарата есть одно важное ограничение
+      example: This drug has one important limitation - it can cause nausea.
+
     - eng: this example is more realistic
       ru: этот пример более реалистичен
+      example: This example is more realistic than the previous one.
+
     - eng: this fog is because of the frost
       ru: этот туман из-за мороза
+      example: This fog is because of the frost on the ground.
+
     - eng: this food was barely edible
       ru: эта еда была едва съедобна
+      example: This food was barely edible, so we ordered takeout.
+
     - eng: this growth is abnormal
       ru: этот рост ненормален
+      example: This growth is abnormal and should be examined by a doctor.
+
     - eng: this hotel reflects the charm and allure of parisian culture
       ru: этот отель отражает очарование парижской культуры
+      example: This hotel reflects the charm and allure of Parisian culture.
+
     - eng: this information has not been confirmed
       ru: эта информация не была подтверждена
+      example: This information has not been confirmed by official sources.
+
     - eng: this is a big comedown
       ru: это большой провал
+      example: Losing the championship after winning last year is a big comedown.
+
     - eng: this is a critically important meeting
       ru: это чрезвычайно важная встреча
+      example: This is a critically important meeting for the future of the company.
+
     - eng: this is a game at which I excel
       ru: это игра, в которой я преуспеваю
+      example: This is a game at which I excel, so I usually win.
+
     - eng: this is compulsive viewing for gardeners
       ru: это обязательная передача для садоводов
+      example: This gardening show is compulsive viewing for gardeners.
+
     - eng: this is down to the fact
       ru: это сводится к тому факту
+      example: This is down to the fact that we started too late.
+
     - eng: this is down to the fact that most people can now work remotely
-      ru: это связано с тем, что большинство людей теперь могут работать удаленно
+      ru: это связано с тем, что большинство людей теперь могут работать удалённо
+      example: This is down to the fact that most people can now work remotely.
+
     - eng: this is freshwater snail
       ru: это пресноводная улитка
+      example: This is a freshwater snail found in lakes and rivers.
+
     - eng: this is good for business
       ru: это хорошо для бизнеса
+      example: Increased tourism is good for business in the town.
+
     - eng: this is incurable disease
       ru: это неизлечимая болезнь
+      example: This is an incurable disease, but treatments can manage symptoms.
+
     - eng: this is my vocation
-      ru: это мое призвание
+      ru: это моё призвание
+      example: Teaching is not just a job; this is my vocation.
+
     - eng: this is my wont
       ru: это моя привычка
+      example: I wake up early; this is my wont.
+
     - eng: this is one of the best ways to learn a foreign language quickly
       ru: это один из лучших способов быстро выучить иностранный язык
+      example: Immersion is one of the best ways to learn a foreign language quickly.
+
     - eng: this is self-governance body
       ru: это орган самоуправления
+      example: This is a self-governance body that makes its own rules.
+
     - eng: this is the face of abject failure, isn't it
       ru: это лицо полного провала, не так ли
+      example: This is the face of abject failure, isn't it? He looked defeated.
+
     - eng: this is the happiest day in my life
       ru: это самый счастливый день в моей жизни
+      example: This is the happiest day in my life, she said on her wedding day.
+
     - eng: this is the most important tip of all
       ru: это самый важный совет из всех
+      example: This is the most important tip of all - always back up your data.
+
     - eng: this is traumatic event
       ru: это травмирующее событие
+      example: Losing a loved one is a traumatic event.
+
     - eng: this is very hard for me to ask for help
       ru: мне очень трудно просить о помощи
+      example: This is very hard for me to ask for help, but I need it.
+
     - eng: this is what you've come down to
       ru: вот до чего ты докатился
+      example: This is what you have come down to, begging on the street.
+
     - eng: this isn't gonna work out
       ru: из этого ничего не выйдет
+      example: This isn't gonna work out, so we should stop trying.
+
     - eng: this pacemaker was installed
       ru: этот кардиостимулятор был установлен
+      example: This pacemaker was installed last year to regulate his heartbeat.
+
     - eng: this package is extremely large
       ru: этот пакет чрезвычайно велик
-    - eng: this section cantains a brief tutorial
+      example: This package is extremely large and will not fit in the mailbox.
+
+    - eng: this section contains a brief tutorial
       ru: в этом разделе содержится краткое руководство
+      example: This section contains a brief tutorial on how to use the software.
+
     - eng: this server had been already broken when we came
       ru: этот сервер уже был сломан, когда мы пришли
+      example: This server had been already broken when we came, so we could not work.
+
     - eng: this should be funny
       ru: это должно быть забавно
+      example: The comedian's new show should be funny.
+
     - eng: this summer they will not have been living here even for a year
-      ru: К лету не будет даже года, как они живут тут
+      ru: к лету не будет даже года, как они живут тут
+      example: By this summer, they will not have been living here even for a year.
+
     - eng: this sweater makes me itch
       ru: от этого свитера у меня чешутся руки
+      example: This sweater makes me itch because it is made of wool.
+
     - eng: this technology is outdated
       ru: эта технология устарела
+      example: This technology is outdated and needs to be replaced.
+
     - eng: thorax
       ru: туловище; грудная клетка
+      example: The thorax is the part of the body between the neck and abdomen.
+
     - eng: those
       ru: те
+      example: Those shoes are mine.
+
     - eng: those were the indispensable means to our end
       ru: это были незаменимые средства для достижения нашей цели
+      example: Those were the indispensable means to our end, without which we would have failed.
+
     - eng: those who know the most, venture the least
       ru: те, кто знает больше всех, рискуют меньше всех
+      example: Those who know the most, venture the least because they understand the risks.
+
     - eng: thought
       ru: мысль
+      example: A sudden thought came to me.
+
     - eng: thoughtful act
       ru: обдуманный поступок
+      example: Bringing me soup when I was sick was a thoughtful act.
+
     - eng: thoughtless
-      ru: неразумный; неосторожный; Беспечный; безрассудный
+      ru: неразумный; неосторожный; беспечный; безрассудный
+      example: It was thoughtless of him to forget her birthday.
+
     - eng: thoughts
       ru: мысли
+      example: My thoughts are with you.
+
     - eng: thousand
       ru: тысяча
+      example: A thousand people attended.
+
     - eng: thousands of years ago the surface was barren desert
-      ru: Тысячи лет назад поверхность была бесплодной пустыней
+      ru: тысячи лет назад поверхность была бесплодной пустыней
+      example: Thousands of years ago, the surface was a barren desert.
+
     - eng: thousandth
       ru: тысячный
+      example: The thousandth customer won a prize.
+
     - eng: thrash about
       ru: метаться
+      example: The fish thrashed about on the deck.
+
     - eng: threat
       ru: угроза
+      example: The threat of rain cancelled the picnic.
+
     - eng: threaten
       ru: грозить
+      example: He threatened to call the police.
+
     - eng: three
       ru: три
+      example: Three people are here.
+
     - eng: three 6-seat rows
       ru: три шестиместных ряда
+      example: The bus has three 6-seat rows in the back.
+
     - eng: three dimensional
-      ru: трехмерный
+      ru: трёхмерный
+      example: The movie was in three dimensions.
+
     - eng: three halves
       ru: три вторых
+      example: Three halves is equal to one point five.
+
     - eng: three multiplied by four makes twelve
       ru: три, умноженное на четыре, составляет двенадцать
+      example: Three multiplied by four makes twelve.
+
     - eng: three point play
       ru: удачный бросок с фолом, если игрок забивает штрафной
+      example: He scored a three-point play after being fouled.
+
     - eng: three quarters
-      ru: три четвёртых
+      ru: три четверти
+      example: Three quarters of the cake was eaten.
+
     - eng: three-four time
-      ru: трехдольный размер
+      ru: трёхдольный размер
+      example: The waltz is in three-four time.
+
     - eng: three-point shot
-      ru: трёх очковый бросок
+      ru: трёхочковый бросок
+      example: He made a three-point shot from the corner.
+
     - eng: threefold
       ru: втрое
+      example: Profits increased threefold.
+
     - eng: threes
-      ru: Тройка
+      ru: тройка
+      example: Count by threes.
+
     - eng: thresher shark
       ru: лисья акула
+      example: The thresher shark uses its long tail to stun prey.
+
     - eng: thrill
       ru: трепет
+      example: The thrill of the roller coaster was exciting.
+
     - eng: thrilled
       ru: потрясённый
+      example: I am thrilled to meet you.
+
     - eng: thriller
       ru: триллер
+      example: The movie was a psychological thriller.
+
     - eng: thrilling
       ru: захватывающий
+      example: The game was thrilling until the end.
+
     - eng: throat
       ru: горло
+      example: My throat is sore.
+
     - eng: throne
       ru: престол
+      example: The king sat on his throne.
+
     - eng: through
-      ru: В течение; в продолжение; через
+      ru: в течение; в продолжение; через
+      example: We walked through the park.
+
     - eng: throw
       ru: бросать
+      example: Throw the ball to me.
+
     - eng: throw away
       ru: выкидывать
+      example: Throw away the trash.
+
     - eng: throw light on
       ru: проливать свет на что-либо
+      example: The new evidence throws light on the mystery.
+
     - eng: throw out a case
       ru: отклонить иск
+      example: The judge decided to throw out the case due to lack of evidence.
+
     - eng: throw up
       ru: выкинуть, рвать, вскинуть, поднять
+      example: The strong smell made him throw up.
+
     - eng: throw, threw, thrown
       ru: бросать
+      example: He threw the ball.
+
     - eng: thrush
       ru: дрозд
+      example: The thrush sang a beautiful song.
+
     - eng: thrust, thrust, thrust
       ru: толкнуть, сунуть
+      example: He thrust his hands into his pockets.
+
     - eng: thumb
-      ru: большой палец (на руке); большой палец
+      ru: большой палец (на руке)
+      example: He gave a thumbs up.
+
     - eng: thunder
       ru: гром
+      example: Thunder followed the lightning.
+
     - eng: thunderbolt
       ru: удар молнии
+      example: A thunderbolt struck the tree.
+
     - eng: thunderclap
       ru: раскат грома
+      example: A loud thunderclap shook the house.
+
     - eng: thunderstorm
       ru: гроза
-    - eng: thunderstorms are possible bun not probable tonight
+      example: The thunderstorm lasted all night.
+
+    - eng: thunderstorms are possible but not probable tonight
       ru: сегодня ночью возможны грозы, но маловероятны
+      example: Thunderstorms are possible but not probable tonight, according to the forecast.
+
     - eng: thundery
       ru: мрачный
+      example: The sky was thundery and dark.
+
     - eng: thurible
       ru: кадило
+      example: The priest swung the thurible during the service.
+
     - eng: thyme
       ru: тимьян
+      example: Add fresh thyme to the sauce.
+
     - eng: thymine
       ru: тимин
+      example: Thymine is one of the four bases in DNA.
+
     - eng: tiara
       ru: тиара
+      example: The princess wore a diamond tiara.
+
     - eng: tiaras
       ru: диадемы
+      example: The shop sells tiaras for weddings.
+
     - eng: tibia
       ru: большеберцовая кость
+      example: He fractured his tibia while skiing.
+
     - eng: ticket
       ru: билет
+      example: I bought a ticket for the concert.
+
     - eng: ticket office
       ru: билетная касса
+      example: The ticket office opens at nine.
+
     - eng: tickets seem unobtainable to the ordinary mortal
       ru: билеты кажутся недоступными обычному смертному
+      example: Tickets for the final seem unobtainable to the ordinary mortal.
+
     - eng: tickled pink
       ru: несказанно довольный
+      example: She was tickled pink by the surprise party.
+
     - eng: tide
       ru: прилив
+      example: The tide is coming in.
+
     - eng: tidy
       ru: опрятный
+      example: Keep your room tidy.
+
     - eng: tidying
       ru: уборка
     - eng: tie
