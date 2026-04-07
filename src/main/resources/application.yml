@@ -67328,8 +67328,12 @@ app.words:
       ru: раньше они покупали десять килограммов говядины одним куском
       example: They used to buy ten kilos of beef in one lump for the whole family.
 
-    - eng: they ushered the guests into a room
-      ru: они провели гостей в комнату
+    - eng: usher
+      ru: провести, сопроводить, швейцар
+      example: they ushered the guests into a room
+
+    - eng: refreshments
+      ru: прохладительные напитки
       example: They ushered the guests into a room where refreshments were served.
 
     - eng: they warned me about his bad temper
