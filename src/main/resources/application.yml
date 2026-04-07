@@ -49121,926 +49121,1848 @@ app.words:
 
     - eng: nature's imagination is so boundless compared to our own meager human imagination
       ru: воображение природы так безгранично по сравнению с нашим собственным скудным человеческим воображением
+      example: Nature's imagination is so boundless compared to our own meager human imagination.
+
     - eng: nausea
       ru: морская болезнь
+      example: The rough sea caused nausea.
+
     - eng: nausea is the side effect of the drug
       ru: тошнота - это побочный эффект препарата
+      example: Nausea is the side effect of the drug, according to the label.
+
     - eng: nautical chart
       ru: морская карта
+      example: The captain studied the nautical chart.
+
     - eng: navel
       ru: пупок
+      example: She has a pierced navel.
+
     - eng: navigation
-      ru: Судоходство
+      ru: судоходство
+      example: Navigation is difficult in fog.
+
     - eng: navy
       ru: военно-морской флот
+      example: He serves in the navy.
+
     - eng: near
       ru: около; близкий
+      example: The school is near my house.
+
     - eng: nearly
       ru: почти
+      example: I nearly missed the train.
+
     - eng: nearsighted turtle who fell in love with a helmet
       ru: близорукая черепаха, влюбившаяся в шлем
+      example: The story is about a nearsighted turtle who fell in love with a helmet.
+
     - eng: nearsightedness
       ru: близорукость
+      example: Nearsightedness can be corrected with glasses.
+
     - eng: neat
       ru: опрятный
+      example: His desk is always neat.
+
     - eng: nebula
       ru: туманность
+      example: The Orion nebula is visible with a telescope.
+
     - eng: necessarily
       ru: обязательно
+      example: Expensive things are not necessarily better.
+
     - eng: necessary
       ru: необходимый
+      example: Sleep is necessary for health.
+
     - eng: necessary evil
       ru: неизбежное зло
+      example: Taxes are a necessary evil.
+
     - eng: necessities
       ru: предметы первой необходимости
+      example: Food and water are basic necessities.
+
     - eng: neck
       ru: шея
+      example: She wore a scarf around her neck.
+
     - eng: necklace
       ru: ожерелье
+      example: He gave her a gold necklace.
+
     - eng: necklaces
       ru: ожерелья
+      example: The shop sells beautiful necklaces.
+
     - eng: nectarine
       ru: нектарин
+      example: A nectarine is like a peach without fuzz.
+
     - eng: need
       ru: нуждаться
+      example: I need your help.
+
     - eng: negative
       ru: отрицательный
+      example: The test result was negative.
+
     - eng: negative impact
       ru: негативное влияние
+      example: Pollution has a negative impact on health.
+
     - eng: negatively charged
       ru: отрицательно заряженный
+      example: An electron is negatively charged.
+
     - eng: negotiate
       ru: переговоры
+      example: They need to negotiate a deal.
+
     - eng: negotiations
       ru: переговоры
+      example: The negotiations lasted for weeks.
+
     - eng: negotiations reached a deadlock
       ru: переговоры зашли в тупик
+      example: The negotiations reached a deadlock after many hours.
+
     - eng: neighborly relations
       ru: добрососедские отношения
+      example: The two countries maintain neighborly relations.
+
     - eng: neighbour
       ru: сосед
+      example: My neighbour is very friendly.
+
     - eng: neither
       ru: ни тот, ни другой; ни тот; ни другой
+      example: Neither answer is correct.
+
     - eng: neither here nor there
-      ru: не имеющий значения; ни то ни се
+      ru: не имеющий значения; ни то ни сё
+      example: That fact is neither here nor there.
+
     - eng: neoclassicism
       ru: неоклассицизм
+      example: Neoclassicism revived classical styles.
+
     - eng: neoclassicism
       ru: неоклассицизм
+      example: The building is an example of neoclassicism.
+
     - eng: neoexpressionism
       ru: неоэкспрессионизм
+      example: Neoexpressionism emerged in the late 20th century.
+
     - eng: nephew
       ru: племянник
+      example: My nephew is five years old.
+
     - eng: nerve
       ru: нерв
+      example: The optic nerve sends signals to the brain.
+
     - eng: nervous breakdown
       ru: нервное расстройство
+      example: He suffered a nervous breakdown.
+
     - eng: nest
       ru: гнездо
+      example: The bird built a nest in the tree.
+
     - eng: nestling
       ru: птенец
+      example: The nestling waited for food.
+
     - eng: net
       ru: сеть; сетка
+      example: The fisherman cast his net.
+
     - eng: net assets
       ru: чистые активы
+      example: The company's net assets increased.
+
     - eng: net force
       ru: чистая сила
+      example: The net force determines the acceleration.
+
     - eng: net income
       ru: чистая прибыль; чистый доход
+      example: His net income is fifty thousand per year.
+
     - eng: net profit
       ru: чистая прибыль после налогообложения
+      example: The net profit was higher than expected.
+
     - eng: nettle
       ru: крапива
+      example: Be careful not to touch the nettle.
+
     - eng: network
       ru: сеть
+      example: The computer network is down.
+
     - eng: network setup
       ru: настройка сети
+      example: The network setup took an hour.
+
     - eng: neurobiology
       ru: нейробиология
+      example: Neurobiology studies the nervous system.
+
     - eng: neuropathologist
       ru: невропатолог
+      example: The neuropathologist examined the brain tissue.
+
     - eng: neutral
       ru: нейтральный
+      example: Switzerland remained neutral during the war.
+
     - eng: neutron
       ru: нейтрон
+      example: A neutron has no electric charge.
+
     - eng: neutron star
-      ru: Нейтронные звёзда
+      ru: нейтронная звезда
+      example: A neutron star is extremely dense.
+
     - eng: neutrons
       ru: нейтроны
+      example: Neutrons are found in the atomic nucleus.
+
     - eng: never
       ru: никогда
+      example: I have never been to Japan.
+
     - eng: never have I felt something like that before
-      ru: Никогда раньше я не чувствовал ничего подобного
+      ru: никогда раньше я не чувствовал ничего подобного
+      example: Never have I felt something like that before.
+
     - eng: never in my life had I encountered such a dilemma
       ru: никогда в своей жизни я не сталкивался с такой дилеммой
+      example: Never in my life had I encountered such a dilemma.
+
     - eng: nevertheless it's predictable
       ru: тем не менее это предсказуемо
+      example: The outcome is surprising; nevertheless it is predictable.
+
     - eng: new
       ru: новый
+      example: I bought a new car.
+
     - eng: new blood
       ru: свежие силы, новые сотрудники, свежая кровь (люди с новыми идеями)
+      example: The team needs new blood.
+
     - eng: new joint venture company attracted big investor
       ru: новое совместное предприятие привлекло крупного инвестора
+      example: The new joint venture company attracted a big investor.
+
     - eng: new moon
       ru: новолуние
+      example: The new moon is not visible.
+
     - eng: new puzzle piece
       ru: новый фрагмент головоломки
+      example: He found a new puzzle piece on the floor.
+
     - eng: newbie
       ru: новичок
+      example: The newbie asked for help.
+
     - eng: newborn
       ru: новорождённый
+      example: The newborn baby slept peacefully.
+
     - eng: newly-wed
       ru: новобрачный
+      example: The newly-wed couple went on a honeymoon.
+
     - eng: newlyweds
-      ru: молодожены
+      ru: молодожёны
+      example: The newlyweds bought a house.
+
     - eng: news
       ru: новости
+      example: I watch the news every evening.
+
     - eng: news editor
       ru: редактор отдела информации
+      example: The news editor approved the story.
+
     - eng: news hole
       ru: газетные полосы без рекламы и объявлений
+      example: The news hole is filled with articles.
+
     - eng: news media
       ru: средства информации
+      example: The news media reported the event.
+
     - eng: news peg
       ru: информационный повод
+      example: The announcement was a news peg for the article.
+
     - eng: news stall
       ru: газетный киоск
+      example: He bought a magazine at the news stall.
+
     - eng: news-sheet
       ru: газета
+      example: The local news-sheet is free.
+
     - eng: newsagent
       ru: продавец газетного киоска
+      example: The newsagent sells newspapers and candy.
+
     - eng: newsboy
       ru: разносчик газет
+      example: The newsboy delivered the morning paper.
+
     - eng: newscast
       ru: последние известия
+      example: The newscast begins at six.
+
     - eng: newscaster
       ru: диктор последних известий (радио или телевидения)
+      example: The newscaster read the headlines.
+
     - eng: newsletter
       ru: информационная рассылка
+      example: Subscribe to our newsletter.
+
     - eng: newspaper
       ru: газета
+      example: She reads the newspaper at breakfast.
+
     - eng: newspaperese
       ru: газетный язык
+      example: Newspaperese uses short sentences.
+
     - eng: newsreel
       ru: обзор текущих событий
+      example: The newsreel showed scenes from the war.
+
     - eng: newsstand
       ru: газетный киоск
+      example: He bought a paper at the newsstand.
+
     - eng: newsvendor
       ru: продавец газет
+      example: The newsvendor shouted the headlines.
+
     - eng: newt
       ru: тритон
+      example: The newt lives in ponds.
+
     - eng: next
       ru: затем
+      example: What happened next?
+
     - eng: next month
       ru: в следующем месяце
+      example: I will travel next month.
+
     - eng: next to
       ru: рядом с
+      example: The bank is next to the post office.
+
     - eng: next week
       ru: на следующей неделе
+      example: See you next week.
+
     - eng: next year
       ru: в следующем году
+      example: She will graduate next year.
+
     - eng: nibble
       ru: откусывать
+      example: The fish nibbled at the bait.
+
     - eng: nice
       ru: милый; приятный
+      example: Have a nice day.
+
     - eng: nice to meet you
-      ru: Приятно познакомиться.
+      ru: приятно познакомиться
+      example: Nice to meet you, I am John.
+
     - eng: niche
       ru: ниша
+      example: He found his niche in software development.
+
     - eng: niche newspaper
       ru: специализированная газета
+      example: The niche newspaper covers only technology.
+
     - eng: niece
       ru: племянница
+      example: My niece is coming to visit.
+
     - eng: nigeria
-      ru: Нигерия
+      ru: нигерия
+      example: Nigeria is a country in Africa.
+
     - eng: night
       ru: ночь
+      example: The stars shine at night.
+
     - eng: night heron
       ru: кваква
+      example: The night heron hunts at dusk.
+
     - eng: night race/run
       ru: вечерний заезд
+      example: The night race started at nine.
+
     - eng: night-lamp
       ru: ночник
+      example: The child sleeps with a night-lamp.
+
     - eng: nightclub
       ru: ночной клуб
+      example: They went to a nightclub.
+
     - eng: nightdress
       ru: ночная сорочка
+      example: She wore a silk nightdress.
+
     - eng: nightgown
       ru: ночная сорочка
+      example: The nightgown was soft and warm.
+
     - eng: nightie
       ru: ночная сорочка
+      example: She bought a new nightie.
+
     - eng: nightingale
       ru: соловей
+      example: The nightingale sang beautifully.
+
     - eng: nightlife
       ru: ночные развлечения
+      example: The city has a vibrant nightlife.
+
     - eng: nightmare
       ru: ночной кошмар
+      example: I had a nightmare last night.
+
     - eng: nightshade
-      ru: паслен
+      ru: паслён
+      example: Nightshade plants include tomatoes.
+
     - eng: nightstand
       ru: тумбочка
+      example: The clock is on the nightstand.
+
     - eng: nile
-      ru: Нил
+      ru: нил
+      example: The Nile is the longest river.
+
     - eng: nimbus
       ru: нимб
+      example: The saint was depicted with a nimbus.
+
     - eng: nine
       ru: девять
+      example: Nine people attended the meeting.
+
     - eng: nineteen
       ru: девятнадцать
+      example: She is nineteen years old.
+
     - eng: nineteenth
       ru: девятнадцатый
+      example: The nineteenth century saw many inventions.
+
     - eng: ninetieth
       ru: девяностый
+      example: He celebrated his ninetieth birthday.
+
     - eng: ninety
       ru: девяносто
+      example: Ninety percent of the work is done.
+
     - eng: ninth
       ru: девятый
+      example: She finished in ninth place.
+
     - eng: nipple
       ru: сосок
+      example: The baby sucked on the nipple.
+
     - eng: nirvana
       ru: нирвана
+      example: In Buddhism, nirvana is the ultimate goal.
+
     - eng: nitrate
       ru: нитрат
+      example: Nitrates are used in fertilizers.
+
     - eng: nitrite
       ru: нитрит
+      example: Nitrites are preservatives in meat.
+
     - eng: nitrogen
       ru: азот
+      example: Nitrogen makes up most of the air.
+
     - eng: nitrogen cycle
       ru: круговорот азота
+      example: The nitrogen cycle is essential for life.
+
     - eng: nitrogen narcosis
       ru: азотное опьянение
+      example: Deep divers can experience nitrogen narcosis.
+
     - eng: nitrogen oxide
       ru: оксид азота
+      example: Nitrogen oxide is a pollutant.
+
     - eng: no Pair
       ru: без пары
+      example: In poker, having no pair is the worst hand.
+
     - eng: no civilian buildings were targeted
       ru: ни одно гражданское здание не подверглось нападению
+      example: No civilian buildings were targeted during the operation.
+
     - eng: no dressing
       ru: без заправки; без соуса
+      example: I want my salad with no dressing.
+
     - eng: no fooling?
-      ru: Серьезно? / Ты не шутишь?
+      ru: серьёзно? / ты не шутишь?
+      example: You really won the lottery? No fooling?
+
     - eng: no harm would befall her
       ru: с ней ничего не случится
+      example: He promised that no harm would befall her.
+
     - eng: no limits
       ru: самая глубоководная дисциплина во фридайвинге
+      example: No limits freediving uses a weighted sled.
+
     - eng: no look
       ru: не глядя
+      example: He made a no-look pass in basketball.
+
     - eng: no mercy for these apostates of the true faith
       ru: никакой пощады этим отступникам от истинной веры
+      example: The leader declared no mercy for these apostates of the true faith.
+
     - eng: no parties
       ru: вечеринки запрещены
+      example: The sign on the door said no parties.
+
     - eng: no possibility must be left out
       ru: нельзя упускать ни одной возможности
+      example: In the investigation, no possibility must be left out.
+
     - eng: no problem
-      ru: все в порядке, нет проблем
+      ru: всё в порядке, нет проблем
+      example: Thank you for your help. No problem.
+
     - eng: no smoking
       ru: курение запрещено; не курить
+      example: There is a no smoking sign on the wall.
+
     - eng: no sugar
       ru: без сахара
+      example: I drink my coffee with no sugar.
+
     - eng: no swearing
       ru: не ругаться
+      example: The school has a no swearing rule.
+
     - eng: no time to dawdle
       ru: нет времени бездельничать
+      example: We have no time to dawdle, let us hurry.
+
     - eng: no time to rest
       ru: нет времени на отдых
+      example: With the deadline approaching, there is no time to rest.
+
     - eng: no wonder
       ru: неудивительно
+      example: You did not study? No wonder you failed.
+
     - eng: no-limit poker
       ru: безлимитный покер
+      example: No-limit poker is very exciting.
+
     - eng: noble gases
       ru: инертные газы
+      example: Helium and neon are noble gases.
+
     - eng: nobody
       ru: никто
+      example: Nobody knows the answer.
+
     - eng: nocturne
       ru: ноктюрн
+      example: Chopin wrote beautiful nocturnes.
+
     - eng: noise
       ru: шум
+      example: The noise from the street is loud.
+
     - eng: noisy
       ru: шумный
+      example: The children are very noisy.
+
     - eng: nomenclature
       ru: номенклатура
+      example: Chemical nomenclature follows rules.
+
     - eng: nominal
       ru: условный
+      example: The fee is nominal, only one dollar.
+
     - eng: nominal share
       ru: именная акция
+      example: He owns a nominal share in the company.
+
     - eng: nominal value
       ru: номинальная стоимость
+      example: The bond has a nominal value of one thousand dollars.
+
     - eng: nomination
       ru: номинация; выдвижение кандидатов
+      example: She received a nomination for the award.
+
     - eng: non-alcoholic drink
       ru: безалкогольный напиток
+      example: I ordered a non-alcoholic drink.
+
     - eng: non-disclosure agreement
       ru: соглашение о неразглашении информации
+      example: He signed a non-disclosure agreement.
+
     - eng: non-fiction books
       ru: документальные книги
+      example: She prefers non-fiction books.
+
     - eng: non-metal
       ru: неметалл
+      example: Carbon is a non-metal.
+
     - eng: non-refundable
       ru: невозмещаемый
+      example: The ticket is non-refundable.
+
     - eng: non-taxable income
       ru: доход, не облагаемый налогом
+      example: Gifts are non-taxable income.
+
     - eng: none
-      ru: нет; ни один; Никакой
+      ru: нет; ни один; никакой
+      example: None of the students were late.
+
     - eng: nonlinear
       ru: нелинейный
+      example: The equation is nonlinear.
+
     - eng: nonprofit organization
       ru: некоммерческая организация
+      example: The charity is a nonprofit organization.
+
     - eng: nonsense
       ru: бессмыслица
+      example: Do not talk nonsense.
+
     - eng: noodles
       ru: лапша
+      example: I eat noodles with chopsticks.
+
     - eng: nordic combined
       ru: лыжное двоеборье
+      example: Nordic combined includes ski jumping and cross-country skiing.
+
     - eng: normal
-      ru: перпендикуляр; Нормаль
+      ru: перпендикуляр; нормаль
+      example: Draw a line normal to the surface.
+
     - eng: normal close
       ru: нормально замкнутый
+      example: A normal close switch is open when activated.
+
     - eng: normal fault
       ru: нормальный сброс
+      example: A normal fault occurs when the hanging wall moves down.
+
     - eng: normal open
       ru: нормально открытый
+      example: A normal open switch is closed when activated.
+
     - eng: north
       ru: север
+      example: The wind is blowing from the north.
+
     - eng: northern red oak
       ru: красный дуб
+      example: The northern red oak is a large tree.
+
     - eng: nose
       ru: нос
+      example: His nose is red from the cold.
+
     - eng: nose wheelie
-      ru: езда только на переднем колесе с поднятым над землей задним
+      ru: езда только на переднем колесе с поднятым над землёй задним
+      example: The stunt rider performed a nose wheelie.
+
     - eng: noseclip
       ru: носовой зажим
+      example: Swimmers use a noseclip to keep water out.
+
     - eng: nostril
       ru: ноздря
+      example: Smoke came out of his nostrils.
+
     - eng: not a bit
-      ru: Ни капельки
+      ru: ни капельки
+      example: I am not a bit tired.
+
     - eng: not everyone is excited about this decision
       ru: не все в восторге от этого решения
+      example: Not everyone is excited about this decision.
+
     - eng: not for all the tea in china
       ru: ни за какие коврижки
+      example: I would not do that for all the tea in China.
+
     - eng: not guilty of
       ru: невиновный (в чём)
+      example: The jury found him not guilty of the crime.
+
     - eng: not my cup of tea
-      ru: не в моем вкусе
+      ru: не в моём вкусе
+      example: Heavy metal is not my cup of tea.
+
     - eng: not see the wood for the trees
       ru: не видеть леса за деревьями
+      example: He is so focused on details that he cannot see the wood for the trees.
+
     - eng: not suitable for pets
       ru: не подходит для животных
+      example: This plant is not suitable for pets.
+
     - eng: notable
       ru: известный
+      example: The notable scientist gave a lecture.
+
     - eng: notary public
       ru: нотариус
+      example: The notary public witnessed the signature.
+
     - eng: notation
       ru: нотное письмо
+      example: Musical notation uses symbols.
+
     - eng: note
       ru: обращать внимание; заметка, запись; банкнота; заметка
+      example: Please note the change in schedule.
+
     - eng: notebook
       ru: ноутбук
+      example: She wrote in her notebook.
+
     - eng: notepad
       ru: блокнот
+      example: He jotted down the number on a notepad.
+
     - eng: nothing
-      ru: ничего,ничто; ничто; ничего
+      ru: ничего, ничто; ничто; ничего
+      example: Nothing happened yesterday.
+
     - eng: nothing but net
-      ru: чистый броксок (в баскетболе)
+      ru: чистый бросок (в баскетболе)
+      example: His shot was nothing but net.
+
     - eng: nothing justifies murdering another human being
       ru: ничто не оправдывает убийство другого человека
+      example: Nothing justifies murdering another human being.
+
     - eng: notice
-      ru: замечать; замечать; уведомление
+      ru: замечать; уведомление
+      example: Did you notice the new painting?
+
     - eng: nought
       ru: ноль
+      example: The score was nought to zero.
+
     - eng: nourishing
       ru: питательный
+      example: This soup is very nourishing.
+
     - eng: nov
       ru: ноябрь
+      example: The meeting is on Nov 15th.
+
     - eng: nova
       ru: новая звезда
+      example: A nova is a stellar explosion.
+
     - eng: novel
       ru: роман
+      example: She is reading a novel.
+
     - eng: novelist
       ru: писатель-романист
+      example: The novelist won a prize.
+
     - eng: novelty
       ru: новизна
+      example: The novelty of the gadget wore off.
+
     - eng: novice
       ru: новичок
+      example: As a novice, he made many mistakes.
+
     - eng: now
       ru: сейчас, теперь; теперь; сейчас
+      example: Now is the time to act.
+
     - eng: now and then
-      ru: Время от времени
+      ru: время от времени
+      example: I go fishing now and then.
+
     - eng: now quit nagging
       ru: а теперь перестань придираться
+      example: Now quit nagging and let me work.
+
     - eng: now we're talking
       ru: вот это - совсем другое дело!
+      example: You will pay me double? Now we are talking.
+
     - eng: nowadays
-      ru: В настоящее время
+      ru: в настоящее время
+      example: Nowadays, everyone has a smartphone.
+
     - eng: nowhere
       ru: нигде
+      example: The keys are nowhere to be found.
+
     - eng: nuance
       ru: нюанс
+      example: There is a subtle nuance in meaning.
+
     - eng: nuclear
       ru: ядерный
+      example: Nuclear energy is powerful.
+
     - eng: nuclear energy
       ru: атомная энергия; ядерная энергия
+      example: Nuclear energy produces no carbon dioxide.
+
     - eng: nuclear magnetic resonance spectroscopy
       ru: ядерная спектроскопия магнитного резонанса
+      example: Nuclear magnetic resonance spectroscopy is used in chemistry.
+
     - eng: nuclear membrane
       ru: ядерная оболочка
+      example: The nuclear membrane surrounds the nucleus.
+
     - eng: nuclear reactor
       ru: ядерный реактор
+      example: The nuclear reactor generates electricity.
+
     - eng: nuclei
       ru: ядра (мн.ч)
+      example: The nuclei of atoms are very small.
+
     - eng: nucleic acids
       ru: нуклеиновые кислоты
+      example: DNA and RNA are nucleic acids.
+
     - eng: nucleolus
-      ru: Ядрышко
+      ru: ядрышко
+      example: The nucleolus is inside the nucleus.
+
     - eng: nucleotide
       ru: нуклеотид
+      example: DNA is made of nucleotides.
+
     - eng: nucleus
       ru: ядро
+      example: The nucleus contains the cell's DNA.
+
     - eng: nuclide
       ru: нуклид
+      example: Each element has different nuclides.
+
     - eng: numb
       ru: оцепенелый
+      example: My fingers are numb from the cold.
+
     - eng: numbat
       ru: сумчатый муравьед
+      example: The numbat is native to Australia.
+
     - eng: number
       ru: число; номер; количество
+      example: Choose a number between one and ten.
+
     - eng: number density
       ru: плотность
+      example: The number density of stars in the galaxy is high.
+
     - eng: number-one
       ru: первоклассный
+      example: He is the number-one player on the team.
+
     - eng: nunnery
       ru: монастырь
+      example: She entered a nunnery.
+
     - eng: nuptial
       ru: свадебный
+      example: The couple exchanged nuptial vows.
+
     - eng: nurse
       ru: медсестра
+      example: The nurse took my temperature.
+
     - eng: nursery
       ru: детская
+      example: The baby sleeps in the nursery.
+
     - eng: nursery school
       ru: детский сад
+      example: Her son goes to nursery school.
+
     - eng: nurture
       ru: воспитание
+      example: Nurture is as important as nature.
+
     - eng: nut
       ru: орех
+      example: Crack the nut with a nutcracker.
+
     - eng: nutcracker
       ru: кедровка
+      example: The nutcracker is a bird that eats pine seeds.
+
     - eng: nutritional needs
       ru: потребности в питании
+      example: A balanced diet meets nutritional needs.
+
     - eng: nuts about something someone
       ru: без ума (от)
+      example: She is nuts about chocolate.
+
     - eng: nuts and bolts are used to hold pieces of machinery together
       ru: гайки и болты используются для скрепления частей оборудования вместе
+      example: Nuts and bolts are used to hold pieces of machinery together.
+
     - eng: nylon
       ru: нейлон
+      example: The rope is made of nylon.
+
     - eng: oak
       ru: дуб
+      example: The oak tree is very old.
+
     - eng: obedient
       ru: покорный; послушный
+      example: The dog is obedient.
+
     - eng: obelisk
       ru: обелиск
+      example: The obelisk stands in the square.
+
     - eng: obese
       ru: тучный
+      example: The patient is severely obese.
+
     - eng: obey
       ru: слушаться
+      example: Children should obey their parents.
+
     - eng: obituary
       ru: некролог
+      example: The newspaper published his obituary.
+
     - eng: object
       ru: предмет
+      example: What is that object on the table?
+
     - eng: object of worship
       ru: объект поклонения
+      example: The statue was an object of worship.
+
     - eng: objective field of view
       ru: поле зрения объектива
+      example: The objective field of view is 30 degrees.
+
     - eng: objective prerequisite
       ru: объективная предпосылка
+      example: A good education is an objective prerequisite for success.
+
     - eng: objective setting
       ru: постановка задач
+      example: Objective setting is the first step in planning.
+
     - eng: objectivity
       ru: объективность
+      example: Journalists should strive for objectivity.
+
     - eng: obligation
       ru: обязательство
+      example: You have an obligation to tell the truth.
+
     - eng: obliquely-mounted camera
       ru: фотоаппарат, перспективно установленный
+      example: The obliquely-mounted camera captured a different angle.
+
     - eng: oblivion
       ru: забыть
+      example: The old song faded into oblivion.
+
     - eng: oblivious
       ru: забывчивый
+      example: He was oblivious to the danger.
+
     - eng: obscure and unintelligible
       ru: неясный и невразумительный
+      example: His explanation was obscure and unintelligible.
+
     - eng: obsequious
       ru: подобострастный
+      example: The obsequious waiter bowed constantly.
+
     - eng: observation
       ru: наблюдение
+      example: The patient is under observation.
+
     - eng: observatory
       ru: обсерватория
+      example: The observatory has a large telescope.
+
     - eng: observe
       ru: наблюдать
+      example: Observe the birds carefully.
+
     - eng: observe how the people in the group interact
       ru: наблюдайте за тем, как взаимодействуют люди в группе
+      example: Observe how the people in the group interact.
+
     - eng: obsidian
       ru: обсидиан
+      example: Obsidian is a volcanic glass.
+
     - eng: obstetrician
       ru: акушер
+      example: The obstetrician delivered the baby.
+
     - eng: obtain
       ru: получать
+      example: How can I obtain a visa?
+
     - eng: obtuse
       ru: тупой
+      example: The angle is obtuse, greater than 90 degrees.
+
     - eng: obtuse
       ru: тупой
+      example: He made an obtuse remark.
+
     - eng: obtuse angle
       ru: тупой угол
+      example: An obtuse angle measures more than 90 degrees.
+
     - eng: obvious
       ru: очевидный
+      example: The answer is obvious.
+
     - eng: obviously
       ru: очевидно
+      example: Obviously, you are wrong.
+
     - eng: occasion
       ru: случай; шанс; возможность
+      example: This is a special occasion.
+
     - eng: occasionally
       ru: иногда; изредка
+      example: I occasionally eat fast food.
+
     - eng: occultation
       ru: затмение
+      example: The occultation of a star by the moon is rare.
+
     - eng: occupied
       ru: оккупированный
+      example: The seat is occupied.
+
     - eng: occur
       ru: происходить
+      example: When did the accident occur?
+
     - eng: ocean
       ru: океан
+      example: The Pacific Ocean is very large.
+
     - eng: oceanography
       ru: океанография
+      example: Oceanography studies the seas.
+
     - eng: ochre
       ru: охра
+      example: Ochre is a natural pigment.
+
     - eng: octave
       ru: октава
+      example: She sang an octave higher.
+
     - eng: octet
       ru: октет
+      example: The octet rule explains chemical bonding.
+
     - eng: octopus
       ru: осьминог
+      example: The octopus has eight arms.
+
     - eng: oculist
       ru: окулист
+      example: The oculist tested my vision.
+
     - eng: odd
       ru: эксцентричный; чуждый; необычный; нечётный; странный
+      example: Seven is an odd number.
+
     - eng: odd number
       ru: нечётное число
+      example: One, three, and five are odd numbers.
+
     - eng: odd-job man
       ru: разнорабочий
+      example: The odd-job man fixed the fence.
+
     - eng: odds and ends
       ru: ненужные детали
+      example: The drawer was full of odds and ends.
+
     - eng: ode
       ru: ода
+      example: Keats wrote an ode to a nightingale.
+
     - eng: odyssey
       ru: одиссея
+      example: Their journey was an odyssey.
+
     - eng: oesophagus
       ru: пищевод
+      example: Food passes through the oesophagus.
+
     - eng: of
       ru: указывает на объект действия; из, от, о, об
+      example: The pages of the book are torn.
+
     - eng: of course
-      ru: конечно; естественно; конечно
+      ru: конечно; естественно
+      example: Of course I will help you.
+
     - eng: off and on
       ru: время от времени, нерегулярно
+      example: It has been raining off and on.
+
     - eng: off the cuff
       ru: экспромпт, импровизация
+      example: He spoke off the cuff.
+
     - eng: off-the-grid
       ru: вне системы
+      example: They live off-the-grid in a cabin.
+
     - eng: offenders
       ru: правонарушители
+      example: The court punished the offenders.
+
     - eng: offense
       ru: нападение
+      example: The team's offense scored many points.
+
     - eng: offensive rebound
       ru: подбор у чужого кольца, подбор в атаке
+      example: He grabbed an offensive rebound and scored.
+
     - eng: offer
       ru: предлагать
+      example: He offered me a cup of tea.
+
     - eng: offer a bribe
       ru: предлагать взятку
+      example: It is illegal to offer a bribe.
+
     - eng: offeree
       ru: адресат оферты
+      example: The offeree accepted the contract.
+
     - eng: offerer
-      ru: лицо, которое делает предложение, оферент.
+      ru: лицо, которое делает предложение, оферент
+      example: The offerer withdrew the proposal.
+
     - eng: offertory
       ru: проскомидия
+      example: The choir sang during the offertory.
+
     - eng: office
       ru: офис
+      example: I go to the office at nine.
+
     - eng: office building
       ru: административное здание
+      example: The office building has twenty floors.
+
     - eng: office chair
       ru: офисный стул
+      example: The office chair is adjustable.
+
     - eng: official representative
       ru: официальный представитель
+      example: The official representative signed the document.
+
     - eng: official secret
       ru: служебная тайна
+      example: The document was classified as an official secret.
+
     - eng: officinal
       ru: лекарственный
+      example: This herb is officinal.
+
     - eng: offside
       ru: офсайд
+      example: The referee called offside.
+
     - eng: offspring
       ru: потомок
+      example: The lioness protected her offspring.
+
     - eng: often
       ru: часто
+      example: I often go for a walk.
+
     - eng: oh, my gosh!
-      ru: Чёрт возьми! Боже мой!
+      ru: чёрт возьми! боже мой!
+      example: Oh, my gosh! I forgot my keys.
+
     - eng: oil
       ru: масло
+      example: Add oil to the pan.
+
     - eng: oil is a commodity in high demand
       ru: нефть - товар, пользующийся высоким спросом
+      example: Oil is a commodity in high demand worldwide.
+
     - eng: oil paint
       ru: масляная краска
+      example: He paints with oil paint.
+
     - eng: oil painting
       ru: картина маслом, масляная живопись
+      example: The museum has many oil paintings.
+
     - eng: oil paints
       ru: масляные краски
+      example: She bought new oil paints.
+
     - eng: oil pump
       ru: масляный насос
+      example: The oil pump circulates lubricant.
+
     - eng: oil-shales
       ru: горючие сланцы
+      example: Oil-shales are a source of petroleum.
+
     - eng: ointment
       ru: мазь
+      example: Apply this ointment to the rash.
+
     - eng: oka
       ru: ока
+      example: The Oka is a river in Russia.
+
     - eng: okay
       ru: хорошо
+      example: Okay, I agree.
+
     - eng: old
       ru: старый
+      example: This house is very old.
+
     - eng: old hat
-      ru: вышедший из употребления; немодный; устаревший; "дело прошлое"
+      ru: вышедший из употребления; немодный; устаревший; «дело прошлое»
+      example: That fashion is old hat.
+
     - eng: oleander
       ru: олеандр
+      example: Oleander is a poisonous plant.
+
     - eng: olive
-      ru: Олива
+      ru: олива
+      example: Olives are preserved in brine.
+
     - eng: olive oil
       ru: оливковое масло
+      example: Use olive oil for the salad.
+
     - eng: olive tree
-      ru: Олива
+      ru: олива
+      example: The olive tree is a symbol of peace.
+
     - eng: olivine
       ru: оливин
+      example: Olivine is a green mineral.
+
     - eng: olympiad
-      ru: Олимпиада
+      ru: олимпиада
+      example: The Math Olympiad is difficult.
+
     - eng: omit facts
       ru: опускать факты
+      example: The report omitted important facts.
+
     - eng: on
       ru: на
+      example: The book is on the table.
+
     - eng: on Friday
       ru: в пятницу
+      example: I will call you on Friday.
+
     - eng: on Monday
       ru: в понедельник
+      example: We start work on Monday.
+
     - eng: on Mondays
       ru: по понедельникам
+      example: On Mondays, I go to the gym.
+
     - eng: on Saturday
       ru: в субботу
+      example: The party is on Saturday.
+
     - eng: on Sunday
       ru: в воскресенье
+      example: They go to church on Sunday.
+
     - eng: on account of
-      ru: Вследствие
+      ru: вследствие
+      example: The game was cancelled on account of rain.
+
     - eng: on bail
       ru: под залог
+      example: The suspect was released on bail.
+
     - eng: on cue they strode into position
       ru: по сигналу они заняли позиции
+      example: On cue, they strode into position.
+
     - eng: on hand
       ru: под рукой
+      example: I have cash on hand.
+
     - eng: on paper
       ru: теоретический, фиктивный
+      example: The plan looks good on paper.
+
     - eng: on parole
       ru: условно-досрочное освобождение
+      example: He was released on parole.
+
     - eng: on purpose
       ru: умышленно, нарочно
+      example: She broke the vase on purpose.
+
     - eng: on the agenda
       ru: на повестке дня
+      example: The budget is on the agenda.
+
     - eng: on the air
       ru: в эфире
+      example: The radio show is on the air.
+
     - eng: on the corner
       ru: на углу
+      example: The cafe is on the corner.
+
     - eng: on the corner of
       ru: на углу
+      example: The bank is on the corner of Main and Fifth.
+
     - eng: on the front face of the armrest
       ru: на верхней части подлокотника
+      example: The button is on the front face of the armrest.
+
     - eng: on the internet
       ru: в интернете
+      example: I found the information on the internet.
+
     - eng: on the one hand
       ru: с одной стороны
+      example: On the one hand, it is cheap; on the other, it is poor quality.
+
     - eng: on the other hand
       ru: с другой стороны
+      example: On the other hand, we could wait.
+
     - eng: on the rocks
       ru: со льдом
+      example: He ordered whiskey on the rocks.
+
     - eng: on the spot
       ru: тут же, на месте
+      example: He was hired on the spot.
+
     - eng: on the spur of the moment
       ru: под влиянием момента
+      example: We decided to go on the spur of the moment.
+
     - eng: on this machine gun I can already make scrambled eggs
       ru: на этом пулемёте я уже могу сделать яичницу
+      example: On this machine gun I can already make scrambled eggs, he joked.
+
     - eng: on time
       ru: вовремя
+      example: The train arrived on time.
+
     - eng: on vacation
       ru: отдыхать, быть на каникулах
+      example: They are on vacation in Hawaii.
+
     - eng: on weekdays
       ru: в будние дни
+      example: On weekdays, I wake up at seven.
+
     - eng: on weekends
       ru: по выходным
+      example: On weekends, I sleep late.
+
     - eng: on-the-spot promotion
       ru: реклама, размещённая на человеке
+      example: The company used on-the-spot promotion at the event.
+
     - eng: on/off switch
       ru: выключатель
+      example: Flip the on/off switch to start.
+
     - eng: once in a blue moon
       ru: очень редко
+      example: He visits once in a blue moon.
+
     - eng: once in a while
       ru: изредка; время от времени
+      example: I eat dessert once in a while.
+
     - eng: once in lifetime opportunity
       ru: единственная в жизни возможность
+      example: This is a once in a lifetime opportunity.
+
     - eng: one
       ru: один
+      example: I have one brother.
+
     - eng: one another
       ru: друг друга
+      example: They love one another.
+
     - eng: one eighth
       ru: одна восьмая
+      example: One eighth of the cake is left.
+
     - eng: one hundred
       ru: сто
+      example: One hundred people attended.
+
     - eng: one hundred and ten
       ru: сто десять
+      example: The score was one hundred and ten.
+
     - eng: one hundred fifty
       ru: сто пятьдесят
+      example: The room costs one hundred fifty dollars.
+
     - eng: one hundred thousand five hundred and one
       ru: сто тысяч пятьсот один
+      example: The number is one hundred thousand five hundred and one.
+
     - eng: one hundredth
       ru: одна сотая
+      example: One hundredth of a second matters in racing.
+
     - eng: one line diagram
       ru: однолинейная схема
+      example: The electrical system is shown in a one line diagram.
+
     - eng: one of such places is that cape
       ru: одним из таких мест является тот мыс
+      example: One of such places is that cape near the town.
+
     - eng: one simply cannot confront new problems with antiquated structures
       ru: просто невозможно противостоять новым проблемам с помощью устаревших структур
+      example: One simply cannot confront new problems with antiquated structures.
+
     - eng: one slip, and you could paralyze someone
-      ru: один промах, и ты можешь кого- нибудь парализовать
+      ru: один промах, и ты можешь кого-нибудь парализовать
+      example: One slip, and you could paralyze someone, so be careful.
+
     - eng: one spark could blow us all up
-      ru: одна искра может взорвать нас всех.
+      ru: одна искра может взорвать нас всех
+      example: One spark could blow us all up, so no smoking.
+
     - eng: one thousand and one
       ru: одна тысяча один
+      example: Arabian Nights has one thousand and one stories.
+
     - eng: one thousand one hundred
       ru: одна тысяча сто
+      example: The building is one thousand one hundred metres tall.
+
     - eng: one thousandth
       ru: одна тысячная
+      example: One thousandth of a gram is a milligram.
+
     - eng: one-way ticket
       ru: билет в одну сторону
+      example: He bought a one-way ticket.
+
     - eng: oneself
-      ru: неопределенно-личная форма
+      ru: неопределённо-личная форма
+      example: To know oneself is difficult.
+
     - eng: onion
       ru: лук
+      example: Chop the onion finely.
+
     - eng: online banking
       ru: онлайн-банкинг
+      example: I pay my bills with online banking.
+
     - eng: only
       ru: единственный
+      example: She is the only person who knows.
+
     - eng: only a workaholic would prefer the first solution
-      ru: только трудоголик предпочел бы первое решение
+      ru: только трудоголик предпочёл бы первое решение
+      example: Only a workaholic would prefer the first solution.
+
     - eng: only bland food is available
       ru: здесь подают только безвкусные блюда
+      example: At the hospital, only bland food is available.
+
     - eng: only decorate grate can be seen
-      ru: видна только решетка для украшения
+      ru: видна только решётка для украшения
+      example: Only the decorate grate can be seen from the street.
+
     - eng: only if
       ru: только если
+      example: You can go out only if you finish your homework.
+
     - eng: only then did I begin to think
-      ru: Только тогда я начал думать
+      ru: только тогда я начал думать
+      example: Only then did I begin to think about the consequences.
+
     - eng: only then did you remember that you left your purse at home
       ru: только тогда вы вспомнили, что оставили свою сумочку дома
+      example: Only then did you remember that you left your purse at home.
+
     - eng: onomatopoeia
       ru: ономатопея, звукоподражание
+      example: Buzz is an example of onomatopoeia.
+
     - eng: op art
       ru: оп-арт
+      example: Op art creates optical illusions.
+
     - eng: op-ed page
       ru: страница обзорных статей, писем в редакцию и т.п., страница публицистики
+      example: The op-ed page featured a controversial article.
+
     - eng: open
-      ru: открыть; Открывать
+      ru: открыть; открывать
+      example: Open the door, please.
+
     - eng: open an account
-      ru: открыть счет
+      ru: открыть счёт
+      example: I want to open an account at this bank.
+
     - eng: open land is sparse around here
       ru: открытая местность здесь редка
+      example: Open land is sparse around here, mostly forest.
+
     - eng: open the doors to smth.
-      ru: открыть путь чему-либо; дать полную воз можность
+      ru: открыть путь чему-либо; дать полную возможность
+      example: The new law opens the doors to innovation.
+
     - eng: open-air
       ru: пленэр
+      example: The artist painted open-air.
+
     - eng: open-source software
       ru: открытое программное обеспечение
+      example: Linux is open-source software.
+
     - eng: openwork(ed)
       ru: ажурный
+      example: The bracelet has openwork design.
+
     - eng: opera
       ru: опера
+      example: We went to the opera last night.
+
     - eng: operate
       ru: действовать
+      example: The machine operates smoothly.
+
     - eng: operating room
       ru: операционная
+      example: The surgeon entered the operating room.
+
     - eng: operating system
       ru: операционная система
+      example: Windows is an operating system.
+
     - eng: operation
       ru: операция
+      example: The patient needs an operation.
+
     - eng: operator
       ru: оператор
+      example: The crane operator lifted the load.
+
     - eng: operetta
       ru: оперетта
+      example: The operetta was light and funny.
+
     - eng: opinion
       ru: мнение
+      example: In my opinion, it is too expensive.
+
     - eng: opossum
       ru: опоссум
+      example: The opossum plays dead when threatened.
+
     - eng: opponent
       ru: противник
+      example: The opponent was strong.
+
     - eng: opportunity
       ru: шанс; возможность
+      example: Take every opportunity to learn.
+
     - eng: opposite
       ru: напротив
+      example: The bank is opposite the school.
+
     - eng: opposition
       ru: противостояние
+      example: The opposition party disagreed.
+
     - eng: oppress
       ru: угнетать
+      example: The dictator oppressed the people.
+
     - eng: oprichnik
       ru: опричник
+      example: The oprichnik served Ivan the Terrible.
+
     - eng: oprichnina
       ru: опричнина
+      example: The oprichnina was a state policy of terror.
+
     - eng: optical astronomy
       ru: оптическая астрономия
+      example: Optical astronomy uses visible light.
+
     - eng: optical axis
       ru: оптическая ось
+      example: The optical axis is the line through the centre of a lens.
+
     - eng: optical camera
       ru: фотоаппарат, оптический
+      example: An optical camera uses a lens.
+
     - eng: optical contrast
       ru: оптический контраст
+      example: High optical contrast makes the image sharp.
+
     - eng: optical observatory
       ru: оптическая обсерватория
+      example: The optical observatory has a large telescope.
+
     - eng: optical specular density
       ru: плотность, оптическая вуали
+      example: Optical specular density measures reflectivity.
+
     - eng: optical zoom
       ru: оптический зум
+      example: Optical zoom preserves image quality.
+
     - eng: optician's
       ru: оптика
+      example: I bought new glasses at the optician's.
+
     - eng: optimist
       ru: оптимист
+      example: An optimist sees the glass half full.
+
     - eng: option
       ru: альтернатива; выбор
+      example: You have the option to stay or leave.
+
     - eng: options
       ru: опционы
+      example: He trades stock options.
+
     - eng: or
       ru: или; если
+      example: Tea or coffee?
+
     - eng: oracle
       ru: пророчество
+      example: The oracle predicted the future.
+
     - eng: orang-utan
       ru: орангутанг
+      example: The orang-utan is an ape.
+
     - eng: orange
       ru: оранжевый; апельсин
+      example: The sunset is orange.
+
     - eng: orange juice
       ru: апельсиновый сок
+      example: I drink orange juice for breakfast.
+
     - eng: orange smoothie
       ru: апельсиновый смузи
+      example: She made an orange smoothie.
+
     - eng: orange-tree
-      ru: Апельсиновое дерево
+      ru: апельсиновое дерево
+      example: The orange-tree is full of fruit.
+
     - eng: orangutan
       ru: орангутанг
+      example: The orangutan is endangered.
+
     - eng: oratorio
       ru: оратория
+      example: Handel's Messiah is an oratorio.
+
     - eng: orbit
       ru: орбита
+      example: The Earth orbits the Sun.
+
     - eng: orbital
       ru: орбитальный
+      example: The satellite is in orbital motion.
+
     - eng: orbital inclination
       ru: наклонение орбиты
+      example: The orbital inclination of the moon is low.
+
     - eng: orbiting observatory
       ru: орбитальная обсерватория
+      example: The Hubble telescope is an orbiting observatory.
+
     - eng: orca
       ru: косатка
+      example: The orca is a type of dolphin.
+
     - eng: orchestra
       ru: оркестр
+      example: The orchestra played beautifully.
+
     - eng: orchestration
       ru: оркестровка
+      example: The orchestration was rich and complex.
+
     - eng: orchid
       ru: орхидея
+      example: Orchids are exotic flowers.
+
     - eng: order
       ru: приказ; заказывать
+      example: The general gave an order.
+
     - eng: order four pizzas
       ru: заказать четыре пиццы
+      example: Let us order four pizzas for the party.
+
     - eng: order of the court
       ru: постановление, приказ суда
+      example: The order of the court must be followed.
+
     - eng: ordinary
       ru: обычный
+      example: It was an ordinary day.
+
     - eng: ordinary share
       ru: обыкновенная акция
+      example: He owns ordinary shares in the company.
+
     - eng: ordinate
       ru: ордината
+      example: The y-coordinate is the ordinate.
+
     - eng: ore
       ru: руда
+      example: Iron ore is mined here.
+
     - eng: oregano
       ru: орегано
+      example: Add oregano to the pizza sauce.
+
     - eng: organic chemistry
       ru: органическая химия
+      example: Organic chemistry studies carbon compounds.
+
     - eng: organic compound
       ru: органическое соединение
+      example: Methane is an organic compound.
+
     - eng: organic food is now widely available
       ru: органические продукты питания теперь широко доступны
+      example: Organic food is now widely available in supermarkets.
+
     - eng: organics
       ru: органика
+      example: The soil is rich in organics.
+
     - eng: organization
       ru: структура
+      example: The organization has a clear hierarchy.
+
     - eng: organizational skills
       ru: организационные способности
+      example: Her organizational skills are excellent.
+
     - eng: organized
       ru: организованный
+      example: The event was well organized.
+
     - eng: organs
       ru: органы тела
+      example: The heart and lungs are vital organs.
+
     - eng: orgies
       ru: вакханалии
+      example: Ancient Roman orgies were legendary.
+
     - eng: oriental
       ru: восточный орнамент
+      example: The rug has an oriental pattern.
+
     - eng: original
       ru: оригинал
+      example: This is a copy, not the original.
+
     - eng: original (of negative)
       ru: оригинал
     - eng: original plan
