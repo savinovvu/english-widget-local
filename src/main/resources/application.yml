@@ -71906,1383 +71906,2764 @@ app.words:
 
     - eng: waste of time
       ru: пустая трата времени, пустое дело
+      example: Waiting in line is a waste of time.
+
     - eng: waste time
-      ru: Тратить время
+      ru: тратить время
+      example: Do not waste time on trivial things.
+
     - eng: wastes
       ru: отходы
+      example: Industrial wastes pollute the river.
+
     - eng: watch
       ru: смотреть; часы
+      example: I watch television in the evening.
+
     - eng: watch TV
       ru: смотреть телевизор
+      example: Children should not watch TV too much.
+
     - eng: watch a film
       ru: смотреть кино
+      example: Let us watch a film tonight.
+
     - eng: watch a parade
       ru: смотреть парад
+      example: Thousands gathered to watch the parade.
+
     - eng: watch films
       ru: смотреть фильмы
+      example: She likes to watch films in English.
+
     - eng: watch next week's thrilling episode
       ru: смотрите захватывающий эпизод на следующей неделе
+      example: Watch next week's thrilling episode of this drama.
+
     - eng: watch out
       ru: остерегаться, быть начеку
+      example: Watch out for the slippery floor.
+
     - eng: watchman
       ru: сторож
+      example: The watchman patrols the building at night.
+
     - eng: water
       ru: вода
+      example: Drink plenty of water.
+
     - eng: water chestnut
       ru: водяной орех
+      example: Water chestnuts are crunchy and sweet.
+
     - eng: water craft
       ru: суда, лодки
+      example: The lake is used by various water craft.
+
     - eng: water heater
-      ru: колонка(водонагревательная)
+      ru: колонка (водонагревательная)
+      example: The water heater is broken.
+
     - eng: water lilies
       ru: водяная лилия
+      example: Water lilies float on the pond.
+
     - eng: water lily
       ru: кувшинка
+      example: The water lily blooms in summer.
+
     - eng: water park
       ru: аквапарк
+      example: The children love the water park.
+
     - eng: water polo
       ru: водное поло
+      example: Water polo is a demanding sport.
+
     - eng: water-closet pan
       ru: унитаз
+      example: The water-closet pan needs cleaning.
+
     - eng: water-colour
       ru: акварель
+      example: He paints with water-colour.
+
     - eng: watercolour
       ru: акварель
+      example: This is a beautiful watercolour.
+
     - eng: watercourse
       ru: водоток
+      example: The watercourse flows through the valley.
+
     - eng: watercress
       ru: кресс-салат
+      example: Add watercress to the sandwich.
+
     - eng: waterfall
       ru: водопад
+      example: The waterfall is very loud.
+
     - eng: waterfront
       ru: берег
+      example: We walked along the waterfront.
+
     - eng: watermelon
       ru: арбуз
+      example: Watermelon is refreshing in summer.
+
     - eng: waterproof
       ru: водонепроницаемый
+      example: This jacket is waterproof.
+
     - eng: waterproof nylon cloth
       ru: болоний
+      example: The raincoat is made of waterproof nylon cloth.
+
     - eng: waterskiing
       ru: катание на водных лыжах
+      example: Waterskiing is fun on the lake.
+
     - eng: waterway
       ru: водоток
-    - eng: watson
+      example: The canal is an important waterway.
+
+    - eng: Watson
       ru: Ватсон
+      example: Watson was Sherlock Holmes's assistant.
+
     - eng: watt
       ru: ватт
+      example: The light bulb uses 60 watts.
+
     - eng: wattage
       ru: эл. мощность в ваттах
+      example: The wattage of the heater is high.
+
     - eng: wattled
       ru: плетёный
+      example: The fence is made of wattled branches.
+
     - eng: wave
       ru: волновой; волна; развеваться
+      example: The flag waves in the wind.
+
     - eng: wave power
       ru: мощность волны
+      example: Wave power can generate electricity.
+
     - eng: wavy
       ru: волнистый
+      example: She has wavy hair.
+
     - eng: wavy hair
       ru: волнистые волосы
+      example: Her wavy hair shines in the sun.
+
     - eng: wax
       ru: воск
+      example: The candle is made of wax.
+
     - eng: way
       ru: метод; путь; дорога; направление
+      example: Which way is the station?
+
     - eng: way of life
       ru: образ жизни
+      example: Their way of life is very simple.
+
     - eng: way to go
       ru: так держать
+      example: You passed the exam! Way to go!
+
     - eng: we
       ru: мы
+      example: We are going to the park.
+
     - eng: we accomplished our goals
       ru: мы достигли наших целей
+      example: We accomplished our goals ahead of schedule.
+
     - eng: we added some decorative details to the room
       ru: мы добавили в комнату несколько декоративных деталей
-    - eng: we adore them for their generousity
+      example: We added some decorative details to the room to make it cosier.
+
+    - eng: we adore them for their generosity
       ru: мы преклоняемся перед ними за их благородство
+      example: We adore them for their generosity towards the poor.
+
     - eng: we almost shot a trespasser
       ru: мы чуть не застрелили нарушителя границы
+      example: We almost shot a trespasser who entered our property at night.
+
     - eng: we ambled home across the fields
       ru: мы неторопливо побрели домой через поля
+      example: We ambled home across the fields in the evening.
+
     - eng: we are all made of flesh and bone
       ru: мы все сделаны из плоти и костей
+      example: We are all made of flesh and bone, no matter our differences.
+
     - eng: we are also out of vegies
       ru: у нас также закончились овощи
+      example: We are also out of vegies, so we need to go shopping.
+
     - eng: we are also out of wedges
       ru: у нас тоже нет никаких разногласий
-    - eng: we are aware there are problem
-      ru: мы осознаем, что существуют проблемы
+      example: We are also out of wedges, everything is agreed.
+
+    - eng: we are aware there are problems
+      ru: мы осознаём, что существуют проблемы
+      example: We are aware there are problems, and we are working on them.
+
     - eng: we are in the frontier west
       ru: мы на крайнем западе
+      example: We are in the frontier west, where the land is wild.
+
     - eng: we are literally in the middle of nowhere
-      ru: мы находимся буквально у черта на куличках
+      ru: мы находимся буквально у чёрта на куличках
+      example: The car broke down, and we are literally in the middle of nowhere.
+
     - eng: we are now back in the black
       ru: теперь мы снова в плюсе
+      example: After years of losses, we are now back in the black.
+
     - eng: we are watching a british film dubbed into french
       ru: мы смотрим британский фильм, дублированный на французский
+      example: We are watching a British film dubbed into French.
+
     - eng: we believe that she was deliberately meant to mislead
       ru: мы считаем, что она намеренно хотела ввести в заблуждение
+      example: We believe that she was deliberately meant to mislead the public.
+
     - eng: we came to visit them last September
       ru: мы приехали навестить их в сентябре прошлого года
+      example: We came to visit them last September, and it was wonderful.
+
     - eng: we can afford to do it
       ru: мы можем позволить себе это сделать
+      example: We can afford to do it now that we have saved enough money.
+
     - eng: we can discriminate the sounds of our own language
       ru: мы можем различать звуки нашего собственного языка
+      example: As infants, we can discriminate the sounds of our own language.
+
     - eng: we can hang around in a construction site
       ru: мы можем околачиваться на строительной площадке
+      example: We cannot hang around in a construction site; it is dangerous.
+
     - eng: we can hear thunder rumbling in the distance
       ru: мы слышим, как вдалеке раскатывается гром
+      example: We can hear thunder rumbling in the distance, so a storm is coming.
+
     - eng: we can only deplore the use of selective quotations from text
       ru: мы можем только выразить сожаление по поводу использования выборочных цитат из текста
+      example: We can only deplore the use of selective quotations from the text to support a false argument.
+
     - eng: we can only speculate
       ru: мы можем только предполагать
+      example: Without more evidence, we can only speculate about the cause.
+
     - eng: we can't afford to do that
       ru: мы не можем себе этого позволить
+      example: We can't afford to do that with our limited budget.
+
     - eng: we can't prosecute a surgeon
       ru: мы не можем преследовать хирурга в судебном порядке
+      example: We can't prosecute a surgeon without evidence of malpractice.
+
     - eng: we constantly innovate to stay ahead of the pack
       ru: мы постоянно внедряем инновации, чтобы оставаться впереди всех
+      example: We constantly innovate to stay ahead of the pack in the tech industry.
+
     - eng: we decided to hang out for a day
-      ru: мы решили потусоваться денек
+      ru: мы решили потусоваться денёк
+      example: We decided to hang out for a day at the beach.
+
     - eng: we dinnered today out
       ru: сегодня мы ужинали вне дома
+      example: We dined out today at a fancy restaurant.
+
     - eng: we do not go to the theatre often
       ru: мы не часто ходим в театр
+      example: We do not go to the theatre often because tickets are expensive.
+
     - eng: we don't anticipate any problems
       ru: мы не ожидаем никаких проблем
+      example: We don't anticipate any problems with the new system.
+
     - eng: we don't want to be seen, do we
       ru: мы же не хотим, чтобы нас видели, не так ли
+      example: We don't want to be seen, do we? So let us hide.
+
     - eng: we ended up going to a new restaurant
       ru: в итоге мы пошли в новый ресторан
+      example: We ended up going to a new restaurant that just opened.
+
     - eng: we entrusted him with our lives
       ru: мы доверили ему свои жизни
+      example: We entrusted him with our lives during the dangerous mission.
+
     - eng: we gather every weekend
       ru: мы собираемся каждые выходные
+      example: We gather every weekend for a family dinner.
+
     - eng: we gorged ourselves on ripe plums
       ru: мы наелись спелых слив
+      example: We gorged ourselves on ripe plums from the tree.
+
     - eng: we had no intention of telling them
       ru: у нас не было намерения говорить им
+      example: We had no intention of telling them the secret.
+
     - eng: we have a full schedule this afternoon
       ru: на сегодня у нас полное расписание
+      example: We have a full schedule this afternoon, so no free time.
+
     - eng: we have a heir
       ru: у нас есть наследник
+      example: The king is happy because we have a heir to the throne.
+
     - eng: we have much to be proud of
       ru: нам есть чем гордиться
+      example: We have much to be proud of as a nation.
+
     - eng: we have that in common
       ru: у нас есть это общее
+      example: We both love hiking; we have that in common.
+
     - eng: we have the obligation to pay our taxes
       ru: мы обязаны платить наши налоги
+      example: We have the obligation to pay our taxes as citizens.
+
     - eng: we have to look at everything from an international perspective
-      ru: мы должны смотреть на все с международной точки зрения
+      ru: мы должны смотреть на всё с международной точки зрения
+      example: We have to look at everything from an international perspective to understand the global market.
+
     - eng: we have to talk to you
       ru: нам нужно с вами поговорить
+      example: We have to talk to you about an important matter.
+
     - eng: we haven't been complacent
       ru: мы не успокаивались на достигнутом
+      example: We haven't been complacent; we keep striving for improvement.
+
     - eng: we haven't been getting along lately
-      ru: Мы не ладим в последнее время
+      ru: мы не ладим в последнее время
+      example: We haven't been getting along lately, so we need to talk.
+
     - eng: we heard a feeble cry for help
       ru: мы услышали слабый крик о помощи
+      example: We heard a feeble cry for help from the basement.
+
     - eng: we invest broadly to lessen the risk
       ru: мы широко инвестируем, чтобы снизить риск
+      example: We invest broadly to lessen the risk of losing everything.
+
     - eng: we knew we could rely on you
       ru: мы знали, что можем на вас положиться
+      example: We knew we could rely on you to get the job done.
+
     - eng: we made a stopover
       ru: мы сделали остановку
+      example: We made a stopover in Dubai on our way to Australia.
+
     - eng: we made an agreement
       ru: мы заключили соглашение
+      example: We made an agreement to share the profits equally.
+
     - eng: we made sure to get that point across
       ru: мы позаботились о том, чтобы донести этот момент до всех
+      example: We made sure to get that point across during the presentation.
+
     - eng: we marvelled at the child's abilities
-      ru: мы поражались способностям ребенка
+      ru: мы поражались способностям ребёнка
+      example: We marvelled at the child's ability to solve complex puzzles.
+
     - eng: we measure the items by weight
       ru: мы измеряем товары по весу
+      example: We measure the items by weight, not by volume.
+
     - eng: we mostly travel together
       ru: в основном мы путешествуем вместе
+      example: We mostly travel together as a family.
+
     - eng: we move on to entertainment
       ru: мы переходим к развлечениям
+      example: After the news, we move on to entertainment.
+
     - eng: we must abide by the simple credo
       ru: мы должны придерживаться простого кредо
+      example: We must abide by the simple credo of honesty and hard work.
+
     - eng: we must educate our youngsters better
-      ru: мы должны лучше воспитывать нашу молодежь
+      ru: мы должны лучше воспитывать нашу молодёжь
+      example: We must educate our youngsters better to prepare them for the future.
+
     - eng: we must go shopping
       ru: мы должны пройтись по магазинам
+      example: We must go shopping because the fridge is empty.
+
     - eng: we must harness the potential of this idea
       ru: мы должны использовать потенциал этой идеи
+      example: We must harness the potential of this idea to solve the problem.
+
     - eng: we must heed their concerns and engage them in a dialogue
       ru: мы должны прислушаться к их озабоченностям и вовлечь их в диалог
-    - eng: we must not recede in the face of those obstances
+      example: We must heed their concerns and engage them in a dialogue.
+
+    - eng: we must not recede in the face of those obstacles
       ru: мы не должны отступать перед лицом этих препятствий
+      example: We must not recede in the face of those obstacles; we must push forward.
+
     - eng: we must reduce overfishing
       ru: мы должны сократить чрезмерный вылов рыбы
+      example: We must reduce overfishing to protect marine life.
+
     - eng: we need time to evolve and to adapt
       ru: нам нужно время, чтобы развиться и адаптироваться
+      example: We need time to evolve and to adapt to the new environment.
+
     - eng: we need to assess the impact on climate change
-      ru: Нам необходимо оценить влияние на изменение климата
+      ru: нам необходимо оценить влияние на изменение климата
+      example: We need to assess the impact on climate change before making a decision.
+
     - eng: we need to be consistent in our approach
       ru: мы должны быть последовательны в нашем подходе
+      example: We need to be consistent in our approach to achieve the best results.
+
     - eng: we need to build more brand awareness
       ru: нам нужно повысить узнаваемость бренда
+      example: We need to build more brand awareness through advertising.
+
     - eng: we need to excommunicate him
       ru: мы должны отлучить его от церкви
+      example: The council decided that we need to excommunicate him for heresy.
+
     - eng: we need to go soon
       ru: нам нужно скорее уходить
+      example: We need to go soon or we will miss the train.
+
     - eng: we need to nourish our hopes and dreams
-      ru: нам нужно лелеять наши надежды и мечты; нам нужно лелеять наши надежды и мечты
+      ru: нам нужно лелеять наши надежды и мечты
+      example: We need to nourish our hopes and dreams to stay motivated.
+
     - eng: we need to reassemble the evidence
       ru: нам нужно собрать доказательства заново
+      example: We need to reassemble the evidence after it was scattered.
+
     - eng: we need to see only overall picture
       ru: нам нужно видеть только общую картину
+      example: We need to see only the overall picture, not every small detail.
+
     - eng: we offer a wide range of products
       ru: мы предлагаем широкий ассортимент продукции
+      example: We offer a wide range of products to suit all customers.
+
     - eng: we oppose racism in all its forms
       ru: мы выступаем против расизма во всех его формах
+      example: We oppose racism in all its forms and stand for equality.
+
     - eng: we prize his creativity
-      ru: Мы высоко ценим его творчество
+      ru: мы высоко ценим его творчество
+      example: We prize his creativity and innovative ideas.
+
     - eng: we purified the water by boiling
       ru: мы очистили воду кипячением
+      example: We purified the water by boiling it for ten minutes.
+
     - eng: we puzzled over her sudden departure
-      ru: мы были озадачены ее внезапным отъездом
+      ru: мы были озадачены её внезапным отъездом
+      example: We puzzled over her sudden departure without any explanation.
+
     - eng: we resort to adventurous hypotheses
       ru: мы прибегаем к авантюрным гипотезам
+      example: When facts are lacking, we resort to adventurous hypotheses.
+
     - eng: we seclude you until we know you're clean
       ru: мы изолируем вас, пока не убедимся, что вы чисты
+      example: We seclude you until we know you are free of infection.
+
     - eng: we seldom stop at a petrol station
       ru: мы редко останавливаемся на заправочной станции
+      example: We seldom stop at a petrol station because our car is efficient.
+
     - eng: we set off in the morning
       ru: мы отправились в путь утром
+      example: We set off in the morning to avoid the heat.
+
     - eng: we should splurge on a car service tonight
       ru: нам стоит потратиться на автосервис сегодня вечером
+      example: We should splurge on a car service tonight for the special occasion.
+
     - eng: we still need to figure this out
-      ru: нам все еще нужно разобраться с этим
+      ru: нам всё ещё нужно разобраться с этим
+      example: We still need to figure this out before the deadline.
+
     - eng: we stored the boxes up in the attic
       ru: мы сложили коробки на чердаке
+      example: We stored the boxes up in the attic for safekeeping.
+
     - eng: we take less risk, and due to this we lose less
-      ru: мы меньше рискуем, и за счет этого меньше теряем
+      ru: мы меньше рискуем, и за счёт этого меньше теряем
+      example: We take less risk, and due to this we lose less in downturns.
+
     - eng: we updated the kitchen in the old house
-      ru: Мы обновили кухню в старом доме
+      ru: мы обновили кухню в старом доме
+      example: We updated the kitchen in the old house with new appliances.
+
     - eng: we use adaptive maintenance when the environment around a software changes
       ru: мы используем адаптивное обслуживание, когда меняется среда вокруг программного обеспечения
+      example: We use adaptive maintenance when the environment around the software changes.
+
     - eng: we welcome any constructive criticism
-      ru: Мы приветствуем любую конструктивную критику
+      ru: мы приветствуем любую конструктивную критику
+      example: We welcome any constructive criticism to improve our work.
+
     - eng: we went home via a shortcut
-      ru: мы отправились домой кратчайшим путем
+      ru: мы отправились домой кратчайшим путём
+      example: We went home via a shortcut through the park.
+
     - eng: we will be wondering along the beach
       ru: мы будем гулять по пляжу
+      example: We will be wandering along the beach at sunset.
+
     - eng: we will depart resistant to minute delay
       ru: мы отправимся без малейшей задержки
+      example: We will depart without any delay, resistant to minute hold-ups.
+
     - eng: we will do it on the weekend
       ru: мы сделаем это в выходные
+      example: We will do it on the weekend when we have more time.
+
     - eng: we will ensure equal opportunities for all
-      ru: Мы обеспечим равные возможности для всех
+      ru: мы обеспечим равные возможности для всех
+      example: We will ensure equal opportunities for all employees.
+
     - eng: we will go skating at half past twelve
-      ru: мы пойдем кататься на коньках в половине первого
+      ru: мы пойдём кататься на коньках в половине первого
+      example: We will go skating at half past twelve.
+
     - eng: we will mow them down with explosive bullets
       ru: мы будем косить их разрывными пулями
+      example: The soldiers vowed to mow them down with explosive bullets.
+
     - eng: we will rest during the vacation
       ru: мы будем отдыхать во время отпуска
+      example: We will rest during the vacation and do nothing.
+
     - eng: we will see how it goes
-      ru: посмотрим, как все пойдет
+      ru: посмотрим, как всё пойдёт
+      example: We will try the new plan and see how it goes.
+
     - eng: we will travel on the holiday
       ru: мы будем путешествовать во время отпуска
+      example: We will travel on the holiday to visit our relatives.
+
     - eng: we won't let the standstill go on indefinitely
       ru: мы не позволим застою продолжаться бесконечно
+      example: We won't let the standstill go on indefinitely; action is needed.
+
     - eng: we works together for a shared purpose
       ru: мы работаем вместе ради общей цели
+      example: We work together for a shared purpose to help the community.
+
     - eng: we would have moved to another city if we had sold our flat
       ru: мы бы переехали в другой город, если бы продали нашу квартиру
+      example: We would have moved to another city if we had sold our flat.
+
     - eng: we would rather not contemplate the last possibility
       ru: мы бы предпочли не рассматривать последнюю возможность
+      example: We would rather not contemplate the last possibility; it is too grim.
+
     - eng: we'll agree to her terms
-      ru: мы согласимся на ее условия
+      ru: мы согласимся на её условия
+      example: We'll agree to her terms to end the dispute.
+
     - eng: we'll bunk here for the night
       ru: мы переночуем здесь
+      example: It is late, so we'll bunk here for the night.
+
     - eng: we'll get together after work
       ru: мы встретимся после работы
+      example: We'll get together after work for a drink.
+
     - eng: we'll have to pay a toll
-      ru: нам придется заплатить пошлину
+      ru: нам придётся заплатить пошлину
+      example: We'll have to pay a toll to cross the bridge.
+
     - eng: we'll sow in the early spring
       ru: мы будем сеять ранней весной
+      example: We'll sow the seeds in the early spring.
+
     - eng: we're close to catching him
       ru: мы близки к тому, чтобы поймать его
+      example: The police are close to catching the fugitive.
+
     - eng: we're getting back to work tomorrow
       ru: завтра мы возвращаемся к работе
+      example: After the holiday, we are getting back to work tomorrow.
+
     - eng: we're gonna run out of petrol soon
       ru: у нас скоро кончится бензин
+      example: We are gonna run out of petrol soon; we need to find a station.
+
     - eng: we're gonna stay on the coast for a few days
       ru: мы собираемся остаться на побережье на несколько дней
+      example: We are gonna stay on the coast for a few days to relax.
+
     - eng: we're in a somber mood
       ru: мы в мрачном настроении
+      example: After the bad news, we are in a somber mood.
+
     - eng: we're in the heartland
       ru: мы находимся в самом сердце страны
+      example: We are in the heartland of America, far from the coasts.
+
     - eng: we're just beginning to reap the benefits of all our hard work
-      ru: мы только начинаем пожинать плоды всей нашей напряженной работы
+      ru: мы только начинаем пожинать плоды всей нашей напряжённой работы
+      example: We are just beginning to reap the benefits of all our hard work.
+
     - eng: we're stuck
       ru: мы застряли
+      example: The car won't move; we're stuck in the mud.
+
     - eng: we've just got into this wretched state
       ru: мы только что дошли до такого жалкого состояния
+      example: How have we just got into this wretched state of affairs?
+
     - eng: we've not free of the suburbs yet
       ru: мы ещё не выбрались из пригородов
+      example: We've not free of the suburbs yet; the city centre is still far.
+
     - eng: weak
       ru: слабый
+      example: He is weak after being sick.
+
     - eng: weak side
-      ru: сторона площадки (слева или справа от кольца) на которой нет мяча
+      ru: сторона площадки (слева или справа от кольца), на которой нет мяча
+      example: The defender moved to the weak side to help.
+
     - eng: weakly
       ru: слабо
+      example: The candle burned weakly.
+
     - eng: wealth
       ru: благосостояние
+      example: Wealth does not guarantee happiness.
+
     - eng: wealthy
       ru: богатый
+      example: He comes from a wealthy family.
+
     - eng: weapon
       ru: оружие; орудие
+      example: The police found a weapon at the scene.
+
     - eng: wear
       ru: носить
+      example: I wear glasses for reading.
+
     - eng: wear, wore, worn
       ru: носить, одевать
+      example: She wore a red dress to the party.
+
     - eng: wearing a helmet reduces the risk of head injury
       ru: ношение шлема снижает риск получения травмы головы
+      example: Wearing a helmet reduces the risk of head injury while cycling.
+
     - eng: weary
       ru: изнурённый; утомлённый; усталый
+      example: The weary traveller rested under a tree.
+
     - eng: weather
       ru: погода
+      example: The weather is nice today.
+
     - eng: weather-beaten face
       ru: обветренное лицо
+      example: The sailor had a weather-beaten face.
+
     - eng: weathering
       ru: выветривание
+      example: Weathering breaks down rocks over time.
+
     - eng: weave
       ru: сплетаться
+      example: The threads weave together to form a pattern.
+
     - eng: weave wove wove
       ru: ткать
+      example: She wove a beautiful basket.
+
     - eng: weave, wove, woven
       ru: ткать
+      example: The fabric is woven from cotton.
+
     - eng: weaver
       ru: ткач
+      example: The weaver works at the loom.
+
     - eng: web
       ru: паутина
+      example: The spider spun a web.
+
     - eng: web hosting
       ru: хостинг
+      example: The company provides web hosting services.
+
     - eng: web service
       ru: веб-сервис
+      example: The application uses a web service to fetch data.
+
     - eng: web-master
       ru: веб-мастер
+      example: The web-master fixed the broken links.
+
     - eng: web-page
       ru: веб-страница
+      example: The web-page loaded slowly.
+
     - eng: web-site
       ru: веб-сайт
+      example: The web-site has a new design.
+
     - eng: website
       ru: сайт
+      example: Visit our website for more information.
+
     - eng: wed
       ru: вступать в брак
+      example: They will wed in June.
+
     - eng: wed, wed, wed
       ru: выдавать замуж
+      example: He wed his college sweetheart.
+
     - eng: wed, wedded, wedded
       ru: жениться; выходить замуж
+      example: They wedded in a small ceremony.
+
     - eng: wedding
       ru: свадьба
+      example: The wedding was beautiful.
+
     - eng: wedding cake
       ru: свадебный торт
+      example: The wedding cake had three tiers.
+
     - eng: wedding card
       ru: приглашение на свадьбу
+      example: We received a wedding card in the mail.
+
     - eng: wedding ceremony
       ru: обряд бракосочетания
+      example: The wedding ceremony took place in a church.
+
     - eng: wedding company
       ru: участники свадьбы
+      example: The wedding company included many friends and relatives.
+
     - eng: wedding palace
       ru: дворец бракосочетаний
+      example: They got married at the wedding palace.
+
     - eng: wedding ring
       ru: обручальное кольцо
+      example: He placed the wedding ring on her finger.
+
     - eng: wedding-dress
       ru: венчальное платье
+      example: Her wedding-dress was white and elegant.
+
     - eng: wedding-night
       ru: первая брачная ночь
+      example: They spent their wedding-night at a hotel.
+
     - eng: wedding-ring finger
       ru: безымянный палец
+      example: The wedding ring goes on the wedding-ring finger.
+
     - eng: wedlock
       ru: законный брак
+      example: The child was born out of wedlock.
+
     - eng: weed
       ru: водоросль
+      example: Seaweed is a type of weed.
+
     - eng: week
       ru: неделя
+      example: There are seven days in a week.
+
     - eng: weekday
       ru: будний день
+      example: The restaurant is open on weekdays.
+
     - eng: weekend
       ru: выходные
+      example: We are going away for the weekend.
+
     - eng: weekly
       ru: еженедельный
+      example: The weekly meeting is on Friday.
+
     - eng: weekly review
       ru: еженедельное издание
+      example: The weekly review summarises the news.
+
     - eng: weenie gear
-      ru: бабушкина передача, тракторная передача - самое низкое передаточное отношение (наименьшая звездочка впереди и наибольшая сзади)
+      ru: бабушкина передача, тракторная передача - самое низкое передаточное отношение (наименьшая звёздочка впереди и наибольшая сзади)
+      example: Use weenie gear to climb the steep hill.
+
     - eng: weep
       ru: плакать
+      example: She began to weep when she heard the news.
+
     - eng: weep, wept, wept
       ru: плакать, запотевать
+      example: The windows wept with condensation.
+
     - eng: weeping willow
       ru: ива
+      example: The weeping willow hangs over the pond.
+
     - eng: weigh
       ru: весить
+      example: How much do you weigh?
+
     - eng: weight
       ru: весить; вес
+      example: The weight of the box is ten kilos.
+
     - eng: weight increases in proportion to height
       ru: вес увеличивается пропорционально росту
+      example: Weight increases in proportion to height for healthy individuals.
+
     - eng: weight-lifter
       ru: тяжелоатлет
+      example: The weight-lifter broke a record.
+
     - eng: weightlifting
       ru: тяжёлая атлетика
+      example: Weightlifting requires great strength.
+
     - eng: weights
       ru: гантели
+      example: He lifts weights at the gym.
+
     - eng: welcome
       ru: гостеприимно (радушно) принимать
+      example: We welcome you to our home.
+
     - eng: well
-      ru: колодец; Как следует; ну; хорошо; хороший
+      ru: колодец; как следует; ну; хорошо; хороший
+      example: The well provides fresh water.
+
     - eng: well done
       ru: хорошо прожаренный
+      example: I like my steak well done.
+
     - eng: well-being
       ru: самочувствие
+      example: Exercise improves well-being.
+
     - eng: well-built
       ru: хорошо сложенный
+      example: The athlete is well-built.
+
     - eng: well-done
       ru: хорошо жареный; хорошо прожаренный
+      example: The steak was well-done.
+
     - eng: well-dressed
       ru: хорошо одетый
+      example: She is always well-dressed.
+
     - eng: well-proportioned
       ru: пропорциональный
+      example: The building is well-proportioned.
+
     - eng: well-to-do
       ru: богатый
+      example: He comes from a well-to-do family.
+
     - eng: wellington
-      ru: Веллингтон
+      ru: веллингтон
+      example: Wellington is the capital of New Zealand.
+
     - eng: wellingtons
       ru: высокие резиновые сапоги
+      example: Wear wellingtons in the muddy field.
+
     - eng: were
-      ru: были ( от to be)
+      ru: были (от to be)
+      example: They were happy.
+
     - eng: were you asked
       ru: тебя спрашивали
+      example: Were you asked to attend the meeting?
+
     - eng: werewolf
       ru: оборотень
+      example: The werewolf howls at the full moon.
+
     - eng: west
       ru: запад
+      example: The sun sets in the west.
+
     - eng: wet
       ru: влажный
+      example: The grass is wet with dew.
+
     - eng: wet lungs
-      ru: отек легких
+      ru: отёк лёгких
+      example: The patient was diagnosed with wet lungs.
+
     - eng: wet snow
       ru: мокрый снег
+      example: Wet snow is heavy and hard to shovel.
+
     - eng: wet, wet, wet
       ru: мочить, увлажнять
+      example: Wet the sponge before cleaning.
+
     - eng: wet, wetted, wetted
       ru: мочить, увлажнять
+      example: He wetted the cloth with water.
+
     - eng: whale
       ru: кит
+      example: The whale is a marine mammal.
+
     - eng: whale shark
       ru: китовая акула
+      example: The whale shark is the largest fish.
+
     - eng: what
-      ru: Какой
+      ru: какой
+      example: What time is it?
+
     - eng: what a beauty foliage
       ru: какая красивая листва
+      example: What beautiful foliage in the autumn forest.
+
     - eng: what a coincidence
       ru: какое совпадение
+      example: We met again at the airport; what a coincidence.
+
     - eng: what a feat
       ru: какой подвиг
+      example: Climbing that mountain was quite a feat.
+
     - eng: what a jerk
       ru: какой болван!
+      example: He cut in line; what a jerk.
+
     - eng: what a pity
-      ru: Как жаль!
+      ru: как жаль!
+      example: You cannot come? What a pity.
+
     - eng: what a shame
-      ru: Какой позор!
+      ru: какой позор!
+      example: They lost the game; what a shame.
+
     - eng: what a stately splendor
       ru: какое величественное великолепие
+      example: The palace was decorated with what a stately splendor.
+
     - eng: what a supreme satisfaction
       ru: какое высшее удовлетворение
+      example: Finishing the project gave me what a supreme satisfaction.
+
     - eng: what an anachronism
       ru: какой анахронизм
+      example: Using a typewriter today is an anachronism.
+
     - eng: what are you angry about
       ru: из-за чего ты злишься
+      example: What are you angry about? Tell me.
+
     - eng: what are you doing
-      ru: Что ты делаешь?
+      ru: что ты делаешь?
+      example: What are you doing right now?
+
     - eng: what are you doing after the class
       ru: что ты делаешь после занятий
+      example: What are you doing after the class? Want to get coffee?
+
     - eng: what differentiates me from the rest is my creativity
       ru: что отличает меня от остальных, так это моя креативность
+      example: What differentiates me from the rest is my creativity and unique approach.
+
     - eng: what do we have to nosh on
       ru: что у нас есть, чтобы перекусить
+      example: What do we have to nosh on? I am hungry.
+
     - eng: what do you know
       ru: ну надо же (удивление на реплику)
+      example: You got the job? What do you know!
+
     - eng: what do you mean
-      ru: Что ты имеешь в виду?
+      ru: что ты имеешь в виду?
+      example: What do you mean by that comment?
+
     - eng: what do you think the average wage was per year
       ru: как вы думаете, какова была средняя заработная плата в год
-    - eng: what is the most beautiful place you have ever been to ?
+      example: What do you think the average wage was per year in the 1980s?
+
+    - eng: what is the most beautiful place you have ever been to?
       ru: в каком самом красивом месте вы когда-либо были?
+      example: What is the most beautiful place you have ever been to?
+
     - eng: what is the working culture of the company like
       ru: на что похожа рабочая культура компании
+      example: What is the working culture of the company like? Is it collaborative?
+
     - eng: what is your job
-      ru: Кем работаешь?
+      ru: кем работаешь?
+      example: What is your job? I am a teacher.
+
     - eng: what is your name
-      ru: Как Вас зовут?
+      ru: как вас зовут?
+      example: What is your name? My name is Anna.
+
     - eng: what kind of music do you like
-      ru: Какая музыка тебе нравится?; Какую музыку Вы любите?
+      ru: какая музыка тебе нравится?
+      example: What kind of music do you like? I like jazz.
+
     - eng: what magic was used
       ru: какая магия была использована
+      example: What magic was used to create this illusion?
+
     - eng: what news have you got
       ru: какие у тебя новости
+      example: What news have you got from the meeting?
+
     - eng: what right has he to approve or disapprove
-      ru: какое он имеет право одобрять или не одобряем
+      ru: какое он имеет право одобрять или не одобрять
+      example: What right has he to approve or disapprove of our choices?
+
     - eng: what size are you
-      ru: Какой у вас размер?
+      ru: какой у вас размер?
+      example: What size are you? I need to know for the shirt.
+
     - eng: what the hell
       ru: какого черта
+      example: What the hell are you doing?
+
     - eng: what time did you leave on Tuesday
       ru: во сколько вы ушли во вторник
+      example: What time did you leave on Tuesday? I left at five.
+
     - eng: what time was it found
       ru: в какое время это было найдено
+      example: What time was it found? The police arrived at eight.
+
     - eng: what was she wearing when you saw her at the theatre
-      ru: во что она была одета, когда вы увидели ее в театре
+      ru: во что она была одета, когда вы увидели её в театре
+      example: What was she wearing when you saw her at the theatre? A red dress.
+
     - eng: what were the criteria used to choose the winner
       ru: какие критерии использовались при выборе победителя
+      example: What were the criteria used to choose the winner? Fairness and skill.
+
     - eng: what will we have achieved by next year
-      ru: Чего мы добьемся к следующему году
+      ru: чего мы добьёмся к следующему году
+      example: What will we have achieved by next year if we work hard?
+
     - eng: what will you have learnt by graduation
-      ru: чему вы научитесь к окончанию учебы
+      ru: чему вы научитесь к окончанию учёбы
+      example: What will you have learnt by graduation? Many new skills.
+
     - eng: what's on your mind
       ru: что у тебя на уме
+      example: You look worried; what is on your mind?
+
     - eng: what's the catch?
-      ru: В чем прикол? (подвох)
+      ru: в чём прикол? (подвох)
+      example: The offer seems too good; what is the catch?
+
     - eng: whatever
       ru: какой бы ни; что бы ни; мне всё равно, дело твоё
+      example: Whatever you decide, I will support you.
+
     - eng: whatever blade was used left very clean and precise cuts
       ru: какое бы лезвие ни использовалось, оно оставляло очень чистые и точные порезы
+      example: Whatever blade was used left very clean and precise cuts.
+
     - eng: wheat
       ru: пшеница
+      example: Wheat is used to make bread.
+
     - eng: wheat bread
       ru: пшеничный хлеб
+      example: I eat wheat bread for breakfast.
+
     - eng: wheel
       ru: колесо
+      example: The car has four wheels.
+
     - eng: wheelchair
-      ru: Инвалидное кресло
+      ru: инвалидное кресло
+      example: He uses a wheelchair to get around.
+
     - eng: when
       ru: когда
+      example: When will you arrive?
+
     - eng: when will I have finished my internship
       ru: когда я закончу свою стажировку
+      example: When will I have finished my internship? In two months.
+
     - eng: when will we have renovated the house
       ru: когда мы отремонтируем дом
+      example: When will we have renovated the house? By next summer.
+
     - eng: where
       ru: где
+      example: Where is the station?
+
     - eng: where I come from I never heard of a strike
       ru: там, откуда я родом, я никогда не слышал о забастовке
+      example: Where I come from, I never heard of a strike.
+
     - eng: where are you from
       ru: откуда ты?
+      example: Where are you from? I am from Russia.
+
     - eng: where are your parents
-      ru: Где твои родители?
+      ru: где твои родители?
+      example: Where are your parents? They are at home.
+
     - eng: where is you rushing now
       ru: куда ты сейчас спешишь
+      example: Where are you rushing now? I am late for work.
+
     - eng: where was you going when you lost your phone
       ru: куда ты направлялся, когда потерял свой телефон
+      example: Where were you going when you lost your phone? To the store.
+
     - eng: where were we
       ru: на чём мы остановились?
-    - eng: where will She have been staying before she moves in with you in July
+      example: Where were we? I think we were discussing the budget.
+
+    - eng: where will she have been staying before she moves in with you in July
       ru: где она будет жить до того, как переедет к вам в июле
+      example: Where will she have been staying before she moves in with you in July?
+
     - eng: whether
       ru: либо; ли
+      example: I do not know whether to go.
+
     - eng: which
       ru: который
+      example: Which book is yours?
+
     - eng: whicky
       ru: фенечки
+      example: She wore colourful whicky on her wrist.
+
     - eng: while
-      ru: В то время как
+      ru: в то время как
+      example: I read while he slept.
+
     - eng: while he meditated a wind arose
       ru: пока он медитировал, поднялся ветер
+      example: While he meditated, a wind arose and disturbed the leaves.
+
     - eng: whimsical sense of humor
       ru: причудливое чувство юмора
+      example: He has a whimsical sense of humour.
+
     - eng: whipped cream
-      ru: Взбитые сливки
+      ru: взбитые сливки
+      example: Add whipped cream to the dessert.
+
     - eng: whirlwind
       ru: вихрь
+      example: The whirlwind swept through the town.
+
     - eng: whisker
       ru: ус
+      example: The cat has long whiskers.
+
     - eng: whiskers
       ru: бакенбарды
+      example: He grew long whiskers on his cheeks.
+
     - eng: whiskers grew luxuriantly from his ample jowls
       ru: на его широких щеках пышно росли бакенбарды
+      example: Whiskers grew luxuriantly from his ample jowls.
+
     - eng: whisky
       ru: виски
+      example: He ordered a glass of whisky.
+
     - eng: whisper
       ru: говорить шёпотом
+      example: She whispered a secret in my ear.
+
     - eng: whistle
       ru: свистеть
+      example: He whistled a happy tune.
+
     - eng: white
       ru: белый
+      example: Snow is white.
+
     - eng: white Christmas
       ru: рождество со снегопадом
+      example: We hope for a white Christmas.
+
     - eng: white ash
       ru: американский ясень
+      example: White ash wood is used for baseball bats.
+
     - eng: white balance
       ru: баланс белого
+      example: Adjust the white balance for natural colours.
+
     - eng: white bread
       ru: белый хлеб
+      example: White bread is soft and fluffy.
+
     - eng: white coffee
       ru: кофе с молоком
+      example: I drink white coffee in the morning.
+
     - eng: white hot chocolate
       ru: белый горячий шоколад
+      example: White hot chocolate is sweet and creamy.
+
     - eng: white label
       ru: немарочный
+      example: The product is a white label version of a popular brand.
+
     - eng: white lie
       ru: ложь во благо
+      example: He told a white lie to avoid hurting her feelings.
+
     - eng: white oak
       ru: белый дуб
+      example: White oak is used for furniture.
+
     - eng: white peach
       ru: белый персик
+      example: White peaches are very sweet.
+
     - eng: white radish
       ru: белый редис
+      example: White radish is also called daikon.
+
     - eng: white rice
       ru: белый рис
+      example: White rice is a staple food.
+
     - eng: white tie
       ru: парадный костюм
+      example: The invitation said white tie is required.
+
     - eng: white-collar
-      ru: Офисный работник
+      ru: офисный работник
+      example: White-collar workers often have desk jobs.
+
     - eng: whiteboard
       ru: доска
+      example: The teacher wrote on the whiteboard.
+
     - eng: whiteboard
-      ru: "белая доска"
+      ru: «белая доска»
+      example: Use the whiteboard for brainstorming ideas.
+
     - eng: whitecurrant
       ru: белая смородина
+      example: Whitecurrants are less tart than red ones.
+
     - eng: whiting
       ru: мерланг
+      example: Whiting is a white fish.
+
     - eng: who
       ru: кто
+      example: Who is that?
+
     - eng: who will have cooked lunch by noon
       ru: кто приготовит обед к полудню
+      example: Who will have cooked lunch by noon? The chef.
+
     - eng: whoever
       ru: кто бы ни
+      example: Whoever comes first will get a prize.
+
     - eng: whoever killed this guy used a weapon
       ru: тот, кто убил этого парня, использовал оружие
+      example: Whoever killed this guy used a weapon, probably a knife.
+
     - eng: whole
-      ru: весь, целый; полный; весь, целый; весь
+      ru: весь, целый; полный
+      example: I ate the whole cake.
+
     - eng: whole grain
       ru: цельное зерно
+      example: Whole grain bread is healthier.
+
     - eng: whole-wheat bread
       ru: хлеб из цельного зерна
+      example: Whole-wheat bread is rich in fibre.
+
     - eng: wholesale
       ru: массовый
+      example: The company sells wholesale to retailers.
+
     - eng: whom
       ru: кого
+      example: Whom did you see?
+
     - eng: whooping cough
       ru: коклюш
+      example: Whooping cough is a contagious disease.
+
     - eng: whose
       ru: чей
+      example: Whose coat is this?
+
     - eng: why
       ru: почему
+      example: Why are you late?
+
     - eng: why are all you breathless and sweaty
       ru: почему вы все запыхавшиеся и потные
+      example: Why are all you breathless and sweaty? Have you been running?
+
     - eng: why didn't you warn me
       ru: почему ты меня не предупредил
+      example: Why didn't you warn me about the danger?
+
     - eng: why has he gone already
-      ru: почему он уже ушел
+      ru: почему он уже ушёл
+      example: Why has he gone already? The meeting hasn't started.
+
     - eng: why is my car exhaust so loud
       ru: почему выхлоп моей машины такой громкий
+      example: Why is my car exhaust so loud? There might be a hole in the pipe.
+
     - eng: wi-fi router
       ru: wi-fi маршрутизатор
+      example: The wi-fi router is in the living room.
+
     - eng: wide
       ru: широкий
+      example: The river is wide.
+
     - eng: wide angle lens
       ru: объектив, широкоугольный
+      example: A wide angle lens captures more of the scene.
+
     - eng: wide of the mark
-      ru: мимо цели,не по существу,пальцем в небо
+      ru: мимо цели, не по существу, пальцем в небо
+      example: His guess was wide of the mark.
+
     - eng: wide readership
       ru: широкий круг читателей
+      example: The magazine has a wide readership.
+
     - eng: wide-bodied aircraft
-      ru: широкофюзеляжный самолет
+      ru: широкофюзеляжный самолёт
+      example: The wide-bodied aircraft can carry many passengers.
+
     - eng: wideangle
       ru: широкоугольный
+      example: Use a wideangle lens for landscapes.
+
     - eng: wideangle lens
       ru: широкоугольный объектив
+      example: The wideangle lens is great for group photos.
+
     - eng: widow
       ru: вдова
+      example: She is a widow with three children.
+
     - eng: widower
       ru: вдовец
+      example: He became a widower after his wife died.
+
     - eng: width
       ru: ширина
+      example: The width of the table is one metre.
+
     - eng: wife
       ru: жена
+      example: My wife is a doctor.
+
     - eng: wild
       ru: дикий
+      example: Wild animals live in the forest.
+
     - eng: wild boar
       ru: кабан
+      example: Wild boar are common in this region.
+
     - eng: wild prairie rose
       ru: роза арканзасская
+      example: The wild prairie rose blooms in June.
+
     - eng: wild strawberry
       ru: лесная земляника
+      example: Wild strawberries are small but very sweet.
+
     - eng: wildebeest
       ru: антилопа гну
+      example: The wildebeest migrates across the savannah.
+
     - eng: wildlife
       ru: живая природа
+      example: The national park is full of wildlife.
+
     - eng: will
-      ru: желание; Воля
+      ru: желание; воля
+      example: Where there is a will, there is a way.
+
     - eng: will he be recognized
       ru: его узнают
+      example: Will he be recognized after so many years?
+
     - eng: will I be punished
       ru: буду ли я наказан
+      example: If I break the rules, will I be punished?
+
     - eng: will she be punished
       ru: будет ли она наказана
+      example: Will she be punished for her mistake?
+
     - eng: will they be joining us
       ru: присоединятся ли они к нам
+      example: Will they be joining us for dinner tonight?
+
     - eng: will they have completed the report by six pm
-      ru: завершат ли они отчет к шести часам вечера
+      ru: завершат ли они отчёт к шести часам вечера
+      example: Will they have completed the report by six pm? I hope so.
+
     - eng: will you help me
       ru: ты поможешь мне
+      example: Will you help me carry these boxes?
+
     - eng: willingly
       ru: охотно
+      example: I willingly accept the offer.
+
     - eng: willingness
       ru: готовность
+      example: He showed a willingness to learn.
+
     - eng: willow
       ru: ива
+      example: The willow tree hangs over the river.
+
     - eng: willow grouse
       ru: белая куропатка
+      example: The willow grouse is a bird of the tundra.
+
     - eng: win
-      ru: победить, выиграть; выиграть; победить
+      ru: победить, выиграть
+      example: Our team will win.
+
     - eng: win a lawsuit
       ru: выиграть судебный процесс
+      example: The company hopes to win the lawsuit.
+
     - eng: win, won, won
-      ru: Побеждать
+      ru: побеждать
+      example: She won the race.
+
     - eng: wind
       ru: ветер
+      example: The wind is strong today.
+
     - eng: wind band
       ru: духовой оркестр
+      example: The wind band played a march.
+
     - eng: wind instruments
       ru: духовые инструменты
+      example: Flutes and trumpets are wind instruments.
+
     - eng: wind power
       ru: энергия ветра
+      example: Wind power is a renewable energy source.
+
     - eng: wind turbine
       ru: ветровая турбина
+      example: The wind turbine generates electricity.
+
     - eng: wind up
       ru: очутиться, оказаться, уладить
+      example: He wound up in a small town.
+
     - eng: wind, wound, wound
       ru: заводить часы, наматывать
+      example: She wound the clock.
+
     - eng: winding
       ru: обмотка
+      example: The winding of the coil is precise.
+
     - eng: winding film onto reels
       ru: перемотка фотоплёнки на катушки
+      example: Winding film onto reels must be done in the dark.
+
     - eng: windless
       ru: безветренный
+      example: It was a windless day.
+
     - eng: windmill
-      ru: бросок сверху после проноса мяча по круговой траектории перпендикулярно полу, букв мельница
+      ru: бросок сверху после проноса мяча по круговой траектории перпендикулярно полу, букв. мельница
+      example: He scored with a windmill dunk.
+
     - eng: window
       ru: окно
+      example: Open the window for fresh air.
+
     - eng: window seat
       ru: место у окна; место у иллюминатора
+      example: I always choose the window seat on a plane.
+
     - eng: window shade
       ru: шторка
+      example: Pull down the window shade to block the sun.
+
     - eng: window shades
       ru: шторы
+      example: The window shades were drawn.
+
     - eng: window-shopping
       ru: рассматривание витрин
+      example: We went window-shopping downtown.
+
     - eng: windscreen
       ru: ветровое стекло
+      example: The windscreen is cracked.
+
     - eng: windscreen wiper
       ru: стеклоочиститель, дворники
+      example: Turn on the windscreen wiper in the rain.
+
     - eng: windshield
       ru: ветровое стекло
+      example: The windshield is dirty.
+
     - eng: windsurfing
       ru: виндсёрфинг
+      example: Windsurfing is fun on the lake.
+
     - eng: windy
       ru: ветреный
+      example: It is a windy day.
+
     - eng: wine
       ru: вино
+      example: Red wine is good for the heart.
+
     - eng: wine glass
       ru: рюмка
+      example: She raised her wine glass for a toast.
+
     - eng: wine list
       ru: винная карта
+      example: The waiter brought the wine list.
+
     - eng: wing
       ru: крыло
+      example: The bird flapped its wings.
+
     - eng: wing nut
       ru: гайка-барашек; крыльчатая гайка
+      example: Tighten the wing nut by hand.
+
     - eng: wings
       ru: крылья
+      example: The butterfly has colourful wings.
+
     - eng: winner
       ru: победитель
+      example: The winner received a trophy.
+
     - eng: winning
       ru: победа
+      example: The team celebrated its winning streak.
+
     - eng: winter
       ru: зима
+      example: Winter is cold.
+
     - eng: winter melon
       ru: зимняя дыня
+      example: Winter melon soup is popular in Asia.
+
     - eng: wintergreen
       ru: грушанка
+      example: Wintergreen oil is used for pain relief.
+
     - eng: wire
       ru: провод
+      example: The wire connects the computer.
+
     - eng: wireless signal
       ru: беспроводный сигнал
+      example: The wireless signal is weak here.
+
     - eng: wiry hair
       ru: жёсткие волосы
+      example: He has wiry, curly hair.
+
     - eng: wisdom
-      ru: Премудрость
+      ru: премудрость
+      example: Wisdom comes with age.
+
     - eng: wish
-      ru: желать; желать, хотеть; хотеть
+      ru: желать; желать, хотеть
+      example: I wish you good luck.
+
     - eng: wishing you happiness
       ru: желаю вам счастья
+      example: Wishing you happiness on your birthday.
+
     - eng: wishing you prosperity and health
       ru: желаю вам процветания и здоровья
+      example: Wishing you prosperity and health in the new year.
+
     - eng: wisteria
       ru: глициния
+      example: Wisteria flowers hang in clusters.
+
     - eng: witch
       ru: ведьма
+      example: The witch cast a spell.
+
     - eng: witch-hazel
       ru: гамамелис
+      example: Witch-hazel is used for skin care.
+
     - eng: witchcraft
       ru: чародейство
+      example: Witchcraft was feared in medieval times.
+
     - eng: witches used to be burned at the stake, but now they just beat them with a shovel
       ru: раньше ведьм сжигали на костре, но теперь их просто избивают лопатой
+      example: Witches used to be burned at the stake, but now they just beat them with a shovel, he joked.
+
     - eng: with
-      ru: с, вместе с; с, вместе с; с; вместе с
+      ru: с, вместе с
+      example: Come with me.
+
     - eng: with both hands
       ru: свободно, полностью; охотно
+      example: She accepted the offer with both hands.
+
     - eng: withdraw
       ru: выводить
+      example: He withdrew money from the ATM.
+
     - eng: withdraw deposit
       ru: забрать вклад
+      example: You can withdraw your deposit at any time.
+
     - eng: withdraw money
       ru: изымать деньги из обращения
+      example: The bank allows you to withdraw money.
+
     - eng: withdraw the film
       ru: изъять фильм
+      example: The distributor decided to withdraw the film.
+
     - eng: withdrawal
       ru: вывод
+      example: The withdrawal of troops was ordered.
+
     - eng: within
-      ru: в; В течение; внутри
+      ru: в; в течение; внутри
+      example: Finish the work within an hour.
+
     - eng: without
       ru: без
+      example: I cannot live without you.
+
     - eng: without adjustment there will be substantial deficits in the future
       ru: без корректировки в будущем возникнет значительный дефицит
+      example: Without adjustment, there will be substantial deficits in the future.
+
     - eng: without prejudice
       ru: без ущерба
+      example: The offer was made without prejudice.
+
     - eng: withstand
       ru: выстоять
+      example: The building can withstand earthquakes.
+
     - eng: witness
       ru: свидетель
-    - eng: witness’ stand/box
+      example: He was a witness to the crime.
+
+    - eng: witness' stand/box
       ru: трибуна/место для свидетелей
+      example: The witness took the stand.
+
     - eng: witty remark
       ru: остроумное замечание
+      example: She made a witty remark that made everyone laugh.
+
     - eng: wolf
       ru: волк
+      example: The wolf howled at the moon.
+
     - eng: wolf-hound
       ru: волкодав
+      example: The wolf-hound is a large breed.
+
     - eng: wolverine
       ru: росомаха
+      example: The wolverine is a fierce animal.
+
     - eng: woman
       ru: женщина
+      example: The woman is reading a book.
+
     - eng: women's underwear
-      ru: женское нижнее белье
+      ru: женское нижнее бельё
+      example: The store sells women's underwear.
+
     - eng: wonder
       ru: удивлять; удивляться
+      example: I wonder why he left.
+
     - eng: wonder-worker
       ru: чудотворец
+      example: The saint was known as a wonder-worker.
+
     - eng: wonderful
       ru: замечательный; удивительный; чудесный
+      example: The weather is wonderful.
+
     - eng: wood
       ru: дерево; лес
+      example: The table is made of wood.
+
     - eng: wood floorboard
       ru: деревянные половицы
+      example: The wood floorboard creaked.
+
     - eng: wood grouse
       ru: глухарь
+      example: The wood grouse is a large bird.
+
     - eng: woodcraft
       ru: знание леса
+      example: Woodcraft skills are useful for camping.
+
     - eng: wooden
       ru: деревянный
+      example: The chair is wooden.
+
     - eng: woodpecker
       ru: дятел
+      example: The woodpecker pecked the tree.
+
     - eng: woodwinds
       ru: деревянные духовые инструменты
+      example: Flutes and clarinets are woodwinds.
+
     - eng: wool
       ru: шерстяной
+      example: The sweater is made of wool.
+
     - eng: woolen
       ru: шерстяной
+      example: She wore a woolen scarf.
+
     - eng: woollen
       ru: шерстяная
+      example: The blanket is woollen.
+
     - eng: word
       ru: слово
+      example: Write the word clearly.
+
     - eng: words meaning
       ru: значения слов
+      example: The dictionary explains words' meanings.
+
     - eng: work
       ru: работа
+      example: I go to work at eight.
+
     - eng: work agreement
       ru: рабочее соглашение
+      example: They signed a work agreement.
+
     - eng: work around the clock
       ru: работать круглосуточно
+      example: The team worked around the clock to meet the deadline.
+
     - eng: work at a bank
       ru: работать в банке
+      example: She works at a bank.
+
     - eng: work at a factory
       ru: работать на фабрике
+      example: He works at a factory.
+
     - eng: work at a hospital
       ru: работать в больнице
+      example: My sister works at a hospital.
+
     - eng: work experience
       ru: опыт работы
+      example: He has ten years of work experience.
+
     - eng: work for a newspaper
       ru: работать в газете
+      example: She works for a newspaper.
+
     - eng: work full time
       ru: работать на полную ставку
+      example: I work full time.
+
     - eng: work hard for a living
       ru: упорно трудиться для жизни
+      example: Many people work hard for a living.
+
     - eng: work has fatigued me
       ru: работа утомила меня
+      example: Work has fatigued me, so I need a rest.
+
     - eng: work in an office
       ru: работать в офисе
+      example: He works in an office downtown.
+
     - eng: work on a case
       ru: работать над делом
+      example: The lawyer is working on a case.
+
     - eng: work out
       ru: понять, разобраться, спланировать, получиться
+      example: Things will work out in the end.
+
     - eng: work part time
       ru: работать неполный рабочий день
+      example: She works part time while studying.
+
     - eng: work table
       ru: рабочий стол
+      example: The work table is covered with tools.
+
     - eng: work up
       ru: обработать, создать, разрабатывать
+      example: He worked up a plan.
+
     - eng: workbook
       ru: рабочая тетрадь
+      example: The student completed the workbook.
+
     - eng: working capital
       ru: оборотный капитал
+      example: The company needs working capital.
+
     - eng: working papers
       ru: разрешение на работу (амер.)
+      example: He applied for working papers.
+
     - eng: working-class
       ru: относящийся к рабочему классу
+      example: The working-class neighbourhood is vibrant.
+
     - eng: workout
       ru: тренировка
+      example: I do a workout every morning.
+
     - eng: workout room
       ru: тренажёрный зал
+      example: The hotel has a workout room.
+
     - eng: workshop
       ru: мастер-класс; семинар
+      example: She attended a writing workshop.
+
     - eng: world
       ru: свет; мир
+      example: The world is beautiful.
+
     - eng: world-wide
-      ru: Всемирный
+      ru: всемирный
+      example: The company has a world-wide presence.
+
     - eng: worm
       ru: червь
+      example: The worm wriggled in the soil.
+
     - eng: worried
       ru: озабоченный
+      example: She is worried about the exam.
+
     - eng: worry
       ru: беспокоиться
+      example: Do not worry about small things.
+
     - eng: worship
       ru: культ
+      example: The worship of idols is forbidden.
+
     - eng: worsted
       ru: камвольная ткань
+      example: The suit is made of worsted wool.
+
     - eng: worth
       ru: ценность
+      example: The painting is worth a lot.
+
     - eng: worth it
       ru: стоит того
+      example: The effort was worth it.
+
     - eng: worthwhile journalist
       ru: стоящий журналист
+      example: He is a worthwhile journalist who investigates deeply.
+
     - eng: would they send you a proposal for the solution we discussed
       ru: пришлют ли они вам предложение по решению, которое мы обсуждали
+      example: Would they send you a proposal for the solution we discussed?
+
     - eng: would you like to try some crisps
       ru: не хотите ли попробовать чипсов
+      example: Would you like to try some crisps? They are new.
+
     - eng: wound
       ru: рана
+      example: The wound is healing.
+
     - eng: wounded
       ru: раненый
+      example: The wounded soldier was taken to hospital.
+
     - eng: wrap
       ru: сворачивать; заворачивать
+      example: Wrap the gift in paper.
+
     - eng: wrap up
       ru: завершать
+      example: Let us wrap up the meeting.
+
     - eng: wrasse
       ru: губан
+      example: Wrasse are colourful fish.
+
     - eng: wreath
       ru: венец
+      example: The wreath of flowers was beautiful.
+
     - eng: wren
       ru: крапивник
+      example: The wren is a small bird.
+
     - eng: wrestling
       ru: борьба
+      example: Wrestling is an Olympic sport.
+
     - eng: wring wrung wrung
-      ru: скрутить,сжать
+      ru: скрутить, сжать
+      example: He wrung the towel dry.
+
     - eng: wrinkles
       ru: морщины
+      example: She has wrinkles around her eyes.
+
     - eng: wrinkles deepen as we grow old
       ru: морщины углубляются по мере того, как мы стареем
+      example: Wrinkles deepen as we grow old.
+
     - eng: wrist
       ru: запястье
+      example: She wore a bracelet on her wrist.
+
     - eng: wristlet
       ru: напульсник
+      example: The runner wore a wristlet.
+
     - eng: write
       ru: писать
+      example: I write with a pen.
+
     - eng: write a report
-      ru: написать отчет
+      ru: написать отчёт
+      example: He needs to write a report by Friday.
+
     - eng: write cheques against the account
-      ru: выписывать чеки на счет
+      ru: выписывать чеки на счёт
+      example: You can write cheques against the account.
+
     - eng: write down
       ru: записывать, излагать письменно
+      example: Write down your name.
+
     - eng: write for the press
       ru: быть журналистом
+      example: She writes for the press.
+
     - eng: write in papers
       ru: быть журналистом
+      example: He writes in papers about politics.
+
     - eng: write the sender's address on the backside
       ru: напишите адрес отправителя на обратной стороне
+      example: Write the sender's address on the backside of the envelope.
+
     - eng: write, wrote, written
       ru: писать
+      example: She wrote a letter.
+
     - eng: write-down expense of receivables
-      ru: Затраты, уменьшающие стоимость дебиторской задолженности
+      ru: затраты, уменьшающие стоимость дебиторской задолженности
+      example: The company recorded a write-down expense of receivables.
+
     - eng: writer
       ru: писатель
+      example: The writer published a new book.
+
     - eng: writing
       ru: письмо
+      example: Writing is a form of art.
+
     - eng: writing desk
       ru: письменный стол
+      example: The writing desk is made of oak.
+
     - eng: writing paper
       ru: писчая бумага
+      example: She bought writing paper and envelopes.
+
     - eng: wrong
-      ru: неправильный; неверный; ошибочный; неправильный
+      ru: неправильный; неверный; ошибочный
+      example: The answer is wrong.
+
     - eng: www
-      ru: Всемирная паутина
+      ru: всемирная паутина
+      example: The www connects millions of sites.
+
     - eng: xenolith
       ru: ксенолит
+      example: The rock contains xenoliths from the mantle.
+
     - eng: xylophone
       ru: ксилофон
+      example: The child played the xylophone.
+
     - eng: yacht
       ru: яхта
+      example: They sailed on a yacht.
+
     - eng: yachting
       ru: парусный спорт
+      example: Yachting is an expensive hobby.
+
     - eng: yak
       ru: як
+      example: Yaks live in the Himalayas.
+
     - eng: yam
       ru: батат
+      example: Yams are sweet potatoes.
+
     - eng: yams
       ru: батат
+      example: Yams are a staple food in some countries.
+
     - eng: yard
       ru: внутренний дворик; двор
+      example: The children play in the yard.
+
     - eng: yawn
       ru: зевать
+      example: He tried to hide a yawn.
+
     - eng: year
       ru: год
+      example: There are twelve months in a year.
+
     - eng: yearly periodical
       ru: ежегодник
+      example: The yearly periodical summarizes the year's events.
+
     - eng: years ago
       ru: _ лет назад
+      example: I moved here ten years ago.
+
     - eng: years later
       ru: через _ лет
+      example: They met again twenty years later.
+
     - eng: yellow
       ru: жёлтый
+      example: The sun is yellow.
+
     - eng: yellow boletus
-      ru: масленок
+      ru: маслёнок
+      example: Yellow boletus is an edible mushroom.
+
     - eng: yellow journalist
       ru: бульварный журналист
+      example: The yellow journalist sensationalized the story.
+
     - eng: yellow perch
       ru: жёлтый окунь
+      example: Yellow perch is a popular game fish.
+
     - eng: yellow press
       ru: жёлтая пресса
+      example: The yellow press often exaggerates scandals.
+
     - eng: yellow sheet
-      ru: бульварная газетенка
+      ru: бульварная газетёнка
+      example: The yellow sheet is full of gossip.
+
     - eng: yellow watermelon
-      ru: желтый арбуз
+      ru: жёлтый арбуз
+      example: Yellow watermelon is sweeter than red.
+
     - eng: yellow wood
       ru: осенний лес
+      example: The yellow wood was beautiful in autumn.
+
     - eng: yellowcup
       ru: лютик
+      example: Yellowcup flowers bloom in spring.
+
     - eng: yellowhammer
       ru: овсянка
+      example: The yellowhammer is a yellow bird.
+
     - eng: yes
       ru: да
+      example: Yes, I agree.
+
     - eng: yesterday
       ru: вчера
+      example: I saw him yesterday.
+
     - eng: yet
-      ru: ещё, всё ещё; Всё же; ещё
+      ru: ещё, всё ещё; всё же; ещё
+      example: He has not arrived yet.
+
     - eng: yew
       ru: тис
+      example: Yew trees are evergreens.
+
     - eng: yield
       ru: отдача
+      example: The investment yielded a high return.
+
     - eng: yield curve
       ru: кривая дохода
+      example: The yield curve inverted, signalling a recession.
+
     - eng: yoga
       ru: йога
+      example: Yoga helps with flexibility.
+
     - eng: yoghurt
       ru: йогурт
+      example: I eat yoghurt for breakfast.
+
     - eng: yogurt
       ru: йогурт
+      example: Greek yogurt is thick and creamy.
+
     - eng: yoke
       ru: кокетка (платья)
+      example: The dress has a decorative yoke.
+
     - eng: you
-      ru: вы; ты; ты
+      ru: вы; ты
+      example: You are my friend.
+
     - eng: you are a glowing
       ru: ты - сияющий
+      example: You are a glowing example of kindness.
+
     - eng: you are not forgotten
       ru: ты не забыт
+      example: Even though you are far, you are not forgotten.
+
     - eng: you are not paying attention
       ru: вы не обращаете внимания
+      example: You are not paying attention to the road.
+
     - eng: you are remarkably witty
       ru: вы удивительно остроумны
+      example: You are remarkably witty; your jokes always make me laugh.
+
     - eng: you are very good at it
       ru: у тебя это очень хорошо получается
+      example: You are very good at playing the piano.
+
     - eng: you are welcome
       ru: пожалуйста
+      example: Thank you for the help. You are welcome.
+
     - eng: you astonish me by the extent of your knowledge
       ru: вы поражаете меня масштабом своих знаний
+      example: You astonish me by the extent of your knowledge on this topic.
+
     - eng: you bring up a good point
       ru: вы поднимаете хороший вопрос
+      example: You bring up a good point that we need to consider.
+
     - eng: you can astonish and enchant people
       ru: вы можете удивлять и очаровывать людей
+      example: With your talent, you can astonish and enchant people.
+
     - eng: you can become an artist!
-      ru: Ты можешь стать артистом!
+      ru: ты можешь стать артистом!
+      example: With your talent, you can become an artist!
+
     - eng: you can bring a friend if you like
       ru: ты можешь привести друга, если хочешь
+      example: You can bring a friend if you like to the party.
+
     - eng: you can download updates for free
       ru: вы можете скачивать обновления бесплатно
+      example: You can download updates for free from our website.
+
     - eng: you can make something out
       ru: ты можешь что-нибудь придумать
+      example: You can make something out of this old wood.
+
     - eng: you can never do anything without a fuss
       ru: вы никогда ничего не можете сделать без скандала
+      example: You can never do anything without a fuss; it is exhausting.
+
     - eng: you can pat him now
       ru: теперь ты можешь погладить его
+      example: The dog is calm, so you can pat him now.
+
     - eng: you can put on the overalls, they must be dry by now
       ru: вы можете надеть комбинезон, он уже должен высохнуть
+      example: You can put on the overalls, they must be dry by now.
+
     - eng: you can subscribe by RSS feed
       ru: вы можете подписаться на RSS-канал
+      example: You can subscribe by RSS feed to get updates.
+
     - eng: you can't afford to miss it
       ru: вы не можете позволить себе пропустить его
+      example: The concert is amazing; you cannot afford to miss it.
+
     - eng: you can't say that word without a lisp
       ru: ты не можешь произнести это слово, не шепелявя
+      example: You cannot say that word without a lisp, try saying 's' clearly.
+
     - eng: you cannot alter your nature
       ru: вы не можете изменить свою природу
+      example: You cannot alter your nature, but you can improve it.
+
     - eng: you cannot be overly cautious
       ru: вы не можете быть чрезмерно осторожны
+      example: You cannot be overly cautious when dealing with strangers.
+
     - eng: you cannot deprive me of my rights
-      ru: Вы не можете лишить меня моих прав
+      ru: вы не можете лишить меня моих прав
+      example: You cannot deprive me of my rights as a citizen.
+
     - eng: you combined a formidable intellect with a talent for speaking
       ru: вы сочетали в себе выдающийся интеллект с ораторским талантом
+      example: You combined a formidable intellect with a talent for speaking.
+
     - eng: you criticised me for being shy
       ru: ты критиковал меня за застенчивость
+      example: You criticised me for being shy, but I am just quiet.
+
     - eng: you delight me
       ru: ты восхищаешь меня
+      example: Your kindness and humour delight me.
+
     - eng: you didn't go out in the garden at all afterwards
       ru: после этого вы вообще не выходили в сад
+      example: You didn't go out in the garden at all afterwards; why not?
+
     - eng: you do not look miserable
       ru: ты не выглядишь несчастным
+      example: You do not look miserable; you seem quite happy.
+
     - eng: you do not seem mean
       ru: ты не кажешься злым
+      example: You do not seem mean; you are very friendly.
+
     - eng: you don't stammer when you swear, do you
       ru: ты ведь не заикаешься, когда ругаешься, не так ли
+      example: You don't stammer when you swear, do you? That is interesting.
+
     - eng: you don't want to hit rush hour
       ru: вы же не хотите попасть в час пик
+      example: Leave early; you don't want to hit rush hour traffic.
+
     - eng: you fill up your stomach with unprocessed plant foods
       ru: вы наполняете свой желудок необработанной растительной пищей
+      example: You fill up your stomach with unprocessed plant foods, which are healthy.
+
     - eng: you fought back against adversity
       ru: ты боролся с невзгодами
+      example: You fought back against adversity and won.
+
     - eng: you got to pass through a thumbprint scanner
       ru: вы должны пройти через сканер отпечатков пальцев
+      example: You have to pass through a thumbprint scanner to enter.
+
     - eng: you had behaved very reasonably
       ru: вы вели себя очень разумно
+      example: You had behaved very reasonably under the circumstances.
+
     - eng: you have a queer feeling too, don't you
       ru: у тебя тоже странное чувство, не так ли
+      example: You have a queer feeling too, don't you? Something is off.
+
     - eng: you have sinned against God
       ru: вы согрешили против Бога
+      example: You have sinned against God and must repent.
+
     - eng: you have to walk across the boards
       ru: вы должны пройти по доскам
+      example: You have to walk across the boards to reach the other side.
+
     - eng: you look really great
       ru: ты выглядишь действительно великолепно
+      example: You look really great in that dress.
+
     - eng: you looked calm and serene
       ru: ты выглядел спокойным и безмятежным
+      example: You looked calm and serene during the presentation.
+
     - eng: you made a prudent choice
       ru: вы сделали разумный выбор
+      example: You made a prudent choice by saving your money.
+
     - eng: you made it without consulting me
-      ru: ты сделал это не посоветовавшись со мной
+      ru: ты сделал это, не посоветовавшись со мной
+      example: You made it without consulting me; I wish you had asked.
+
     - eng: you make out in the car
       ru: вы целуетесь в машине
+      example: You make out in the car where everyone can see.
+
     - eng: you may want to consider this solution
       ru: возможно, вы захотите рассмотреть это решение
+      example: You may want to consider this solution before deciding.
+
     - eng: you may want to rest as this afternoon
-      ru: возможно, вы захотите отдохнуть, как сегодня днем
+      ru: возможно, вы захотите отдохнуть, как сегодня днём
+      example: You may want to rest this afternoon after the long trip.
+
     - eng: you missed elegy on prison life
       ru: вы пропустили элегию о тюремной жизни
+      example: You missed the elegy on prison life, which was very moving.
+
     - eng: you must allocate tasks among members
       ru: вы должны распределить задачи между участниками
+      example: You must allocate tasks among members to finish on time.
+
     - eng: you must be kidding
-      ru: ты должно быть шутишь
+      ru: ты, должно быть, шутишь
+      example: You won the lottery? You must be kidding.
+
     - eng: you must declare your major by this semester
       ru: вы должны заявить о своей специальности к этому семестру
+      example: You must declare your major by this semester, or you will be delayed.
+
     - eng: you must not press him
       ru: вы не должны давить на него
+      example: You must not press him for an answer; give him time.
+
     - eng: you must now ponder the situation
       ru: теперь вы должны обдумать ситуацию
+      example: You must now ponder the situation before acting.
+
     - eng: you nailed it!
-      ru: У тебя получилось!
+      ru: у тебя получилось!
+      example: Your performance was perfect; you nailed it!
+
     - eng: you need your brolly up
       ru: тебе нужен зонт
+      example: It is raining, so you need your brolly up.
+
     - eng: you never spend on yourself
       ru: ты никогда не тратишь на себя
+      example: You never spend on yourself; you are always saving.
+
     - eng: you never were good at lying
       ru: ты никогда не был хорош во лжи
+      example: You never were good at lying; your face gives you away.
+
     - eng: you ought come with me
       ru: тебе следует пойти со мной
+      example: You ought to come with me; it will be fun.
+
     - eng: you said you made sure
       ru: ты сказал, что убедился
+      example: You said you made sure the door was locked, but it is open.
+
     - eng: you seem distracted
-      ru: Ты кажешься рассеянным
+      ru: ты кажешься рассеянным
+      example: You seem distracted today; is everything okay?
+
     - eng: you seem funny
       ru: ты кажешься забавным
+      example: You seem funny; I like your sense of humour.
+
     - eng: you seem to be a very versatile person
-      ru: вы, кажется, очень разносторонний человек; вы, кажется, очень разносторонний человек
+      ru: вы, кажется, очень разносторонний человек
+      example: You seem to be a very versatile person with many skills.
+
     - eng: you share my strong conviction
-      ru: вы разделяете мое твердое убеждение
+      ru: вы разделяете моё твёрдое убеждение
+      example: You share my strong conviction that education is important.
+
     - eng: you should add the peeled courgette
       ru: вы должны добавить очищенный кабачок
+      example: You should add the peeled courgette to the soup.
+
     - eng: you should be aware of this, shouldn't you
       ru: вы должны знать об этом, не так ли
+      example: You should be aware of this, shouldn't you? It is important.
+
     - eng: you should clarify the matter in your commentary
-      ru: вы должны прояснить этот вопрос в своем комментарии
+      ru: вы должны прояснить этот вопрос в своём комментарии
+      example: You should clarify the matter in your commentary to avoid confusion.
+
     - eng: you should have been wearing a black raincoat
-      ru: тебе следовало бы надеть черный плащ
+      ru: тебе следовало бы надеть чёрный плащ
+      example: You should have been wearing a black raincoat to match your outfit.
+
     - eng: you should take some time off
-      ru: Тебе нужно немного отдохнуть
+      ru: тебе нужно немного отдохнуть
+      example: You have been working too hard; you should take some time off.
+
     - eng: you sucked a cough drop, didn't you
       ru: ты пососал таблетку от кашля, не так ли
+      example: You sucked a cough drop, didn't you? I can smell it.
+
     - eng: you unfriend me
       ru: ты лишаешь меня друзей
+      example: You unfriend me on social media? Why?
+
     - eng: you usually look very calm
       ru: обычно ты выглядишь очень спокойной
+      example: You usually look very calm, but today you seem nervous.
+
     - eng: you want to break down the entire dam
       ru: вы хотите разрушить всю плотину целиком
+      example: You want to break down the entire dam? That would cause a flood.
+
     - eng: you were easy to get on with
       ru: с тобой было легко ладить
+      example: You were easy to get on with, and we became friends quickly.
+
     - eng: you were going to say
       ru: ты собирался что-то сказать
+      example: You were going to say something, but you stopped.
+
     - eng: you were stylish and serene
       ru: ты была стильной и безмятежной
+      example: You were stylish and serene at the party.
+
     - eng: you will be under anesthesia during the operation
       ru: во время операции вы будете находиться под наркозом
+      example: You will be under anesthesia during the operation, so you will feel nothing.
+
     - eng: you will learn to do it
       ru: вы научитесь это делать
+      example: With practice, you will learn to do it perfectly.
+
     - eng: you will need to watch out for rounding errors
       ru: вам нужно будет следить за ошибками округления
+      example: When calculating, you will need to watch out for rounding errors.
+
     - eng: you will receive an exceptional package with uncapped earnings
       ru: вы получите исключительный пакет с неограниченным доходом
+      example: You will receive an exceptional package with uncapped earnings potential.
+
     - eng: you won't be bothered
-      ru: Вас это не побеспокоит
+      ru: вас это не побеспокоит
+      example: The noise is minimal, so you won't be bothered.
+
     - eng: you would have done it anyway
-      ru: ты бы все равно это сделал
+      ru: ты бы всё равно это сделал
+      example: Even without my help, you would have done it anyway.
+
     - eng: you yelled at me angrily
       ru: ты сердито накричал на меня
+      example: You yelled at me angrily for no reason.
+
     - eng: you'll change your underpants
       ru: ты переоденешь свои трусы
+      example: After the workout, you will change your underpants.
+
     - eng: you'll default on your loan
       ru: вы объявите дефолт по своему кредиту
+      example: If you miss payments, you will default on your loan.
+
     - eng: you'll have to join the housing queue
-      ru: вам придется встать в очередь на получение жилья
+      ru: вам придётся встать в очередь на получение жилья
+      example: You will have to join the housing queue and wait your turn.
+
     - eng: you'll laugh at me
-      ru: Ты будешь смеяться надо мной; Ты будешь смеяться надо мной
+      ru: ты будешь смеяться надо мной
+      example: I am afraid you will laugh at me if I tell you.
+
     - eng: you'll make it
-      ru: Ты сделаешь это.
+      ru: ты сделаешь это
+      example: Keep trying, and you will make it.
+
     - eng: you'll smart for your carelessness
       ru: ты поплатишься за свою беспечность
+      example: You will smart for your carelessness when you fail.
+
     - eng: you're able to lurk in here
       ru: ты можешь прятаться здесь
+      example: You are able to lurk in here without being seen.
+
     - eng: you're afraid of her
-      ru: ты боишься ее
+      ru: ты боишься её
+      example: You're afraid of her, aren't you? She is intimidating.
+
     - eng: you're begging for mercy
       ru: ты молишь о пощаде
+      example: You're begging for mercy, but it is too late.
+
     - eng: you're cut off from the rest of humanity
       ru: вы отрезаны от остального человечества
+      example: Living on a remote island, you are cut off from the rest of humanity.
+
     - eng: you're gonna crash
-      ru: ты разобьешься
+      ru: ты разобьёшься
+      example: Drive carefully, or you are gonna crash.
+
     - eng: you're gorgeous fiend
       ru: ты великолепный злодей
+      example: You are a gorgeous fiend, she said with a laugh.
+
     - eng: you're kind to me
       ru: ты добр ко мне
+      example: Thank you for helping; you are kind to me.
+
     - eng: you're liable to get another rambling soliloquy
-      ru: вы можете услышать еще один бессвязный монолог
+      ru: вы можете услышать ещё один бессвязный монолог
+      example: If you ask him, you are liable to get another rambling soliloquy.
+
     - eng: you're missing the point
       ru: ты упускаешь главное
+      example: You're missing the point of the argument entirely.
+
     - eng: you're my most punctual employee
       ru: ты мой самый пунктуальный сотрудник
+      example: You always arrive on time; you are my most punctual employee.
+
     - eng: you're not going to bother me anymore, are you
       ru: ты больше не собираешься меня беспокоить, не так ли
+      example: You are not going to bother me anymore, are you? I need peace.
+
     - eng: you're so quarrelsome
       ru: ты такой сварливый
+      example: You are so quarrelsome; you argue about everything.
+
     - eng: you're spectacular
       ru: ты потрясающая
+      example: Your performance was amazing; you are spectacular.
+
     - eng: you're yawning
       ru: ты зеваешь
+      example: You're yawning; are you tired?
+
     - eng: you've caught me at an awkward moment
       ru: вы застали меня в неловкий момент
+      example: You have caught me at an awkward moment; can you come back later?
+
     - eng: you've clearly been stalking her
-      ru: ты явно преследовал ее
+      ru: ты явно преследовал её
+      example: You have clearly been stalking her; that is not acceptable.
+
     - eng: you've got a little competition
       ru: у вас есть небольшое соревнование
+      example: You have got a little competition from the new team.
+
     - eng: you've got to learn to mutter quieter
       ru: тебе нужно научиться бормотать тише
+      example: You have got to learn to mutter quieter so people don't hear.
+
     - eng: you've proved yourself to be a skilled warrior
-      ru: Ты зарекомендовал себя умелым воином
+      ru: ты зарекомендовал себя умелым воином
+      example: You have proved yourself to be a skilled warrior in battle.
+
     - eng: young
       ru: юный; молодой
+      example: Young people have so much energy.
+
     - eng: young people
       ru: молодёжь
+      example: Young people are the future.
+
     - eng: your
-      ru: Ваше; Ваши; Ваша; ваш
+      ru: ваше; ваши; ваша; ваш
+      example: Is this your bag?
+
     - eng: your actions contradict your words
-      ru: Ваши действия противоречат вашим словам
+      ru: ваши действия противоречат вашим словам
+      example: Your actions contradict your words; you say one thing but do another.
+
     - eng: your brother knows virtue you cannot even imagine
       ru: твой брат знает добродетель, которую ты даже представить себе не можешь
+      example: Your brother knows virtue you cannot even imagine.
+
     - eng: your company is on the rise
-      ru: ваша компания находится на подъеме
+      ru: ваша компания находится на подъёме
+      example: Your company is on the rise, with profits increasing every year.
+
     - eng: your good upbringing really shows
       ru: твоё хорошее воспитание сразу видно
+      example: Your good upbringing really shows in how polite you are.
+
     - eng: your interest will be protected
       ru: ваши интересы будут защищены
+      example: Under this contract, your interest will be protected.
+
     - eng: your sensors can't detect this
       ru: ваши датчики не могут это обнаружить
+      example: Your sensors can't detect this type of radiation.
+
     - eng: your sins will be forgiven
-      ru: Ваши грехи будут прощены
+      ru: ваши грехи будут прощены
+      example: If you repent, your sins will be forgiven.
+
     - eng: your summary should be concise
       ru: ваше резюме должно быть кратким
+      example: Your summary should be concise and to the point.
+
     - eng: your threats don't scare me
       ru: твои угрозы меня не пугают
+      example: You can shout, but your threats don't scare me.
+
     - eng: your total amount due is 7.00 pounds.
-      ru: Ваша общая сумма заказа составляет 7.00 фунтов.
+      ru: ваша общая сумма заказа составляет 7.00 фунтов
+      example: Your total amount due is 7.00 pounds, please pay at the counter.
+
     - eng: yourself
       ru: собой; себе; себя
+      example: Take care of yourself.
+
     - eng: youth
       ru: молодёжь
+      example: The youth of today are tech-savvy.
+
     - eng: yucca
       ru: юкка
+      example: Yucca plants have sharp leaves.
+
     - eng: zambezi
-      ru: Замбези
+      ru: замбези
+      example: The Zambezi River flows through Africa.
+
     - eng: zany
       ru: клоунский; смешной
+      example: The comedian had a zany sense of humour.
+
     - eng: zebra
       ru: зебра
+      example: Zebras have black and white stripes.
+
     - eng: zebrafish
       ru: полосатый данио
+      example: Zebrafish are used in scientific research.
+
     - eng: zelkova
       ru: дзелькова граболистная
+      example: The zelkova tree is often planted in cities.
+
     - eng: zero
       ru: ноль; нуль
+      example: The temperature is below zero.
+
     - eng: zero gravity
       ru: невесомость
+      example: Astronauts experience zero gravity in space.
+
     - eng: zero out
-      ru: обнулять; Обнулить
+      ru: обнулять; обнулить
+      example: Zero out the counter before starting.
+
     - eng: zero out
       ru: обнулять
+      example: The system will zero out the memory.
+
     - eng: ziggurat
       ru: зиккурат
+      example: The ancient ziggurat was a temple.
+
     - eng: zip
       ru: молния
+      example: The zip on my jacket is stuck.
+
     - eng: zip fastener
-      ru: молния, застежка-молния
+      ru: молния, застёжка-молния
+      example: The bag closes with a zip fastener.
+
     - eng: zombie
       ru: зомби
+      example: The zombie film was scary.
+
     - eng: zone
       ru: зона
+      example: This is a no-parking zone.
+
     - eng: zoo
       ru: зоопарк
+      example: The children love the zoo.
+
     - eng: zoology
       ru: зоология
+      example: Zoology is the study of animals.
+
     - eng: zoom
       ru: масштаб; зум
+      example: Use the zoom to see details.
+
     - eng: zoom in
       ru: увеличить масштаб
+      example: Zoom in on the picture.
+
     - eng: zoom lens
       ru: вариофокальный объектив
+      example: The camera has a zoom lens.
+
     - eng: zoom out
       ru: уменьшить масштаб
+      example: Zoom out to see the whole map.
+
     - eng: zoom-in pivot
       ru: пивот увеличения масштаба
+      example: The zoom-in pivot point is in the centre.
+
     - eng: zoom-out pivot
       ru: пивот уменьшения масштаба
+      example: Use the zoom-out pivot to see the full image.
+
     - eng: zucchini
       ru: цуккини
+      example: Zucchini is a type of squash.
+
     - eng: Нogwarts express
       ru: хогвартс-экспресс
+      example: The Hogwarts Express takes students to the school.
+
     - eng: а landscape painter
       ru: пейзажист
+      example: The landscape painter captured the beauty of the countryside.
+
     - eng: рarty
       ru: сторона
+      example: Each party to the contract must sign.
