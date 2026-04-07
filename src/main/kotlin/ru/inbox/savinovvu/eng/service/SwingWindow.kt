@@ -116,7 +116,7 @@ class SwingWindow(
         val selectedWord = applicationProperties.words[randomIndex]
         engLabel.text = selectedWord.eng
         ruLabel.text = selectedWord.ru
-        exampleLabel.text = selectedWord.example ?: ""  // Если example нет, показываем пустую строку
+        exampleLabel.text = selectedWord.example
     }
 
     private fun startMessageTimer() {
