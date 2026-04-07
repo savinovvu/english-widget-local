@@ -70194,858 +70194,1716 @@ app.words:
 
     - eng: twin
       ru: близнец
+      example: She has a twin brother.
+
     - eng: twin room
-      ru: двухместный номер с двумя кроватями; двухместный номер
+      ru: двухместный номер с двумя кроватями
+      example: We booked a twin room at the hotel.
+
     - eng: twin tip
       ru: симметричная доска
+      example: The twin tip skis are great for freestyle.
+
     - eng: twin-brother
       ru: брат-близнец
+      example: His twin-brother looks exactly like him.
+
     - eng: twin-sister
       ru: сестра-двойняшка
+      example: Her twin-sister is also an artist.
+
     - eng: twist
       ru: обхватывать
+      example: Twist the cap to open the bottle.
+
     - eng: twisted
       ru: искривлённый
+      example: The tree trunk was twisted.
+
     - eng: two
       ru: два
+      example: Two apples are on the table.
+
     - eng: two blocks from
       ru: два квартала от
+      example: The station is two blocks from here.
+
     - eng: two pair
-      ru: допер
+      ru: допер (покер)
+      example: In poker, two pair beats one pair.
+
     - eng: two point zero four
       ru: две целых четыре сотых
+      example: The result is two point zero four.
+
     - eng: two times more potent than anything we'd normally experience
-      ru: в два раза более мощный, чем все, что мы обычно испытываем
+      ru: в два раза более мощный, чем всё, что мы обычно испытываем
+      example: This drug is two times more potent than anything we would normally experience.
+
     - eng: two-class configuration
       ru: двухклассовая компоновка
+      example: The airplane has a two-class configuration.
+
     - eng: two-story building
       ru: двухэтажное здание
+      example: They live in a two-story building.
+
     - eng: two-two time
       ru: двудольный размер
+      example: The march is in two-two time.
+
     - eng: twopenny
       ru: двухпенсовый
+      example: He bought a twopenny stamp.
+
     - eng: twopenny
       ru: двухпенсовый
+      example: It is a twopenny item.
+
     - eng: type
       ru: тип
+      example: What type of car do you drive?
+
     - eng: type-setter
       ru: наборщик
+      example: The type-setter arranged the letters for printing.
+
     - eng: typical
       ru: типичный
+      example: This is a typical example.
+
     - eng: tyranny
       ru: тирания
+      example: The people revolted against tyranny.
+
     - eng: tyre
       ru: шины
+      example: The car needs new tyres.
+
     - eng: ubiquitous
       ru: вездесущий
+      example: Smartphones are ubiquitous nowadays.
+
     - eng: ugli fruit
       ru: танжело
+      example: Ugli fruit is a hybrid citrus.
+
     - eng: ugly
       ru: уродливый
+      example: The building is ugly.
+
     - eng: ulcer
       ru: язва
+      example: He has a stomach ulcer.
+
     - eng: ulna
       ru: локтевая кость
+      example: The ulna is one of the forearm bones.
+
     - eng: ultra violet rays
       ru: ультрафиолетовые лучи
+      example: Ultra violet rays can damage the skin.
+
     - eng: ultramafic
       ru: ультрамафический
+      example: Ultramafic rocks are rich in magnesium.
+
     - eng: ultrametamorphism
       ru: переплавление горных пород
+      example: Ultrametamorphism occurs at very high temperatures.
+
     - eng: ultrasound
       ru: ультразвук
+      example: The doctor used ultrasound to see the baby.
+
     - eng: umber
       ru: умбра
+      example: The artist used burnt umber paint.
+
     - eng: umbilical cord
       ru: пуповина
+      example: The umbilical cord connects the baby to the placenta.
+
     - eng: umbrage
       ru: обида
+      example: He took umbrage at her comment.
+
     - eng: umbrella
       ru: зонтик
+      example: Take an umbrella, it is raining.
+
     - eng: umbrella walking stick
       ru: зонт-трость
+      example: He used an umbrella walking stick.
+
     - eng: unaccompanied minor
-      ru: несопровождаемые, несовершеннолетние дети
+      ru: несопровождаемые несовершеннолетние дети
+      example: The airline has special rules for unaccompanied minors.
+
     - eng: unanimous
       ru: единогласно
+      example: The decision was unanimous.
+
     - eng: unanimous
       ru: единогласно
+      example: The jury reached a unanimous verdict.
+
     - eng: unattractive
       ru: невзрачный
+      example: The building is unattractive.
+
     - eng: unbalanced force
       ru: неуравновешенная сила
+      example: An unbalanced force causes acceleration.
+
     - eng: unbelievable
       ru: невероятный
+      example: The story is unbelievable.
+
     - eng: uncle
       ru: дядя
+      example: My uncle lives in Chicago.
+
     - eng: uncollected funds
-      ru: непогашенная средства
+      ru: непогашенные средства
+      example: The account has uncollected funds.
+
     - eng: uncomfortable
       ru: неудобный
+      example: This chair is uncomfortable.
+
     - eng: unconformity
       ru: несогласие
+      example: The unconformity in the rock layers indicates a gap in time.
+
     - eng: unconscious
       ru: бессознательный
+      example: He was unconscious after the accident.
+
     - eng: unconsolidated rock
       ru: рыхлая порода
+      example: Unconsolidated rock is loose and easily eroded.
+
     - eng: uncooked
       ru: сырой
+      example: Do not eat uncooked meat.
+
     - eng: unction
       ru: миропомазание
+      example: The priest performed the unction.
+
     - eng: under
       ru: под
+      example: The cat is under the table.
+
     - eng: under equity
       ru: относить на собственный капитал
+      example: The loss was recorded under equity.
+
     - eng: under the weather
       ru: нездоровый, больной
+      example: I feel under the weather today.
+
     - eng: undercarriage
       ru: шасси
+      example: The plane's undercarriage was damaged.
+
     - eng: undercooked
       ru: недоготовленный; недоваренный
+      example: The chicken was undercooked.
+
     - eng: underdevelopment
       ru: недопроявление
+      example: Underdevelopment of the film made the image too light.
+
     - eng: underdone
       ru: недожаренный
+      example: The steak is underdone.
+
     - eng: underestimate
       ru: недооценивать
+      example: Do not underestimate your opponent.
+
     - eng: underexpose
       ru: недодержать
+      example: Do not underexpose the film or it will be too dark.
+
     - eng: underexposed film
       ru: недодержанная фотоплёнка
+      example: The underexposed film produced dark prints.
+
     - eng: underexposure
       ru: недодержка
+      example: Underexposure makes photos look dark.
+
     - eng: undergraduate
       ru: студент
+      example: He is an undergraduate at Oxford.
+
     - eng: underground
       ru: метро
+      example: Take the underground to get around London.
+
     - eng: underground station
       ru: станция метро
+      example: The underground station is crowded.
+
     - eng: underground train
       ru: поезд в метро
+      example: The underground train arrives every five minutes.
+
     - eng: underground train
       ru: поезд метро
+      example: I take the underground train to work.
+
     - eng: underline
       ru: подчёркивать
+      example: Underline the important words.
+
     - eng: underneath
       ru: внизу; под
+      example: The cat is underneath the bed.
+
     - eng: underpainting
-      ru: подмалевок
+      ru: подмалёвок
+      example: The artist applied an underpainting before the final layers.
+
     - eng: underpants
       ru: трусы
+      example: He put on clean underpants.
+
     - eng: understand
       ru: понимать
+      example: I understand the problem.
+
     - eng: understand, understood, understood
       ru: понимать
+      example: She understood the instructions.
+
     - eng: understanding
       ru: понимание
+      example: We have an understanding.
+
     - eng: undertake
       ru: предпринимать
+      example: He undertook a difficult task.
+
     - eng: undertake, undertook, undertaken
       ru: предпринимать, совершать
+      example: She undertook the journey alone.
+
     - eng: undertaking
       ru: обязательство
+      example: This is a serious undertaking.
+
     - eng: undertone
       ru: подтекст
+      example: There was an undertone of anger in his voice.
+
     - eng: underwear
       ru: нижнее бельё
+      example: She bought new underwear.
+
     - eng: undiscounted amount
       ru: недисконтированная стоимость
+      example: The undiscounted amount is higher than the present value.
+
     - eng: unemployed
       ru: безработный
+      example: He has been unemployed for six months.
+
     - eng: unequal
       ru: неравный
+      example: The distribution was unequal.
+
     - eng: unexpected
       ru: неожиданный
+      example: The news was unexpected.
+
     - eng: unfair
       ru: несправедливый
+      example: The decision was unfair.
+
     - eng: unfashionable
       ru: немодный
+      example: Her clothes are unfashionable.
+
     - eng: unfit
       ru: негодный
+      example: This water is unfit for drinking.
+
     - eng: unforgettable
       ru: незабываемый
+      example: The trip was unforgettable.
+
     - eng: unfriendly
       ru: враждебный
+      example: The waiter was unfriendly.
+
     - eng: ungulate animal
       ru: копытное животное
+      example: Horses are ungulate animals.
+
     - eng: unhappy
       ru: несчастный
+      example: She is unhappy with her job.
+
     - eng: unicellular
       ru: одноклеточный
+      example: Bacteria are unicellular organisms.
+
     - eng: unicorn
       ru: единорог
+      example: The unicorn is a mythical creature.
+
     - eng: uniform
       ru: равномерный; однородный
+      example: The temperature is uniform.
+
     - eng: unimaginably
       ru: невообразимо
+      example: The universe is unimaginably large.
+
     - eng: unimaginative
-      ru: лишенный воображения
+      ru: лишённый воображения
+      example: The solution was unimaginative.
+
     - eng: unison
       ru: унисон
+      example: They sang in unison.
+
     - eng: unit
       ru: единица
+      example: The metre is a unit of length.
+
     - eng: unit cost
       ru: себестоимость единицы продукции
+      example: The unit cost decreased after automation.
+
     - eng: unitary state
       ru: унитарное государство
+      example: France is a unitary state.
+
     - eng: unite
       ru: объединять
+      example: We must unite to fight the problem.
+
     - eng: universal
       ru: универсал
+      example: This is a universal remote control.
+
     - eng: universe
       ru: вселенная
+      example: The universe is expanding.
+
     - eng: university
       ru: университет
+      example: She attends university in London.
+
     - eng: unkind
-      ru: недобрый; недобрый
+      ru: недобрый
+      example: That was an unkind thing to say.
+
     - eng: unknown
       ru: неизвестный
+      example: The author is unknown.
+
     - eng: unless
       ru: если не
+      example: Unless you hurry, you will be late.
+
     - eng: unlike
       ru: в отличие от
+      example: Unlike his brother, he is shy.
+
     - eng: unload a magazine
       ru: разряжать/разрядить кассету
+      example: Unload the magazine before removing the film.
+
     - eng: unlock
       ru: отпереть
+      example: Unlock the door with the key.
+
     - eng: unlucky
-      ru: Неудачный
+      ru: неудачный
+      example: He was unlucky to lose.
+
     - eng: unofficial
       ru: неофициальный
+      example: The report is unofficial.
+
     - eng: unpack
       ru: распаковать
+      example: I need to unpack my suitcase.
+
     - eng: unpasteurised milk
       ru: непастеризованное молоко
+      example: Unpasteurised milk can contain harmful bacteria.
+
     - eng: unpleasant
       ru: неприятный
+      example: The smell is unpleasant.
+
     - eng: unplug
       ru: отключить
+      example: Unplug the charger when not in use.
+
     - eng: unpopular
       ru: непопулярный
+      example: The tax increase was unpopular.
+
     - eng: unprotected
-      ru: незащищенный
+      ru: незащищённый
+      example: Unprotected skin can burn.
+
     - eng: unreliable
-      ru: ненадежный
+      ru: ненадёжный
+      example: The old car is unreliable.
+
     - eng: unresponsible
-      ru: безответственными
+      ru: безответственный
+      example: His behaviour was unresponsible.
+
     - eng: unripe
       ru: незрелый
+      example: The banana is unripe.
+
     - eng: unsafe
-      ru: ненадежный
+      ru: ненадёжный
+      example: The bridge is unsafe.
+
     - eng: unsecured
       ru: необеспеченный
+      example: The loan is unsecured.
+
     - eng: unselfish
       ru: бескорыстный
+      example: Her unselfish act helped many.
+
     - eng: unselfish
       ru: бескорыстный
+      example: He is an unselfish person.
+
     - eng: unsensitive
       ru: бесчувственный
+      example: He was unsensitive to her feelings.
+
     - eng: unskilled labourer
       ru: разнорабочий
+      example: The factory hired unskilled labourers.
+
     - eng: unsociable
       ru: необщительный, нелюдимый
+      example: He is unsociable and prefers to be alone.
+
     - eng: unsurpassed masterpiece
-      ru: непревзойденный шедевр
+      ru: непревзойдённый шедевр
+      example: The painting is an unsurpassed masterpiece.
+
     - eng: untidy
-      ru: неопрятный; неопрятный
+      ru: неопрятный
+      example: His room is untidy.
+
+    - eng: untidy
+      ru: неопрятный
+      example: Her hair was untidy.
+
     - eng: untie
       ru: развязать
+      example: Untie the knot.
+
     - eng: until
-      ru: до, до тех пор пока; до
+      ru: до, до тех пор пока
+      example: Wait until I return.
+
     - eng: until October
       ru: до октября
+      example: The store is open until October.
+
     - eng: until we meet again
       ru: до нашей новой встречи
+      example: Goodbye, until we meet again.
+
     - eng: untrained
       ru: нетренированный
+      example: An untrained person should not attempt this.
+
     - eng: unusual
       ru: необычный
+      example: That is an unusual colour.
+
     - eng: unwillingly
       ru: против желания; неохотно
+      example: He unwillingly agreed to help.
+
     - eng: unwrap
       ru: развернуть
+      example: Unwrap the gift carefully.
+
     - eng: unzip me please
       ru: расстегни мне молнию, пожалуйста
+      example: Could you unzip me, please?
+
     - eng: up
       ru: наверх; до; вверх
+      example: Look up at the sky.
+
     - eng: up to
       ru: вплоть до
+      example: You can spend up to fifty dollars.
+
     - eng: up to date
       ru: современный
+      example: The software is up to date.
+
     - eng: up-and-coming
       ru: подающий надежды
+      example: He is an up-and-coming actor.
+
     - eng: upcoming trips
       ru: предстоящие поездки
+      example: I am planning my upcoming trips.
+
     - eng: update
       ru: обновлять
+      example: Update your phone regularly.
+
     - eng: uphold upheld upheld
       ru: поддерживать
+      example: The court upheld the decision.
+
     - eng: upon notice
       ru: после предварительного уведомления
+      example: The contract can be terminated upon notice.
+
     - eng: upper
       ru: верхний
+      example: He lives on the upper floor.
+
     - eng: upper arm
       ru: плечо
+      example: She has a tattoo on her upper arm.
+
     - eng: upset
       ru: расстроить
+      example: The news upset her.
+
     - eng: upset about
       ru: расстроенный чем-либо
+      example: He is upset about the loss.
+
     - eng: upside down
       ru: вверх ногами
+      example: Hang the picture upside down.
+
     - eng: upside-down catfish
       ru: нильский перистоусый сом
+      example: The upside-down catfish swims belly-up.
+
     - eng: upstage
       ru: превосходить
+      example: He tried to upstage his rival.
+
     - eng: upstairs
       ru: наверху
+      example: Go upstairs to your room.
+
     - eng: uptight
-      ru: Взволнованный; Встревоженный
+      ru: взволнованный; встревоженный
+      example: He is uptight about the exam.
+
     - eng: uranium
       ru: уран
+      example: Uranium is used in nuclear power.
+
     - eng: urbane
       ru: вежливый; с изысканными манерами
+      example: He is an urbane gentleman.
+
     - eng: urbanization
       ru: урбанизация
+      example: Urbanization is increasing worldwide.
+
     - eng: urgent
       ru: срочный
+      example: This is an urgent matter.
+
     - eng: urinary bladder
       ru: мочевой пузырь
+      example: The urinary bladder stores urine.
+
     - eng: urine sample
       ru: проба мочи
+      example: Provide a urine sample for the test.
+
     - eng: urine test
       ru: анализ мочи
+      example: The urine test came back normal.
+
     - eng: us
       ru: нам; нас
+      example: Come with us.
+
     - eng: usability
       ru: доступность для использования
+      example: The usability of the website is good.
+
     - eng: usability
       ru: доступность для использования
+      example: Usability testing is important.
+
     - eng: usage
       ru: использование
+      example: Water usage has increased.
+
     - eng: use
-      ru: применять; Польза; использовать; пользоваться
+      ru: применять; польза; использовать; пользоваться
+      example: Use a pen to write.
+
     - eng: useful
       ru: полезный
+      example: This tool is useful.
+
     - eng: useless
       ru: бесполезный
+      example: The attempt was useless.
+
     - eng: user name
       ru: имя пользователя
+      example: Enter your user name.
+
     - eng: usual
-      ru: Обыкновенный; обычный
+      ru: обыкновенный; обычный
+      example: Tea is my usual drink.
+
     - eng: usually
       ru: обычно
+      example: I usually wake up at seven.
+
     - eng: usury
       ru: ростовщичество
+      example: Usury is charging excessive interest.
+
     - eng: uterus
       ru: матка
+      example: The baby grows in the uterus.
+
     - eng: utilities
       ru: коммунальные услуги
+      example: Rent includes utilities.
+
     - eng: utraquists
       ru: чашники
+      example: The Utraquists were a Hussite faction.
+
     - eng: vacation
       ru: каникулы
+      example: We are going on vacation.
+
     - eng: vacation rental
       ru: жильё на время отпуска
+      example: They booked a vacation rental by the beach.
+
     - eng: vacuole
       ru: вакуоль
+      example: Plant cells have a large vacuole.
+
     - eng: vacuum
       ru: вакуум
+      example: Space is a vacuum.
+
     - eng: vacuum cleaner
       ru: пылесос
+      example: Use the vacuum cleaner to clean the carpet.
+
     - eng: vacuum the floor
       ru: пылесосить пол
+      example: I need to vacuum the floor.
+
     - eng: valet
       ru: служащий гостиницы
+      example: The valet parked our car.
+
     - eng: validation
       ru: подтверждение
+      example: The validation of the data took an hour.
+
     - eng: valley
       ru: долина
+      example: The river flows through the valley.
+
     - eng: valuable
       ru: ценный
+      example: This ring is valuable.
+
     - eng: valuation
       ru: оценка
+      example: The valuation of the property is high.
+
     - eng: value
       ru: величина; ценность; стоимость
+      example: The value of the painting is enormous.
+
     - eng: value added tax
       ru: налог на добавленную стоимость
+      example: Value added tax is included in the price.
+
     - eng: value chain
       ru: цепочка начисления стоимости
+      example: The value chain includes all steps from production to sale.
+
     - eng: valve
       ru: клапан
+      example: The valve controls the flow of water.
+
     - eng: vampire
       ru: вампир
+      example: The vampire legend is famous.
+
     - eng: van
       ru: фургон
+      example: The van delivered the packages.
+
     - eng: vandalism
       ru: вандализм
+      example: Vandalism damaged the park.
+
     - eng: vandals
       ru: вандалы
+      example: Vandals broke the windows.
+
     - eng: vanilla latte
       ru: ванильное латте
+      example: I ordered a vanilla latte.
+
     - eng: vanilla syrup
       ru: ванильный сироп
+      example: Add vanilla syrup to the coffee.
+
     - eng: vapor
       ru: пар
+      example: Water vapor is invisible.
+
     - eng: vaporization
       ru: испарение
+      example: Vaporization requires heat.
+
     - eng: vapour pressure
       ru: давление пара
+      example: The vapour pressure increases with temperature.
+
     - eng: variable
       ru: переменная
+      example: The variable can change.
+
     - eng: variable ballast
       ru: вспомогательный балласт
+      example: Submarines use variable ballast to dive.
+
     - eng: variable contrast filters
       ru: фильтры с переменным контрастом
+      example: Variable contrast filters adjust the contrast of the print.
+
     - eng: variable costs
       ru: переменные издержки
+      example: Variable costs change with production volume.
+
     - eng: variable focal length lens
       ru: объектив с переменным фокусным расстоянием
+      example: A variable focal length lens is also called a zoom lens.
+
     - eng: variable rate
       ru: переменная ставка
+      example: The loan has a variable interest rate.
+
     - eng: variable syllable
       ru: переменный слог
+      example: In poetry, a variable syllable can be stressed or unstressed.
+
     - eng: variation
       ru: разновидность
+      example: There is a variation in colour.
+
     - eng: variations
       ru: вариации
+      example: The composer wrote variations on a theme.
+
     - eng: varicose veins
       ru: варикозное расширение вен
+      example: Varicose veins can be painful.
+
     - eng: variety
       ru: разнообразие
+      example: There is a variety of options.
+
     - eng: various
       ru: различный, разный, разнообразный
+      example: Various people attended.
+
     - eng: varnish
       ru: лак
+      example: Apply varnish to protect the wood.
+
     - eng: vase
       ru: ваза
+      example: Put flowers in the vase.
+
     - eng: vassal
       ru: вассал
+      example: The vassal swore loyalty to the king.
+
     - eng: vassalage
       ru: рабство
+      example: Vassalage was a feudal system.
+
     - eng: vaudeville
       ru: водевиль
+      example: Vaudeville was popular in the early 20th century.
+
     - eng: veal
       ru: телятина
+      example: Veal is tender meat from calves.
+
     - eng: vector
       ru: вектор
+      example: The vector has both magnitude and direction.
+
     - eng: vegan salad
-      ru: вегетарианский салат
+      ru: веганский салат
+      example: She ordered a vegan salad.
+
     - eng: vegetable oil
       ru: растительное масло
+      example: Cook with vegetable oil.
+
     - eng: vegetable peeler
       ru: овощечистка
+      example: Use a vegetable peeler to remove the skin.
+
     - eng: vegetable salad
       ru: овощной салат
+      example: Vegetable salad is healthy.
+
     - eng: vegetable tunnel
       ru: заросшая тропа
+      example: The path became a vegetable tunnel.
+
     - eng: vegetarian
       ru: вегетарианец
+      example: He is a vegetarian.
+
     - eng: vegetarian food
       ru: еда для вегетарианцев
+      example: The restaurant serves vegetarian food.
+
     - eng: vegetative
       ru: вегетативный
+      example: Vegetative growth occurs in spring.
+
     - eng: vehicle
       ru: транспортное средство
+      example: The vehicle is parked outside.
+
     - eng: veil
       ru: вуаль
+      example: She wore a veil over her face.
+
     - eng: vein
       ru: вена
+      example: The vein carries blood to the heart.
+
     - eng: velocity
       ru: скорость
+      example: The velocity of the car was high.
+
     - eng: velour(s)
       ru: велюр
+      example: The curtains are made of velour.
+
     - eng: velvet fish
       ru: вельветовая рыба
+      example: Velvet fish is a species of deep-sea fish.
+
     - eng: vending machine
       ru: торговый автомат
+      example: Buy a soda from the vending machine.
+
     - eng: vendor
       ru: поставщик
+      example: The vendor supplied the goods.
+
     - eng: venerable
       ru: почтенный
+      example: He is a vener old man.
+
     - eng: venison
       ru: оленина
+      example: Venison is lean red meat.
+
     - eng: ventilator
       ru: вентилятор
+      example: The ventilator circulates air.
+
     - eng: venture capital
       ru: вложение капитала с риском; венчурный капитал
+      example: The startup received venture capital funding.
+
     - eng: veranda
       ru: веранда
+      example: We sat on the veranda.
+
     - eng: verb
       ru: глагол
+      example: In English, verbs change form.
+
     - eng: verbal note
       ru: вербальная нота
+      example: The embassy sent a verbal note.
+
     - eng: verbatim
       ru: дословно
+      example: Repeat the instructions verbatim.
+
     - eng: verify
       ru: проверить
+      example: Verify the information before posting.
+
     - eng: versatile
       ru: разносторонний
+      example: She is a versatile musician.
+
     - eng: versatility
       ru: изменчивость
+      example: The versatility of the tool is impressive.
+
     - eng: verse
       ru: стих
+      example: She recited a verse from the Bible.
+
     - eng: versus
       ru: против; в сравнении с
+      example: The match is France versus Germany.
+
     - eng: vert
       ru: стиль катания на BMX, катание в рампе (включает в себя трюки в воздухе)
+      example: He is a professional vert skater.
+
     - eng: vertebra
       ru: позвонок
+      example: The vertebra protects the spinal cord.
+
     - eng: vertical
       ru: вертикальный
+      example: Draw a vertical line.
+
     - eng: vertical camera
       ru: фотоаппарат, плановый
+      example: A vertical camera is used for aerial photography.
+
     - eng: very
-      ru: очень, сильно, весьма; очень
+      ru: очень, сильно, весьма
+      example: The food is very good.
+
     - eng: vesicular
       ru: пузыристый
+      example: Vesicular basalt has many holes.
+
     - eng: vespers
       ru: вечерня
+      example: Vespers is an evening prayer service.
+
     - eng: vestibule
       ru: вестибюль
+      example: Wait for me in the vestibule.
+
     - eng: vestry
       ru: ризница
+      example: The priest prepared in the vestry.
+
     - eng: vet
       ru: ветеринар
+      example: Take your dog to the vet.
+
     - eng: veteran
       ru: ветеран
+      example: He is a veteran of the war.
+
     - eng: veterinarian
-      ru: ветеринар (амер.); ветеринар
+      ru: ветеринар (амер.)
+      example: The veterinarian treated the cat.
+
     - eng: vex
       ru: раздражать
+      example: The delay vexed him.
+
     - eng: via
       ru: с помощью; через
+      example: Send the file via email.
+
     - eng: vibrating bog
       ru: трясина
+      example: The vibrating bog was dangerous to cross.
+
     - eng: vibration
       ru: вибрация
+      example: The vibration of the machine was loud.
+
     - eng: viburnum
       ru: калина
+      example: Viburnum has clusters of white flowers.
+
     - eng: vicar
       ru: викарий
+      example: The vicar led the service.
+
     - eng: vicinity
       ru: окрестности
+      example: There is a school in the vicinity.
+
     - eng: victory
       ru: победа
+      example: The team celebrated its victory.
+
     - eng: video
       ru: видео
-    - eng: video conference
-      ru: видео конференция
+      example: Watch the video online.
+
     - eng: video conference
       ru: видеоконференция
+      example: We had a video conference with the client.
+
+    - eng: video conference
+      ru: видеоконференция
+      example: The video conference was scheduled for 3 PM.
+
     - eng: video games
       ru: видеоигра
+      example: He plays video games in his free time.
+
     - eng: video recorder
       ru: видеомагнитофон
+      example: The video recorder is outdated.
+
     - eng: video store
       ru: видеомагазин
+      example: The video store rents movies.
+
     - eng: vienna
       ru: вена
+      example: Vienna is the capital of Austria.
+
     - eng: view
-      ru: вид, пейзаж; вид
+      ru: вид, пейзаж
+      example: The view from the hill is beautiful.
+
     - eng: viewer
       ru: зритель
+      example: The viewer watched the show.
+
     - eng: vigour
       ru: энергия
+      example: She attacked the task with vigour.
+
     - eng: villa
       ru: вилла
+      example: They own a villa in Italy.
+
     - eng: village
       ru: деревня
+      example: The village is small.
+
     - eng: villein
       ru: вилланы
+      example: Villeins were serfs in medieval times.
+
     - eng: vilnius
-      ru: Вильнюс
+      ru: вильнюс
+      example: Vilnius is the capital of Lithuania.
+
     - eng: vinegar
       ru: уксус
+      example: Add vinegar to the salad.
+
     - eng: viola
       ru: альт
+      example: She plays the viola in the orchestra.
+
     - eng: violence
       ru: насилие
+      example: Violence is never the answer.
+
     - eng: violet
       ru: фиалка
+      example: Violets are purple flowers.
+
     - eng: violin
       ru: скрипка
+      example: He plays the violin.
+
     - eng: violin playing
       ru: игра на скрипке
+      example: Violin playing requires practice.
+
     - eng: viper
       ru: гадюка
+      example: The viper is a poisonous snake.
+
     - eng: viral
       ru: вирусный
+      example: The video went viral.
+
     - eng: viral
       ru: вирусный
+      example: He has a viral infection.
+
     - eng: virology
       ru: вирусология
+      example: Virology is the study of viruses.
+
     - eng: virtual memory
       ru: виртуальная память
+      example: The computer uses virtual memory.
+
     - eng: virtual private network
       ru: виртуальная частная сеть
+      example: Use a virtual private network for security.
+
     - eng: virtual synchrony
       ru: виртуальная синхронность
+      example: Virtual synchrony is used in distributed systems.
+
     - eng: virtuoso
       ru: виртуоз
+      example: He is a piano virtuoso.
+
     - eng: virus
       ru: вирус
+      example: The flu virus spreads easily.
+
     - eng: visa
       ru: виза
+      example: You need a visa to enter the country.
+
     - eng: viscosity
       ru: вязкость
+      example: The viscosity of honey is high.
+
     - eng: vision
       ru: мировоззренческая концепция; зрение
+      example: His vision is poor.
+
     - eng: vision and direction
       ru: видение и направление развития
+      example: The leader provided vision and direction.
+
     - eng: visit
       ru: посещение; посещать
+      example: We will visit the museum.
+
     - eng: visiting galleries
       ru: посещение галерей
+      example: Visiting galleries is a great hobby.
+
     - eng: visiting historical places
       ru: посещение исторических мест
+      example: She enjoys visiting historical places.
+
     - eng: visiting hours
-      ru: часы работы, приемные часы
+      ru: часы работы, приёмные часы
+      example: Visiting hours are from 2 to 4 PM.
+
     - eng: visiting museums
       ru: посещение музеев
+      example: Visiting museums is educational.
+
     - eng: visitor
       ru: посетитель
+      example: The visitor signed the guest book.
+
     - eng: visual aids
       ru: наглядные пособия
+      example: The teacher used visual aids.
+
     - eng: vital
       ru: жизненно важный
+      example: Water is vital for life.
+
     - eng: vital capacity
-      ru: емкость легких жизненная
+      ru: жизненная ёмкость лёгких
+      example: Vital capacity is measured with a spirometer.
+
     - eng: vital news
       ru: новости, имеющие жизненно важное значение
+      example: The radio broadcast vital news.
+
     - eng: vital question
       ru: жизненно важный вопрос
+      example: This is a vital question for our future.
+
     - eng: vitamin
       ru: витамин
+      example: Oranges are rich in vitamin C.
+
     - eng: vitamin d is found in butter
-      ru: витамин d содержится в сливочном масле
+      ru: витамин D содержится в сливочном масле
+      example: Vitamin D is found in butter and other dairy products.
+
     - eng: vitamins
       ru: витамины
+      example: Take your vitamins every day.
+
     - eng: vivacious
       ru: живой; оживлённый
+      example: She has a vivacious personality.
+
     - eng: vixen
       ru: лисица
+      example: The vixen is a female fox.
+
     - eng: vocalese
       ru: вокализ
+      example: The singer performed a vocalese.
+
     - eng: vocalist
       ru: вокалист
+      example: The vocalist has a powerful voice.
+
     - eng: vociferous
       ru: шумный
+      example: The crowd was vociferous.
+
     - eng: vociferous
       ru: шумный
+      example: He made a vociferous complaint.
+
     - eng: vodka
       ru: водка
+      example: He drank vodka.
+
     - eng: vogue
       ru: мода
+      example: Short skirts are in vogue.
+
     - eng: voice
       ru: мнение; голос
+      example: She has a beautiful voice.
+
     - eng: voidable
       ru: оспоримый
+      example: The contract is voidable.
+
     - eng: volcanic
       ru: вулканический
+      example: Volcanic ash covered the town.
+
     - eng: volcanic breccia
       ru: вулканическая брекчия
+      example: Volcanic breccia is composed of angular fragments.
+
     - eng: volcano
       ru: вулкан
+      example: The volcano erupted.
+
     - eng: volleyball
       ru: волейбол
+      example: We play volleyball on the beach.
+
     - eng: volleyball player
       ru: волейболист
+      example: The volleyball player spiked the ball.
+
     - eng: voltage
       ru: напряжение
+      example: The voltage is 220 volts.
+
     - eng: voltage control
       ru: контроль напряжения
+      example: Voltage control stabilizes the power supply.
+
     - eng: voltage detector
       ru: пробник
+      example: Use a voltage detector to check for live wires.
+
     - eng: voltage deviation
       ru: отклонение напряжения
+      example: The voltage deviation was within limits.
+
     - eng: volume
       ru: книга; объём
+      example: The volume of the box is one cubic metre.
+
     - eng: volume controls for a headset
       ru: устройство для громкости наушников
+      example: Adjust the volume controls for a headset.
+
     - eng: voluntarism
       ru: волюнтаризм
+      example: Voluntarism emphasises free will.
+
     - eng: voluntary
       ru: добровольный
+      example: He made a voluntary donation.
+
     - eng: volunteer
       ru: доброволец
+      example: She works as a volunteer.
+
     - eng: volute
       ru: завиток; спираль
+      example: The capital of the column has a volute.
+
     - eng: vomit
       ru: рвота
+      example: The smell made him vomit.
+
     - eng: voracious
       ru: прожорливый
+      example: He has a voracious appetite.
+
     - eng: vote
       ru: голосовать
+      example: Citizens have the right to vote.
+
     - eng: vote of confidence
       ru: вотум доверия
+      example: The government won a vote of confidence.
+
     - eng: vote of no confidence
       ru: вотум недоверия
+      example: The opposition called for a vote of no confidence.
+
     - eng: vow
       ru: обет
+      example: The monks take a vow of silence.
+
     - eng: voyage
       ru: морское путешествие
+      example: The voyage across the Atlantic took two weeks.
+
     - eng: vulgar fraction
       ru: простая дробь
+      example: A vulgar fraction has a numerator and denominator.
+
     - eng: vulnerable
       ru: уязвимый
+      example: The system is vulnerable to attacks.
+
     - eng: vulture
       ru: гриф
+      example: The vulture circled overhead.
+
     - eng: wafels
       ru: вафли
+      example: We ate wafels for dessert.
+
     - eng: waffle iron
       ru: вафельница
+      example: Heat the waffle iron before adding batter.
+
     - eng: wage
       ru: зарплата
+      example: His wage is low.
+
     - eng: wage a struggle against
       ru: вести борьбу против
+      example: They wage a struggle against corruption.
+
     - eng: wage a struggle for
       ru: вести борьбу за
+      example: The workers wage a struggle for better conditions.
+
     - eng: wages
       ru: заработная плата
+      example: Wages are paid monthly.
+
     - eng: wagtail
       ru: трясогузка
+      example: The wagtail bobs its tail.
+
     - eng: waist
       ru: талия
+      example: She has a small waist.
+
     - eng: waistcoat
       ru: жилет
+      example: He wore a waistcoat with his suit.
+
     - eng: wait
       ru: ждать
+      example: Please wait here.
+
     - eng: wait for the elevator to descend
-      ru: подождите лифт, чтобы спустится
+      ru: подождите, пока лифт спустится
+      example: Wait for the elevator to descend before getting in.
+
     - eng: wait-and-see policy
       ru: политика выжидания
+      example: The government adopted a wait-and-see policy.
+
     - eng: waiter
       ru: официант
+      example: The waiter took our order.
+
     - eng: waiting and hoping could easily backfire
       ru: ожидание и надежда легко могут привести к обратным результатам
+      example: Waiting and hoping could easily backfire if you don't act.
+
     - eng: waitress
       ru: официантка
+      example: The waitress brought the coffee.
+
     - eng: wake
       ru: просыпаться
+      example: I wake at six.
+
     - eng: wake up
       ru: просыпаться, будить кого-либо
+      example: Wake up, it is morning.
+
     - eng: wake up call
-      ru: звонок-"будильник" в отеле
+      ru: звонок-«будильник» в отеле
+      example: I asked for a wake-up call at 7 AM.
+
     - eng: wake, woke, woken
       ru: будить
+      example: She woke me early.
+
     - eng: wakes
       ru: будит
+      example: He wakes his children every morning.
+
     - eng: walk
-      ru: гулять; идти, гулять; идти пешком; идти
+      ru: гулять; идти, гулять; идти пешком
+      example: I walk to school.
+
     - eng: walk around
       ru: ходить, бродить повсюду
+      example: We walked around the city.
+
     - eng: walk away
       ru: уходить
+      example: He walked away without a word.
+
     - eng: walk back
       ru: возвращаться, идти назад/обратно
+      example: We walked back to the hotel.
+
     - eng: walk in
       ru: входить
+      example: Please walk in and take a seat.
+
     - eng: walk off
       ru: уходить, избавиться
+      example: He walked off the job.
+
     - eng: walk out
       ru: выходить, отказаться участвовать
+      example: The workers walked out on strike.
+
     - eng: walk over
       ru: легко победить
+      example: The champion walked over his opponent.
+
     - eng: walk to work
       ru: идти пешком на работу
+      example: I walk to work every day.
+
     - eng: walk up
       ru: подойти ближе
+      example: Walk up to the counter.
+
     - eng: walk-up building
       ru: здание без лифта
+      example: He lives in a walk-up building.
+
     - eng: walking
-      ru: Ходьба
+      ru: ходьба
+      example: Walking is good exercise.
+
     - eng: walking tour
       ru: пешеходная экскурсия
+      example: We went on a walking tour of the old town.
+
     - eng: wall
       ru: стена
+      example: Hang the picture on the wall.
+
     - eng: wallet
       ru: бумажник
+      example: He lost his wallet.
+
     - eng: wallflower
       ru: желтофиоль садовая
+      example: Wallflowers bloom in spring.
+
     - eng: wallpaper
       ru: обои
+      example: We put new wallpaper in the living room.
+
     - eng: walnut
       ru: грецкий орех
+      example: Walnuts are good for the brain.
+
     - eng: walrus
       ru: морж
+      example: The walrus has long tusks.
+
     - eng: waltz
       ru: вальс
+      example: They danced the waltz.
+
     - eng: wand
       ru: волшебная палочка
+      example: The wizard waved his wand.
+
     - eng: wanna
       ru: разг. want to
+      example: I wanna go home.
+
     - eng: want
-      ru: желать, хотеть; хотеть; желание; Потребность; Потребность; желать
+      ru: желать, хотеть; желание; потребность
+      example: I want a new phone.
+
     - eng: wanton
       ru: беспричинный
+      example: The wanton destruction was shocking.
+
     - eng: wantsta
       ru: разг. wants to
+      example: He wantsta leave early.
+
     - eng: war
       ru: война
+      example: The war lasted five years.
+
     - eng: war-time
       ru: военное время
+      example: Rationing was common in war-time.
+
     - eng: war-time
       ru: военное время
+      example: Many factories converted to war-time production.
+
     - eng: ward
       ru: палата
+      example: The patient was moved to a different ward.
+
     - eng: wardrobe
       ru: гардероб; шкаф
+      example: Her wardrobe is full of dresses.
+
     - eng: warehouse
       ru: хранилище
+      example: The goods are stored in a warehouse.
+
     - eng: warfare
       ru: военные действия
+      example: Modern warfare uses advanced technology.
+
     - eng: warhead
       ru: боеголовка
+      example: The missile carries a nuclear warhead.
+
     - eng: warlock
       ru: колдун
+      example: The warlock cast a spell.
+
     - eng: warm
-      ru: теплый
+      ru: тёплый
+      example: The soup is warm.
+
     - eng: warm ups
       ru: разогрев
+      example: Do some warm ups before running.
+
     - eng: warm wind
-      ru: теплый ветер
+      ru: тёплый ветер
+      example: A warm wind blew from the south.
+
     - eng: warmly
       ru: тепло
+      example: She greeted us warmly.
+
     - eng: warn
       ru: предупреждать
+      example: I warn you about the danger.
+
     - eng: warpath
       ru: тропа войны
+      example: He is on the warpath again.
+
     - eng: warsaw
-      ru: Варшава
+      ru: варшава
+      example: Warsaw is the capital of Poland.
+
     - eng: wart
       ru: бородавка
+      example: He has a wart on his finger.
+
     - eng: warts
       ru: бородавки
+      example: Warts are caused by a virus.
+
     - eng: was it nice
-      ru: Это было мило?
+      ru: это было мило?
+      example: Was it nice at the beach?
+
     - eng: was offered
       ru: предлагать
+      example: He was offered a new job.
+
     - eng: wash
       ru: мыть
+      example: Wash your hands before eating.
+
     - eng: wash all cooking utensils after preparing raw meat
       ru: вымойте всю кухонную утварь после приготовления сырого мяса
+      example: Wash all cooking utensils after preparing raw meat to prevent contamination.
+
     - eng: wash basin
-      ru: умывальная раковина,умывальник
+      ru: умывальная раковина, умывальник
+      example: The wash basin is in the bathroom.
+
     - eng: wash face
       ru: умываться
+      example: I wash my face every morning.
+
     - eng: wash one's hands of something
       ru: умыть руки
+      example: He washed his hands of the project.
+
     - eng: wash the dishes
       ru: мыть посуду
+      example: I will wash the dishes after dinner.
+
     - eng: wash the dishes
-      ru: Мыть посуду
+      ru: мыть посуду
+      example: She washed the dishes by hand.
+
     - eng: washer
       ru: шайба
+      example: The bolt needs a washer.
+
     - eng: washing (development process)
       ru: промывка
+      example: Washing removes chemicals from the film.
+
     - eng: washing machine
-      ru: Стиральная машина
-    - eng: wastage was a consequnce of war
+      ru: стиральная машина
+      example: Put the clothes in the washing machine.
+
+    - eng: wastage was a consequence of war
       ru: потери были следствием войны
+      example: Wastage was a consequence of war and poor planning.
+
     - eng: waste
-      ru: тратить впустую; тратить впустую
+      ru: тратить впустую
+      example: Do not waste water.
+
     - eng: waste basket
       ru: корзина для мусора
+      example: Throw the paper in the waste basket.
+
     - eng: waste of time
       ru: пустая трата времени, пустое дело
     - eng: waste time
