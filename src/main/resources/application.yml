@@ -45181,870 +45181,1736 @@ app.words:
 
     - eng: light-orange
       ru: светло-оранжевый
+      example: The walls are painted light-orange.
+
     - eng: light-pink
       ru: светло-розовый
+      example: She wore a light-pink scarf.
+
     - eng: light-year
       ru: астр. световой год
+      example: The nearest star is four light-years away.
+
     - eng: lighting
       ru: освещение
+      example: The lighting in the room is too dim.
+
     - eng: lighting facilities
       ru: осветительные устройства
+      example: The theatre has modern lighting facilities.
+
     - eng: lightness
       ru: лёгкость
+      example: The lightness of the fabric makes it comfortable.
+
     - eng: lightning
       ru: молния
+      example: Lightning struck the tree during the storm.
+
     - eng: lightning strike
       ru: удар молнии
+      example: A lightning strike caused a fire.
+
     - eng: lightweight
       ru: простая и компактная (программа)
+      example: This text editor is lightweight and fast.
+
     - eng: like
       ru: как
+      example: He runs like the wind.
+
     - eng: like gold dust
       ru: на вес золота
+      example: Good employees are like gold dust these days.
+
     - eng: likely
       ru: вероятный
+      example: It is likely to rain tomorrow.
+
     - eng: lilac
       ru: сирень
+      example: Lilac flowers bloom in spring.
+
     - eng: lily
       ru: лилия
+      example: The lily is a beautiful white flower.
+
     - eng: lily of the valley
       ru: ландыш
+      example: Lily of the valley has a sweet scent.
+
     - eng: lily-of-the-valley
       ru: ландыш
+      example: She picked a bunch of lily-of-the-valley.
+
     - eng: limb
       ru: конечность
+      example: He broke his left limb in the accident.
+
     - eng: lime
       ru: лайм
+      example: Add a squeeze of lime to the drink.
+
     - eng: lime juice
       ru: лимонный сок
+      example: Lime juice is used in cocktails.
+
     - eng: lime tree
       ru: липа
+      example: The lime tree in the garden is very old.
+
     - eng: limerick
       ru: лимерик
+      example: He wrote a funny limerick.
+
     - eng: limestone
       ru: известняк
+      example: The cliffs are made of limestone.
+
     - eng: limit
       ru: предел; граница
+      example: There is a speed limit on this road.
+
     - eng: limit poker
       ru: лимитированный покер
+      example: Limit poker has fixed bet sizes.
+
     - eng: limited company
       ru: акционерное общество с ограниченной ответственностью
+      example: He works for a limited company.
+
     - eng: limited monarchy
       ru: ограниченная монархия, конституционная монархия
+      example: The United Kingdom is a limited monarchy.
+
     - eng: limited selection
       ru: ограниченный выбор
+      example: The store has a limited selection of shoes.
+
     - eng: limnology
       ru: лимнология
+      example: Limnology is the study of lakes.
+
     - eng: limonite
       ru: лимонит
+      example: Limonite is an iron ore.
+
     - eng: limousine
       ru: лимузин
+      example: They arrived in a black limousine.
+
     - eng: linden
       ru: липа
+      example: The linden tree is in full bloom.
+
     - eng: line
       ru: черта; линия
+      example: Draw a straight line on the paper.
+
     - eng: line disciplines
       ru: протокол линии
+      example: Line disciplines govern data transmission.
+
     - eng: line switching
       ru: коммутация каналов (линий связи)
+      example: Line switching was used in old telephone networks.
+
     - eng: line terminator
       ru: завершитель строки
+      example: Each line ends with a line terminator.
+
     - eng: line up
       ru: выстраивать, становиться в линию, ряд, очередь
+      example: Please line up at the counter.
+
     - eng: linear
       ru: линейный
+      example: The graph shows a linear relationship.
+
     - eng: linear graph
       ru: линейный график
+      example: The linear graph shows constant growth.
+
     - eng: linear motion
       ru: поступательное движение
+      example: The piston moves in linear motion.
+
     - eng: linen
-      ru: белье
+      ru: бельё
+      example: She bought new bed linen.
+
     - eng: linen basket
       ru: корзина для белья
+      example: Put the dirty sheets in the linen basket.
+
     - eng: lingcod
       ru: зубатый терпуг
+      example: Lingcod is a popular fish for grilling.
+
     - eng: lingerie
       ru: дамское бельё
+      example: The store sells silk lingerie.
+
     - eng: linguist
       ru: лингвист
+      example: The linguist speaks five languages.
+
     - eng: linguistic
       ru: лингвистический
+      example: Linguistic skills are important for translators.
+
     - eng: lining
       ru: подкладка
+      example: The jacket has a silk lining.
+
     - eng: link
       ru: ссылка; связь
+      example: Click the link to open the page.
+
     - eng: linked account
-      ru: связанный счет
+      ru: связанный счёт
+      example: My bank account is linked to my savings.
+
     - eng: links bar
       ru: панель ссылок
+      example: The links bar is at the top of the page.
+
     - eng: linnet
       ru: коноплянка
+      example: The linnet sang on the fence.
+
     - eng: linocut
       ru: линогравюра
+      example: The artist created a linocut print.
+
     - eng: lintel
       ru: перемычка, балка
+      example: The lintel above the door is made of stone.
+
     - eng: lion
       ru: лев
+      example: The lion is the king of the jungle.
+
     - eng: lip
       ru: губа
+      example: She bit her lower lip.
+
     - eng: lipid droplet
       ru: липидная капелька
+      example: Lipid droplets store fat in cells.
+
     - eng: lipids
-      ru: Липиды
+      ru: липиды
+      example: Lipids are essential for cell membranes.
+
     - eng: lips
       ru: губы
+      example: Her lips are red.
+
     - eng: lips are sealed
       ru: рот на замке
+      example: Do not worry, my lips are sealed.
+
     - eng: liquefaction
       ru: разжижение грунтов
+      example: Liquefaction can cause buildings to sink during earthquakes.
+
     - eng: liquefied petroleum gas
       ru: сжиженный нефтяной газ
+      example: The stove runs on liquefied petroleum gas.
+
     - eng: liquid
       ru: жидкий
+      example: Water is a liquid.
+
     - eng: liquid assets
       ru: ликвидные средства
+      example: Cash is a liquid asset.
+
     - eng: liquid crystal
       ru: жидкий кристалл
+      example: LCD screens use liquid crystals.
+
     - eng: liquid water
       ru: жидкая вода
+      example: Liquid water is essential for life.
+
     - eng: liquidity
       ru: ликвидность
+      example: The company has good liquidity.
+
     - eng: lisbon
-      ru: Лиссабон
+      ru: лиссабон
+      example: Lisbon is the capital of Portugal.
+
     - eng: lisianthus
       ru: эустома
+      example: Lisianthus flowers look like roses.
+
     - eng: list
       ru: список
+      example: Make a list of things to buy.
+
     - eng: list headed by size
       ru: список с указанием размера
+      example: The list headed by size helps find the right fit.
+
     - eng: listen
       ru: слушать
+      example: Listen carefully to the instructions.
+
     - eng: listen to
       ru: слушать
+      example: I like to listen to music.
+
     - eng: listen to music
       ru: слушать музыку
+      example: She listens to music while jogging.
+
     - eng: listen to the radio
       ru: слушать радио
+      example: He listens to the radio in the car.
+
     - eng: liter
       ru: литр
+      example: A liter of water weighs one kilogram.
+
     - eng: literacy
       ru: грамотность
+      example: Literacy rates have increased.
+
     - eng: literal
       ru: литерал
+      example: The code contains a string literal.
+
     - eng: literal error
       ru: опечатка
+      example: The text had a literal error.
+
     - eng: literally
       ru: буквально
+      example: He literally ran a marathon.
+
     - eng: literate programming
       ru: стиль программирования, сначала на естественном языке и потом код
+      example: Literate programming makes code easier to understand.
+
     - eng: literature
       ru: литература
+      example: Russian literature is world-famous.
+
     - eng: literature language
       ru: литературный язык
+      example: Literature language differs from spoken language.
+
     - eng: lithe
       ru: гибкий
+      example: The dancer had a lithe body.
+
     - eng: lithification
       ru: окаменение
+      example: Lithification turns sediment into rock.
+
     - eng: lithograph
       ru: литография
+      example: The museum has a lithograph by Toulouse-Lautrec.
+
     - eng: lithosphere
       ru: литосфера
+      example: The lithosphere is the Earth's outer layer.
+
     - eng: little
-      ru: Мало; маленький; немного
+      ru: мало; маленький; немного
+      example: There is little sugar left.
+
     - eng: little blind
       ru: маленький блайнд
+      example: The player posted the little blind.
+
     - eng: little finger
       ru: мизинец; мизинец на руке
+      example: She wears a ring on her little finger.
+
     - eng: little toe
       ru: мизинец (на ноге)
+      example: He stubbed his little toe.
+
     - eng: little, less, the least
-      ru: Немного, меньше, наименьший
+      ru: немного, меньше, наименьший
+      example: This is the least expensive option.
+
     - eng: liturgy
       ru: литургия
+      example: The church service follows the liturgy.
+
     - eng: live
-      ru: жить; жизнь
+      ru: жить
+      example: I live in a small town.
+
     - eng: live CD
       ru: загрузочный компакт-диск
+      example: Boot the computer from a live CD.
+
     - eng: live life on the edge
       ru: жить, рискуя
+      example: He likes to live life on the edge.
+
     - eng: live life to the full
       ru: жить полной жизнью
+      example: She wants to live life to the full.
+
     - eng: live music
       ru: живая музыка
+      example: The bar has live music on Fridays.
+
     - eng: live off
-      ru: жить за чей-л. счет
+      ru: жить за чей-л. счёт
+      example: He still lives off his parents.
+
     - eng: live on
       ru: жить на
+      example: They live on a tight budget.
+
     - eng: live with
       ru: жить с
+      example: She lives with her roommate.
+
     - eng: lively
       ru: живой
+      example: The party was very lively.
+
     - eng: lively details
       ru: яркие, живые подробности
+      example: The story includes lively details.
+
     - eng: liver
       ru: печень
+      example: The liver filters toxins from the blood.
+
     - eng: living expenses
       ru: расходы на содержание, расходы на проживание
+      example: Living expenses are high in the city.
+
     - eng: living room
       ru: гостиная
+      example: We watch TV in the living room.
+
     - eng: living wage
       ru: прожиточный минимум
+      example: The company pays a living wage.
+
     - eng: living-room
       ru: гостиная
+      example: The living-room has a large sofa.
+
     - eng: lizard
       ru: ящерица
+      example: The lizard basked on a rock.
+
     - eng: loach
       ru: голец
+      example: Loach is a small freshwater fish.
+
     - eng: load
       ru: нагрузка; груз
+      example: The truck carries a heavy load.
+
     - eng: load balancing
       ru: балансировка нагрузки
+      example: Load balancing improves server performance.
+
     - eng: load film in a cassette
-      ru: вставлять/вставить в кассету фотоплёнка
+      ru: вставлять/вставить в кассету фотоплёнку
+      example: Load film in a cassette before shooting.
+
     - eng: loader
       ru: погрузчик
+      example: The loader moved the pallets.
+
     - eng: loaf
       ru: хлеб; буханка
+      example: I bought a loaf of bread.
+
     - eng: loam
       ru: суглинок
+      example: Loam is good for gardening.
+
     - eng: loan
       ru: заём
+      example: He took out a loan to buy a car.
+
     - eng: lobby
       ru: лобби
+      example: The lobby is on the ground floor.
+
     - eng: lobster
       ru: омар
+      example: Lobster is a seafood delicacy.
+
     - eng: local
       ru: местный
+      example: The local market is open on Sundays.
+
     - eng: local beer
       ru: местное пиво
+      example: Try the local beer when you travel.
+
     - eng: local group
       ru: отряд; локальная группа
+      example: The local group meets every month.
+
     - eng: local holiday
       ru: местный праздник
+      example: Tomorrow is a local holiday.
+
     - eng: local news
       ru: местные новости
+      example: I watch local news every evening.
+
     - eng: local train
       ru: пригородный поезд
+      example: The local train stops at every station.
+
     - eng: localhost
-      ru: Локальное имя домена
+      ru: локальное имя домена
+      example: The server runs on localhost.
+
     - eng: locals
       ru: местные жители
+      example: The locals are very friendly.
+
     - eng: location
       ru: местоположение
+      example: The location of the restaurant is ideal.
+
     - eng: loci
       ru: ключевые точки
+      example: The loci of the problem were identified.
+
     - eng: lock
       ru: запирать
+      example: Lock the door when you leave.
+
     - eng: locket
       ru: медальон
+      example: She wears a silver locket.
+
     - eng: locomotion
       ru: передвижение
+      example: Walking is a form of locomotion.
+
     - eng: locomotive
       ru: локомотив
+      example: The locomotive pulls the train.
+
     - eng: locus
       ru: точка начала отсчёта
+      example: The locus of points forms a circle.
+
     - eng: locust tree
       ru: рожковое дерево
+      example: The locust tree has thorns.
+
     - eng: loft
       ru: чердак
+      example: They converted the loft into a bedroom.
+
     - eng: log
       ru: каротажа; бревно
+      example: The cabin is made of logs.
+
     - eng: log file
       ru: журнал сообщений
+      example: Check the log file for errors.
+
     - eng: logarithm
       ru: логарифм
+      example: The logarithm of 100 is 2.
+
     - eng: loggia
       ru: лоджия
+      example: The apartment has a loggia.
+
     - eng: logo
       ru: логотип
+      example: The company logo is a blue bird.
+
     - eng: loin
       ru: поясница
+      example: He felt pain in his loin.
+
     - eng: loire
-      ru: Луара
+      ru: луара
+      example: The Loire Valley is famous for its castles.
+
     - eng: lone wolf
       ru: одиночка
+      example: He is a lone wolf and prefers solitude.
+
     - eng: loneliness is a disease of our urban communities
-      ru: Одиночество - это болезнь наших городских сообществ
+      ru: одиночество - это болезнь наших городских сообществ
+      example: Loneliness is a disease of our urban communities.
+
     - eng: lonely
       ru: одинокий
+      example: She felt lonely in the big city.
+
     - eng: lonely hearts ad
       ru: объявление о знакомстве
+      example: He placed a lonely hearts ad in the newspaper.
+
     - eng: long
       ru: длинный
+      example: The river is very long.
+
     - eng: long division
       ru: деление столбиком
+      example: Students learn long division in school.
+
     - eng: long lashes
       ru: длинные ресницы
+      example: She has long lashes.
+
     - eng: long time no see
-      ru: Давно не виделись!
+      ru: давно не виделись!
+      example: Hello, long time no see.
+
     - eng: long-winded
       ru: многоречивый
+      example: His speech was long-winded.
+
     - eng: longing
       ru: тоска; стремление
+      example: She felt a longing for home.
+
     - eng: longitude
       ru: долгота
+      example: The coordinates include latitude and longitude.
+
     - eng: longitudinal
       ru: продольный силовой элемент; продольный
+      example: The longitudinal axis runs from front to back.
+
     - eng: look
-      ru: смотреть; глядеть; выглядеть/ казаться
+      ru: смотреть; глядеть; выглядеть / казаться
+      example: Look at that beautiful sunset.
+
     - eng: look after
       ru: присматривать
+      example: Can you look after my cat while I am away?
+
     - eng: look and feel
       ru: внешний вид, стиль
+      example: The app's look and feel is modern.
+
     - eng: look back
       ru: оглядываться, оборачиваться
+      example: Do not look back, just keep walking.
+
     - eng: look down
       ru: смотреть, смотреть вниз
+      example: He looked down from the balcony.
+
     - eng: look for
       ru: искать, подыскивать, присматривать
+      example: I am looking for my keys.
+
     - eng: look for a job
       ru: искать работу
+      example: She is looking for a job.
+
     - eng: look forward to
       ru: ожидать с нетерпением
+      example: I look forward to meeting you.
+
     - eng: look out
-      ru: выглядывать,быть осторожным
+      ru: выглядывать, быть осторожным
+      example: Look out! There is a car coming.
+
     - eng: look over
       ru: смотреть, просматривать, осматривать
+      example: Please look over the document.
+
     - eng: looking back I wouldn't have done anything differently
       ru: оглядываясь назад, я бы не поступил по-другому
+      example: Looking back, I wouldn't have done anything differently.
+
     - eng: looking backwards
-      ru: Оглядываясь назад
+      ru: оглядываясь назад
+      example: Looking backwards, I see how much I have grown.
+
     - eng: loop
       ru: петля
+      example: Tie the rope into a loop.
+
     - eng: loop body
       ru: тело цикла
+      example: The loop body executes repeatedly.
+
     - eng: loop trip
       ru: поход по кольцевому маршруту
+      example: We took a loop trip around the lake.
+
     - eng: loopback interface
       ru: сетевая заглушка
+      example: The loopback interface is used for testing.
+
     - eng: loophole
       ru: бойница
+      example: The lawyer found a legal loophole.
+
     - eng: loose ball
       ru: свободный мяч (в баскетболе)
+      example: He grabbed the loose ball and scored.
+
     - eng: loose ground to a competitor
       ru: уступать конкуренту
+      example: The company lost ground to a competitor.
+
     - eng: loose thread
       ru: затяжка (на колготках)
+      example: There is a loose thread on my sock.
+
     - eng: loosely
       ru: свободно
+      example: The shirt fits loosely.
+
     - eng: lopsided nose
       ru: кривой нос
+      example: He has a lopsided nose from the accident.
+
     - eng: loquat
       ru: мушмула
+      example: Loquat fruits are sweet and tangy.
+
     - eng: lord
-      ru: Господь; господин; повелитель; владыка
+      ru: господь; господин; повелитель; владыка
+      example: The lord of the manor welcomed the guests.
+
     - eng: lorry
       ru: грузовик
+      example: The lorry delivered the goods.
+
     - eng: lose
       ru: терять; лишаться
+      example: Do not lose your keys.
+
     - eng: lose / win a case
       ru: проиграть / выиграть дело
+      example: The lawyer hoped to win the case, not lose.
+
     - eng: lose credibility
       ru: потерять доверие
+      example: The politician lost credibility after the scandal.
+
     - eng: lose head
       ru: потерять голову
+      example: Do not lose your head in an emergency.
+
     - eng: lose heart
       ru: падать духом
+      example: Do not lose heart, keep trying.
+
     - eng: lose, lost, lost
       ru: терять
+      example: She lost her phone yesterday.
+
     - eng: loss
       ru: потери; затухание
+      example: The loss of power caused a blackout.
+
     - eng: losses
       ru: убытки
+      example: The company reported heavy losses.
+
     - eng: lotta people live in ecologically endangered areas
-      ru: множество людей живет в экологически опасных районах
+      ru: множество людей живёт в экологически опасных районах
+      example: Lotta people live in ecologically endangered areas.
+
     - eng: lottery
       ru: лотерея
+      example: He won the lottery.
+
     - eng: lotto
       ru: лото
+      example: They play lotto every week.
+
     - eng: lotus
       ru: лотос
+      example: The lotus flower is a symbol of purity.
+
     - eng: loud
       ru: громкий
+      example: The music is too loud.
+
     - eng: loud and clear
       ru: чётко и ясно
+      example: I hear you loud and clear.
+
     - eng: loudly
       ru: громко
+      example: He spoke loudly to be heard.
+
     - eng: love
       ru: любить; любовь
+      example: I love my family.
+
     - eng: love of
       ru: любовь к
+      example: His love of music is obvious.
+
     - eng: lovely
       ru: отличный; восхитительный
+      example: What a lovely day.
+
     - eng: low
       ru: низкий; невысокий
+      example: The table is low.
+
     - eng: low neck
       ru: вырез
+      example: The dress has a low neck.
+
     - eng: low pair
       ru: нижняя пара
+      example: In poker, a low pair is not very strong.
+
     - eng: low poker
       ru: лоуболл
+      example: Low poker is a variant where the worst hand wins.
+
     - eng: low ponytail at the nape of the neck
       ru: низкий хвост на затылке
+      example: She wore a low ponytail at the nape of the neck.
+
     - eng: low post
       ru: самое близкое к кольцу пространство
+      example: The center player operates in the low post.
+
     - eng: low voltage (LV)
       ru: низкое напряжение
+      example: Low voltage systems are safe for home use.
+
     - eng: low voter turnout reflects our nation
       ru: низкая явка избирателей отражает нашу нацию
+      example: Low voter turnout reflects our nation's apathy.
+
     - eng: low-fat
       ru: низкое содержание жира
+      example: She drinks low-fat milk.
+
     - eng: low-key style
       ru: строгий (выдержанный) стиль
+      example: The actor prefers a low-key style.
+
     - eng: low-level
       ru: низкоуровневый
+      example: Assembly language is a low-level language.
+
     - eng: low-level language
       ru: язык низкого уровня
+      example: C is considered a low-level language.
+
     - eng: lowball
       ru: лоуболл
+      example: He made a lowball offer on the house.
+
     - eng: lowland
       ru: низина
+      example: The lowland is prone to flooding.
+
     - eng: loyalty
       ru: преданность
+      example: Her loyalty to the team is unquestionable.
+
     - eng: luck
       ru: удача
+      example: Good luck with your exam.
+
     - eng: lucky
       ru: удачливый; удачный
+      example: He is a lucky man.
+
     - eng: lucky at
-      ru: везучий в чем-то
+      ru: везучий в чём-то
+      example: She is lucky at cards.
+
     - eng: luge
       ru: санный спорт
+      example: Luge is a winter Olympic sport.
+
     - eng: luggage
       ru: багаж
+      example: We have too much luggage.
+
     - eng: luggage
       ru: багаж
+      example: The luggage was lost at the airport.
+
     - eng: luggage cart
       ru: ручная тележка для багажа
+      example: Use a luggage cart to carry your bags.
+
     - eng: luggage rack
       ru: багажник
+      example: Put your suitcase on the luggage rack.
+
     - eng: lullaby
       ru: колыбельная
+      example: The mother sang a lullaby to the baby.
+
     - eng: lump
-      ru: Глыба; кусок
+      ru: глыба; кусок
+      example: A lump of coal fell from the truck.
+
     - eng: lump of sugar
-      ru: Кусочек(сахара)
+      ru: кусочек (сахара)
+      example: He put a lump of sugar in his coffee.
+
     - eng: lunar
       ru: лунный
+      example: The lunar eclipse was visible at night.
+
     - eng: lunar Islamic calendar
       ru: лунный исламский календарь
+      example: Ramadan follows the lunar Islamic calendar.
+
     - eng: lunar observatory
       ru: лунная обсерватория
+      example: A lunar observatory would study the Moon.
+
     - eng: lunatic
-      ru: безумный,сумасшедший
+      ru: безумный, сумасшедший
+      example: Only a lunatic would try that.
+
     - eng: lunch
       ru: ланч; обед
+      example: Let us have lunch together.
+
     - eng: lung
-      ru: легкое
+      ru: лёгкое
+      example: Smoking damages the lungs.
+
     - eng: lung capacity
-      ru: емкость легких
+      ru: ёмкость лёгких
+      example: Swimmers have high lung capacity.
+
     - eng: lung fluid
       ru: бронхоальвеолярный секрет
+      example: Lung fluid can indicate infection.
+
     - eng: lung training
-      ru: тренировка легких
+      ru: тренировка лёгких
+      example: Lung training helps divers hold their breath.
+
     - eng: lung volume
-      ru: объем легкого
+      ru: объём лёгкого
+      example: Lung volume is measured with a spirometer.
+
     - eng: lungfish
       ru: двоякодышащая рыба
+      example: The lungfish can breathe air.
+
     - eng: lupus
       ru: волк
+      example: Canis lupus is the gray wolf.
+
     - eng: lurid
       ru: мертвенно-бледный
+      example: His face turned lurid.
+
     - eng: lurid
       ru: мертвенно-бледный
+      example: The lurid colour of the walls was unsettling.
+
     - eng: lust
       ru: похоть
+      example: Lust is one of the seven deadly sins.
+
     - eng: lustre
       ru: блеск
+      example: The diamond has a beautiful lustre.
+
     - eng: lute
       ru: лютня
+      example: The musician played a lute.
+
     - eng: lux (measure of light intensity)
       ru: люкс
+      example: The office lighting is 500 lux.
+
     - eng: luxurious
       ru: роскошный
+      example: They stayed in a luxurious hotel.
+
     - eng: luxury
       ru: роскошный
+      example: The car is a luxury model.
+
     - eng: lychee
       ru: личи
+      example: Lychee is a sweet tropical fruit.
+
     - eng: lymphatic
       ru: лимфатический
+      example: The lymphatic system fights infection.
+
     - eng: lynx
       ru: рысь
+      example: The lynx has tufted ears.
+
     - eng: lyre
       ru: лира
+      example: Orpheus played the lyre.
+
     - eng: lyric
       ru: лиричный; лирический
+      example: The song has beautiful lyrics.
+
     - eng: lyrical
       ru: лирический
+      example: His poetry is very lyrical.
+
     - eng: macaque
       ru: макака
+      example: The macaque is a type of monkey.
+
     - eng: macaroni
       ru: макароны
+      example: Macaroni and cheese is a popular dish.
+
     - eng: macaw
       ru: ара
+      example: The macaw has brightly coloured feathers.
+
     - eng: macchia
       ru: маккия
+      example: Macchia is a Mediterranean shrubland.
+
     - eng: mache
-      ru: Маше
+      ru: маше
+      example: Mache is a type of salad green.
+
     - eng: machete doesn't text machete improvises
       ru: мачете не пишет текст, мачете импровизирует
+      example: Machete doesn't text, machete improvises.
+
     - eng: machine
-      ru: машина, механизм; машина
+      ru: машина, механизм
+      example: The washing machine is broken.
+
     - eng: mackerel
       ru: скумбрия
+      example: Mackerel is rich in omega-3.
+
     - eng: macro lens
       ru: объектив для макросъёмки
+      example: A macro lens is great for photographing insects.
+
     - eng: mad
       ru: сумасшедший; безумный
+      example: He went mad after the loss.
+
     - eng: made it up to get rid of the competition
       ru: придумал это, чтобы избавиться от конкурентов
+      example: He made it up to get rid of the competition.
+
     - eng: madly
       ru: безумно
+      example: She is madly in love.
+
     - eng: madrigal
       ru: мадригал
+      example: The choir sang a madrigal.
+
     - eng: madrone
       ru: земляничник
+      example: The madrone tree has red bark.
+
     - eng: magazine
       ru: (периодический) журнал
+      example: She reads a fashion magazine.
+
     - eng: magi
       ru: волхвы
+      example: The three magi visited baby Jesus.
+
     - eng: magic
       ru: волшебство
+      example: The magician performed magic tricks.
+
     - eng: magma
       ru: магма
+      example: Magma rises from the Earth's mantle.
+
     - eng: magmatic
       ru: магматический
+      example: Magmatic rocks form from cooled magma.
+
     - eng: magna carta
       ru: великая хартия вольностей
+      example: Magna Carta was signed in 1215.
+
     - eng: magnet
       ru: магнит
+      example: The magnet attracts iron.
+
     - eng: magnetic
       ru: магнитный
+      example: The magnetic field is strong.
+
     - eng: magnetic energy
       ru: магнитная энергия
+      example: Magnetic energy powers the motor.
+
     - eng: magnetic field
       ru: магнитное поле
+      example: The Earth has a magnetic field.
+
     - eng: magnetite
       ru: магнетит
+      example: Magnetite is a magnetic mineral.
+
     - eng: magnificent
       ru: великолепный
+      example: The view from the mountain is magnificent.
+
     - eng: magnitude
       ru: величина
+      example: The magnitude of the earthquake was 7.0.
+
     - eng: magnolia
       ru: магнолия
+      example: The magnolia tree has large flowers.
+
     - eng: magpie
       ru: сорока
+      example: The magpie is known for collecting shiny objects.
+
     - eng: magus
       ru: волхв
+      example: The magus predicted the future.
+
     - eng: maid
       ru: горничная
+      example: The maid cleans the rooms.
+
     - eng: mail
       ru: почта
+      example: I received your mail.
+
     - eng: mail carrier
       ru: почтальон
+      example: The mail carrier delivers letters.
+
     - eng: mailing list
       ru: список рассылки
+      example: Join our mailing list for updates.
+
     - eng: mailing list
       ru: список рассылки
+      example: The mailing list has thousands of subscribers.
+
     - eng: mailshot
       ru: рекламная почтовая рассылка
+      example: The company sent a mailshot to customers.
+
     - eng: main
-      ru: главный; важнейший, основной; абсолютный; главный
+      ru: главный; важнейший, основной; абсолютный
+      example: The main reason is cost.
+
     - eng: main course
       ru: основное блюдо
+      example: For the main course, I ordered fish.
+
     - eng: main observatory
       ru: главная обсерватория
+      example: The main observatory is on the hilltop.
+
     - eng: main point
       ru: главный пункт
+      example: The main point of his speech was clear.
+
     - eng: main pot
       ru: основной банк
+      example: The main pot in poker was huge.
+
     - eng: main step-down substation (MSS)
       ru: главная понизительная подстанция (ГПП)
+      example: The main step-down substation supplies the city.
+
     - eng: maintain
       ru: обслуживать
+      example: He maintains his car regularly.
+
     - eng: maintenance
       ru: техническое обслуживание
+      example: The building needs maintenance.
+
     - eng: maize
       ru: кукуруза
+      example: Maize is grown for animal feed.
+
     - eng: major
       ru: главный; более важный
+      example: This is a major problem.
+
     - eng: major holiday
       ru: крупный праздник
+      example: Christmas is a major holiday.
+
     - eng: major subjects
       ru: профилирующие предметы
+      example: Her major subjects are math and science.
+
     - eng: majority
       ru: большинство
+      example: The majority voted yes.
+
     - eng: make
-      ru: создавать; делать (создавать); делать
+      ru: создавать; делать (создавать)
+      example: I will make dinner.
+
     - eng: make bed
       ru: заправлять постель
+      example: Make your bed before leaving.
+
     - eng: make a choice
       ru: сделать выбор
+      example: You need to make a choice.
+
     - eng: make a complaint
       ru: жаловаться
+      example: He made a complaint to the manager.
+
     - eng: make a decision
       ru: принимать решение
+      example: We need to make a decision today.
+
     - eng: make a difference
-      ru: Иметь разницу, иметь значение, существенно менять дело
+      ru: иметь разницу, иметь значение, существенно менять дело
+      example: One person can make a difference.
+
     - eng: make a list
       ru: составлять список
+      example: Make a list of groceries.
+
     - eng: make a living
       ru: зарабатывать на жизнь
+      example: She makes a living as a writer.
+
     - eng: make a mess
-      ru: Устраивать беспорядок
+      ru: устраивать беспорядок
+      example: Do not make a mess in the kitchen.
+
     - eng: make a mistake
-      ru: Сделать ошибку
+      ru: сделать ошибку
+      example: Everyone makes mistakes.
+
     - eng: make a phone call
       ru: позвонить
+      example: I need to make a phone call.
+
     - eng: make a profit
       ru: извлекать выгоду
+      example: The company made a profit this year.
+
     - eng: make a reservation
       ru: заказать, забронировать
-    - eng: make a reservation for a room -
+      example: Make a reservation at the restaurant.
+
+    - eng: make a reservation for a room
       ru: забронировать гостиничный номер
+      example: I will make a reservation for a room.
+
     - eng: make a speech
       ru: выступить с речью
+      example: The president made a speech.
+
     - eng: make a takeover bid
       ru: осуществить покупку при слиянии компаний, купить на аукционе
+      example: The firm made a takeover bid.
+
     - eng: make a will
       ru: сделать завещание
+      example: Everyone should make a will.
+
     - eng: make all the difference
       ru: совсем другое дело
+      example: A little help can make all the difference.
+
     - eng: make an amendment
       ru: внести поправку
+      example: They made an amendment to the law.
+
     - eng: make an appointment
       ru: договариваться о встрече
+      example: Make an appointment with the doctor.
+
     - eng: make an effort
       ru: приложить усилие
+      example: Please make an effort to be on time.
+
     - eng: make arrangements
       ru: организовать, подготовить
+      example: We need to make arrangements for the trip.
+
     - eng: make breakfast
       ru: сделать завтрак
+      example: She makes breakfast every morning.
+
     - eng: make copies
       ru: сделать копии
+      example: Make copies of the document.
+
     - eng: make friends with
       ru: подружиться
+      example: He made friends with his neighbour.
+
     - eng: make him suffer
       ru: заставь его страдать
+      example: Revenge made him suffer.
+
     - eng: make money
       ru: зарабатывать деньги
+      example: He wants to make money.
+
     - eng: make noise
       ru: шуметь
+      example: Do not make noise in the library.
+
     - eng: make one's bed
       ru: стелить постель
+      example: She makes her bed every day.
+
     - eng: make or break
       ru: пан или пропал
+      example: This exam is make or break for him.
+
     - eng: make out
       ru: понимать, различать, составлять, справляться
+      example: I cannot make out what he is saying.
+
     - eng: make plans
       ru: планировать
+      example: We are making plans for the weekend.
+
     - eng: make progress
       ru: делать успехи
+      example: She is making progress in English.
+
     - eng: make room
-      ru: Предоставить место для кого-то
+      ru: предоставить место для кого-то
+      example: Make room for the new furniture.
+
     - eng: make sense
       ru: имеет смысл
+      example: That explanation makes sense.
+
     - eng: make sure
-      ru: убедиться в чем-либо
+      ru: убедиться в чём-либо
+      example: Make sure the door is locked.
+
     - eng: make sure the white paint isn't contaminated
       ru: убедитесь, что белая краска не загрязнена
+      example: Make sure the white paint isn't contaminated before using it.
+
     - eng: make the air blue
-      ru: ругать на чем свет стоит
+      ru: ругать на чём свет стоит
+      example: He made the air blue when he saw the damage.
+
     - eng: make up
       ru: составлять, сочинять, компенсировать, краситься
+      example: She made up a story.
+
     - eng: make up one's mind
-      ru: Решиться
+      ru: решиться
+      example: I cannot make up my mind.
+
     - eng: make, made, made
       ru: делать, мастерить
+      example: He made a table from wood.
+
     - eng: make-up kit
       ru: косметичка
+      example: She carries a make-up kit in her bag.
+
     - eng: maker-up
       ru: верстальщик
+      example: The maker-up assembled the pages.
+
     - eng: makeup artist
       ru: визажист
+      example: The makeup artist prepared the actors.
+
     - eng: making models
       ru: делать модели
+      example: He enjoys making models of airplanes.
+
     - eng: making one's communion
       ru: причащение
+      example: Making one's communion is an important religious ceremony.
+
     - eng: making the transition from youth to adulthood
       ru: совершая переход от юности к взрослой жизни
+      example: Making the transition from youth to adulthood is challenging.
+
     - eng: malachite
       ru: малахит
+      example: Malachite is a green mineral.
+
     - eng: male
       ru: самец
+      example: The male bird has colourful feathers.
+
     - eng: malediction
       ru: проклятие
+      example: The witch uttered a malediction.
+
     - eng: mallets
       ru: молоточки
+      example: The xylophone is played with mallets.
+
     - eng: maltese
       ru: мальтиец; мальтийка
+      example: My friend is Maltese.
+
     - eng: mammal
       ru: млекопитающее
+      example: Whales are mammals.
+
     - eng: mammalian
       ru: отряд млекопитающих
+      example: Mammalian biology is complex.
+
     - eng: mammalogy
       ru: маммология
+      example: Mammalogy is the study of mammals.
+
     - eng: man
       ru: мужчина
+      example: A man is waiting outside.
+
     - eng: man to man
       ru: тип защиты, защищающийся кроет нападающего
+      example: The team played man to man defence.
+
     - eng: manage
       ru: руководить
+      example: She manages a team of ten people.
+
     - eng: management
       ru: управление
+      example: Good management is essential.
+
     - eng: management buy-out
       ru: выкуп группой менеджеров контрольного пакета акций
+      example: The management buy-out saved the company.
+
     - eng: management gave in due to walkout
       ru: руководство уступило из-за забастовки
+      example: Management gave in due to walkout by the workers.
+
     - eng: management intervention
       ru: вмешательство руководства
+      example: Management intervention resolved the conflict.
+
     - eng: management process
       ru: процесс управления
+      example: The management process involves planning and control.
+
     - eng: manager
       ru: менеджер
+      example: The manager hired new staff.
+
     - eng: mandarin juice
       ru: мандариновый сок
+      example: Mandarin juice is sweet and refreshing.
+
     - eng: mandarine
       ru: мандарин
+      example: She peeled a mandarine.
+
     - eng: manger
       ru: ясли
+      example: The baby Jesus lay in a manger.
+
     - eng: mango
       ru: манго
+      example: Mango is my favourite fruit.
+
     - eng: mango juice
       ru: манговый сок
+      example: He drank mango juice.
+
     - eng: mangosteen
       ru: мангостан
+      example: Mangosteen has a purple rind.
+
     - eng: mangrove
       ru: мангровое дерево
+      example: Mangroves grow in coastal swamps.
+
     - eng: mania
       ru: мания
+      example: He has a mania for collecting stamps.
+
     - eng: manila
       ru: манила
+      example: Manila is the capital of the Philippines.
+
     - eng: mankind
       ru: человечество
+      example: Mankind has made great progress.
+
     - eng: mannerism
       ru: маньеризм
+      example: His mannerisms are distinctive.
+
     - eng: mansard roof
       ru: крыша мансарды
+      example: The house has a mansard roof.
+
     - eng: manslaughter
       ru: убийство
+      example: He was convicted of manslaughter.
+
     - eng: mantelpiece
       ru: каминная полка
+      example: The clock is on the mantelpiece.
+
     - eng: mantle
       ru: мантия
+      example: The Earth's mantle is beneath the crust.
+
     - eng: manufactured goods
       ru: товары промышленного производства
+      example: The country exports manufactured goods.
+
     - eng: manuscript
       ru: рукопись
+      example: The manuscript was written in 1850.
+
     - eng: many
       ru: многие; много
+      example: Many people attended the concert.
+
     - eng: many are reactionary polities
       ru: многие из них являются реакционными политиками
+      example: Many are reactionary polities that resist change.
+
     - eng: many, more, the most
       ru: много, больше, больше всего (исчислимое)
+      example: She has the most books in the class.
+
     - eng: map
       ru: карта
+      example: Look at the map to find the route.
+
     - eng: maple
       ru: клён
+      example: Maple leaves turn red in autumn.
+
     - eng: maple syrup
       ru: кленовый сироп
-    - eng: marathone race
+      example: Pancakes with maple syrup are delicious.
+
+    - eng: marathon race
       ru: марафонский бег
+      example: He trained for the marathon race.
+
     - eng: marble
       ru: мрамор
+      example: The statue is made of marble.
+
     - eng: mare
       ru: пятно
+      example: The horse has a dark mare on its back.
+
     - eng: margarine
       ru: маргарин
+      example: Use margarine instead of butter.
+
     - eng: marigold
       ru: ноготки
+      example: Marigolds are bright orange flowers.
+
     - eng: marinated mushrooms
       ru: маринованные грибы
+      example: Marinated mushrooms are a great appetizer.
+
     - eng: marine
       ru: флот
+      example: He served in the marine corps.
+
     - eng: marine biology
       ru: морская биология
+      example: Marine biology studies ocean life.
+
     - eng: marine force
       ru: военно-морские силы
+      example: The marine force protects the coast.
+
     - eng: marital status
-      ru: Семейное положение
+      ru: семейное положение
+      example: Please indicate your marital status.
+
     - eng: marjoram
       ru: майоран
+      example: Add marjoram to the sauce.
+
     - eng: mark
       ru: марка
+      example: The mark on the wall is a stain.
+
     - eng: mark as read
       ru: отметить как прочитанное
+      example: Mark the email as read.
+
     - eng: mark my words
       ru: запомните мои слова
+      example: Mark my words, he will succeed.
+
     - eng: marker
       ru: маркер
+      example: Use a marker to write on the board.
+
     - eng: market
       ru: рынок
+      example: The market is busy on Saturdays.
+
     - eng: market value
       ru: рыночная стоимость
+      example: The market value of the house increased.
+
     - eng: marketing capability
       ru: потенциал рынка
+      example: The company's marketing capability is strong.
+
     - eng: marketing manager
       ru: менеджер по маркетингу
+      example: The marketing manager launched a campaign.
+
     - eng: marlin
       ru: марлин
+      example: Marlin is a large fish found in the ocean.
+
     - eng: marmalade
       ru: повидло; мармелад
+      example: He spread marmalade on his toast.
+
     - eng: marmoset
       ru: мартышка
+      example: The marmoset is a small monkey.
+
     - eng: marmot
       ru: сурок
+      example: The marmot whistled to warn others.
+
     - eng: marriage
       ru: брак
+      example: Their marriage lasted fifty years.
+
     - eng: marriage lines
       ru: свидетельство о браке
+      example: They showed their marriage lines to the official.
+
     - eng: marriage of convenience
-      ru: брак по расчету
+      ru: брак по расчёту
+      example: Their marriage was a marriage of convenience.
+
     - eng: marriage of unequals
       ru: неравный брак
+      example: The novel is about a marriage of unequals.
+
     - eng: marriage stone
-      ru: камень брака(каменная перемычка с датой брака)
+      ru: камень брака (каменная перемычка с датой брака)
+      example: The marriage stone is above the fireplace.
+
     - eng: marry
       ru: жениться
+      example: He wants to marry her.
+
     - eng: mars
       ru: марс
+      example: Mars is the fourth planet from the Sun.
+
     - eng: marshal
       ru: маршал
+      example: The marshal led the parade.
+
     - eng: marten
       ru: куница
+      example: The marten lives in forests.
+
     - eng: martial art
       ru: единоборство
+      example: Karate is a martial art.
+
     - eng: martin
       ru: городская ласточка
+      example: The martin built a nest under the eaves.
+
     - eng: martyr
       ru: мученик
+      example: The martyr died for his beliefs.
+
     - eng: martyrdom
       ru: мученичество
+      example: Martyrdom is honored in many religions.
+
     - eng: masala chai
       ru: чай со специями
+      example: Masala chai is a spiced tea.
+
     - eng: masculine
       ru: мужской
+      example: The word has a masculine gender.
+
     - eng: mash
       ru: разминать
+      example: Mash the potatoes with butter.
+
     - eng: mash the bananas to a pulp
-      ru: Разомните бананы в пюре
+      ru: разомните бананы в пюре
+      example: Mash the bananas to a pulp for the cake.
+
     - eng: mashed potatoes
       ru: картофельное пюре
+      example: Mashed potatoes are a comfort food.
+
     - eng: mask
       ru: маска
+      example: Wear a mask to protect yourself.
+
     - eng: masque
       ru: театр масок
+      example: The court performed a masque.
+
     - eng: mass
       ru: масса
+      example: The mass of the object is 5 kg.
+
     - eng: masseur
       ru: массажист
+      example: The masseur relieved his back pain.
+
     - eng: massive windows
       ru: массивные окна
+      example: The building has massive windows.
+
     - eng: mast
       ru: мачта
+      example: The flag flew from the mast.
+
     - eng: master
       ru: хозяин; капитан
+      example: The master of the house welcomed us.
+
     - eng: master's degree
       ru: степень магистра
+      example: She earned a master's degree in economics.
+
     - eng: masterpiece
       ru: шедевр
     - eng: mastersinger
