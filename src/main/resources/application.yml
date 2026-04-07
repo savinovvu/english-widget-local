@@ -28195,19 +28195,30 @@ app.words:
       ru: докопаться до
       example: The archaeologists had to dig down to reach the ancient city
 
-
     - eng: dig, dug, dug
       ru: копать
+      example: He dug a hole in the sand yesterday.
+
     - eng: digestion
       ru: пищеварение
+      example: A healthy diet improves digestion.
+
     - eng: digestive problems
       ru: проблемы с пищеварением
+      example: Spicy food can cause digestive problems.
+
     - eng: digit
       ru: цифра
+      example: Enter a six-digit code to unlock the device.
+
     - eng: digital
       ru: цифровой
+      example: The library offers digital copies of old books.
+
     - eng: digital
       ru: цифровой
+      example: Most cameras today are digital.
+
     - eng: digital analysis
       ru: цифровой анализ
     - eng: digital camera back
