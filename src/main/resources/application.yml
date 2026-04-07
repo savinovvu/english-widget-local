@@ -42925,1132 +42925,2260 @@ app.words:
 
     - eng: it was too muggy for me to get to sleep
       ru: было слишком душно, чтобы я мог заснуть
+      example: It was too muggy for me to get to sleep last night.
+
     - eng: it was unwise to argue
       ru: спорить было неразумно
+      example: It was unwise to argue with the angry boss.
+
     - eng: it was volcano eruption
       ru: это было извержение вулкана
+      example: It was a volcano eruption that destroyed the village.
+
     - eng: it will be a calamity for farmers if the crops fail again
       ru: если урожай снова будет неурожайным, это станет бедствием для фермеров
+      example: It will be a calamity for farmers if the crops fail again this year.
+
     - eng: it will take a while
-      ru: это займет некоторое время
+      ru: это займёт некоторое время
+      example: The repair will take a while, please be patient.
+
     - eng: it would be too assuming
       ru: это было бы слишком самонадеянно
+      example: It would be too assuming to think I will get the job.
+
     - eng: it wouldn't be intelligent to provoke her
-      ru: было бы неразумно провоцировать ее
+      ru: было бы неразумно провоцировать её
+      example: It wouldn't be intelligent to provoke her when she is angry.
+
     - eng: it's a cut-throat environment these days
       ru: в наши дни это жестокая среда
+      example: The business world is a cut-throat environment these days.
+
     - eng: it's a little pricey
       ru: это немного дорого
+      example: The jacket is nice, but it is a little pricey.
+
     - eng: it's a multistory building
       ru: это многоэтажное здание
+      example: The office is in a multistory building downtown.
+
     - eng: it's a no-brainer that she got the promotion
       ru: нет ничего удивительного в том, что она получила повышение
+      example: It is a no-brainer that she got the promotion, she works so hard.
+
     - eng: it's a nuisance that there's no hot water
-      ru: Досадно, что нет горячей воды
+      ru: досадно, что нет горячей воды
+      example: It is a nuisance that there is no hot water this morning.
+
     - eng: it's a relic from the nineteenth century
       ru: это реликвия девятнадцатого века
+      example: This clock is a relic from the nineteenth century.
+
     - eng: it's a satire of my entire life
-      ru: Это сатира всей моей жизни
+      ru: это сатира всей моей жизни
+      example: The novel is a satire of my entire life.
+
     - eng: it's a small world
       ru: мир тесен
-    - eng: it's a triffle
+      example: We met again in Paris? It is a small world.
+
+    - eng: it's a trifle
       ru: это пустяк
-    - eng: it's a viable alterntive
+      example: Do not worry about the cost, it is a trifle.
+
+    - eng: it's a viable alternative
       ru: это жизнеспособная альтернатива
+      example: Solar power is a viable alternative to coal.
+
     - eng: it's a widely accepted definition
       ru: это общепринятое определение
+      example: This is a widely accepted definition of democracy.
+
     - eng: it's always on the blink, isn't it
       ru: это всегда происходит в мгновение ока, не так ли
+      example: The TV is always on the blink, is not it?
+
     - eng: it's an amazing sight
       ru: это удивительное зрелище
+      example: The Grand Canyon is an amazing sight.
+
     - eng: it's an inside joke
       ru: это шутка для своих
+      example: Do not worry if you do not understand, it is an inside joke.
+
     - eng: it's difficult to earn a livelihood as an artist
       ru: художнику трудно зарабатывать на жизнь
+      example: It is difficult to earn a livelihood as an artist.
+
     - eng: it's difficult to forgive anyone for cruelty
       ru: трудно простить кого-либо за жестокость
+      example: It is difficult to forgive anyone for cruelty.
+
     - eng: it's difficult to infiltrate the network
       ru: это сложно попасть в сеть
-    - eng: it's easy to pardon you for forgetfullness, but not for rudeness
+      example: The system is secure, it is difficult to infiltrate the network.
+
+    - eng: it's easy to pardon you for forgetfulness, but not for rudeness
       ru: вас легко простить за забывчивость, но не за грубость
+      example: It is easy to pardon you for forgetfulness, but not for rudeness.
+
     - eng: it's forgivable from a personal standpoint, but this is my life
       ru: это простительно с личной точки зрения, но это моя жизнь
+      example: It is forgivable from a personal standpoint, but this is my life at stake.
+
     - eng: it's good omen for the future
       ru: это хорошее предзнаменование на будущее
+      example: The new contract is a good omen for the future.
+
     - eng: it's good time to watch series
       ru: самое время посмотреть сериал
+      example: It is a good time to watch series, the rain is falling.
+
     - eng: it's hangout time
       ru: пришло время тусовки
+      example: School is over, it is hangout time.
+
     - eng: it's hard to rein it
       ru: это трудно обуздать
+      example: His temper is explosive; it is hard to rein it.
+
     - eng: it's harmless
       ru: это безвредно
+      example: The spider is harmless, do not kill it.
+
     - eng: it's highly likely that employees will continue to work remotely
-      ru: весьма вероятно, что сотрудники продолжат работать удаленно
+      ru: весьма вероятно, что сотрудники продолжат работать удалённо
+      example: It is highly likely that employees will continue to work remotely.
+
     - eng: it's imperative to meet face to face
       ru: крайне важно встретиться лицом к лицу
+      example: For this negotiation, it is imperative to meet face to face.
+
     - eng: it's in a stable condition
       ru: он находится в стабильном состоянии
+      example: The patient is in a stable condition after surgery.
+
     - eng: it's just a schoolgirl crush
-      ru: это просто школьная влюбленность
+      ru: это просто школьная влюблённость
+      example: Do not worry, it is just a schoolgirl crush, not real love.
+
     - eng: it's just a small stretch of waterfront near the pier
       ru: это всего лишь небольшой участок набережной рядом с пирсом
+      example: It is just a small stretch of waterfront near the pier.
+
     - eng: it's just placid discussion
       ru: это просто спокойная дискуссия
+      example: We are not arguing, it is just placid discussion.
+
     - eng: it's movable asset
       ru: это движимое имущество
+      example: The car is a movable asset.
+
     - eng: it's not directly asserted, but it seems to be implied
       ru: это прямо не утверждается, но, похоже, подразумевается
+      example: It is not directly asserted, but it seems to be implied.
+
     - eng: it's quieter
       ru: так спокойнее
+      example: After the children left, it is quieter.
+
     - eng: it's rather pungent
-      ru: Это довольно резко
+      ru: это довольно резко
+      example: The cheese is rather pungent, but I like it.
+
     - eng: it's required to form a federation
       ru: это необходимо для создания федерации
+      example: A constitution is required to form a federation.
+
     - eng: it's riveting adventure story
       ru: это захватывающая приключенческая история
+      example: The film is a riveting adventure story.
+
     - eng: it's sea of turgid practicality
       ru: это море напыщенной практичности
+      example: The report is a sea of turgid practicality with no vision.
+
     - eng: it's sheer trash
       ru: это сущий вздор
+      example: His argument is sheer trash.
+
     - eng: it's time to get up
-      ru: Пора вставать
+      ru: пора вставать
+      example: The alarm rang, it is time to get up.
+
     - eng: it's time to grab a bite at the coffee shop
       ru: самое время перекусить в кофейне
+      example: It is time to grab a bite at the coffee shop before the meeting.
+
     - eng: it's time to pay the price
       ru: пришло время заплатить за это
+      example: You made a mistake, now it is time to pay the price.
+
     - eng: it's up to you
-      ru: Это зависит от вас
+      ru: это зависит от вас
+      example: You can decide; it is up to you.
+
     - eng: it's very stiff competition these days
-      ru: в наши дни очень жесткая конкуренция
+      ru: в наши дни очень жёсткая конкуренция
+      example: Getting into a top university is very stiff competition these days.
+
     - eng: it's very stupid to argue about politics
       ru: очень глупо спорить о политике
+      example: It is very stupid to argue about politics at dinner.
+
     - eng: it's worth
       ru: это стоит того
+      example: The effort is worth it.
+
     - eng: itchy
       ru: зудящий
+      example: The mosquito bite is itchy.
+
     - eng: item
       ru: пункт
+      example: The first item on the list is bread.
+
     - eng: item of the agenda
       ru: пункт повестки дня
+      example: The next item of the agenda is budget planning.
+
     - eng: item of the agenda
-      ru: пункт, включенный в повестку дня
+      ru: пункт, включённый в повестку дня
+      example: Each item of the agenda was discussed thoroughly.
+
     - eng: iteration
       ru: итерация
+      example: The software is improved with each iteration.
+
     - eng: itinerary
       ru: маршрут
+      example: Our itinerary includes visits to three cities.
+
     - eng: its
       ru: его
+      example: The cat licked its paw.
+
     - eng: itself
       ru: само
+      example: The problem solved itself.
+
     - eng: ivory
       ru: слоновая кость
+      example: The piano keys are made of ivory.
+
     - eng: jab step
-      ru: приём в нападении заключающийся в быстром перемещении ноги заставляющим защитника сместиться в попытке защитить путь к кольцу
+      ru: приём в нападении, заключающийся в быстром перемещении ноги, заставляющем защитника сместиться в попытке защитить путь к кольцу
+      example: The player used a jab step to fake out the defender.
+
     - eng: jabot
       ru: жабо
+      example: The shirt had a lace jabot.
+
     - eng: jack
       ru: домкрат
+      example: Use the jack to lift the car.
+
     - eng: jackal
       ru: шакал
+      example: The jackal howled in the night.
+
     - eng: jackboots
       ru: ботфорты
+      example: The soldiers wore black jackboots.
+
     - eng: jackdaw
       ru: галка
+      example: A jackdaw stole my shiny button.
+
     - eng: jacket
       ru: куртка
+      example: Put on your jacket, it is cold outside.
+
     - eng: jackfish
       ru: щука
+      example: Jackfish are aggressive predators.
+
     - eng: jackfruit
       ru: джекфрут
+      example: Jackfruit is the largest tree fruit in the world.
+
     - eng: jacks or better to open
       ru: валеты или выше
+      example: In this poker game, you need jacks or better to open.
+
     - eng: jacks-and-back
       ru: валеты и ниже
+      example: The jacks-and-back rule applies in some poker variations.
+
     - eng: jade
       ru: нефрит
+      example: The statue is carved from green jade.
+
     - eng: jaguar
       ru: ягуар
+      example: The jaguar is a powerful predator.
+
     - eng: jail
       ru: тюрьма
+      example: The thief was sent to jail.
+
     - eng: jail sentence
       ru: тюремное заключение
+      example: He received a ten-year jail sentence.
+
     - eng: jakarta
       ru: Джакарта
+      example: Jakarta is the capital of Indonesia.
+
     - eng: jalousie
       ru: жалюзи
+      example: The jalousie blocked the sunlight.
+
     - eng: jam
       ru: варенье
+      example: Spread strawberry jam on the bread.
+
     - eng: jamaica
       ru: Ямайка
+      example: Jamaica is famous for its beaches.
+
     - eng: janitor
       ru: уборщик
+      example: The janitor cleans the school at night.
+
     - eng: japan
       ru: Япония
+      example: Japan is known for its technology.
+
     - eng: jar
       ru: банка
+      example: The jam is in a glass jar.
+
     - eng: jasmin(e)
       ru: жасмин
+      example: Jasmine flowers have a sweet scent.
+
     - eng: jasmine
       ru: жасмин
+      example: Jasmine tea is very aromatic.
+
     - eng: jasmine tea
       ru: жасминовый чай
+      example: I drink jasmine tea in the afternoon.
+
     - eng: javelin-throwing
       ru: метание копья
+      example: Javelin-throwing is an Olympic sport.
+
     - eng: jaw
       ru: челюсть
+      example: He broke his jaw in the fight.
+
     - eng: jay
       ru: сойка
+      example: A blue jay landed on the feeder.
+
     - eng: jazz
       ru: джаз
+      example: Jazz music originated in New Orleans.
+
     - eng: jealous
       ru: ревнивый
+      example: He is jealous of his friend's success.
+
     - eng: jealousy
       ru: ревность
+      example: Jealousy destroyed their relationship.
+
     - eng: jean cloth
-      ru: Джинса
+      ru: джинса
+      example: Jean cloth is durable and strong.
+
     - eng: jeans
       ru: джинсы
+      example: She wore blue jeans to the party.
+
     - eng: jeans
       ru: джинсы
+      example: These jeans are too tight.
+
     - eng: jeep
       ru: джип
+      example: They drove a jeep through the desert.
+
     - eng: jeopardize
       ru: подвергать опасности
+      example: Do not jeopardize your career for a small gain.
+
     - eng: jerboa
       ru: тушканчик
+      example: The jerboa has long hind legs for jumping.
+
     - eng: jerk
       ru: придурок, болван
+      example: That driver is a real jerk.
+
     - eng: jerusalem
       ru: Иерусалим
+      example: Jerusalem is a holy city for three religions.
+
     - eng: jesus
       ru: Иисус
+      example: Jesus is a central figure in Christianity.
+
     - eng: jet
       ru: реактивный самолёт
+      example: The jet flew overhead at high speed.
+
     - eng: jet bridge
       ru: телетрап
+      example: Passengers walked through the jet bridge to board.
+
     - eng: jet fuel
       ru: топливо для реактивных двигателей
+      example: Jet fuel is a type of kerosene.
+
     - eng: jetty
       ru: пристань
+      example: The boat tied up at the jetty.
+
     - eng: jetway
       ru: телетрап
+      example: The jetway connected the gate to the plane.
+
     - eng: jewel
       ru: сокровище
+      example: This painting is a jewel of the collection.
+
     - eng: jeweller
       ru: ювелир
+      example: The jeweller repaired my ring.
+
     - eng: jeweller's
       ru: ювелирный магазин
+      example: She bought earrings at the jeweller's.
+
     - eng: jewellery
       ru: драгоценности
+      example: Her jewellery is made of gold.
+
     - eng: jibbing
       ru: катание по перилам
+      example: Jibbing is a popular snowboard trick.
+
     - eng: jihad
       ru: джихад
+      example: The concept of jihad has many interpretations.
+
     - eng: jingle
       ru: запоминающаяся мелодия с короткой простой фразой, используемая для продвижения товара
+      example: The commercial had a catchy jingle.
+
     - eng: jinx
       ru: проклятие
+      example: He believed the broken mirror brought a jinx.
+
     - eng: job
       ru: работа
+      example: She found a job as a teacher.
+
     - eng: job enrichment
       ru: расширение должностных обязанностей
+      example: Job enrichment increases employee satisfaction.
+
     - eng: job interview
       ru: собеседование
+      example: I have a job interview tomorrow.
+
     - eng: jockey
       ru: жокей
+      example: The jockey rode the horse to victory.
+
     - eng: jogging
-      ru: Бег трусцой
+      ru: бег трусцой
+      example: Jogging is good for cardiovascular health.
+
     - eng: jogging suit
       ru: спортивный костюм (для пробежек)
+      example: He wore a jogging suit to the park.
+
     - eng: join
       ru: присоединяться; соединять
+      example: Join the two pieces with glue.
+
     - eng: joins and closures must be waterproof
       ru: соединения и затворы должны быть водонепроницаемыми
+      example: For the pipe system, joins and closures must be waterproof.
+
     - eng: joint
       ru: сустав
+      example: My knee joint hurts.
+
     - eng: joint account
-      ru: общий счет
+      ru: общий счёт
+      example: They opened a joint account after marriage.
+
     - eng: jointed-footed animals
       ru: членистоногие
+      example: Insects are jointed-footed animals.
+
     - eng: jointing
       ru: трещиноватость
+      example: The rock showed signs of jointing.
+
     - eng: joke
       ru: шутить
+      example: He likes to joke about everything.
+
     - eng: jota
       ru: хота
+      example: The jota is a traditional Spanish dance.
+
     - eng: journalism
       ru: журналистика
+      example: She studied journalism at university.
+
     - eng: journalist
       ru: журналист
+      example: The journalist reported the news.
+
     - eng: journalize
       ru: заниматься журналистикой
+      example: He started to journalize for the local paper.
+
     - eng: journey
       ru: путешествие
+      example: The journey across the country took three days.
+
     - eng: joy
       ru: радость
+      example: The children were filled with joy.
+
     - eng: ju-jitsu
       ru: джиу-джитсу
+      example: Ju-jitsu focuses on grappling and throws.
+
     - eng: jubilant
       ru: ликующий
+      example: The fans were jubilant after the win.
+
     - eng: jubilant
       ru: ликующий
+      example: She gave a jubilant cheer.
+
     - eng: jubilation
       ru: ликование
+      example: Jubilation filled the stadium.
+
     - eng: judaism
       ru: иудаизм
+      example: Judaism is one of the oldest monotheistic religions.
+
     - eng: judge
       ru: судить
+      example: Do not judge a book by its cover.
+
     - eng: judges tower
       ru: судейская вышка
+      example: The judges sat in the judges tower to watch the race.
+
     - eng: judgment
       ru: решение суда
+      example: The judgment was in favour of the plaintiff.
+
     - eng: judicial
       ru: законный
+      example: The judicial system is independent.
+
     - eng: judo
       ru: дзюдо
+      example: Judo is a martial art from Japan.
+
     - eng: jug
       ru: кувшин
+      example: Pour the water from the jug.
+
     - eng: juice
       ru: сок
+      example: Orange juice is rich in vitamin C.
+
     - eng: juice squeezer
       ru: соковыжималка
+      example: Use the juice squeezer to make fresh juice.
+
     - eng: juicer
       ru: соковыжималка
+      example: The juicer is easy to clean.
+
     - eng: jujube
       ru: китайский финик; мармелад
+      example: Jujube fruits taste like dates.
+
     - eng: jump
       ru: прыгать
+      example: The cat can jump very high.
+
     - eng: jumper
       ru: перемычка
+      example: The technician installed a jumper on the circuit board.
+
     - eng: jumping hill
       ru: лыжный трамплин
+      example: The ski jumper flew off the jumping hill.
+
     - eng: jumping suit
       ru: комбинезон
+      example: The skydiver wore a jumping suit.
+
     - eng: jumpstop
       ru: прыжок с двух ног с целью броска, совершаемый после ведения мяча
+      example: He performed a jumpstop before shooting.
+
     - eng: jumpsuit
       ru: спортивный костюм
+      example: She wore a blue jumpsuit.
+
     - eng: jungle
       ru: джунгли
+      example: The jungle is full of wildlife.
+
     - eng: junior reporter
-      ru: помощник репортера
+      ru: помощник репортёра
+      example: The junior reporter assisted with research.
+
     - eng: juniper
       ru: можжевельник
+      example: Juniper berries are used to flavour gin.
+
     - eng: juniper berry
       ru: можжевеловая ягода
+      example: Juniper berries are small and purple.
+
     - eng: junk food
       ru: фастфуд; нездоровая пища
+      example: Eating too much junk food is unhealthy.
+
     - eng: jupiter
-      ru: Юпитер
+      ru: юпитер
+      example: Jupiter is the largest planet in our solar system.
+
     - eng: jurisprudence
       ru: юриспруденция
+      example: He studied jurisprudence at Oxford.
+
     - eng: jurist
       ru: юрист
+      example: The jurist wrote a book on constitutional law.
+
     - eng: juror
       ru: присяжный
+      example: The juror listened carefully to the evidence.
+
     - eng: jury
       ru: суд присяжных
+      example: The jury found the defendant guilty.
+
     - eng: jury box
       ru: скамья присяжных
+      example: The jurors sat in the jury box.
+
     - eng: just
       ru: точно; только; только что; как раз
+      example: I just finished my homework.
+
     - eng: justice
       ru: правосудие
+      example: Everyone deserves justice.
+
     - eng: justice of the peace
       ru: мировой судья
+      example: The justice of the peace officiated the wedding.
+
     - eng: justify
       ru: выравнивать
+      example: Justify the text to align both margins.
+
     - eng: justly
       ru: справедливо
+      example: He was justly punished for his crime.
+
     - eng: juvenile
       ru: молодой
+      example: Juvenile offenders are treated differently.
+
     - eng: juvenile court
       ru: суд по делам несовершеннолетних
+      example: The case was heard in juvenile court.
+
     - eng: juxtaposition
       ru: размещение рядом
+      example: The juxtaposition of colours created a striking effect.
+
     - eng: kabul
       ru: кабул
+      example: Kabul is the capital of Afghanistan.
+
     - eng: kale
       ru: листовая капуста
+      example: Kale is a healthy leafy green vegetable.
+
     - eng: kama
       ru: кама
+      example: The Kama is a traditional tool.
+
     - eng: kangaroo
       ru: кенгуру
+      example: The kangaroo hopped across the field.
+
     - eng: kaolin
       ru: каолин
+      example: Kaolin is used to make porcelain.
+
     - eng: karate
       ru: карате
+      example: Karate teaches self-defence.
+
     - eng: karate
       ru: карате
+      example: He has a black belt in karate.
+
     - eng: karma
       ru: карма
+      example: He believes that good deeds bring good karma.
+
     - eng: karst
       ru: карст
+      example: Karst landscapes have caves and sinkholes.
+
     - eng: kayaking
-      ru: Каякинг
+      ru: каякинг
+      example: Kayaking on the river is fun.
+
     - eng: kazakh
       ru: казах, казашка
+      example: My friend is a Kazakh from Almaty.
+
     - eng: keep
       ru: продолжать; держать
+      example: Keep going, do not stop.
+
     - eng: keep a low profile
-      ru: не высовываться; держаться в тени, вести себя крайне сдрежанно
+      ru: не высовываться; держаться в тени, вести себя крайне сдержанно
+      example: After the scandal, he decided to keep a low profile.
+
     - eng: keep a promise
-      ru: Сдержать обещание
+      ru: сдержать обещание
+      example: You should always keep a promise.
+
     - eng: keep a secret
-      ru: Сохранить в секрете
+      ru: сохранить в секрете
+      example: Can you keep a secret?
+
     - eng: keep a straight face
       ru: сохранять невозмутимый вид; удерживаться от смеха
+      example: It was hard to keep a straight face during the joke.
+
     - eng: keep an eye on
       ru: следить за
+      example: Keep an eye on the baby while I cook.
+
     - eng: keep awake
       ru: бодрствовать
+      example: Coffee helps me keep awake at night.
+
     - eng: keep away
       ru: избегать
+      example: Keep away from the edge of the cliff.
+
     - eng: keep calm
       ru: сохранять спокойствие
+      example: Keep calm and carry on.
+
     - eng: keep in custody
       ru: заключать под стражу
+      example: The police will keep the suspect in custody.
+
     - eng: keep in touch
       ru: поддерживать контакт
+      example: Let us keep in touch after graduation.
+
     - eng: keep on
       ru: продолжать
+      example: Keep on working until you finish.
+
     - eng: keep one's chin up
       ru: не вешать нос
+      example: Keep your chin up, things will get better.
+
     - eng: keep one's feet on the ground
       ru: быть реалистом
+      example: Despite his fame, he keeps his feet on the ground.
+
     - eng: keep one's shirt on
       ru: сохранять спокойствие
+      example: Keep your shirt on, I will be there soon.
+
     - eng: keep the change
       ru: оставьте сдачу себе
+      example: The fare is three dollars, keep the change.
+
     - eng: keep up
       ru: не отставать, продолжать, поддерживать
+      example: Walk slower, I cannot keep up.
+
     - eng: keep your passport in a secure place
-      ru: храните свой паспорт в надежном месте
+      ru: храните свой паспорт в надёжном месте
+      example: Keep your passport in a secure place when travelling.
+
     - eng: keep, kept, kept
       ru: содержать, поддерживать
+      example: She kept the room tidy.
+
     - eng: kerchief
       ru: платок (головной)
+      example: She wore a red kerchief on her head.
+
     - eng: ketchup
       ru: кетчуп
+      example: Do you want ketchup with your fries?
+
     - eng: kettle
       ru: чайник
+      example: The kettle is boiling.
+
     - eng: kettledrum
-      ru: Литавра
+      ru: литавра
+      example: The orchestra included a kettledrum.
+
     - eng: key
       ru: ключ; трапеция в мировом баскетболе
+      example: The key is in the lock.
+
     - eng: key issue
       ru: основной вопрос
+      example: The key issue is funding.
+
     - eng: key nutrients
       ru: ключевые питательные вещества
+      example: Vitamins and minerals are key nutrients.
+
     - eng: key performance indicators
       ru: основные показатели производительности
+      example: The manager tracks key performance indicators.
+
     - eng: key point
       ru: ключевой пункт
+      example: Let me summarize the key points.
+
     - eng: key words
       ru: ключевые слова
+      example: Search for key words in the document.
+
     - eng: key-note
       ru: основная мысль
+      example: The key-note of his speech was hope.
+
     - eng: keyboard
       ru: клавиатура
+      example: My keyboard has backlit keys.
+
     - eng: keyboard instruments
       ru: клавишные инструменты
+      example: Piano and organ are keyboard instruments.
+
     - eng: keyhole columnist
       ru: журналист скандальной хроники
+      example: The keyhole columnist revealed celebrity secrets.
+
     - eng: keystone
       ru: замковый камень
+      example: The keystone holds the arch together.
+
     - eng: khartoum
-      ru: Хартум
+      ru: хартум
+      example: Khartoum is the capital of Sudan.
+
     - eng: khatib
       ru: хатыб
+      example: The khatib delivered the Friday sermon.
+
     - eng: kick
       ru: удар; пинать
+      example: He kicked the ball into the goal.
+
     - eng: kick turn
       ru: поворот прыжком
+      example: The skier performed a kick turn on the slope.
+
     - eng: kickboxing
       ru: кикбоксинг
+      example: Kickboxing is a full-contact sport.
+
     - eng: kid
-      ru: ребёнок, малыш (разг.); ребёнок
+      ru: ребёнок, малыш (разг.)
+      example: The kids are playing in the yard.
+
     - eng: kidnapping
       ru: похищение человека с целью выкупа
+      example: Kidnapping is a serious crime.
+
     - eng: kidney
       ru: почка
+      example: The kidney filters waste from the blood.
+
     - eng: kidvid
       ru: телевидение для детей
+      example: Kidvid programmes are educational and fun.
+
     - eng: kill
       ru: убивать
+      example: Do not kill the spider, put it outside.
+
     - eng: kill two birds with one stone
       ru: убить двух зайцев одним ударом
+      example: I can shop and visit you, killing two birds with one stone.
+
     - eng: kilometer
       ru: километр
+      example: The town is ten kilometers away.
+
     - eng: kiloparsec
       ru: килопарсек
+      example: Astronomers measure distances in kiloparsecs.
+
     - eng: kilowatt-hour
       ru: киловатт-час
+      example: The electricity bill is based on kilowatt-hours.
+
     - eng: kimberlite
       ru: кимберлит
+      example: Diamonds are found in kimberlite pipes.
+
     - eng: kimono
       ru: кимоно
+      example: She wore a silk kimono.
+
     - eng: kin
       ru: родственники
+      example: All my kin came to the reunion.
+
     - eng: kind
       ru: добрый; добрый, любезный, сердечный
+      example: She is a kind person.
+
     - eng: kind act
       ru: доброе дело
+      example: Helping the old man was a kind act.
+
     - eng: kind to
-      ru: хорошо относиться к чему/кому- либо
+      ru: хорошо относиться к чему/кому-либо
+      example: Be kind to animals.
+
     - eng: kindergart(e)ner
       ru: воспитатель
+      example: The kindergartener read a story to the children.
+
     - eng: kindergarten
       ru: детский сад
+      example: My son goes to kindergarten.
+
     - eng: kindergarten teacher
-      ru: воспитатель детского сада; воспитатель
+      ru: воспитатель детского сада
+      example: The kindergarten teacher organised a play.
+
     - eng: kindly
       ru: любезно
+      example: She kindly offered to help.
+
     - eng: kindness
       ru: доброта
+      example: Kindness costs nothing.
+
     - eng: kinetic
       ru: кинетический
+      example: Kinetic energy is the energy of motion.
+
     - eng: kinetic art
       ru: кинетическое искусство
+      example: Kinetic art includes moving sculptures.
+
     - eng: kinetic energy
       ru: кинетическая энергия
+      example: A moving car has kinetic energy.
+
     - eng: kinetics
-      ru: Кинетика
+      ru: кинетика
+      example: Kinetics studies the rates of chemical reactions.
+
     - eng: king
       ru: король
+      example: The king ruled the country for forty years.
+
     - eng: king-size bed
       ru: большая двуспальная кровать
+      example: The hotel room has a king-size bed.
+
     - eng: kingdom
       ru: царство
+      example: The animal kingdom is diverse.
+
     - eng: kinglet
-      ru: Королёк
+      ru: королёк
+      example: The kinglet is a small bird.
+
     - eng: kink
       ru: затяжка (на колготках)
+      example: There is a kink in my stocking.
+
     - eng: kiss
       ru: целовать
+      example: She kissed her baby goodnight.
+
     - eng: kiss off the glass
       ru: совершить бросок от щита
+      example: He scored with a kiss off the glass.
+
     - eng: kitchen
       ru: кухня
+      example: The kitchen smells of garlic.
+
     - eng: kitchen scales
       ru: кухонные весы
+      example: Weigh the flour on the kitchen scales.
+
     - eng: kitchen sink
       ru: раковина
+      example: The kitchen sink is clogged.
+
     - eng: kitchen table
       ru: кухонный стол
+      example: We eat at the kitchen table.
+
     - eng: kitchen utensils
       ru: кухонная утварь
+      example: The drawer is full of kitchen utensils.
+
     - eng: kitchenware
       ru: кухонная посуда
+      example: The store sells kitchenware.
+
     - eng: kite
       ru: бумажный змей; воздушный змей
+      example: The children flew a kite in the park.
+
     - eng: kitten
       ru: котёнок
+      example: The kitten played with a ball of yarn.
+
     - eng: kiwi
       ru: киви
+      example: Kiwi is a fuzzy brown fruit.
+
     - eng: kiwi fruit
       ru: киви
+      example: Kiwi fruit is green inside.
+
     - eng: knee
       ru: колено
+      example: He fell and scraped his knee.
+
     - eng: kneecap
       ru: коленная чашка
+      example: She injured her kneecap while skiing.
+
     - eng: kneel (knelt, knelt)
       ru: стоять на коленях
+      example: He knelt down to tie his shoe.
+
     - eng: knell
       ru: похоронный звон
+      example: The bell tolled a solemn knell.
+
     - eng: knickers
       ru: трусики
+      example: She bought new knickers.
+
     - eng: knife
       ru: нож
+      example: Use a sharp knife to cut the bread.
+
     - eng: knife sharpener
       ru: точилка (для ножей)
+      example: Run the blade through the knife sharpener.
+
     - eng: knightly
       ru: рыцарский
+      example: He behaved with knightly honour.
+
     - eng: knit
       ru: вязание
+      example: She likes to knit sweaters.
+
     - eng: knitted
       ru: вязаная (спицами)
+      example: She wore a knitted scarf.
+
     - eng: knitwear
       ru: трикотаж
+      example: The shop sells warm knitwear.
+
     - eng: knock
       ru: стучать
+      example: Knock on the door before entering.
+
     - eng: knock down
       ru: сбить с ног, сносить, разрушать, понижать
+      example: The boxer knocked down his opponent.
+
     - eng: knock off
       ru: сбавить (цену), быстро сделать, удержать (сумму)
+      example: The store knocked off twenty percent.
+
     - eng: knock out
       ru: оглушить, поразить, выбить
+      example: The punch knocked him out.
+
     - eng: knot
       ru: узел
+      example: Tie a knot in the rope.
+
     - eng: know
       ru: знать
+      example: I know the answer.
+
     - eng: know by heart
       ru: наизусть; назубок
+      example: She knows the poem by heart.
+
     - eng: know the ropes
       ru: досконально знать все тонкости
+      example: He knows the ropes after working here for ten years.
+
     - eng: know your stuff
-      ru: знать свое дело
+      ru: знать своё дело
+      example: The mechanic knows his stuff.
+
     - eng: know, knew, known
       ru: знать
+      example: I knew him from school.
+
     - eng: knowledge
       ru: сведения; знание; эрудиция
+      example: Knowledge is power.
+
     - eng: known
       ru: известный
+      example: He is a known expert in his field.
+
     - eng: knuckle
       ru: сустав пальца
+      example: He cracked his knuckles.
+
     - eng: koala
       ru: коала
+      example: The koala sleeps most of the day.
+
     - eng: kohlrabi
       ru: кольраби
+      example: Kohlrabi tastes like a mild turnip.
+
     - eng: koi
       ru: карп
+      example: The pond has colourful koi fish.
+
     - eng: kosher food
       ru: кошерная пища
+      example: Kosher food follows Jewish dietary laws.
+
     - eng: kumquat
       ru: кумкват
+      example: Kumquats are small citrus fruits.
+
     - eng: kwanzaa
-      ru: Кванза
+      ru: кванза
+      example: Kwanzaa is a week-long African-American holiday.
+
     - eng: lab
       ru: лаборатория
+      example: The scientists work in a lab.
+
     - eng: lab results
       ru: результаты лабораторных анализов
+      example: The lab results came back normal.
+
     - eng: label
       ru: лейбл
+      example: Read the label before using the product.
+
     - eng: labor is bought and sold like any commodity
-      ru: рабочая сила покупается и продается, как и любой товар
+      ru: рабочая сила покупается и продаётся, как и любой товар
+      example: In capitalism, labor is bought and sold like any commodity.
+
     - eng: laboratory
       ru: лаборатория
+      example: The chemistry laboratory is well equipped.
+
     - eng: lace
       ru: кружево
+      example: The dress has lace on the sleeves.
+
     - eng: lace trimmings
       ru: кружевная отделка
+      example: The pillow has lace trimmings.
+
     - eng: lack
       ru: недостаток, отсутствие (чего-л.); не хватать
+      example: The plant died from lack of water.
+
     - eng: lack of
       ru: нехватка чего-то
+      example: Lack of sleep makes you tired.
+
     - eng: lack of vitamin D is another factor to consider
-      ru: недостаток витамина D - еще один фактор, который следует учитывать
+      ru: недостаток витамина D - ещё один фактор, который следует учитывать
+      example: Lack of vitamin D is another factor to consider for bone health.
+
     - eng: lacrosse
       ru: лакросс
+      example: Lacrosse is a fast-paced team sport.
+
     - eng: ladder
       ru: лестница
+      example: He climbed the ladder to clean the gutters.
+
     - eng: ladle
       ru: черпак
+      example: Use the ladle to serve the soup.
+
     - eng: lady
       ru: леди; дама
+      example: The lady helped me find the way.
+
     - eng: lady's slipper
       ru: венерин башмачок
+      example: Lady's slipper is a rare orchid.
+
     - eng: lahar
       ru: лахар
+      example: The lahar flowed down the volcano after the eruption.
+
     - eng: lake
       ru: озеро
+      example: They swam in the clear lake.
+
     - eng: lama
       ru: лама
+      example: The lama is a Tibetan spiritual leader.
+
     - eng: lamaism
       ru: ламаизм
+      example: Lamaism is a form of Tibetan Buddhism.
+
     - eng: lamb
       ru: ягнёнок
+      example: The lamb played in the field.
+
     - eng: lamer
       ru: ламер
+      example: He is a lamer when it comes to computers.
+
     - eng: lamp
       ru: лампа
+      example: The lamp on the desk is bright.
+
     - eng: lamp-bracket
       ru: бра
+      example: The lamp-bracket is attached to the wall.
+
     - eng: lamprey
       ru: минога
+      example: The lamprey is a jawless fish.
+
     - eng: lampshade
       ru: абажур
+      example: The lampshade is made of fabric.
+
     - eng: lancet window
       ru: сводчатое окно; стрельчатое окно
+      example: The church has lancet windows.
+
     - eng: land
       ru: земля
+      example: The plane will land in ten minutes.
+
     - eng: landform
       ru: рельеф
+      example: Mountains and valleys are landforms.
+
     - eng: landing
       ru: посадка
+      example: The landing was smooth.
+
     - eng: landing area
       ru: зона приземления
+      example: The helicopter approached the landing area.
+
     - eng: landrover
       ru: вездеход
+      example: They drove a Landrover across the savannah.
+
     - eng: landscape
       ru: пейзаж
+      example: The landscape was breathtaking.
+
     - eng: landslide
       ru: обвал, оползень
+      example: The landslide blocked the road.
+
     - eng: lane
       ru: переулок
+      example: Turn left at the next lane.
+
     - eng: language
       ru: язык
+      example: Learning a new language is hard.
+
     - eng: language education
       ru: языковое образование
+      example: Language education starts in primary school.
+
     - eng: lantern
       ru: фонарь
+      example: They carried a lantern in the dark.
+
     - eng: lanthanides
       ru: лантаниды
+      example: Lanthanides are a group of chemical elements.
+
     - eng: lap
       ru: колени
+      example: The child sat on her lap.
+
     - eng: lapel
       ru: лацкан
+      example: He wore a flower on his lapel.
+
     - eng: lapse of offer
       ru: истечение срока оферты
+      example: The lapse of offer meant we could no longer buy at that price.
+
     - eng: lapse of time
       ru: истечение срока
+      example: After a lapse of time, the contract expired.
+
     - eng: lapsed
       ru: недействительный
+      example: His membership has lapsed.
+
     - eng: laptop
       ru: ноутбук
+      example: She works on her laptop at the cafe.
+
     - eng: larch
       ru: лиственница
+      example: The larch loses its needles in winter.
+
     - eng: large
       ru: большой
+      example: A large elephant stood by the tree.
+
     - eng: large intestine
       ru: толстая кишка
+      example: The large intestine absorbs water from waste.
+
     - eng: large observatory
       ru: крупная обсерватория
+      example: The large observatory has a powerful telescope.
+
     - eng: lark
       ru: жаворонок
+      example: The lark sang high in the sky.
+
     - eng: larkspur
-      ru: живокость; бот. живокость
+      ru: живокость
+      example: Larkspur flowers are tall and colourful.
+
     - eng: larynx
       ru: гортань
+      example: The larynx contains the vocal cords.
+
     - eng: laser
       ru: лазер
+      example: The surgeon used a laser for the operation.
+
     - eng: last
       ru: последний
+      example: This is the last piece of cake.
+
     - eng: last chance to unveil his mystery
       ru: последний шанс раскрыть его тайну
+      example: This is his last chance to unveil his mystery.
+
     - eng: last modified
       ru: последний раз изменено (дата)
+      example: The file shows last modified yesterday.
+
     - eng: last month
       ru: в прошлом месяце
+      example: I visited my grandparents last month.
+
     - eng: last night
       ru: прошлым вечером
+      example: We watched a movie last night.
+
     - eng: last week
       ru: на прошлой неделе
+      example: She started her new job last week.
+
     - eng: last year
       ru: в прошлом году
+      example: They travelled to Italy last year.
+
     - eng: last-minute correction
-      ru: коррекция "в последнею минуту"
+      ru: коррекция «в последнюю минуту»
+      example: The editor made a last-minute correction to the article.
+
     - eng: lastly
       ru: наконец
+      example: Lastly, I would like to thank my family.
+
     - eng: latch hook
-      ru: карабин (застежка)
+      ru: карабин (застёжка)
+      example: The latch hook secured the door.
+
     - eng: late
       ru: поздний
+      example: The train was late.
+
     - eng: late Stone Age
       ru: поздний каменный век
+      example: Tools from the late Stone Age were found here.
+
     - eng: late academism
       ru: поздний академизм
+      example: Late academism is known for its rigid style.
+
     - eng: late spin
       ru: позднее вращение
+      example: The skater added a late spin to her routine.
+
     - eng: lately
       ru: в последнее время
+      example: I have been feeling tired lately.
+
     - eng: latent image
-      ru: изображение, скрытое
+      ru: скрытое изображение
+      example: The film contains a latent image until developed.
+
     - eng: later on
       ru: позднее, впоследствии, в дальнейшем
+      example: We will discuss that later on.
+
     - eng: latin dance
       ru: латинский танец
+      example: Salsa is a popular Latin dance.
+
     - eng: latitude
       ru: широта
+      example: The city is located at a latitude of 40 degrees north.
+
     - eng: latte
       ru: латте
+      example: She ordered a vanilla latte.
+
     - eng: lattice
       ru: решётка
+      example: The lattice on the window is decorative.
+
     - eng: latticework
-      ru: решетка
+      ru: решётка
+      example: The garden has a wooden latticework.
+
     - eng: laugh
       ru: смеяться
+      example: The joke made everyone laugh.
+
     - eng: laughing group
       ru: группа взаимопомощи (в контексте отстающих гонщиков)
+      example: The laughing group waited for the slower riders.
+
     - eng: laughter
       ru: улыбка
+      example: Laughter is the best medicine.
+
     - eng: launch
-      ru: Запускать; запуск
+      ru: запускать; запуск
+      example: The rocket launch was successful.
+
     - eng: laundry
       ru: прачечная
+      example: I need to do the laundry.
+
     - eng: laundry basket
       ru: корзина для белья
+      example: Put the dirty clothes in the laundry basket.
+
     - eng: laundry hamper
       ru: корзина для белья
+      example: The laundry hamper is full.
+
     - eng: lava plateau
       ru: лавовая равнина
+      example: The lava plateau was formed by ancient eruptions.
+
     - eng: lavatory
       ru: туалет
+      example: Where is the lavatory?
+
     - eng: lavender
       ru: лаванда
+      example: Lavender has a calming scent.
+
     - eng: lavsan
       ru: лавсан
+      example: Lavsan is a synthetic fibre.
+
     - eng: law
       ru: закон
+      example: Everyone must obey the law.
+
     - eng: law of conservation of energy
       ru: закон сохранения энергии
+      example: The law of conservation of energy states that energy cannot be created or destroyed.
+
     - eng: lawn
-      ru: Батист
+      ru: батист
+      example: Lawn is a fine cotton fabric.
+
     - eng: laws of thermodynamics
       ru: законы термодинамики
+      example: The laws of thermodynamics govern heat transfer.
+
     - eng: lawsuit against smb
       ru: судебный процесс против кого-либо
+      example: He filed a lawsuit against the company.
+
     - eng: lawyer
       ru: юрист
+      example: The lawyer defended his client.
+
     - eng: lay
-      ru: класть; класть, положить; Возлагать; положить
+      ru: класть; класть, положить; возлагать; положить
+      example: Lay the book on the table.
+
     - eng: lay brother
       ru: послушник
+      example: The lay brother helped at the monastery.
+
     - eng: lay claim to something
-      ru: претендовать на; требовать чего- либо
+      ru: претендовать на; требовать чего-либо
+      example: He laid claim to the inheritance.
+
     - eng: lay on the colours too thickly
       ru: сгущать краски
+      example: The author laid on the colours too thickly in his description.
+
     - eng: lay, laid, laid
       ru: класть, стелить
+      example: She laid the blanket on the bed.
+
     - eng: lay-man
       ru: дилетант
+      example: The explanation is too technical for a layman.
+
     - eng: layer
       ru: слой
+      example: There is a layer of dust on the shelf.
+
     - eng: layin
       ru: близкий к кольцу бросок, двухочковый
+      example: He scored an easy layin.
+
     - eng: layout
       ru: планировка; макет
+      example: The layout of the apartment is efficient.
+
     - eng: layup
       ru: близкий к кольцу бросок, двухочковый
+      example: He missed the layup.
+
     - eng: lazily
       ru: лениво
+      example: The cat stretched lazily.
+
     - eng: lazy
       ru: ленивый
+      example: He is too lazy to clean his room.
+
     - eng: lcd
       ru: жидкокристаллический индикатор
+      example: The LCD screen is bright.
+
     - eng: lead
       ru: вести; приводить
+      example: The guide will lead the tour.
+
     - eng: lead (led, led)
       ru: вести, лидировать
+      example: She led the team to victory.
+
     - eng: lead a happy life
       ru: вести счастливую жизнь
+      example: They lead a happy life together.
+
     - eng: lead investor
       ru: ведущий инвестор
+      example: The lead investor provided most of the funding.
+
     - eng: leader
       ru: лидер; руководитель
+      example: He is a natural leader.
+
     - eng: leaderette
       ru: краткая редакционная заметка
+      example: The newspaper published a leaderette on the topic.
+
     - eng: leadership
       ru: руководство
+      example: Strong leadership is essential for success.
+
     - eng: leadership theories
       ru: теории управления
+      example: Leadership theories explain how to motivate teams.
+
     - eng: leading
       ru: руководство; ведущий
+      example: She plays the leading role in the film.
+
     - eng: leading role
       ru: главная роль
+      example: He was offered the leading role in the play.
+
     - eng: leaf
       ru: лист
+      example: The leaf fell from the tree.
+
     - eng: leaf node
       ru: вершина дерева, не имеющая дочерних вершин
+      example: In a binary tree, a leaf node has no children.
+
     - eng: leafy vegetables
       ru: листовые овощи
+      example: Spinach and kale are leafy vegetables.
+
     - eng: league
       ru: лига
+      example: The team won the league championship.
+
     - eng: leakage
       ru: утечка
+      example: There is a leakage in the pipe.
+
     - eng: lean
       ru: скудный; наклонять
+      example: Lean the ladder against the wall.
+
     - eng: lean leant leant
       ru: наклонять(ся)
+      example: She leant her head on his shoulder.
+
     - eng: leap-frog
-      ru: стиль движения в велоспорте "рывок с ожиданием"
+      ru: стиль движения в велоспорте «рывок с ожиданием»
+      example: The cyclists used leap-frog to take turns at the front.
+
     - eng: learn
-      ru: учиться; изучать; изучать; учить; узнавать
+      ru: учиться; изучать; учить; узнавать
+      example: I want to learn Spanish.
+
     - eng: learn by heart
       ru: учить наизусть
+      example: The students learned the poem by heart.
+
     - eng: learn, learnt, learnt
       ru: учиться, узнавать
+      example: He learnt a lot from his mistakes.
+
     - eng: learning
       ru: учение; изучение
+      example: Learning is a lifelong process.
+
     - eng: learning disability
       ru: затруднения при обучении; проблема с обучаемостью
+      example: A learning disability affects how a person processes information.
+
     - eng: learning outcome
       ru: результат учебной деятельности
+      example: The learning outcome of the course is improved writing skills.
+
     - eng: leasing
       ru: аренда, лизинг
+      example: Leasing a car is cheaper than buying.
+
     - eng: least
       ru: по крайней мере
+      example: You should at least try.
+
     - eng: least common multiple
       ru: наименьшее общее кратное
+      example: The least common multiple of 4 and 6 is 12.
+
     - eng: leather
       ru: кожа
+      example: The jacket is made of genuine leather.
+
     - eng: leather jacket
       ru: кожаный пиджак
+      example: He wore a black leather jacket.
+
     - eng: leatherette
       ru: дерматин
+      example: The car seats are made of leatherette.
+
     - eng: leave
       ru: уезжать; покидать
+      example: I will leave at noon.
+
     - eng: leave me alone
-      ru: оставь меня в покое. /....одного/
+      ru: оставь меня в покое
+      example: Please leave me alone.
+
     - eng: leave the ground
       ru: взлетать
+      example: The plane will leave the ground soon.
+
     - eng: leave well alone
       ru: от добра добра не ищут
+      example: The machine works fine, so leave well alone.
+
     - eng: leave, left, left
       ru: покидать, оставлять
+      example: He left his bag on the train.
+
     - eng: leaves
       ru: листья
+      example: The leaves are turning yellow.
+
     - eng: leaves become reddish in autumn
       ru: осенью листья становятся красноватыми
+      example: Maple leaves become reddish in autumn.
+
     - eng: leaves rustle
       ru: листья шелестят
+      example: The leaves rustle in the wind.
+
     - eng: lectern
-      ru: Кафедра
+      ru: кафедра
+      example: The professor stood behind the lectern.
+
     - eng: lecture
       ru: лекция
+      example: The lecture on history was interesting.
+
     - eng: lecturer
       ru: лектор
+      example: The lecturer explained the theory clearly.
+
     - eng: led
       ru: светодиод
+      example: The LED light is energy-efficient.
+
     - eng: ledger
       ru: программа финансового учёта
+      example: The accountant updated the ledger.
+
     - eng: ledger line
       ru: дополнительная линия
+      example: The note is on a ledger line above the staff.
+
     - eng: leek
       ru: лук-порей
+      example: Leek soup is delicious.
+
     - eng: left
       ru: лево
+      example: Turn left at the corner.
+
     - eng: left luggage
       ru: камера хранения
+      example: We left our bags at the left luggage office.
+
     - eng: left-hand corner
       ru: в углу слева
+      example: The sign is in the left-hand corner.
+
     - eng: leftovers
       ru: остатки
+      example: We ate leftovers for dinner.
+
     - eng: leg
-      ru: нога(от бедра до ступни); нога
+      ru: нога (от бедра до ступни)
+      example: He broke his leg skiing.
+
     - eng: legal
       ru: законный
+      example: Is it legal to park here?
+
     - eng: legal action
       ru: судебный иск
+      example: They threatened legal action.
+
     - eng: legal adviser
       ru: юрисконсульт
+      example: The legal adviser reviewed the contract.
+
     - eng: legal assistance
       ru: юридическая помощь
+      example: The organisation provides legal assistance.
+
     - eng: legal department
       ru: юридический отдел
+      example: The legal department approved the merger.
+
     - eng: legal education
       ru: юридическое образование
+      example: Legal education takes three years.
+
     - eng: legal effect
       ru: юридическая сила
+      example: The new law has legal effect immediately.
+
     - eng: legal entity
       ru: юридическое лицо
+      example: The company is a legal entity.
+
     - eng: legal holiday
       ru: официальный праздник
+      example: New Year's Day is a legal holiday.
+
     - eng: legal notes
       ru: юридическое заявление
+      example: The contract includes legal notes.
+
     - eng: legal relations
       ru: правоотношения
+      example: Legal relations between parties are governed by contract law.
+
     - eng: legal system
       ru: законодательная система
+      example: The legal system is based on common law.
+
     - eng: legal tender
-      ru: законное платежное средство
+      ru: законное платёжное средство
+      example: The euro is legal tender in many countries.
+
     - eng: legato
       ru: легато
+      example: The pianist played the passage legato.
+
     - eng: legend
       ru: легенда
+      example: The legend of King Arthur is famous.
+
     - eng: leggings
       ru: лосины
+      example: She wore leggings to the gym.
+
     - eng: legion
       ru: легион
+      example: The Roman legion marched into battle.
+
     - eng: legislation
       ru: законодательство
+      example: New legislation was passed by parliament.
+
     - eng: legislative
       ru: законодательный
+      example: The legislative branch makes laws.
+
     - eng: legumes
       ru: бобовые
+      example: Beans and lentils are legumes.
+
     - eng: leisure
       ru: досуг
+      example: She enjoys reading in her leisure time.
+
     - eng: leitmotif
       ru: лейтмотив
+      example: The leitmotif appears throughout the opera.
+
     - eng: lemon
       ru: лимон
+      example: Add a slice of lemon to the tea.
+
     - eng: lemon cream
       ru: лимонный крем
+      example: Lemon cream is a delicious dessert.
+
     - eng: lemon grass
       ru: лимонная трава
+      example: Lemon grass is used in Thai cooking.
+
     - eng: lemon juice
       ru: лимонный сок
+      example: Squeeze fresh lemon juice over the fish.
+
     - eng: lemon pie
       ru: лимонный пирог
+      example: She baked a lemon pie.
+
     - eng: lemon shark
       ru: жёлтая акула
+      example: The lemon shark lives in coastal waters.
+
     - eng: lemon squash
       ru: лимонный сквош; содовая с лимонным соком
+      example: He ordered a lemon squash.
+
     - eng: lemon tea
       ru: чай с лимоном
+      example: Lemon tea is refreshing.
+
     - eng: lemonade
       ru: лимонад
+      example: Cold lemonade is perfect for summer.
+
     - eng: lemongrass
       ru: лемонграсс
+      example: Lemongrass adds a citrus flavour to soup.
+
     - eng: lemur
       ru: лемур
+      example: The lemur has large eyes.
+
     - eng: lend
-      ru: одалживать; одалживать
+      ru: одалживать
+      example: Can you lend me ten dollars?
+
     - eng: lend, lent, lent
       ru: давать в займы
+      example: She lent me her book.
+
     - eng: length
       ru: длина
+      example: The length of the table is two metres.
+
     - eng: lens
       ru: линза
+      example: The camera lens is dirty.
+
     - eng: lens aperture
       ru: светосила объектива
+      example: A wide lens aperture lets in more light.
+
     - eng: lens cap
       ru: крышка объектива
+      example: Put the lens cap on when not shooting.
+
     - eng: lens filter
       ru: светофильтр
+      example: The photographer used a lens filter.
+
     - eng: lens hood
       ru: солнечная бленда
+      example: The lens hood prevents lens flare.
+
     - eng: lens mount
       ru: оправа объектива
+      example: The lens mount is made of metal.
+
     - eng: lent
-      ru: Великий пост
+      ru: великий пост
+      example: During Lent, some people give up sweets.
+
     - eng: lentils
       ru: чечевица
+      example: Lentils are a good source of protein.
+
     - eng: lentisk
       ru: мастиковое дерево
+      example: Lentisk produces a resin used in cooking.
+
     - eng: leopard
       ru: леопард
+      example: The leopard has spotted fur.
+
     - eng: leprechaun
       ru: лепрекон
+      example: The leprechaun guards a pot of gold.
+
     - eng: less
       ru: меньше; меньше, менее
+      example: Eat less sugar for better health.
+
     - eng: lesson
       ru: урок
+      example: The piano lesson starts at four.
+
     - eng: lesson plan
       ru: план урока
+      example: The teacher prepared a lesson plan.
+
     - eng: let
-      ru: разрешать; Позволять
+      ru: разрешать; позволять
+      example: Let me help you.
+
     - eng: let down
       ru: подводить
+      example: Do not let me down.
+
     - eng: let in
       ru: впускать
+      example: Let the cat in, it is cold outside.
+
     - eng: let me strum that guitar
       ru: позволь мне поиграть на этой гитаре
+      example: Let me strum that guitar for a moment.
+
     - eng: let out
       ru: выпускать, освобождать
+      example: He let out a loud sigh.
+
     - eng: let the cat out of the bag
       ru: выбалтывать секрет
+      example: He accidentally let the cat out of the bag about the surprise party.
+
     - eng: let's bang this out
       ru: давайте покончим с этим
+      example: Let us bang this out quickly and go home.
+
     - eng: let's compare the work of the historian and politician
       ru: давайте сравним работу историка и политика
+      example: Let's compare the work of the historian and politician.
+
     - eng: let's ride the bus instead of taking the train
       ru: давай поедем на автобусе, а не на поезде
+      example: Let's ride the bus instead of taking the train.
+
     - eng: let, let, let
-      ru: Позволять
+      ru: позволять
+      example: She let him go first.
+
     - eng: lethal alleles
       ru: летальный аллель
+      example: Lethal alleles cause death in organisms.
+
     - eng: letter
       ru: письмо
+      example: I received a letter from my friend.
+
     - eng: letter of attorney
       ru: доверенность
+      example: The letter of attorney gives him power to sign.
+
     - eng: letter of credit
       ru: аккредитив
+      example: The buyer opened a letter of credit.
+
     - eng: letter of credit
       ru: аккредитив
+      example: A letter of credit guarantees payment.
+
     - eng: letter of recommendation
       ru: рекомендательное письмо
+      example: She asked her teacher for a letter of recommendation.
+
     - eng: lettuce
       ru: салат-латук; салат
+      example: Add lettuce to the sandwich.
+
     - eng: leucoplast
       ru: лейкопласт
+      example: Leucoplasts store starch in plant cells.
+
     - eng: level
       ru: уровень
+      example: The water level is rising.
+
     - eng: lezghinka
       ru: лезгинка
+      example: The lezghinka is a fast Caucasian dance.
+
     - eng: liabilities
       ru: долги; денежные обязательства; обязательства
+      example: The company's liabilities exceed its assets.
+
     - eng: liberal
       ru: либерал
+      example: He is a liberal in politics.
+
     - eng: liberal arts
       ru: гуманитарные науки
+      example: She studied liberal arts at college.
+
     - eng: librarian
       ru: библиотекарь
+      example: The librarian helped me find the book.
+
     - eng: library
       ru: библиотека
+      example: The library is quiet for studying.
+
     - eng: libretto
       ru: либретто
+      example: He wrote the libretto for the opera.
+
     - eng: license
       ru: лицензия
+      example: Do you have a driver's license?
+
     - eng: lichens
       ru: лишайник
+      example: Lichens grow on rocks and trees.
+
     - eng: lick
       ru: облизать
+      example: The dog licked my hand.
+
     - eng: lid
       ru: крышка
+      example: Put the lid back on the jar.
+
     - eng: lie
-      ru: лгать; лгать
+      ru: лгать
+      example: Do not lie to me.
+
     - eng: lie down
       ru: лечь, прилечь
+      example: I need to lie down for a while.
+
     - eng: lie, lay
       ru: лежать, лгать (1 и 2 форма)
+      example: He lay on the sofa yesterday.
+
     - eng: lie, lay, lain
       ru: лежать, лгать
+      example: The cat lay in the sun all afternoon.
+
     - eng: life
       ru: жизнь
+      example: Life is full of surprises.
+
     - eng: life changing technology
       ru: меняющая жизнь технология
+      example: The internet is a life changing technology.
+
     - eng: life imprisonment
       ru: пожизненное заключение
+      example: The murderer was sentenced to life imprisonment.
+
     - eng: life support
       ru: жизнеобеспечение
+      example: The patient is on life support.
+
     - eng: life-cycle
       ru: жизненный цикл
+      example: The butterfly's life-cycle has four stages.
+
     - eng: life-jacket
       ru: спасательный жилет
+      example: Wear a life-jacket on the boat.
+
     - eng: life-threatening
       ru: опасный для жизни
+      example: The injury was life-threatening.
+
     - eng: lifelong ambition
       ru: цель всей жизни
+      example: Becoming a doctor was her lifelong ambition.
+
     - eng: lifesaver
       ru: спасатель
+      example: The lifeguard is a trained lifesaver.
+
     - eng: lifestyle
       ru: стиль жизни
+      example: A healthy lifestyle includes exercise.
+
     - eng: lifetime
       ru: целая жизнь; продолжительность жизни
+      example: A lifetime is not enough to learn everything.
+
     - eng: lift
       ru: лифт; поднимать
+      example: Take the lift to the fifth floor.
+
     - eng: liftoff
       ru: взлёт
+      example: The rocket's liftoff was at dawn.
+
     - eng: ligament
       ru: связка
+      example: He tore a ligament in his knee.
+
     - eng: light
       ru: лёгкий; свет
+      example: The bag is very light.
+
     - eng: light as a feather, stiff as a board
-      ru: Легкий, как перышко, жесткий, как доска
+      ru: лёгкий, как пёрышко, жёсткий, как доска
+      example: The old mattress was light as a feather, stiff as a board.
+
     - eng: light at the end of the tunnel
       ru: свет в конце тоннеля
+      example: After months of work, we finally see light at the end of the tunnel.
+
     - eng: light bulbs
       ru: лампочки
+      example: The light bulbs need replacing.
+
     - eng: light candles
       ru: зажигать свечи
+      example: Light candles for the birthday cake.
+
     - eng: light coloured
       ru: светлый
+      example: She wore a light coloured dress.
+
     - eng: light dressing
-      ru: легкая заправка (к салату)
+      ru: лёгкая заправка (к салату)
+      example: A light dressing is healthier than creamy dressing.
+
     - eng: light leak (of film)
       ru: засветка фотоматериала
+      example: The old camera had a light leak.
+
     - eng: light luggage
-      ru: легкий багаж
+      ru: лёгкий багаж
+      example: Travel with light luggage for convenience.
+
     - eng: light sensor
       ru: фотоприёмник; фотоэлемент
+      example: The light sensor adjusts screen brightness.
+
     - eng: light switch
       ru: включатель света
+      example: The light switch is by the door.
+
     - eng: light, lighted, lighted
       ru: освещать (помещение); светить (кому-л.)
+      example: He lighted the room with a lamp.
+
     - eng: light, lit, lit
       ru: зажигать, освещать
+      example: She lit the candles on the table.
+
     - eng: light-brown
       ru: светло-коричневый
+      example: His hair is light-brown.
+
     - eng: light-gray
       ru: светло-серый
+      example: The walls are painted light-gray.
+
     - eng: light-green
-      ru: светло-зеленый
+      ru: светло-зелёный
+      example: She chose a light-green shirt.
+
     - eng: light-headed
       ru: в состоянии бреда
+      example: The heat made him feel light-headed.
+
     - eng: light-hearted
       ru: беззаботный
+      example: The movie was light-hearted and fun.
+
     - eng: light-orange
       ru: светло-оранжевый
     - eng: light-pink
