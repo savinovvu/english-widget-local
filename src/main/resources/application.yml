@@ -53109,1424 +53109,2844 @@ app.words:
 
     - eng: pion
       ru: пион
+      example: The pion is a subatomic particle.
+
     - eng: pioneer
       ru: основоположник
+      example: He was a pioneer in the field of genetics.
+
     - eng: pipe
       ru: труба
+      example: The water pipe burst.
+
     - eng: piranha
       ru: пиранья
+      example: Piranhas have sharp teeth.
+
     - eng: pirouette
       ru: пируэт
+      example: The dancer performed a pirouette.
+
     - eng: pisces
       ru: рыбы
+      example: Pisces is the twelfth astrological sign.
+
     - eng: pistil
       ru: пестик
+      example: The pistil is the female part of a flower.
+
     - eng: piston
       ru: поршень
+      example: The piston moves up and down in the cylinder.
+
     - eng: pit
-      ru: косточка(фруктов)
+      ru: косточка (фруктов)
+      example: Remove the pit from the cherry.
+
     - eng: pitch
-      ru: Питч; угол наклона спинки кресла
+      ru: питч; угол наклона спинки кресла
+      example: The pitch of the roof is steep.
+
     - eng: pitcher
       ru: кувшин
+      example: She poured water from the pitcher.
+
     - eng: pity
       ru: жалость
+      example: It is a pity you cannot come.
+
     - eng: pivot
-      ru: кардинальное изменение; владея мячом совершать любые движения при которых одна нога остаётся на одном месте
+      ru: кардинальное изменение; владея мячом, совершать любые движения, при которых одна нога остаётся на одном месте
+      example: He pivoted on his left foot.
+
     - eng: pivot foot
-      ru: нога, которую игрок не может переместить не совершая пробежки
+      ru: нога, которую игрок не может переместить, не совершая пробежки
+      example: Keep your pivot foot on the ground.
+
     - eng: pixel
       ru: пиксель
+      example: The image is one million pixels.
+
     - eng: pixie gear
-      ru: бабушкина передача, тракторная передача - самое низкое передаточное отношение (наименьшая звездочка впереди и наибольшая сзади)
+      ru: бабушкина передача, тракторная передача - самое низкое передаточное отношение (наименьшая звёздочка впереди и наибольшая сзади)
+      example: Use pixie gear to climb the steep hill.
+
     - eng: pizza
       ru: пицца
+      example: Let us order a pizza.
+
     - eng: pizzicato
       ru: пиццикато
+      example: The violinist played pizzicato.
+
     - eng: place
       ru: место
+      example: This is a beautiful place.
+
     - eng: place an offender on probation
       ru: осудить условно
+      example: The judge decided to place the offender on probation.
+
     - eng: placemat
       ru: термосалфетка
+      example: Put the plate on the placemat.
+
     - eng: plagiarism
       ru: плагиат
+      example: Plagiarism is a serious offence.
+
     - eng: plagiarist
       ru: плагиатор
+      example: The plagiarist was exposed by the original author.
+
     - eng: plagioclase
       ru: плагиоклаз
+      example: Plagioclase is a common mineral in igneous rocks.
+
     - eng: plain
       ru: неприметный
+      example: Her dress was plain but elegant.
+
     - eng: plain-looking
       ru: неинтересный
+      example: He is a plain-looking man.
+
     - eng: plaintiff
       ru: истец
+      example: The plaintiff filed a lawsuit.
+
     - eng: plan
       ru: план
+      example: We need a plan.
+
     - eng: plane
       ru: плоскость
+      example: The plane is inclined at an angle.
+
     - eng: plane mirror
       ru: плоское зеркало
+      example: A plane mirror produces a virtual image.
+
     - eng: planet
       ru: планета
+      example: Earth is a planet.
+
     - eng: planetary nebula
       ru: планетарная туманность
+      example: The Ring Nebula is a planetary nebula.
+
     - eng: planetary scientist
       ru: планетолог
+      example: The planetary scientist studied Mars.
+
     - eng: planetoid
       ru: малая планета
+      example: Ceres is a planetoid.
+
     - eng: planetology
-      ru: Планетология
+      ru: планетология
+      example: Planetology is the study of planets.
+
     - eng: plankton
       ru: планктон
+      example: Whales eat plankton.
+
     - eng: plant
       ru: завод; растение
+      example: This plant grows in the desert.
+
     - eng: plantain
-      ru: Подорожник
+      ru: подорожник
+      example: Plantain is a common weed.
+
     - eng: plantation
       ru: плантация
+      example: The tea plantation is on the hill.
+
     - eng: plasm(a)
       ru: плазма
+      example: Blood plasma is yellowish.
+
     - eng: plasma
       ru: плазма
+      example: Plasma is the fourth state of matter.
+
     - eng: plasmodesma
       ru: плазмодесма
+      example: Plasmodesmata connect plant cells.
+
     - eng: plaster
       ru: пластырь
+      example: Put a plaster on the cut.
+
     - eng: plaster cast
-      ru: гипсовый слепок отливка
+      ru: гипсовый слепок, отливка
+      example: The broken leg was put in a plaster cast.
+
     - eng: platband
       ru: наличник
+      example: The door has a decorative platband.
+
     - eng: platband
       ru: наличник
+      example: The window platband is made of wood.
+
     - eng: plate
       ru: тарелка
+      example: Wash the plates after dinner.
+
     - eng: plate tectonic
       ru: тектоническая плита
+      example: Plate tectonics explains earthquakes.
+
     - eng: plateau
       ru: плато
+      example: The plateau is high and flat.
+
     - eng: platform
       ru: платформа
+      example: The train is at platform three.
+
     - eng: platform shoes
       ru: обувь на платформе
+      example: Platform shoes were popular in the 1970s.
+
     - eng: platinum
       ru: платина
+      example: Platinum is a precious metal.
+
     - eng: platter
       ru: большое плоское блюдо; блюдо
+      example: The platter of fruit looked delicious.
+
     - eng: platypus
       ru: утконос
+      example: The platypus lays eggs.
+
     - eng: play
       ru: пьеса; играть
+      example: The children play in the yard.
+
     - eng: play at sight
       ru: играть с листа
+      example: The pianist can play at sight.
+
     - eng: play badminton
       ru: играть в бадминтон
+      example: We play badminton on Sundays.
+
     - eng: play ball
       ru: сотрудничать, задобрить
+      example: The manager refused to play ball.
+
     - eng: play basketball
       ru: играть в баскетбол
+      example: He plays basketball every Friday.
+
     - eng: play billiards
       ru: играть в бильярд
+      example: They play billiards at the pub.
+
     - eng: play board games
       ru: играть в настольные игры
+      example: We play board games on rainy days.
+
     - eng: play board games
       ru: играть в настольные игры
+      example: Families often play board games together.
+
     - eng: play bowling
       ru: играть в боулинг
+      example: Let us play bowling tonight.
+
     - eng: play cards
       ru: играть в карты
+      example: They play cards every evening.
+
     - eng: play chess
       ru: играть в шахматы
+      example: He knows how to play chess.
+
     - eng: play computer games
       ru: играть в компьютерные игры
+      example: Children love to play computer games.
+
     - eng: play dice
       ru: играть в кости
+      example: The soldiers played dice.
+
     - eng: play draughts
-      ru: наброски игры
+      ru: играть в шашки
+      example: They play draughts in the park.
+
     - eng: play football
       ru: играть в футбол
+      example: The boys play football after school.
+
     - eng: play golf
       ru: играть в гольф
+      example: He plays golf on weekends.
+
     - eng: play guitar
       ru: играть на гитаре
+      example: She can play guitar.
+
     - eng: play hockey
       ru: играть в хоккей
+      example: They play hockey on the frozen pond.
+
     - eng: play it by ear
       ru: принимать решение на месте, в зависимости от обстоятельств
+      example: I do not have a plan; I will play it by ear.
+
     - eng: play one's cards right
       ru: использовать свои возможности
+      example: If you play your cards right, you will get the promotion.
+
     - eng: play rugby
       ru: играть в регби
+      example: Rugby is a rough sport.
+
     - eng: play squash
       ru: играть в сквош
+      example: He plays squash at the gym.
+
     - eng: play tennis
       ru: играть в теннис
+      example: She plays tennis twice a week.
+
     - eng: play the drums
-      ru: играйте на барабанах
+      ru: играть на барабанах
+      example: He plays the drums in a band.
+
     - eng: play the guitar
-      ru: играйте на гитаре
+      ru: играть на гитаре
+      example: I want to play the guitar.
+
     - eng: play the piano
       ru: играть на пианино
+      example: She plays the piano beautifully.
+
     - eng: play video games
       ru: играть в видеоигры
+      example: He spends hours playing video games.
+
     - eng: play volleyball
       ru: играть в волейбол
+      example: We play volleyball at the beach.
+
     - eng: playback
       ru: воспроизведение
+      example: The playback of the recording was clear.
+
     - eng: player
       ru: проигрыватель
+      example: The CD player is broken.
+
     - eng: plead
       ru: приводить в оправдание
+      example: He pleaded ignorance.
+
     - eng: plead a case
       ru: вести дело
+      example: The lawyer will plead the case in court.
+
     - eng: pleasant
       ru: приятный
+      example: The weather is pleasant today.
+
     - eng: please
       ru: пожалуйста; радовать
+      example: Please close the door.
+
     - eng: please heal me I'm dying
       ru: пожалуйста, исцели меня, я умираю
+      example: Please heal me, I am dying - the wounded soldier cried.
+
     - eng: pleasure
       ru: удовольствие
+      example: It is a pleasure to meet you.
+
     - eng: pleated skirt
       ru: юбка в складку
+      example: She wore a pleated skirt.
+
     - eng: plebeian
       ru: плебей
+      example: In ancient Rome, plebeians were commoners.
+
     - eng: plebiscite
       ru: плебисцит
+      example: The plebiscite decided the border.
+
     - eng: plenary meeting
       ru: пленарное заседание
+      example: The plenary meeting will be held tomorrow.
+
     - eng: plethora
       ru: изобилие
+      example: There is a plethora of options.
+
     - eng: plinth
       ru: постамент
+      example: The statue stands on a plinth.
+
     - eng: plique-a-jour
       ru: перегородчатая эмаль
+      example: Plique-a-jour is a stained-glass enamel technique.
+
     - eng: plot
       ru: фабула; заговор; сюжет
+      example: The plot of the movie was complicated.
+
     - eng: plot a route
       ru: прокладывать маршрут
+      example: The captain plotted a route on the map.
+
     - eng: plug
       ru: штепсель
+      example: Plug the charger into the socket.
+
     - eng: plum
       ru: слива
+      example: Plums are sweet and juicy.
+
     - eng: plum pudding
       ru: сливовый пудинг
+      example: Plum pudding is a Christmas dessert.
+
     - eng: plumber
       ru: сантехник
+      example: The plumber fixed the leak.
+
     - eng: plumeria
       ru: плюмерия
+      example: Plumeria flowers are fragrant.
+
     - eng: plump
       ru: пухлый
+      example: The baby has plump cheeks.
+
     - eng: plums
       ru: сливы
+      example: The basket is full of plums.
+
     - eng: plunge
       ru: нырять, погружаться
+      example: He plunged into the cold water.
+
     - eng: plus
       ru: плюс
+      example: Two plus two equals four.
+
     - eng: plus or minus
       ru: плюс или минус
+      example: The result is ten, plus or minus one.
+
     - eng: pluto
-      ru: Плутон
+      ru: плутон
+      example: Pluto is a dwarf planet.
+
     - eng: pluton
       ru: плутон
+      example: A pluton is an intrusive igneous rock body.
+
     - eng: plutonic
       ru: кристаллизованный на глубине
+      example: Granite is a plutonic rock.
+
     - eng: plymouth
-      ru: Плимут
+      ru: плимут
+      example: Plymouth is a city in England.
+
     - eng: pneumatic phone jacks
       ru: штекеры акустических наушников
+      example: The pneumatic phone jacks are used in aviation.
+
     - eng: pneumonia
       ru: пневмония
+      example: Pneumonia is a lung infection.
+
     - eng: pocket
       ru: карман
+      example: He put his hands in his pockets.
+
     - eng: pod
       ru: стручок
+      example: Peas grow in pods.
+
     - eng: podgy face
       ru: пухлое лицо
+      example: The baby had a podgy face.
+
     - eng: podium
       ru: подиум
+      example: The winner stood on the podium.
+
     - eng: poem
       ru: стихотворение
+      example: She wrote a poem about spring.
+
     - eng: poet
       ru: поэт
+      example: Pushkin is a famous poet.
+
     - eng: poet regarded his wife as his muse
       ru: поэт считал свою жену своей музой
+      example: The poet regarded his wife as his muse.
+
     - eng: poetic diction
       ru: язык поэзии
+      example: Poetic diction often uses metaphors.
+
     - eng: poetry
       ru: поэзия
+      example: I enjoy reading poetry.
+
     - eng: poinsettia
-      ru: Пуансеттия
+      ru: пуансеттия
+      example: Poinsettias are red at Christmas.
+
     - eng: point
       ru: пункт; момент
+      example: That is a good point.
+
     - eng: point guard
       ru: распасовщик
+      example: The point guard directs the team's offence.
+
     - eng: point out
       ru: указывать, подчеркивать, заметить
+      example: Let me point out the main problem.
+
     - eng: pointe shoes
       ru: пуанты
+      example: Ballerinas wear pointe shoes.
+
     - eng: pointed nose
       ru: острый нос
+      example: She has a pointed nose.
+
     - eng: pointer
       ru: указатель
+      example: The pointer on the dial moved.
+
     - eng: pointillism
       ru: пуантилизм
+      example: Pointillism uses small dots of colour.
+
     - eng: pointless
       ru: бессмысленный
+      example: The argument was pointless.
+
     - eng: poison
       ru: яд
+      example: The snake's venom is a poison.
+
     - eng: poisonous
       ru: ядовитый
+      example: Some mushrooms are poisonous.
+
     - eng: poke fun at
       ru: подшучивать, высмеивать (кого-то)
+      example: They poked fun at his accent.
+
     - eng: poker
       ru: покер
+      example: They played poker all night.
+
     - eng: pokes
       ru: тычет
+      example: He pokes the fire with a stick.
+
     - eng: polar
       ru: полярный
+      example: The polar regions are cold.
+
     - eng: polar bear
       ru: полярный медведь
+      example: The polar bear hunts on the ice.
+
     - eng: polar fox
       ru: песец
+      example: The polar fox has thick fur.
+
     - eng: polarity
       ru: полярность
+      example: The polarity of the magnet can be reversed.
+
     - eng: polarization
       ru: поляризация
+      example: Polarization of light occurs through a filter.
+
     - eng: polarizing filter
       ru: поляризационный светофильтр
+      example: A polarizing filter reduces glare.
+
     - eng: pole dance
       ru: танец на пилоне
+      example: Pole dance is a form of fitness.
+
     - eng: police
       ru: полиция
+      example: Call the police.
+
     - eng: police ascertained the dead man knew his killer
       ru: полиция установила, что убитый знал своего убийцу
+      example: Police ascertained that the dead man knew his killer.
+
     - eng: police evacuated the area
       ru: полиция эвакуировала этот район
+      example: Police evacuated the area after the bomb threat.
+
     - eng: police have clashed with demonstrators
       ru: полиция вступила в столкновения с демонстрантами
+      example: Police have clashed with demonstrators in the square.
+
     - eng: police office
       ru: полицейское управление
+      example: He reported the theft at the police office.
+
     - eng: police officer
       ru: полицейский
+      example: The police officer directed traffic.
+
     - eng: police station
       ru: отделение полиции
+      example: The suspect was taken to the police station.
+
     - eng: police tried to break up the gang
       ru: полиция пыталась разогнать банду
+      example: Police tried to break up the gang but failed.
+
     - eng: policeman
       ru: полицейский
+      example: The policeman helped the lost child.
+
     - eng: policy
       ru: политика
+      example: The government's policy is unpopular.
+
     - eng: policy of confrontation
       ru: политика конфронтации
+      example: The policy of confrontation led to war.
+
     - eng: policy of non-alignment
       ru: политика неприсоединения
+      example: The country adopted a policy of non-alignment.
+
     - eng: policy of non-interference
       ru: политика невмешательства
+      example: A policy of non-interference respects sovereignty.
+
     - eng: poling
       ru: действовать шестом
+      example: Poling a boat through shallow water is hard.
+
     - eng: polis
       ru: полис
+      example: The Greek polis was a city-state.
+
     - eng: polite
       ru: вежливый
+      example: It is polite to say thank you.
+
     - eng: polite to
-      ru: вежливый по отношению к кому либо
+      ru: вежливый по отношению к кому-либо
+      example: Be polite to your elders.
+
     - eng: politely
       ru: вежливо
+      example: She asked politely for help.
+
     - eng: political division
       ru: административно-территориальное деление
+      example: The country is divided into political divisions.
+
     - eng: political map
       ru: политическая карта
+      example: The political map shows borders.
+
     - eng: politician
       ru: политик
+      example: The politician gave a speech.
+
     - eng: polka dot
       ru: в горошек
+      example: She wore a polka dot dress.
+
     - eng: pollen
       ru: пыльца
+      example: Bees carry pollen.
+
     - eng: pollination
       ru: опыление
+      example: Pollination is essential for plants.
+
     - eng: polling day
       ru: день выборов
+      example: Polling day is on Tuesday.
+
     - eng: polling district
       ru: избирательный участок
+      example: Voters go to their polling district.
+
     - eng: pollock
       ru: минтай
+      example: Pollock is a white fish.
+
     - eng: pollution
       ru: загрязнение
+      example: Air pollution is a serious problem.
+
     - eng: polo
       ru: поло
+      example: Polo is played on horseback.
+
     - eng: polo shirt
       ru: поло
+      example: He wore a polo shirt to the office.
+
     - eng: polonaise
       ru: полонез
+      example: Chopin wrote polonaises for piano.
+
     - eng: polychromatic light
       ru: сложный свет
+      example: Polychromatic light contains multiple colours.
+
     - eng: polychromy
       ru: полихромия
+      example: Polychromy in ancient statues was common.
+
     - eng: polyester
       ru: полиэстер
+      example: The shirt is made of polyester.
+
     - eng: polyjuice potion
       ru: оборотное зелье
+      example: In Harry Potter, polyjuice potion changes appearance.
+
     - eng: polymath
       ru: эрудит
+      example: Leonardo da Vinci was a polymath.
+
     - eng: polynomial
       ru: полином; многочлен; полиномиальный
+      example: A polynomial has multiple terms.
+
     - eng: polyploid
       ru: полиплоид
+      example: Polyploid plants have extra chromosomes.
+
     - eng: polytheism
       ru: политеизм
+      example: Ancient Greeks practiced polytheism.
+
     - eng: pomegranate
       ru: гранат; гранат (плод)
+      example: Pomegranate seeds are red.
+
     - eng: pomelo
       ru: помело
+      example: Pomelo is a large citrus fruit.
+
     - eng: pompano
       ru: помпано
+      example: Pompano is a tasty fish.
+
     - eng: poncho
       ru: пончо
+      example: He wore a poncho in the rain.
+
     - eng: pond
       ru: пруд
+      example: Ducks swim in the pond.
+
     - eng: pontifex
       ru: понтифик
+      example: The pontifex was a Roman priest.
+
     - eng: pontificate
       ru: понтификат
+      example: The pontificate of the pope lasted many years.
+
     - eng: poodle
       ru: пудель
+      example: The poodle has curly fur.
+
     - eng: pool table
       ru: бильярд
+      example: The pool table is in the basement.
+
     - eng: poor
       ru: бедный
+      example: The family is very poor.
+
     - eng: poor health
-      ru: Слабое здоровье
+      ru: слабое здоровье
+      example: Poor health prevented him from working.
+
     - eng: poor metal
       ru: слабый металл
+      example: Poor metals include aluminium and tin.
+
     - eng: pop
       ru: популярный; поп-музыка
+      example: She listens to pop music.
+
     - eng: pop art
       ru: поп-арт
+      example: Andy Warhol is famous for pop art.
+
     - eng: pop music
       ru: поп-музыка
+      example: Pop music is popular with teenagers.
+
     - eng: pop out
       ru: вылупиться, родиться
+      example: The chick popped out of the egg.
+
     - eng: pop-up
       ru: поп-ап
+      example: The website showed a pop-up ad.
+
     - eng: pop-up menu
       ru: всплывающее меню
+      example: Right-click to open a pop-up menu.
+
     - eng: popcorn
       ru: попкорн
+      example: We ate popcorn at the movies.
+
     - eng: poplar
       ru: тополь
+      example: Poplar trees grow quickly.
+
     - eng: poppy
       ru: мак
+      example: Poppies are red flowers.
+
     - eng: popular
       ru: популярный
+      example: This song is very popular.
+
     - eng: popular assembly
       ru: вече; народное собрание
+      example: The popular assembly made decisions.
+
     - eng: popular holiday
       ru: популярный праздник
+      example: Christmas is a popular holiday.
+
     - eng: populated universe
-      ru: населённый мир, населенная вселенная
+      ru: населённый мир, населённая вселенная
+      example: The search for a populated universe continues.
+
     - eng: population
       ru: популяция
+      example: The population of the city is growing.
+
     - eng: population growth
       ru: рост населения
+      example: Population growth strains resources.
+
     - eng: porcelaneous
       ru: пористый
+      example: Porcelaneous clay is used in ceramics.
+
     - eng: porcupine
       ru: дикобраз
+      example: The porcupine has quills.
+
     - eng: pore
       ru: пора
+      example: The pores in the skin release sweat.
+
     - eng: pork
       ru: свинина
+      example: Pork is a type of meat.
+
     - eng: porosity
       ru: пористость
+      example: Porosity affects how much water soil can hold.
+
     - eng: porphyry
       ru: порфир
+      example: Porphyry is an igneous rock.
+
     - eng: portable ground
       ru: переносное заземление
+      example: The electrician used a portable ground.
+
     - eng: portage
       ru: переноска
+      example: The portage between the lakes was one kilometre.
+
     - eng: portfolio
       ru: портфель акций
+      example: He has a diversified investment portfolio.
+
     - eng: portion
-      ru: Порция
+      ru: порция
+      example: A portion of fries is small.
+
     - eng: portion size
       ru: размер порции
+      example: Watch your portion size to lose weight.
+
     - eng: portrait
       ru: портрет
+      example: The portrait hangs in the hall.
+
     - eng: portrait painter
       ru: портретист
+      example: The portrait painter captured her likeness.
+
     - eng: portrayal
       ru: представление
+      example: His portrayal of the king was realistic.
+
     - eng: portuguese
       ru: португалец, португалка
+      example: My friend is Portuguese.
+
     - eng: poser
       ru: трудный вопрос
+      example: The final exam had a real poser.
+
     - eng: position
       ru: положение; позиция
+      example: Change your position to sit comfortably.
+
     - eng: position of strength policy
       ru: политика с позиций силы
+      example: The country adopted a position of strength policy.
+
     - eng: positioning
       ru: позиционирование
+      example: Product positioning is important in marketing.
+
     - eng: positive
       ru: позитивный; положительный
+      example: She has a positive attitude.
+
     - eng: positive print
       ru: отпечаток, позитивный
+      example: The positive print shows the correct colours.
+
     - eng: positively charged
       ru: положительно заряженный
+      example: A proton is positively charged.
+
     - eng: possess
       ru: владеть
+      example: He possesses great wealth.
+
     - eng: possession
-      ru: владение мячом (может относиться ко всей команде, или одному игроку)
+      ru: владение мячом (может относиться ко всей команде или одному игроку)
+      example: The team has possession of the ball.
+
     - eng: possibility
       ru: возможность
+      example: There is a possibility of snow.
+
     - eng: possible
       ru: вероятный; возможный
+      example: Is it possible to finish today?
+
     - eng: post
       ru: отправлять по почте
+      example: I will post the letter tomorrow.
+
     - eng: post office
       ru: почта
+      example: Go to the post office to buy stamps.
+
     - eng: post-impressionism
       ru: постимпрессионизм
+      example: Van Gogh is associated with post-impressionism.
+
     - eng: post-industrial society
       ru: постиндустриальное общество
+      example: A post-industrial society is based on services.
+
     - eng: post-office
       ru: почта
+      example: The post-office is closed on Sunday.
+
     - eng: post-void transaction
       ru: аннулированная операция
+      example: The bank reversed the post-void transaction.
+
     - eng: postcard
       ru: открытка
+      example: Send me a postcard from your trip.
+
     - eng: poster
       ru: постер
+      example: He has a movie poster on his wall.
+
     - eng: posterity
       ru: потомство
+      example: Preserve the forest for posterity.
+
     - eng: postgraduate education
       ru: аспирантура
+      example: Postgraduate education leads to a master's degree.
+
     - eng: postman
       ru: почтальон
+      example: The postman delivered a package.
+
     - eng: posture is important for playing many instruments
       ru: осанка важна для игры на многих инструментах
+      example: Posture is important for playing many instruments.
+
     - eng: pot
       ru: банка; горшок
+      example: Cook the soup in a large pot.
+
     - eng: pot-Limit
       ru: пот-лимит
+      example: Pot-limit poker restricts bets to the pot size.
+
     - eng: potassium feldspar
       ru: калишпат
+      example: Potassium feldspar is pink or white.
+
     - eng: potato
       ru: картофель; картошка
+      example: Bake the potato in the oven.
+
     - eng: potential
       ru: потенциал
+      example: He has the potential to be a great leader.
+
     - eng: potential difference
       ru: разность потенциалов
+      example: A battery creates a potential difference.
+
     - eng: potential energy
       ru: потенциальная энергия
+      example: A raised weight has potential energy.
+
     - eng: potential problems
       ru: потенциальные проблемы
+      example: Identify potential problems before they occur.
+
     - eng: potentially
       ru: потенциально; возможно
+      example: The situation is potentially dangerous.
+
     - eng: potions
       ru: зелья
+      example: In fantasy stories, witches brew potions.
+
     - eng: pots and pans
       ru: кухонная посуда
+      example: Wash the pots and pans after cooking.
+
     - eng: pottery
       ru: гончарное дело
+      example: She took a pottery class.
+
     - eng: poultry
       ru: домашняя птица
+      example: Chicken and turkey are poultry.
+
     - eng: pound
       ru: фунт
+      example: The weight is ten pounds.
+
     - eng: pour
       ru: наливать
+      example: Pour the milk into the glass.
+
     - eng: pouring rain
       ru: проливной дождь
+      example: It was pouring rain, so we stayed inside.
+
     - eng: powder run
       ru: пыльный участок пути
+      example: The skier enjoyed the powder run.
+
     - eng: power
       ru: мощь; сила; власть; мощность; электроэнергия
+      example: The engine has a lot of power.
+
     - eng: power forward
-      ru: мощный нападающий, высокий и сильный но подвижный игрок
+      ru: мощный нападающий, высокий и сильный, но подвижный игрок
+      example: The power forward scored in the paint.
+
     - eng: power grid
       ru: энергосистема
+      example: The power grid supplies electricity to the city.
+
     - eng: power lines
       ru: линии электропередачи
+      example: Birds sit on the power lines.
+
     - eng: power plant
       ru: электростанция
+      example: The power plant generates electricity.
+
     - eng: power station
       ru: электростанция
+      example: The power station uses coal.
+
     - eng: power transmission
       ru: передача электроэнергии
+      example: Power transmission lines lose some energy.
+
     - eng: powerful
-      ru: мощный; Крепкий; могучий; сильный
+      ru: мощный; крепкий; могучий; сильный
+      example: The king was powerful.
+
     - eng: powerfully
       ru: сильно; мощно
+      example: The wind blew powerfully.
+
     - eng: practical
       ru: практичный
+      example: This bag is practical for travel.
+
     - eng: practice
       ru: практиковать; практика
+      example: Practice makes perfect.
+
     - eng: practise
-      ru: Тренировать
+      ru: тренировать
+      example: He practises the piano every day.
+
     - eng: prairie
       ru: степной
+      example: Bison live on the prairie.
+
     - eng: prawn
       ru: крупная креветка; креветка
+      example: Prawns are delicious with garlic.
+
     - eng: pray
       ru: молиться
+      example: They pray before meals.
+
     - eng: prayer
       ru: молитва
+      example: The prayer was said aloud.
+
     - eng: preacher
       ru: проповедник
+      example: The preacher gave a sermon.
+
     - eng: preanimism
       ru: преанимизм
+      example: Preanimism is a primitive belief system.
+
     - eng: precious stone
       ru: драгоценный камень
+      example: The crown is set with precious stones.
+
     - eng: precipitate
       ru: ускорять
+      example: The argument precipitated a fight.
+
     - eng: precipitation
       ru: осадки
+      example: Rain and snow are forms of precipitation.
+
     - eng: precipitation of impurities
       ru: выделение примесей
+      example: The precipitation of impurities occurs during cooling.
+
     - eng: precipitations
       ru: осадки
+      example: The region receives little precipitation.
+
     - eng: precision
       ru: чёткость
+      example: The work requires precision.
+
     - eng: precursor
       ru: предтеча
+      example: The precursor to the computer was the abacus.
+
     - eng: predation
       ru: хищничество
+      example: Predation controls prey populations.
+
     - eng: predator
       ru: хищник
+      example: The lion is a predator.
+
     - eng: predatory
       ru: хищный
+      example: Eagles are predatory birds.
+
     - eng: predestination
       ru: предопределение
+      example: Some believe in predestination.
+
     - eng: predict
       ru: предсказать
+      example: It is hard to predict the weather.
+
     - eng: predilection
       ru: склонность
+      example: He has a predilection for spicy food.
+
     - eng: predominance
       ru: доминирование
+      example: The predominance of English on the internet is clear.
+
     - eng: prefect
-      ru: Староста
+      ru: староста
+      example: The prefect maintained order in the school.
+
     - eng: prefer
-      ru: предпочитать; предпочитать
+      ru: предпочитать
+      example: I prefer tea to coffee.
+
     - eng: preference share
       ru: привилегированная акция
+      example: Preference shares pay fixed dividends.
+
     - eng: prefunding
       ru: предоплата
+      example: Prefunding ensures the project has money.
+
     - eng: pregnant
       ru: беременная
+      example: She is six months pregnant.
+
     - eng: prelate
       ru: прелат
+      example: The prelate led the church ceremony.
+
     - eng: premiere
       ru: премьера
+      example: The movie premiere was last night.
+
     - eng: prepare
       ru: готовить; подготовиться
+      example: I need to prepare dinner.
+
     - eng: prepare the ground
       ru: подготовить почву
+      example: The meeting prepared the ground for the agreement.
+
     - eng: prerelease
       ru: предварительный выпуск
+      example: The prerelease version of the software had bugs.
+
     - eng: preschool education
       ru: дошкольное образование
+      example: Preschool education helps children socialize.
+
     - eng: prescribe
       ru: предписывать
+      example: The doctor prescribed antibiotics.
+
     - eng: prescription
       ru: рецепт
+      example: Fill the prescription at the pharmacy.
+
     - eng: present
       ru: настоящее
+      example: We live in the present, not the past.
+
     - eng: present evidence
       ru: предъявить свидетельства, доказательства, улики
+      example: The lawyer will present evidence in court.
+
     - eng: presentation
       ru: представление
+      example: Her presentation was clear and concise.
+
     - eng: presenter
-      ru: радио. тлв. ведущий программу
+      ru: радио, тлв. ведущий программу
+      example: The presenter introduced the guest.
+
     - eng: preservation
       ru: сохранение
+      example: The preservation of food is important.
+
     - eng: president
       ru: президент
+      example: The president gave a speech.
+
     - eng: press
       ru: нажимать
+      example: Press the button to start.
+
     - eng: press conference
       ru: пресс-конференция
+      example: The mayor held a press conference.
+
     - eng: press kit
-      ru: пресс-кит.; подборка для печати
+      ru: пресс-кит; подборка для печати
+      example: The company sent a press kit to journalists.
+
     - eng: press release
-      ru: Пресс-релиз
+      ru: пресс-релиз
+      example: The press release announced the new product.
+
     - eng: press release
-      ru: Пресс-релиз
+      ru: пресс-релиз
+      example: The press release was issued yesterday.
+
     - eng: press round-up
       ru: обзор печати
+      example: The press round-up summarized the day's news.
+
     - eng: press-release
-      ru: Пресс-релиз
+      ru: пресс-релиз
+      example: The press-release was distributed to all media.
+
     - eng: pressure
       ru: давление
+      example: The pressure in the tire is low.
+
     - eng: pressure cooker
       ru: скороварка
+      example: A pressure cooker cooks food faster.
+
     - eng: prestigious
       ru: престижный
+      example: He won a prestigious award.
+
     - eng: pretend
       ru: притворяться; притвориться
+      example: The child pretended to be asleep.
+
     - eng: pretor
       ru: претор
+      example: The pretor was a Roman magistrate.
+
     - eng: pretoria
-      ru: Претория
+      ru: претория
+      example: Pretoria is the administrative capital of South Africa.
+
     - eng: pretty
-      ru: милый, прелестный; миловидный; хорошенький; довольно; милый
+      ru: милый, прелестный; миловидный; хорошенький; довольно
+      example: She is a pretty girl.
+
     - eng: prevail
       ru: преобладать
+      example: Justice will prevail.
+
     - eng: prevalent
       ru: распространённый
+      example: The flu is prevalent in winter.
+
     - eng: prevent
       ru: избежать
+      example: Vaccines prevent disease.
+
     - eng: price
       ru: цена
+      example: The price of gas is high.
+
     - eng: price range
-      ru: диапозон цен
+      ru: диапазон цен
+      example: The price range is from ten to fifty dollars.
+
     - eng: pricing
       ru: ценообразование
+      example: The company's pricing strategy is competitive.
+
     - eng: prickly
       ru: обидчивый; раздражительный; вспыльчивый
+      example: He is prickly when tired.
+
     - eng: prickly problem
       ru: больной вопрос
+      example: The issue of taxes is a prickly problem.
+
     - eng: priest
       ru: священник
+      example: The priest led the service.
+
     - eng: priesthood
       ru: духовенство
+      example: He entered the priesthood.
+
     - eng: primary education
       ru: начальное образование
+      example: Primary education is mandatory.
+
     - eng: primates
       ru: приматы
+      example: Monkeys and apes are primates.
+
     - eng: prime
       ru: простое число
+      example: Seven is a prime number.
+
     - eng: prime meridian
       ru: нулевой меридиан
+      example: The prime meridian passes through Greenwich.
+
     - eng: prime time
-      ru: прайм тайм; прайм-тайм
+      ru: прайм-тайм
+      example: The show airs during prime time.
+
     - eng: primitive art
       ru: первобытное искусство
+      example: Primitive art includes cave paintings.
+
     - eng: primitive society
       ru: первобытное общество
+      example: Primitive society had no written language.
+
     - eng: primitiveart
       ru: примитивизм
+      example: Primitiveart is characterized by simple forms.
+
     - eng: primrose
       ru: примула
+      example: Primroses bloom in early spring.
+
     - eng: prince
       ru: князь
+      example: The prince will become king.
+
     - eng: princedom
       ru: княжество
+      example: The princedom was small but wealthy.
+
     - eng: principle
       ru: закон; принцип
+      example: The principle of gravity is universal.
+
     - eng: principle of superposition
       ru: принцип суперпозиции
+      example: The principle of superposition applies to waves.
+
     - eng: print
       ru: печатать
+      example: Print the document, please.
+
     - eng: printed cotton
       ru: ситец
+      example: The dress is made of printed cotton.
+
     - eng: printer
       ru: печатник
+      example: The printer is out of ink.
+
     - eng: printing from film negative
       ru: печатание с негатива
+      example: Printing from film negative requires a darkroom.
+
     - eng: priority
       ru: приоритет
+      example: Safety is our priority.
+
     - eng: prism
       ru: призма
+      example: A prism splits light into colours.
+
     - eng: prison
       ru: тюрьма
+      example: The criminal was sent to prison.
+
     - eng: prisoner
       ru: заключённый
+      example: The prisoner escaped.
+
     - eng: prisons are overpopulated
       ru: тюрьмы перенаселены
+      example: Prisons are overpopulated in many countries.
+
     - eng: privacy
       ru: конфиденциальность
+      example: Respect your neighbour's privacy.
+
     - eng: privacy policy
       ru: политика конфиденциальности
+      example: Read the privacy policy before signing up.
+
     - eng: private
       ru: частный; персональный
+      example: This is a private conversation.
+
     - eng: private tutor
       ru: репетитор
+      example: The student has a private tutor for math.
+
     - eng: prize
       ru: приз
+      example: She won first prize.
+
     - eng: probable cause
       ru: вероятная причина
+      example: The police had probable cause to search the car.
+
     - eng: probably
       ru: вероятно
+      example: It will probably rain today.
+
     - eng: probation
       ru: условное освобождение
+      example: The thief was put on probation.
+
     - eng: probation officer
-      ru: инспектор, наблюдающий за поведением условно осужденных преступников
+      ru: инспектор, наблюдающий за поведением условно осуждённых преступников
+      example: The probation officer visited him monthly.
+
     - eng: problem
       ru: проблема
+      example: We need to solve this problem.
+
     - eng: problem shaping
       ru: формирование задач
+      example: Problem shaping is the first step in design.
+
     - eng: problem solving
       ru: решение задач
+      example: Problem solving requires critical thinking.
+
     - eng: proceed
       ru: продолжить
+      example: Proceed with caution.
+
     - eng: process
       ru: провожать; процесс
+      example: The manufacturing process is automated.
+
     - eng: process of
       ru: процесс
+      example: The process of digestion takes hours.
+
     - eng: processed cheese
       ru: плавленый сыр
+      example: Processed cheese melts easily.
+
     - eng: processing
       ru: обработка
+      example: Data processing is done by computers.
+
     - eng: processing transaction
-      ru: обработки транзакций
+      ru: обработка транзакций
+      example: The system is processing the transaction.
+
     - eng: procrastinate means to defer action
       ru: прокрастинация означает откладывать действие
+      example: Procrastinate means to defer action, which is often bad.
+
     - eng: produce
       ru: производить
+      example: The factory produces cars.
+
     - eng: producer
       ru: продюсер; режиссёр-постановщик
+      example: The film producer raised the money.
+
     - eng: product
-      ru: продукт; Произведение
+      ru: продукт; произведение
+      example: The product of two and three is six.
+
     - eng: product performance
       ru: характеристики продукта
+      example: Product performance is tested before release.
+
     - eng: profession
       ru: профессия
+      example: Teaching is a noble profession.
+
     - eng: professional
       ru: профессионал
+      example: He is a true professional.
+
     - eng: professional certification
       ru: профессиональная сертификация
+      example: Professional certification boosts your career.
+
     - eng: proficiency
       ru: квалификация
+      example: His proficiency in English is excellent.
+
     - eng: profile
       ru: контур
+      example: The profile of the mountain was visible.
+
     - eng: profit
       ru: прибыль
+      example: The company made a profit.
+
     - eng: profit and loss account
-      ru: счет приходов и расходов
+      ru: счёт приходов и расходов
+      example: The accountant prepared the profit and loss account.
+
     - eng: profit centre
       ru: калькуляционный отдел
+      example: Each division is a profit centre.
+
     - eng: profitability
       ru: прибыльность
+      example: Profitability is key to business survival.
+
     - eng: profitable
       ru: прибыльный
+      example: The investment was profitable.
+
     - eng: program
       ru: программа
+      example: The computer program has a bug.
+
     - eng: program selector
       ru: селектор функций
+      example: Turn the program selector to choose a setting.
+
     - eng: programme
       ru: программа
+      example: The TV programme starts at eight.
+
     - eng: programmer
       ru: программист
+      example: The programmer wrote the code.
+
     - eng: programming
       ru: программирование
+      example: Programming requires logic.
+
     - eng: programming language
       ru: язык программирования
+      example: Python is a popular programming language.
+
     - eng: progress
       ru: развитие; делать успехи
+      example: She is making progress in math.
+
     - eng: project
       ru: проект
+      example: The construction project is delayed.
+
     - eng: projectile path
       ru: траектория брошенного тела
+      example: The projectile path is a parabola.
+
     - eng: projection method
       ru: проекционный способ
+      example: The projection method is used in engineering drawings.
+
     - eng: prokaryote
       ru: прокариоты
+      example: Bacteria are prokaryotes.
+
     - eng: proletariat
       ru: пролетариат
+      example: The proletariat works for wages.
+
     - eng: prologue
       ru: вводная часть
+      example: The prologue introduces the story.
+
     - eng: prominent
       ru: выдающийся; знаменитый
+      example: He is a prominent scientist.
+
     - eng: prominent cheekbones
       ru: высокие скулы
+      example: The model has prominent cheekbones.
+
     - eng: promise
       ru: обещать
+      example: Promise me you will come.
+
     - eng: promising prospects
       ru: многообещающие перспективы
+      example: The job has promising prospects.
+
     - eng: promontory
       ru: мыс
+      example: The lighthouse is on the promontory.
+
     - eng: promote
       ru: рекламировать; продвигать
+      example: The company promotes its products online.
+
     - eng: promoter
       ru: промоутер
+      example: The concert promoter sold tickets.
+
     - eng: promotion
       ru: продвижение; повышение по службе; рекламирование
+      example: She received a promotion at work.
+
     - eng: pronounce
       ru: произносить
+      example: How do you pronounce this word?
+
     - eng: proof
       ru: доказательство
+      example: Do you have any proof?
+
     - eng: propaganda
       ru: пропаганда
+      example: Propaganda influences public opinion.
+
     - eng: propagation
       ru: распространение
+      example: The propagation of sound requires a medium.
+
     - eng: proper fraction
       ru: правильная дробь
+      example: Three-fourths is a proper fraction.
+
     - eng: property
       ru: свойство
+      example: One property of metal is conductivity.
+
     - eng: property accounting
-      ru: учет имущества
+      ru: учёт имущества
+      example: Property accounting tracks assets.
+
     - eng: prophecy
       ru: пророчество
+      example: The prophecy came true.
+
     - eng: prophet
       ru: пророк
+      example: Isaiah was a prophet.
+
     - eng: proposal
       ru: предложение
+      example: I have a proposal for you.
+
     - eng: propose
       ru: предлагать
+      example: I propose we change the plan.
+
     - eng: pros and cons
       ru: за и против
+      example: Consider the pros and cons before deciding.
+
     - eng: prosaism
       ru: прозаизм
+      example: The writer avoided prosaism.
+
     - eng: prose
       ru: проза
+      example: He writes both poetry and prose.
+
     - eng: prose writer
       ru: прозаик
+      example: The prose writer published a new novel.
+
     - eng: prosecuting party
       ru: сторона обвинения в процессе
+      example: The prosecuting party presented evidence.
+
     - eng: prosecutor
       ru: прокурор
+      example: The prosecutor asked the witness questions.
+
     - eng: prosthetic hand
       ru: протезная рука
+      example: He uses a prosthetic hand after the accident.
+
     - eng: protagonist
-      ru: Главный герой
+      ru: главный герой
+      example: The protagonist of the story is a young girl.
+
     - eng: protea
       ru: протея
+      example: Protea flowers are native to South Africa.
+
     - eng: protect
       ru: защищать
+      example: Wear a helmet to protect your head.
+
     - eng: protection
       ru: защита
+      example: Sunscreen provides protection from UV rays.
+
     - eng: protein
       ru: белок
+      example: Meat is rich in protein.
+
     - eng: protein synthesis
       ru: синтез белка
+      example: Protein synthesis occurs in ribosomes.
+
     - eng: protest
       ru: протест
+      example: The workers staged a protest.
+
     - eng: protest was staged as a deliberate
       ru: протест был инсценирован как преднамеренный
+      example: The protest was staged as a deliberate act of defiance.
+
     - eng: protista
       ru: протисты
+      example: Algae belong to Protista.
+
     - eng: protocol
       ru: протокол
+      example: Follow the safety protocol.
+
     - eng: proton
       ru: протон
+      example: A proton has a positive charge.
+
     - eng: protons
       ru: протоны
+      example: Protons are in the atomic nucleus.
+
     - eng: prototype
       ru: прототип
+      example: The company built a prototype of the new device.
+
     - eng: proud
       ru: гордый
+      example: She is proud of her achievements.
+
     - eng: proud of
       ru: гордиться
+      example: I am proud of you.
+
     - eng: prove
       ru: доказывать
+      example: Can you prove your theory?
+
     - eng: proverb
       ru: пословица
+      example: A proverb says, honesty is the best policy.
+
     - eng: provide
-      ru: Предоставлять; обеспечивать
+      ru: предоставлять; обеспечивать
+      example: The hotel provides towels.
+
     - eng: provided that
-      ru: При условии
+      ru: при условии
+      example: You can go out, provided that you are back by ten.
+
     - eng: providence
-      ru: Промысл Божий
+      ru: промысл божий
+      example: They thanked Providence for their safety.
+
     - eng: providence has given us an opportunity to change history
       ru: провидение дало нам возможность изменить историю
+      example: Providence has given us an opportunity to change history.
+
     - eng: province
       ru: провинция
+      example: The province has many farms.
+
     - eng: provisional start
       ru: условный старт
+      example: The race had a provisional start due to fog.
+
     - eng: prowess
       ru: героизм
+      example: His prowess on the battlefield was legendary.
+
     - eng: proxy vote
       ru: голосование по доверенности
+      example: She cast a proxy vote for her colleague.
+
     - eng: prune
       ru: чернослив
+      example: Prunes are dried plums.
+
     - eng: psaltery
       ru: гусли
+      example: The musician played the psaltery.
+
     - eng: pseudonym
       ru: литературный псевдоним
+      example: Mark Twain is the pseudonym of Samuel Clemens.
+
     - eng: pseudopodia
       ru: ложноножка
+      example: Amoebas move using pseudopodia.
+
     - eng: psychiater
       ru: психиатр
+      example: The psychiater prescribed medication.
+
     - eng: psychiatrist
       ru: психиатр
+      example: He visited a psychiatrist for his depression.
+
     - eng: psychic
       ru: гадалка; медиум; обладающий телепатией; медиум, гадалка, обладающий телепатией, телекинезом и т.п.
+      example: She claims to be a psychic.
+
     - eng: psychobiology
       ru: психобиология
+      example: Psychobiology studies the biological basis of behaviour.
+
     - eng: psychologist
       ru: психолог
+      example: The psychologist helped him cope with stress.
+
     - eng: psychology
       ru: психология
+      example: Psychology is the study of the mind.
+
     - eng: pub
       ru: паб
+      example: They went to the pub for a drink.
+
     - eng: public
       ru: общественность; общественный; публика
+      example: The public is invited to attend.
+
     - eng: public figure
       ru: общественный деятель
+      example: The mayor is a public figure.
+
     - eng: public gallery
       ru: места в суде для присутствующих
+      example: The public gallery was full.
+
     - eng: public health officials warned of an influenza outbreak
       ru: представители общественного здравоохранения предупредили о вспышке гриппа
+      example: Public health officials warned of an influenza outbreak.
+
     - eng: public holiday
       ru: общенародный праздник
+      example: Christmas is a public holiday.
+
     - eng: public information
       ru: общая информация
+      example: Public information is available online.
+
     - eng: public officer
       ru: государственный служащий
+      example: The public officer issued the permit.
+
     - eng: public opinion
       ru: общественное мнение
+      example: Public opinion is divided on the issue.
+
     - eng: public relations
       ru: связи с общественностью
+      example: The company hired a public relations firm.
+
     - eng: public relations
       ru: связи с общественностью
+      example: Good public relations improve reputation.
+
     - eng: public school
       ru: государственная школа
+      example: He teaches at a public school.
+
     - eng: public transport
       ru: общественный транспорт
+      example: Take public transport to save money.
+
     - eng: publication
       ru: публикация
+      example: The publication of the book was delayed.
+
     - eng: publish
       ru: публиковать
+      example: The journal will publish his article.
+
     - eng: publishable
       ru: пригодный для печати
+      example: The research is publishable.
+
     - eng: publisher
       ru: издатель
+      example: The publisher rejected the manuscript.
+
     - eng: publishing
       ru: издание
+      example: She works in publishing.
+
     - eng: pudding
       ru: пудинг
+      example: Chocolate pudding is delicious.
+
     - eng: puddle
       ru: лужа
+      example: The children jumped in the puddle.
+
     - eng: pufferfish
       ru: рыба-собака; иглобрюх
+      example: Pufferfish are poisonous.
+
     - eng: pull
       ru: тянуть
+      example: Pull the door to open it.
+
     - eng: pull away
       ru: отъезжать, трогаться, отпрянуть, отстраниться
+      example: The bus pulled away from the stop.
+
     - eng: pull off
       ru: снимать, стаскивать, справиться, выполнить, съехать
+      example: He pulled off a difficult stunt.
+
     - eng: pull on
-      ru: натягивать(одевать), тянуть на себя
+      ru: натягивать (одевать), тянуть на себя
+      example: She pulled on her boots.
+
     - eng: pull out
       ru: вытаскивать, вынимать, выйти из дела, выдёргивать
+      example: He pulled out a gun.
+
     - eng: pull the lever down
       ru: потяните рычаг вниз
+      example: Pull the lever down to stop the machine.
+
     - eng: pull up
       ru: подъезжать, останавливаться
+      example: A car pulled up outside.
+
     - eng: pull up one's socks
       ru: взяться за ум
+      example: You need to pull up your socks and study.
+
     - eng: pull your finger out
       ru: постарайся, хватит бездельничать
+      example: Pull your finger out and finish the work.
+
     - eng: pullover
       ru: пуловер
+      example: He wore a warm pullover.
+
     - eng: pulp
       ru: мякоть
+      example: The pulp of the orange is juicy.
+
     - eng: pulsar
       ru: пульсар
+      example: A pulsar emits regular radio pulses.
+
     - eng: pulse
       ru: импульс; пульс
+      example: The doctor checked his pulse.
+
     - eng: puma
       ru: пума
+      example: The puma is a large cat.
+
     - eng: pumice
       ru: пемза
+      example: Pumice is a volcanic rock.
+
     - eng: pumicite
       ru: вулканический пепел
+      example: Pumicite is used in abrasives.
+
     - eng: pump
       ru: приподнять мяч, как будто для броска, чтобы заставить защитника подпрыгнуть (обманное движение)
+      example: He used a pump fake to get past the defender.
+
     - eng: pumpkin
       ru: тыква
+      example: Make a jack-o-lantern from a pumpkin.
+
     - eng: pumpkin pie
       ru: тыквенный пирог
+      example: Pumpkin pie is served at Thanksgiving.
+
     - eng: punch
       ru: пунш
+      example: He drank a cup of fruit punch.
+
     - eng: punctual
       ru: пунктуальный
+      example: She is always punctual.
+
     - eng: punctual
       ru: пунктуальный
+      example: Being punctual shows respect.
+
     - eng: punish
       ru: наказывать
+      example: The teacher will punish the cheater.
+
     - eng: punished for
       ru: наказан за что-то
+      example: He was punished for being late.
+
     - eng: punishment
       ru: наказание
+      example: The punishment fit the crime.
+
     - eng: pupil
       ru: зрачок; ученик
+      example: The pupil of the eye dilates in the dark.
+
     - eng: puppet regime
       ru: марионеточный режим
+      example: The puppet regime was controlled by foreign powers.
+
     - eng: puppy
       ru: щенок
+      example: The puppy is playful.
+
     - eng: purchase
       ru: покупка
+      example: I made a purchase online.
+
     - eng: purchasing power
       ru: покупательная способность
+      example: Inflation reduces purchasing power.
+
     - eng: pure-blood
       ru: чистокровный волшебник
+      example: In Harry Potter, pure-blood families value ancestry.
+
     - eng: purgatory
       ru: чистилище
+      example: In Catholic belief, souls go to purgatory.
+
     - eng: purim
-      ru: Пурим
+      ru: пурим
+      example: Purim is a Jewish holiday.
+
     - eng: purism
       ru: пуризм
+      example: Purism advocates for pure language.
+
     - eng: puritans
       ru: пуритане
+      example: The Puritans settled in New England.
+
     - eng: purpose
       ru: цель
+      example: The purpose of the meeting is to plan.
+
     - eng: purse
       ru: кошелёк
+      example: She opened her purse to pay.
+
     - eng: pursue
       ru: добиваться
+      example: He pursues his dreams.
+
     - eng: pursue a policy
       ru: вести политику
+      example: The government pursues a policy of reform.
+
     - eng: pus
       ru: гной
+      example: The wound produced pus.
+
     - eng: push
-      ru: Толкать
+      ru: толкать
+      example: Push the door open.
+
     - eng: push-cycle
       ru: самокат
+      example: The child rode a push-cycle.
+
     - eng: push-push
       ru: попеременное нажатие каждой педали вместо кругового педалирования
+      example: Push-push pedalling is inefficient.
+
     - eng: pussy-willow
       ru: верба
+      example: Pussy-willow branches bloom in spring.
+
     - eng: put
       ru: класть, ставить; поместить; ставить; класть
+      example: Put the book on the shelf.
+
     - eng: put away
       ru: убирать, отложить, прятать
+      example: Put away your toys.
+
     - eng: put down
       ru: положить, опустить
+      example: Put down your bags.
+
     - eng: put forward a proposal
       ru: выдвигать предложение
+      example: He put forward a proposal at the meeting.
+
     - eng: put in
       ru: вставлять
+      example: Put in the key and turn it.
+
     - eng: put it away
       ru: убери это
+      example: Put it away where it belongs.
+
     - eng: put on
       ru: надевать, одевать, включать, приводить в действие
+      example: Put on your coat.
+
     - eng: put on clothes
       ru: одеться
+      example: She put on clothes quickly.
+
     - eng: put out
       ru: вытягивать, выставлять, тушить
+      example: Put out the fire.
+
     - eng: put pressure on
       ru: оказывать давление на
+      example: They put pressure on the government.
+
     - eng: put the brakes on
       ru: спускать на тормозах
+      example: The manager put the brakes on the project.
+
     - eng: put up
       ru: поднимать, строить, финансировать
+      example: They put up a tent.
+
     - eng: put up for adoption
       ru: отдать на усыновление
+      example: The baby was put up for adoption.
+
     - eng: put, put, put
       ru: класть, ставить
+      example: He put the keys on the table.
+
     - eng: puzzle
       ru: ставить в тупик
+      example: The mystery puzzles me.
+
     - eng: puzzled by/about
       ru: озадаченный чем-то
+      example: She is puzzled by his behaviour.
+
     - eng: pyjamas
       ru: пижама
+      example: He slept in pyjamas.
+
     - eng: pyramid
       ru: пирамида
+      example: The Egyptian pyramids are ancient.
+
     - eng: pyrite
       ru: пирит
+      example: Pyrite is also known as fool's gold.
+
     - eng: pyroclastic
       ru: пирокластический
+      example: Pyroclastic flows are deadly.
+
     - eng: pyrophoric substance
       ru: самовоспламеняющееся вещество
+      example: A pyrophoric substance ignites in air.
+
     - eng: pyroxene
-      ru: Пироксен
+      ru: пироксен
+      example: Pyroxene is a group of silicate minerals.
+
     - eng: qiblah
       ru: кибла
+      example: Muslims face the qiblah when praying.
+
     - eng: quadrant
       ru: сектор; квадрант
+      example: The circle is divided into four quadrants.
+
     - eng: quadric equation
       ru: квадратное уравнение
+      example: A quadric equation has the form ax squared plus bx plus c equals zero.
+
     - eng: quadruplets
       ru: четыре близнеца
+      example: The mother gave birth to quadruplets.
+
     - eng: quail
       ru: перепел
+      example: Quail eggs are small and speckled.
+
     - eng: quaint
       ru: причудливый
+      example: The village is quaint and charming.
+
     - eng: quaint cottages dot the countryside
       ru: причудливые коттеджи разбросаны по сельской местности
+      example: Quaint cottages dot the countryside.
+
     - eng: qualification
       ru: квалификация
+      example: He has the right qualifications for the job.
+
     - eng: qualified
       ru: компетентный
+      example: She is a qualified doctor.
+
     - eng: qualitative change
       ru: качественное изменение
+      example: The new law brought a qualitative change.
+
     - eng: quality
       ru: качество
+      example: The quality of the product is high.
+
     - eng: quality control
       ru: контроль качества
+      example: Quality control checks every batch.
+
     - eng: quality newspapers
-      ru: солидные газеты, газеты для серьезных читателей с большим количеством политических новостей из-за рубежа
+      ru: солидные газеты, газеты для серьёзных читателей с большим количеством политических новостей из-за рубежа
+      example: Quality newspapers provide in-depth reporting.
+
     - eng: quantity
       ru: величина; количество
+      example: A large quantity of food was wasted.
+
     - eng: quantization
-      ru: Дискретизация
+      ru: дискретизация
+      example: Quantization converts analog signals to digital.
+
     - eng: quantum
       ru: квант
+      example: A quantum is the smallest amount of energy.
+
     - eng: quantum mechanics
       ru: квантовая механика
+      example: Quantum mechanics describes the behaviour of atoms.
+
     - eng: quantum nature
       ru: квантовая природа
+      example: The quantum nature of light is strange.
+
     - eng: quark
       ru: кварк
+      example: Quarks are elementary particles.
+
     - eng: quarks
-      ru: кварк
+      ru: кварки
+      example: Quarks combine to form protons and neutrons.
+
     - eng: quarrel
       ru: ссориться
+      example: They quarrel about small things.
+
     - eng: quarry
       ru: карьер
+      example: The workers extract stone from the quarry.
+
     - eng: quarter
       ru: квартал; четверть
+      example: A quarter of an hour is fifteen minutes.
+
     - eng: quarter light
-      ru: форточка(в авто)
+      ru: форточка (в авто)
+      example: Open the quarter light for fresh air.
+
     - eng: quarterly report
-      ru: ежеквартальный отчет
+      ru: ежеквартальный отчёт
+      example: The quarterly report shows profits.
+
     - eng: quartet
       ru: квартет
+      example: A string quartet played at the wedding.
+
     - eng: quartz
       ru: кварц
+      example: Quartz is a hard mineral.
+
     - eng: quartzite
       ru: кварцит
+      example: Quartzite is a metamorphic rock.
+
     - eng: quasar
       ru: астр. квазар
+      example: A quasar is a very bright galactic nucleus.
+
     - eng: quasi
-      ru: Квази
+      ru: квази
+      example: The agreement was quasi-legal.
+
     - eng: queen
       ru: королева
+      example: The queen lives in the palace.
+
     - eng: queen size bed
       ru: двуспальная кровать без разделения посередине
+      example: The hotel room has a queen size bed.
+
     - eng: query language
       ru: язык запросов
+      example: SQL is a query language.
+
     - eng: question
       ru: вопрос
+      example: May I ask a question?
+
     - eng: question of mutual interest
       ru: вопрос, представляющий взаимный интерес
+      example: They discussed questions of mutual interest.
+
     - eng: questions or concerns
       ru: вопросы или замечания
+      example: Please email us with any questions or concerns.
+
     - eng: queue
       ru: очередь
+      example: Stand in the queue.
+
     - eng: quick
       ru: проворный; живой; быстрый
+      example: The quick fox jumped.
+
     - eng: quickly
       ru: быстро
+      example: He ran quickly.
+
     - eng: quidditch
       ru: квиддич
+      example: Quidditch is a fictional sport in Harry Potter.
+
     - eng: quiet
       ru: тихий; спокойный
+      example: The library is quiet.
+
     - eng: quiet, quite
       ru: тихий, довольно
+      example: It is quite quiet here.
+
     - eng: quince
       ru: айва
+      example: Quince is a hard, sour fruit.
+
     - eng: quinoa
       ru: киноа
+      example: Quinoa is a healthy grain.
+
     - eng: quintessential
       ru: типичный
+      example: This is the quintessential example of Gothic architecture.
+
     - eng: quintet
       ru: квинтет
+      example: The jazz quintet performed.
+
     - eng: quit
       ru: уволиться
+      example: He quit his job.
+
     - eng: quit, quit, quit
       ru: покидать, оставлять
+      example: She quit the team yesterday.
+
     - eng: quit, quitted, quitted
       ru: покидать, оставлять
+      example: He quitted the room angrily.
+
     - eng: quite
-      ru: вполне; вполне
+      ru: вполне
+      example: I am quite tired.
+
     - eng: quitrent
       ru: оброк
+      example: In feudal times, peasants paid quitrent.
+
     - eng: quorum
       ru: кворум
+      example: We need a quorum to vote.
+
     - eng: quote
       ru: котироваться (на бирже)
+      example: The shares are quoted on the exchange.
+
     - eng: quotient
       ru: частное
+      example: The quotient of ten divided by two is five.
+
     - eng: rabat
-      ru: Рабат
+      ru: рабат
+      example: Rabat is the capital of Morocco.
+
     - eng: rabbi
       ru: раввин
+      example: The rabbi led the service.
+
     - eng: rabbit
       ru: кролик
+      example: The rabbit hopped into its burrow.
+
     - eng: rabies
       ru: бешенство
+      example: Rabies is a deadly virus.
+
     - eng: raccoon
       ru: енот
+      example: The raccoon washed its food.
+
     - eng: race
       ru: гонки
+      example: The car race was exciting.
+
     - eng: race director
       ru: директор соревнований
+      example: The race director started the event.
+
     - eng: raceme
       ru: кисть
+      example: The flowers grow in a raceme.
+
     - eng: racing car
       ru: гоночный автомобиль
+      example: The racing car reached high speeds.
+
     - eng: racing driver
       ru: гонщик
+      example: The racing driver won the championship.
+
     - eng: racing tempo
       ru: темп гонки
+      example: The cyclist maintained a fast racing tempo.
+
     - eng: racism
       ru: расизм
+      example: Racism is a social evil.
+
     - eng: racism, elitism and disrespect for the law are undemocratic
       ru: расизм, элитарность и неуважение к закону недемократичны
+      example: Racism, elitism and disrespect for the law are undemocratic.
+
     - eng: racket
       ru: ракетка
+      example: He swung the tennis racket.
+
     - eng: racoon
       ru: енот
+      example: A racoon rummaged through the trash.
+
     - eng: radar
       ru: радар
+      example: The plane appeared on radar.
+
     - eng: radial symmetry
       ru: радиальная симметрия
+      example: A starfish has radial symmetry.
+
     - eng: radiant
       ru: лучистый
+      example: Her smile was radiant.
+
     - eng: radiation
       ru: лучеиспускание; радиация; излучение
+      example: Radiation can be harmful.
+
     - eng: radiator
       ru: радиатор
+      example: The car's radiator was leaking.
+
     - eng: radical
       ru: радикал
+      example: The radical sign looks like a square root.
+
     - eng: radii
       ru: радиусы
+      example: The radii of the circles are equal.
+
     - eng: radio
       ru: радио
+      example: I listen to the radio in the car.
+
     - eng: radio receiver
-      ru: радиоприемник
+      ru: радиоприёмник
+      example: The radio receiver picked up the signal.
+
     - eng: radioactive decay
       ru: радиоактивный распад
+      example: Radioactive decay releases energy.
+
     - eng: radish
       ru: редька
+      example: Radish has a peppery taste.
+
     - eng: radius
       ru: радиус
+      example: The radius of the circle is five centimetres.
+
     - eng: raffia
-      ru: Рафия
+      ru: рафия
+      example: Raffia is used to make baskets.
+
     - eng: raft
       ru: плот
+      example: They crossed the river on a raft.
+
     - eng: rafting
       ru: рафтинг
+      example: Rafting is an adventure sport.
+
     - eng: rag
-      ru: бульварная газетенка
+      ru: бульварная газетёнка
+      example: That newspaper is a rag.
+
     - eng: ragtime
       ru: рэгтайм
+      example: Ragtime music is syncopated.
+
     - eng: railroad
       ru: железная дорога
+      example: The railroad connects the cities.
+
     - eng: railroad station
       ru: железнодорожная станция
+      example: We met at the railroad station.
+
     - eng: railway
       ru: железная дорога
+      example: The railway was built in the nineteenth century.
+
     - eng: railway station
       ru: вокзал; железнодорожная станция
+      example: The railway station is crowded.
+
     - eng: rain
       ru: дождь
+      example: Rain is falling.
+
     - eng: rain or shine
       ru: при любой погоде
+      example: The event will happen rain or shine.
+
     - eng: rainbow
       ru: радуга
+      example: A rainbow appeared after the storm.
+
     - eng: rainbow shot
       ru: бросок с бега, бросок по высокой траектории
+      example: He made a rainbow shot over the defender.
+
     - eng: rainbow trout
       ru: радужная форель
+      example: Rainbow trout is a popular fish.
+
     - eng: raincoat
       ru: плащ
+      example: Wear a raincoat in the rain.
+
     - eng: raincoat fabric
       ru: плащевка
+      example: The jacket is made of raincoat fabric.
+
     - eng: raindrop
       ru: дождевая капля
+      example: A raindrop landed on his nose.
+
     - eng: rainfall
       ru: ливень
+      example: Heavy rainfall caused flooding.
+
     - eng: rainforest
       ru: тропический лес
+      example: The Amazon is a rainforest.
+
     - eng: rainstorm
       ru: ливень с ураганом
+      example: The rainstorm knocked down trees.
+
     - eng: rainy
       ru: дождливый
+      example: April is a rainy month.
+
     - eng: rainy days often put her in a pensive mood
-      ru: дождливые дни часто повергали ее в задумчивое настроение
+      ru: дождливые дни часто повергали её в задумчивое настроение
+      example: Rainy days often put her in a pensive mood.
+
     - eng: raise
-      ru: поднимать; поднять; поднимать
+      ru: поднимать; поднять
+      example: Raise your hand if you know the answer.
+
     - eng: raise a hand
       ru: поднимать руку
+      example: Do not be afraid to raise a hand.
+
     - eng: raise a loan
-      ru: сделать заем
+      ru: сделать заём
+      example: The company raised a loan from the bank.
+
     - eng: raise your left arm
       ru: поднять левую руку
+      example: Raise your left arm and hold it up.
+
     - eng: raise your right arm
       ru: поднять правую руку
+      example: Raise your right arm to shoulder height.
+
     - eng: raisin
       ru: изюм
+      example: Raisins are dried grapes.
+
     - eng: raisins
       ru: изюм
+      example: Add raisins to the oatmeal.
+
     - eng: rake
       ru: доля заведения
+      example: In poker, the house takes a rake.
+
     - eng: rally
       ru: ралли
+      example: The rally was held in the square.
+
     - eng: ram
       ru: баран
+      example: The ram butted its head.
+
     - eng: ramadan
       ru: рамадан
+      example: Muslims fast during Ramadan.
+
     - eng: ramble
       ru: болтать о пустяках
+      example: He rambled on about nothing.
+
     - eng: rambutan
       ru: рамбутан
+      example: Rambutan is a hairy red fruit.
+
     - eng: ramekin
       ru: порционная формочка
+      example: Bake the custard in ramekins.
+
     - eng: random
       ru: случайный
+      example: A random number was chosen.
+
     - eng: random number
       ru: случайное число
+      example: The computer generated a random number.
+
     - eng: randomly
       ru: произвольно
+      example: The cards were shuffled randomly.
+
     - eng: range
       ru: зона; дальность; диапазон; ряд
+      example: The price range is wide.
+
     - eng: range is from the mainstream to the sublime
       ru: диапазон - от рядового до грандиозного
+      example: The range is from the mainstream to the sublime.
+
     - eng: range of a function
       ru: множество значений функции
+      example: The range of a function is all possible outputs.
+
     - eng: range of opportunities
       ru: ряд возможностей
+      example: The job offers a range of opportunities.
+
     - eng: range of possibilities
       ru: ряд возможностей
+      example: There is a wide range of possibilities.
+
     - eng: ranger
       ru: рейнджер
+      example: The forest ranger patrolled the park.
+
     - eng: rank
       ru: звание
+      example: He holds the rank of captain.
+
     - eng: ranunculus
       ru: лютик
+      example: Ranunculus flowers are yellow.
+
     - eng: rapid process
       ru: быстрый процесс
+      example: The chemical reaction is a rapid process.
+
     - eng: rapture
       ru: восхищение; восторг
+      example: The audience listened with rapture.
+
     - eng: rare
-      ru: непрожаренный, с кровью (о мясе); редкий; Непрожаренный
+      ru: непрожаренный, с кровью (о мясе); редкий
+      example: He likes his steak rare.
+
     - eng: rare earth metal
       ru: редкоземельный металл
+      example: Neodymium is a rare earth metal.
+
     - eng: rash
       ru: поспешный; сыпь
+      example: He developed a rash on his arm.
+
     - eng: raspberry
       ru: малина
+      example: Raspberries are sweet and tart.
+
     - eng: raspberry punch
       ru: малиновый пунш
+      example: Raspberry punch is refreshing.
+
     - eng: raster
       ru: растр
+      example: The image is stored as a raster.
+
     - eng: rat
       ru: крыса
+      example: A rat ran across the floor.
+
     - eng: rat race
       ru: мышиная возня
+      example: He left the rat race to live in the country.
+
     - eng: rate
       ru: интенсивность; скорость
+      example: The rate of inflation is high.
+
     - eng: rate includes
       ru: в стоимость включено
+      example: The rate includes breakfast and taxes.
+
     - eng: rate of interest
       ru: процентная ставка
+      example: The rate of interest on the loan is low.
+
     - eng: rates are calculated on an hourly basis
       ru: тарифы рассчитываются на почасовой основе
+      example: Rates are calculated on an hourly basis.
+
     - eng: rather than
       ru: вместо того, чтобы...
+      example: I prefer tea rather than coffee.
+
     - eng: ratify
       ru: ратифицировать
+      example: The senate will ratify the treaty.
+
     - eng: rating
       ru: рейтинг
+      example: The movie has a high rating.
+
     - eng: ratio
       ru: коэффициент; отношение
+      example: The ratio of boys to girls is two to one.
+
     - eng: raven
       ru: ворон
+      example: The raven is a black bird.
+
     - eng: ravine
       ru: ущелье
+      example: The ravine was deep and narrow.
+
     - eng: raw
       ru: сырой
+      example: Eat raw vegetables.
+
     - eng: ray
       ru: луч
+      example: A ray of sunlight came through the window.
+
     - eng: rayon
       ru: вискоза
+      example: Rayon is a semi-synthetic fibre.
+
     - eng: re-buy
       ru: ребай
+      example: In poker, a re-buy allows you to buy more chips.
+
     - eng: re-raise
       ru: рерэйз
+      example: He made a re-raise to intimidate his opponent.
+
     - eng: reach
       ru: достигать; достичь
     - eng: reach a conclusion
